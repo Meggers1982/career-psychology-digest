@@ -9,7 +9,7 @@ articles with an abstract.
 
 The gap is uneven, and it is a publisher gap, not a journal one: Elsevier does
 not license abstracts to OpenAlex, so Journal of Business Research, Journal of
-Retailing and Consumer Services and IJRM carry an abstract for about one
+Some journals on the list carry an abstract for about one
 article in three. An article with no abstract cannot be written up or
 fact-checked, so it is dropped before selection -- see `screening.py`, which
 counts what it drops so the run can say so.

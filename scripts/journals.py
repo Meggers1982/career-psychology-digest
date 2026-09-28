@@ -1,10 +1,10 @@
 """The curated journal list, read from config/journals.csv.
 
-The CSV is the source-verified list in ~/Documents/Marketing Research Journals
-(208 titles: 149 ABDC field-of-research 3506 journals plus 59 adjacent,
-practitioner and dead titles). It is copied here rather than referenced, so the
-pipeline never depends on a file on one Mac. Edit it here; if the Documents
-copy changes, re-copy it and re-run `resolve_sources.py`.
+The CSV lists industrial/organizational psychology, career, HR and
+organizational behavior journals. It lives here rather than being referenced
+from elsewhere, so the pipeline never depends on a file on one Mac. Tier columns
+(ABDC, AJG, FT50) are filled only where confirmed; blank means not confirmed
+(MEA-974) and the tier logic treats it as neutral.
 
 Two columns are added by `resolve_sources.py` and are not in the original:
 `OpenAlex Source ID` and `OpenAlex Match`. The pipeline searches by source ID,
@@ -81,7 +81,9 @@ def load(path: Path = JOURNALS_CSV) -> tuple[Journal, ...]:
             category=(row.get("Category") or "").strip(),
             publisher=(row.get("Publisher") or "").strip(),
             issns=issns,
-            abdc=(row.get("ABDC 2025") or "").strip(),
+            # ABDC 2025 is preferred; the 2022 column is the fallback because
+            # that is the one filled so far (MEA-974).
+            abdc=(row.get("ABDC 2025") or row.get("ABDC 2022") or "").strip(),
             ajg=(row.get("AJG 2021") or "").strip(),
             ft50=(row.get("FT50") or "").strip().lower() == "yes",
             status=(row.get("Status") or "").strip(),
@@ -104,14 +106,24 @@ def searchable() -> list[Journal]:
 
 # ------------------------------------------------------------------ journal tier
 
+# Categories whose journals are the core of I-O psychology and career research.
+# Used both for the tier fallback below and for screening's "trusted" logic.
+CORE_CATEGORIES = frozenset({"Elite I-O Psychology", "Career & Vocational Psychology"})
+
+
+def is_core(journal: Journal | None) -> bool:
+    return journal is not None and journal.category in CORE_CATEGORIES
+
+
 def tier_points(journal: Journal | None) -> tuple[str, int]:
     """(label, 0-5) from the list's own ratings.
 
-    The ratings are the reason the list exists, so they are used directly
-    instead of a hand-picked tier list. FT50 and ABDC A* are the elite peer
-    group; an unrated title is a neutral 3, not a penalty -- it is mostly
-    practitioner and adjacent journals (Tourism Management, Journal of Business
-    Ethics) that ABDC files under another field, not weak ones.
+    FT50 and ABDC A* / AJG 4* are the elite peer group. Ratings are filled only
+    where confirmed (MEA-974), so a blank is common and degrades gracefully: a
+    rated-blank journal is a neutral 3 ("unrated"), or 4 ("core") when it sits in
+    a core I-O / career category, whose journals are the beat itself. Neither is
+    a claim about the journal's official rating. "FT50 = No" is not evidence of
+    a low tier and is ignored.
     """
     if journal is None:
         return "unknown", 3
@@ -123,6 +135,8 @@ def tier_points(journal: Journal | None) -> tuple[str, int]:
         return "B", 3
     if journal.abdc == "C" or journal.ajg in {"2", "1"}:
         return "C", 2
+    if is_core(journal):
+        return "core", 4
     return "unrated", 3
 
 

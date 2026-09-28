@@ -1,0 +1,32 @@
+{
+  "_comment": "Edit this file to change digest behavior. Commit the change and the next run picks it up.",
+
+  "subject_focus": "",
+  "_focus_comment": "Leave subject_focus empty to rotate through focus_rotation daily (by day of year). Set it to one topic to search only that. Topic names must match scripts/topics.py QUERIES; anything else is searched as a plain phrase. An empty string in the rotation is a broad day.",
+
+  "focus_rotation": [
+    "",
+    "leadership & management",
+    "workplace stress & burnout",
+    "career development & mobility",
+    "hiring & selection",
+    "remote & hybrid work",
+    "motivation & engagement",
+    "team dynamics & collaboration",
+    "diversity, equity & inclusion at work",
+    "negotiation & decision-making",
+    "entrepreneurship",
+    "workplace communication",
+    "ai & the future of work",
+    "compensation",
+    "wellbeing & work-life balance"
+  ],
+
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+
+  "_window_comment": "days_back is the OpenAlex publication window. Anything a previous digest wrote up is dropped, so a wide window does not mean repeats. max_per_journal stops one prolific title from filling the run.",
+  "days_back": 60,
+  "max_abstracts": 40,
+  "max_per_journal": 3
+}
