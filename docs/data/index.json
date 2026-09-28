@@ -1,6 +1,19 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 0,
-  "topics": [],
-  "runs": []
+  "run_count": 1,
+  "topics": [
+    "workplace stress & burnout"
+  ],
+  "runs": [
+    {
+      "id": "career-psychology-digest-workplace-stress-burnout-2026-09-28",
+      "title": "Career Psychology Digest — Workplace Stress & Burnout — 2026-09-28",
+      "topic": "workplace stress & burnout",
+      "run_date": "2026-09-28",
+      "study_count": 12,
+      "total_issues": "15 (14 Minor, 1 Moderate, 0 Major)",
+      "lead_count": 0,
+      "top_score": 87
+    }
+  ]
 }

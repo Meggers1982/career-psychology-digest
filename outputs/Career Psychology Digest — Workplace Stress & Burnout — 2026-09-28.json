@@ -1,0 +1,436 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-09-28",
+  "days_back": 60,
+  "window_from": "2026-07-30",
+  "window_to": "2026-09-28",
+  "focus": "Workplace Stress & Burnout",
+  "topic": "workplace stress & burnout",
+  "query": "(burnout OR \"job stress\" OR \"occupational stress\" OR \"work stress\" OR \"emotional exhaustion\" OR \"job demands\" OR overwork OR \"workplace incivility\" OR \"work overload\" OR \"psychological detachment\") AND (employee OR worker OR job OR workplace OR occupational)",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 24,
+    "not_research": 1,
+    "no_abstract": 3,
+    "off_topic": 0,
+    "already_covered": 0,
+    "over_journal_cap": 3,
+    "over_cap": 0,
+    "sent": 17
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7166081872",
+      "headline": "The 100,000-worker test that says job demands and resources just add up — they don't cancel each other out",
+      "the_study": "Researchers assembled a very large employee dataset (N≈100,000) stratified by industry, gender, age and employment status, and pitted conventional linear mixed-effects models (main effects only) against machine-learning boosting algorithms capable of detecting complex interactions among job characteristics. They compared out-of-sample prediction of burnout and work engagement. Allowing for interactions did not improve predictive accuracy at all: job characteristics appeared to act additively rather than buffering or boosting one another.",
+      "why_it_matters": "Decades of workplace well-being advice rests on the idea that a good resource (autonomy, supervisor support) can offset a heavy demand; this analysis suggests that, at scale, adding resources and reducing demands each help on their own but don't magically neutralize each other.",
+      "story_angle_primary": "Managers who assume more autonomy or extra support will 'cancel out' a crushing workload should treat that as an untested local hypothesis, not a general law — the demand itself may need to come down. A practical test: track workload and resources separately in engagement surveys and see whether resource gains actually blunt the effect of demand spikes in your own unit.",
+      "story_angle_secondary": "For anyone trying to survive a punishing job by leaning on a supportive boss or a flexible schedule: those things genuinely help, but the evidence suggests they add comfort rather than erase the damage of the workload itself.",
+      "caveats": "Predictive modeling on cross-sectional-style survey data cannot establish causation; self-reported job characteristics and well-being likely come from the same source; absence of improvement in prediction does not fully rule out interactions that matter for specific individuals or narrow occupations.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-14",
+      "doi": "10.1037/apl0001414",
+      "paper_title": "Do interactions matter? Assessing the role of job characteristics interactions on employee well-being.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7205707686",
+      "headline": "Letting frontline staff redesign their own jobs cut burnout — by cutting demands, not by adding support",
+      "the_study": "Researchers evaluated a participatory work design intervention in a disability support organization, comparing 21 employees in the intervention group with 51 non-participants on burnout (disengagement, work-related, client-related), job demands (role conflict, time pressure) and coworker support. The intervention was associated with lower job demands, higher coworker instrumental support and lower disengagement burnout. Multilevel analyses indicated the burnout reduction ran through reduced demands rather than through increased support.",
+      "why_it_matters": "It's a rare field test showing that giving care workers a hand in redesigning their own work can measurably reduce burnout — and that the active ingredient is removing role conflict and time pressure, not simply making people feel more supported.",
+      "story_angle_primary": "If you're running a burnout program, ask whether it actually removes demands — conflicting instructions, impossible timelines — or only layers on support and resilience training. Participatory redesign sessions where staff name and eliminate friction are worth piloting in one team with before-and-after measurement.",
+      "story_angle_secondary": "Emotional support from colleagues is valuable, but in a high-strain caring job it may not be what stops you from checking out mentally; changing what the job asks of you is what shifts the needle.",
+      "caveats": "Very small samples (21 intervention, 51 comparison), non-randomized groups with unequal gender composition, a single organization in disability care, self-reported outcomes, and effects limited to one burnout dimension (disengagement).",
+      "journal": "European Journal of Work and Organizational Psychology",
+      "published": "2026-09-02",
+      "doi": "10.1080/1359432x.2026.2726172",
+      "paper_title": "Participatory work design intervention in a disability support organization: effects on job demands, social support, and burnout",
+      "source_id": "S187270080"
+    },
+    {
+      "work_id": "W7213554539",
+      "headline": "LGBTQ workers in Sweden report worse mental health — but the job environment, not identity, appears to be the reason",
+      "the_study": "A Swedish study surveyed 1,578 employees (55.7% LGBTQ) with a one-year follow-up of 404 of them, using latent class analysis to sort people into work-environment profiles. Three classes emerged: low-demand/supportive, high-demand/supportive, and unsupportive. Being LGBTQ combined with high workplace incivility predicted landing in the unsupportive class, which reported the lowest job satisfaction and declining satisfaction over the year; the unsupportive and high-demand classes also showed worse life satisfaction, depression, anxiety and stress. Crucially, there were no interaction effects — LGBTQ employees weren't harmed more by a bad environment, they were simply more likely to be in one.",
+      "why_it_matters": "It reframes LGBTQ workplace inequality as an exposure problem: the disparity comes from who ends up in unsupportive, uncivil workplaces, which means fixing the environment for everyone is a legitimate equity intervention.",
+      "story_angle_primary": "Rather than only running identity-specific training, audit which teams score as 'unsupportive' on demands, support and incivility, and check whether minority employees are concentrated there. Incivility is the flag that predicted the worst environments.",
+      "story_angle_secondary": "For job seekers, the study is a reminder that the day-to-day climate of a workplace — how colleagues treat each other — may matter more to your mental health than a company's stated diversity commitments.",
+      "caveats": "Self-report only; one country (Sweden) and Swedish-speaking respondents; heavy attrition (404 of 1,578 at follow-up) risks bias; purposeful sampling oversampled LGBTQ participants; one-year window with little within-class change over time.",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-09-18",
+      "doi": "10.1177/10690727261485962",
+      "paper_title": "A Latent Class Analysis of Work Environment Among LGBTQ and Cisgender Heterosexual Employees in Sweden",
+      "source_id": "S68758695"
+    },
+    {
+      "work_id": "W7211962843",
+      "headline": "Bullying at work predicts burnout a year later — and psychological capital protects your life, not your job",
+      "the_study": "A two-wave study of 696 employees in Canada tested the longitudinal effects of workplace bullying on burnout and life satisfaction, including reverse and reciprocal models to check directionality. Bullying at time 1 significantly predicted later burnout. Supervisor support and psychological capital (hope, optimism, resilience, self-efficacy) moderated bullying's effect on life satisfaction — but did not appear to shield people from burnout itself.",
+      "why_it_matters": "The damage from bullying spills beyond the office into overall life satisfaction, and personal resilience resources appear to limit that spillover without preventing the occupational exhaustion.",
+      "story_angle_primary": "Don't treat resilience training or a supportive manager as a substitute for stopping the bullying: this evidence suggests those buffers preserve a target's broader life satisfaction while burnout accumulates anyway. Anti-bullying enforcement remains the intervention that addresses the cause.",
+      "story_angle_secondary": "If a hostile colleague is grinding you down, protective factors outside the job — optimism, a supportive supervisor, a life you value — may keep your overall happiness intact, but they won't stop the exhaustion from building.",
+      "caveats": "Two waves of self-report data from a single country; all variables from the same source (common-method concerns); moderation effects found for life satisfaction but not burnout, so interpretation is partial; attrition and time lag between waves not specified in the abstract.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-09-08",
+      "doi": "10.1108/jmp-10-2025-1042",
+      "paper_title": "The role of workplace bullying on burnout and life satisfaction over time: the moderating effect of contextual and individual resources",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7213538292",
+      "headline": "A five-day self-training course got employees to nudge themselves into better work habits",
+      "the_study": "Researchers tested a five-day online self-training intervention with 75 employees against 75 control participants, teaching job crafting, network crafting and 'self-nudging' — placing personal prompts in the work environment to cue desired behavior. The intervention increased resource-seeking and self-nudging, stabilized demand optimization, and raised sustainability intentions and behaviors across personal vitality management, environmental citizenship and (indirectly) organizational citizenship. Mediation analyses pointed to self-nudging as the mechanism, and participants who actually followed the protocol benefited most.",
+      "why_it_matters": "It suggests a very low-cost, bottom-up format — a week of short self-guided exercises — can shift how employees manage their own demands, resources and energy, without a formal corporate program.",
+      "story_angle_primary": "Consider testing brief self-guided crafting protocols as an alternative to expensive workshops, but measure follow-through: the benefits concentrated among people who actually completed the daily tasks, which is the usual failure point of self-directed training.",
+      "story_angle_secondary": "The simplest trick here is environmental: leaving physical or digital prompts for yourself appears to do more to change work habits than intending to change does.",
+      "caveats": "Small sample (75 per group), short five-day intervention with no reported long-term follow-up, self-reported behavior and intentions, likely self-selected volunteers, and outcomes centered on sustainability behaviors rather than burnout or performance.",
+      "journal": "Career Development International",
+      "published": "2026-09-18",
+      "doi": "10.1108/cdi-11-2025-0655",
+      "paper_title": "Making sustainability possible and probable: a self-training intervention for employees",
+      "source_id": "S182336501"
+    },
+    {
+      "work_id": "W7213645268",
+      "headline": "Why your evening feels flat: unfinished tasks don't just nag, they sap your motivation to enjoy free time",
+      "the_study": "A preregistered 14-day diary study with morning and after-work measurements followed 179 employees across 1,849 daily observations, using dynamic multilevel structural equation modeling. Days with more unfinished tasks and higher anticipated workload predicted worse evening leisure quality (how pleasurable, meaningful and engaging free time felt) through two parallel routes: more negative thinking about upcoming work, and a drop in \"leisure-related self-efficacy\" -- the sense that you can actually make something of your evening. Psychological flexibility buffered the motivational hit from unfinished tasks.",
+      "why_it_matters": "It reframes the after-work slump: the problem is not only that people can't stop thinking about work, but that work demands erode their belief that leisure is worth attempting, which explains why evenings dissolve into passive scrolling.",
+      "story_angle_primary": "Managers could test whether end-of-day practices that close loops -- brief wrap-up rituals, realistic next-day planning, protecting the last 20 minutes from new requests -- improve how recovered people report feeling the next morning; the diary evidence suggests unfinished work is a daily, not just a chronic, cost.",
+      "story_angle_secondary": "For anyone whose evenings feel wasted: the fix may be less about \"switching off\" and more about deciding in advance on one small, concrete leisure plan, because the motivation to enjoy free time is what work drains first.",
+      "caveats": "Self-reported diary measures throughout, so common-method concerns remain despite the time-lagged design; N=179 with unspecified occupational mix; 14-day horizon captures daily fluctuation, not long-term outcomes; moderator findings (psychological flexibility) are correlational.",
+      "journal": "Work & Stress",
+      "published": "2026-09-19",
+      "doi": "10.1080/02678373.2026.2722069",
+      "paper_title": "Leisure under lock: cognitive activation and motivation erosion as mechanisms undermining experiential quality of leisure time",
+      "source_id": "S141527467"
+    },
+    {
+      "work_id": "W7171963754",
+      "headline": "Leaderboards at work: the competition feature in gamified apps predicts work addiction, burnout and quitting",
+      "the_study": "A three-wave survey of 345 app-based workers examined four gamification features -- reward, status, self-expression, and competition -- as drivers of work addiction and downstream burnout and turnover intention, framed by conservation of resources theory. Competition was the affordance linked to all the negative outcomes as predicted: it was associated with a pathological pattern of over-investing in work, which in turn related to burnout and intentions to leave.",
+      "why_it_matters": "Gamification is sold to HR as a harmless engagement booster, but this suggests the competitive elements specifically -- leaderboards, rankings, head-to-head targets -- may push workers into a resource-loss spiral that ends in exit.",
+      "story_angle_primary": "If your organization runs leaderboards or contests inside its productivity or sales apps, this is a prompt to audit which specific features are in play and whether the competitive ones are worth the burnout and attrition risk; reward and status elements looked less damaging than head-to-head competition.",
+      "story_angle_secondary": "For workers: the app that makes your job feel like a game may be why you can't stop checking it at night -- worth noticing whether it's the points you're chasing or the other people on the list.",
+      "caveats": "Self-report across all three waves, so common-method bias is possible; single population of app-workers limits generalizability; the design is longitudinal but not experimental, so causal claims about gamification causing work addiction are not established; country and platform not specified in the abstract.",
+      "journal": "Human Resource Management Journal",
+      "published": "2026-07-31",
+      "doi": "10.1111/1748-8583.70058",
+      "paper_title": "Play Hard, Work (Too) Hard: The Impact of Gamification on Work Addiction, Burnout, and Turnover Intention",
+      "source_id": "S113497174"
+    },
+    {
+      "work_id": "W7204753044",
+      "headline": "When family interrupts remote work, women with rigid schedules pay the biggest emotional price",
+      "the_study": "Drawing on boundary theory and affective events theory, researchers examined daily family-to-work interruptions among remote workers and their effect on negative affect at the end of the workday and emotional exhaustion in the evening. Daily interruptions from family predicted more end-of-day negative affect, and the effect was stronger for employees who already perceived high family-to-work conflict and for those with low schedule autonomy. Post hoc analyses found gender shaped the pattern: the family-to-work conflict moderation appeared only among women, and the schedule autonomy buffer was substantially stronger for women.",
+      "why_it_matters": "It identifies a concrete, controllable lever -- schedule autonomy -- that determines whether a child walking into the home office is a minor blip or a route to evening exhaustion, and shows the cost falls unevenly on women.",
+      "story_angle_primary": "Managers weighing return-to-office mandates or rigid remote-work hours should note that flexibility over *when* work happens, not just *where*, is what protects remote employees from interruption-driven exhaustion -- and that tightening schedules may hit women on your team hardest.",
+      "story_angle_secondary": "For remote workers: interruptions from home are a different psychological beast from work interruptions because they demand a role switch, and the antidote is being able to shift your hours rather than trying to seal the door.",
+      "caveats": "Daily-diary self-report design, so predictor and outcome share a source; gender differences come from post hoc analyses and should be treated as exploratory; sample size, occupation and country are not reported in the abstract; observational, not experimental.",
+      "journal": "Human Resource Management",
+      "published": "2026-08-31",
+      "doi": "10.1002/hrm.70096",
+      "paper_title": "One of Few or One of Many? The Negative Affective Consequences of Family‐To‐Work Interruptions While Working Remotely",
+      "source_id": "S134094273"
+    },
+    {
+      "work_id": "W7172021448",
+      "headline": "A highly proactive boss with a less proactive team is a recipe for overload",
+      "the_study": "Two multi-wave, multi-source field studies covering 931 team members and 209 leaders tested how the match between a leader's proactive personality and the team's affected workload and performance. Teams reported significantly higher work overload when the leader was more proactive than the team than in the reverse case, while leader-team congruence was associated with lower overload -- and overload in turn mediated the link to team performance.",
+      "why_it_matters": "It suggests the widely prized trait of leader proactivity is not universally good: mismatched with the team, it manufactures demands the team can't absorb, and performance suffers through the overload channel.",
+      "story_angle_primary": "When placing an energetic, initiative-taking leader over an established team, watch for creeping workload rather than assuming drive is contagious -- and consider explicitly calibrating how many new initiatives the team can carry.",
+      "story_angle_secondary": "For employees under a relentlessly proactive boss: the exhaustion you feel may be structural mismatch rather than personal inadequacy, and naming the volume of new initiatives is a legitimate conversation.",
+      "caveats": "Field studies with multi-wave, multi-source data are a strength, but the design remains correlational; country and industry are not specified in the abstract; polynomial/congruence effects can be sensitive to analytic choices; performance measurement source is unclear.",
+      "journal": "Small Group Research",
+      "published": "2026-07-31",
+      "doi": "10.1177/10464964261463208",
+      "paper_title": "Leader–Team Proactive Personality (In)congruence and Team Performance: Team Work Overload as Mediator",
+      "source_id": "S133913429"
+    },
+    {
+      "work_id": "W7172490991",
+      "headline": "Gamified gig platforms can reduce burnout -- but only when the algorithm watching you is seen as fair",
+      "the_study": "A three-wave survey of 311 gig workers tested how gamified platform features affect emotional labor and burnout, with algorithmic monitoring and algorithmic fairness as moderators. Under low monitoring, gamification reduced surface acting (faking emotions) and thereby lowered burnout; under heavy monitoring that benefit weakened. Where workers saw the algorithm as fair, gamification encouraged deep acting and reduced burnout; where fairness was low, that pathway vanished.",
+      "why_it_matters": "It shows game mechanics are not intrinsically good or bad for worker well-being -- their effect depends on the surveillance and fairness regime they sit inside, which platforms and increasingly conventional employers control.",
+      "story_angle_primary": "Any organization layering points, badges or streaks onto monitored work should treat perceived algorithmic fairness as a precondition, not a nice-to-have: without it the motivational upside of gamification disappears while the pressure remains.",
+      "story_angle_secondary": "For gig and app-managed workers: how draining the job feels may depend less on the rides or deliveries than on whether the ranking system feels honest.",
+      "caveats": "Three-wave but all self-report from the same workers, leaving common-method concerns; sample of 311 gig workers from an unspecified country and platform mix; correlational moderation, not manipulation of monitoring or fairness; note this sits alongside a contrasting study finding gamified competition harmful.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-08-05",
+      "doi": "10.1108/jmp-09-2025-0976",
+      "paper_title": "When play becomes pressure: how gamification and algorithms shape gig workers’ burnout",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7204491528",
+      "headline": "Stressed managers make for employees who log on while sick",
+      "the_study": "Matched multilevel data from 156 managers and 476 employees in a large public sector organization tested whether managers' own working conditions filter down to \"virtual presenteeism\" -- working remotely while ill. Managers with less decision authority, colleague support and recognition reported more psychological distress, which was linked to weaker stress management competencies; and when employees rated their managers' stress management competencies as low, virtual presenteeism was higher. Notably, managers' self-ratings of their own competencies were not related to employee presenteeism -- only the employees' view was.",
+      "why_it_matters": "Remote work has quietly normalized working through illness, and this points to a fix above the individual employee: give managers more authority, support and recognition, because their strain appears to travel downstream.",
+      "story_angle_primary": "If your people keep working through sick days from home, the diagnostic question may be how much autonomy and support the middle managers have -- and note that managers' self-assessments of how well they handle stress didn't predict anything; only their teams' perceptions did.",
+      "story_angle_secondary": "For employees: the pressure to stay online with a fever is often less an explicit policy than a signal read off a stretched manager's behavior.",
+      "caveats": "Cross-sectional design -- the authors themselves urge caution, and causal direction cannot be established; single large public sector organization in one country, limiting generalizability; self-reported measures for managers' conditions and distress; modest manager-level N (156).",
+      "journal": "International Journal of Stress Management",
+      "published": "2026-08-01",
+      "doi": "10.1037/str0000409",
+      "paper_title": "Psychosocial determinants of managers' stress management competencies: A multilevel study of their associations with employees' virtual presenteeism.",
+      "source_id": "S61509166"
+    },
+    {
+      "work_id": "W7172442198",
+      "headline": "It's not the age gap with your boss that matters -- it's whether either of you notices it",
+      "the_study": "A time-lagged survey of 504 employees, measured twice four weeks apart, distinguished objective age differences between leaders and followers from the psychological salience of those differences. Salience of age differences was negatively associated with leader-member exchange quality, which in turn predicted lower work engagement and higher emotional exhaustion, with LMX statistically mediating both paths.",
+      "why_it_matters": "It reframes age diversity management: the number of years between a manager and a report matters far less than whether that gap is made conspicuous in day-to-day interaction.",
+      "story_angle_primary": "Managers in age-diverse teams might audit their own habits for things that make age salient -- generational jokes, assumptions about tech fluency, references to \"when I started out\" -- rather than treating a numerical age gap as the problem to manage.",
+      "story_angle_secondary": "For anyone working for a much younger or much older boss: the relationship quality that drives your engagement and exhaustion hinges on how much age gets foregrounded, not the gap itself.",
+      "caveats": "Self-report from employees only at both waves, so common-method bias is likely and LMX, engagement and exhaustion share a source; four weeks is a short lag and the design cannot establish causation; country and occupational composition unspecified in the abstract.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-08-04",
+      "doi": "10.1108/jmp-08-2025-0808",
+      "paper_title": "More than years? Salience of age differences in leader-member relationships and its relation to LMX, work engagement, and emotional exhaustion",
+      "source_id": "S53726244"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7166081872",
+      "headline": "The 100,000-worker test that says job demands and resources just add up — they don't cancel each other out",
+      "verdict": "accurate",
+      "notes": "Sample size, stratification, model comparison and null interaction finding all match the abstract; caveats appropriately hedge the design and causal limits.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "work_id": "W7205707686",
+      "headline": "Letting frontline staff redesign their own jobs cut burnout — by cutting demands, not by adding support",
+      "verdict": "minor",
+      "notes": "Sample (21 vs 51), measures and the demands-not-support mechanism are reported correctly; headline and \"why it matters\" use firmer causal wording than the abstract's \"associated with\"/\"appeared to account for\".",
+      "issues": [
+        {
+          "label": "Causal wording for a non-randomized intervention",
+          "severity": "Minor",
+          "as_written": "Letting frontline staff redesign their own jobs cut burnout — by cutting demands, not by adding support",
+          "abstract_says": "The intervention was associated with lower job demands, higher co-worker instrumental support, and lower burnout disengagement. Multilevel analyses revealed that changes in job demands, rather than changes in support, appeared to account for the changes in burnout disengagement.",
+          "problem": "The abstract consistently hedges (\"associated with\", \"appeared to account for\") because the groups were not randomized; the headline and the claim that redesign \"can measurably reduce burnout\" assert causation.",
+          "suggested_fix": "Soften to \"was linked to lower burnout\" or \"was associated with lower disengagement burnout, apparently via reduced demands\"."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7213554539",
+      "headline": "LGBTQ workers in Sweden report worse mental health — but the job environment, not identity, appears to be the reason",
+      "verdict": "accurate",
+      "notes": "Sample, class structure, incivility predictor, outcome pattern and the absence of interactions are all reported faithfully; caveats cover attrition and sampling.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "work_id": "W7211962843",
+      "headline": "Bullying at work predicts burnout a year later — and psychological capital protects your life, not your job",
+      "verdict": "minor",
+      "notes": "N, country, two waves and the bullying→burnout finding match. Two small stretches: the abstract does not state the time lag (\"a year later\") and does not specify that the moderation was protective in direction.",
+      "issues": [
+        {
+          "label": "Unsupported one-year lag in headline",
+          "severity": "Minor",
+          "as_written": "Bullying at work predicts burnout a year later",
+          "abstract_says": "We conducted a two-wave study among a sample of 696 employees in Canada ... The results indicated that workplace bullying significantly predicted subsequent burnout.",
+          "problem": "The abstract gives no time interval between waves, so \"a year later\" is not supported (the digest's own caveats note the lag is unspecified, contradicting the headline).",
+          "suggested_fix": "Change to \"predicts burnout at a later time point\" or \"predicts subsequent burnout\"."
+        },
+        {
+          "label": "Direction of moderation inferred",
+          "severity": "Minor",
+          "as_written": "Supervisor support and psychological capital (hope, optimism, resilience, self-efficacy) moderated bullying's effect on life satisfaction — but did not appear to shield people from burnout itself.",
+          "abstract_says": "interaction effects suggested that psychological capital and supervisor support moderated the relationship between workplace bullying and life satisfaction",
+          "problem": "The abstract reports a moderation but not that it was protective/buffering in form; it also does not report a tested-and-null moderation for burnout, so \"did not appear to shield\" is an inference from silence.",
+          "suggested_fix": "Say the resources moderated the bullying–life-satisfaction link (buffering direction implied but not stated) and that no comparable moderation for burnout is reported in the abstract."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7213538292",
+      "headline": "A five-day self-training course got employees to nudge themselves into better work habits",
+      "verdict": "minor",
+      "notes": "Design, sample split, outcome domains and the self-nudging mediation match the abstract; one general-reader line makes a comparison the study did not test.",
+      "issues": [
+        {
+          "label": "Untested comparison between prompts and intentions",
+          "severity": "Minor",
+          "as_written": "The simplest trick here is environmental: leaving physical or digital prompts for yourself appears to do more to change work habits than intending to change does.",
+          "abstract_says": "Process analyses using bootstrapping indicated that changes in self-nudging mediated the effect of the intervention on the sustainability outcomes within the present multi-component intervention design. ... The intervention also positively influenced sustainability intentions and sustainability behavior",
+          "problem": "The study found self-nudging mediated effects within a multi-component package; it did not pit prompts against intentions, and intentions also increased.",
+          "suggested_fix": "Rewrite as \"changes in self-nudging appeared to carry much of the intervention's effect\" without claiming prompts beat intentions."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "work_id": "W7213645268",
+      "headline": "Why your evening feels flat: unfinished tasks don't just nag, they sap your motivation to enjoy free time",
+      "verdict": "minor",
+      "notes": "Preregistration, 14-day design, N=179/1,849 observations, dual mechanisms and the psychological-flexibility moderator are all accurate; one interpretive flourish goes beyond what was measured.",
+      "issues": [
+        {
+          "label": "Unmeasured behavioral claim",
+          "severity": "Minor",
+          "as_written": "which explains why evenings dissolve into passive scrolling",
+          "abstract_says": "evening experiential quality of leisure time (i.e. the extent to which free time is pleasurable, meaningful, and engaging)",
+          "problem": "The study measured experiential quality of leisure, not what people actually did with their evenings; passive scrolling was not assessed.",
+          "suggested_fix": "Drop the scrolling example or mark it explicitly as illustration, e.g. \"which may help explain why free time feels unrewarding\"."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "work_id": "W7171963754",
+      "headline": "Leaderboards at work: the competition feature in gamified apps predicts work addiction, burnout and quitting",
+      "verdict": "minor",
+      "notes": "Three waves, N=345 app-workers and the competition finding match. Headline says \"quitting\" where the outcome was turnover intention, and the claim that reward/status looked less damaging goes slightly beyond the abstract.",
+      "issues": [
+        {
+          "label": "Turnover intention framed as quitting",
+          "severity": "Minor",
+          "as_written": "the competition feature in gamified apps predicts work addiction, burnout and quitting",
+          "abstract_says": "leading to burnout ... and turnover intention (to protect oneself)",
+          "problem": "Intentions to leave are not actual quitting; no turnover behavior was measured.",
+          "suggested_fix": "Change \"quitting\" to \"intentions to quit\"."
+        },
+        {
+          "label": "Comparative claim about other affordances",
+          "severity": "Minor",
+          "as_written": "reward and status elements looked less damaging than head-to-head competition",
+          "abstract_says": "The results of our 3‐wave study ( N = 345 app‐workers) indicated that competition was associated with all outcomes as predicted.",
+          "problem": "The abstract reports only that competition behaved as predicted; it does not report results for reward, status or self-expression, so a direct ranking of harm is not supported.",
+          "suggested_fix": "Say only competition was linked to all the hypothesized outcomes, and that results for the other affordances are not reported in the abstract."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "work_id": "W7204753044",
+      "headline": "When family interrupts remote work, women with rigid schedules pay the biggest emotional price",
+      "verdict": "minor",
+      "notes": "Theory framing, moderators and the post hoc gender finding are reported accurately and flagged as exploratory; \"determines\" overstates a correlational cross-level moderation.",
+      "issues": [
+        {
+          "label": "Causal verb for diary-study moderation",
+          "severity": "Minor",
+          "as_written": "It identifies a concrete, controllable lever -- schedule autonomy -- that determines whether a child walking into the home office is a minor blip or a route to evening exhaustion",
+          "abstract_says": "We find that the positive effect of daily family‐to‐work interruptions on end‐of‐workday negative affect is stronger for individuals with ... lower schedule autonomy.",
+          "problem": "Schedule autonomy was a measured cross-level moderator in an observational diary study, not a manipulated lever shown to determine outcomes.",
+          "suggested_fix": "Reword to \"points to schedule autonomy as a factor associated with whether interruptions carry into evening exhaustion\"."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "work_id": "W7172021448",
+      "headline": "A highly proactive boss with a less proactive team is a recipe for overload",
+      "verdict": "minor",
+      "notes": "Two multi-wave, multi-source studies, 931 members/209 leaders, asymmetric incongruence effect and overload mediation all match; the direction of the performance effect is asserted more firmly than the abstract states.",
+      "issues": [
+        {
+          "label": "Direction of performance effect asserted",
+          "severity": "Minor",
+          "as_written": "it manufactures demands the team can't absorb, and performance suffers through the overload channel",
+          "abstract_says": "team work overload mediates the relationship between proactive personality (in)congruence and team performance",
+          "problem": "The abstract reports mediation but does not state the sign of the incongruence–performance relationship; \"performance suffers\" and \"manufactures demands\" also add causal force to a correlational field design.",
+          "suggested_fix": "Say overload mediated the link between (in)congruence and team performance, without specifying a magnitude or asserting causation."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "work_id": "W7172490991",
+      "headline": "Gamified gig platforms can reduce burnout -- but only when the algorithm watching you is seen as fair",
+      "verdict": "minor",
+      "notes": "Sample, waves, moderators and both pathways are described correctly; the headline's \"only when ... fair\" collapses two distinct conditions (low monitoring for surface acting, high fairness for deep acting).",
+      "issues": [
+        {
+          "label": "Headline oversimplifies two separate moderators",
+          "severity": "Minor",
+          "as_written": "Gamified gig platforms can reduce burnout -- but only when the algorithm watching you is seen as fair",
+          "abstract_says": "Under low algorithmic monitoring, work gamification reduces surface emotional labor and thereby lowers burnout. Under high monitoring, this indirect effect weakens. Under high algorithmic fairness, gamification promotes deep emotional labor and thereby reduces burnout; under low fairness, the deep emotional labor pathway disappears.",
+          "problem": "One burnout-reducing pathway depends on low monitoring, not fairness; the headline implies fairness is the single necessary condition.",
+          "suggested_fix": "Reframe as \"...but only when monitoring is light and the algorithm is seen as fair\", matching the two pathways."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "work_id": "W7204491528",
+      "headline": "Stressed managers make for employees who log on while sick",
+      "verdict": "minor",
+      "notes": "Sample, design and the self- vs. employee-rated SMC contrast are reported accurately; headline uses causal phrasing for cross-sectional data, and the direction of the managerial-resources/distress association is asserted beyond what the abstract states.",
+      "issues": [
+        {
+          "label": "Causal headline for cross-sectional data",
+          "severity": "Minor",
+          "as_written": "Stressed managers make for employees who log on while sick",
+          "abstract_says": "Although findings should be interpreted cautiously given the cross-sectional design, they highlight managers as potential cross-level actors in shaping VP",
+          "problem": "\"Make for\" asserts that managerial strain produces employee presenteeism, while the abstract explicitly cautions that the design is cross-sectional and reports only associations. The digest's own caveat says causal direction cannot be established, so the headline contradicts it.",
+          "suggested_fix": "Reword to an association, e.g. \"Where managers are under strain, employees are more likely to log on while sick\"."
+        },
+        {
+          "label": "Direction of managerial working-conditions effect stated more precisely than the abstract",
+          "severity": "Minor",
+          "as_written": "Managers with less decision authority, colleague support and recognition reported more psychological distress",
+          "abstract_says": "Results showed that decision authority, colleague support, and recognition were associated with managers' psychological distress, which was negatively related to self-and employee-rated SMCs.",
+          "problem": "The abstract reports an association without specifying the sign for the resources-distress link; the digest states the inverse direction as established. It is a plausible reading but not verifiable from the abstract alone.",
+          "suggested_fix": "Say \"managers' decision authority, colleague support and recognition were associated with their psychological distress\" or note the direction as implied rather than stated."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "work_id": "W7172442198",
+      "headline": "It's not the age gap with your boss that matters -- it's whether either of you notices it",
+      "verdict": "minor",
+      "notes": "Design, N, lag and the LMX mediation chain match the abstract, but the headline and framing assert a null result for objective age differences that the abstract never reports, and \"either of you\" implies leader data that were not collected.",
+      "issues": [
+        {
+          "label": "Unsupported comparative claim about objective age gap",
+          "severity": "Moderate",
+          "as_written": "the number of years between a manager and a report matters far less than whether that gap is made conspicuous in day-to-day interaction",
+          "abstract_says": "Prior research on age differences in leader-follower dyads has primarily focused on objective age differences while giving less attention to whether such differences are psychologically salient... This study advances research... by shifting the focus from objective age differences to the salience of age differences",
+          "problem": "The abstract reports findings only for salience; it does not report a test showing that objective age differences are unrelated to LMX, engagement or exhaustion. The digest presents a head-to-head comparison that the abstract does not support.",
+          "suggested_fix": "Reframe as \"what the study measured was salience, not the objective gap\" rather than claiming the objective gap matters less."
+        },
+        {
+          "label": "\"Either of you\" implies dyadic data",
+          "severity": "Minor",
+          "as_written": "it's whether either of you notices it",
+          "abstract_says": "we conducted a time-lagged survey with two measurement points four weeks apart, using a sample of 504 employees",
+          "problem": "Data came from employees only, so salience was assessed from the follower side; the headline implies leaders' perceptions were also measured.",
+          "suggested_fix": "Change to \"whether you notice it\" or \"whether the gap feels salient to the employee\"."
+        },
+        {
+          "label": "Study description implies both constructs were measured and contrasted",
+          "severity": "Minor",
+          "as_written": "distinguished objective age differences between leaders and followers from the psychological salience of those differences",
+          "abstract_says": "This study examines how the salience of age differences between leaders and followers is associated with leader-member exchange (LMX) and, in turn, employees' work engagement and emotional exhaustion.",
+          "problem": "The abstract describes the conceptual shift to salience but does not state that objective age differences were modelled alongside it, so this is unverifiable from the abstract only.",
+          "suggested_fix": "State that the study focused on the psychological salience of age differences, noting that the abstract does not report results for objective age gaps."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "SERPAPI_API_KEY is not set",
+    "partial_reason": "",
+    "by_work": {}
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet -- this is the first run._",
+    "feature_pitch": "**The pattern:** Four studies in this batch independently undercut the central premise of the corporate well-being industry -- that support, resilience and personal coping resources can offset a heavy job. The 100,000-worker machine-learning test found job demands and resources simply add up rather than buffering each other (W7166081872); the participatory redesign trial in disability care cut burnout specifically by removing role conflict and time pressure, not by raising coworker support (W7205707686); psychological capital and supervisor support protected bullied workers' life satisfaction but not their burnout (W7211962843); and the Swedish LGBTQ study found no vulnerability interaction at all -- the disparity came from who gets exposed to unsupportive, uncivil workplaces (W7213554539). Two further studies point the same direction by naming structural levers instead: schedule autonomy, not willpower, decided whether a family interruption cost a remote worker her evening (W7204753044), and stressed middle managers with too little decision authority were the upstream source of employees logging on while sick (W7204491528).\n\n**Why pitch this now:** Employee assistance programs, resilience training and app-based well-being benefits are among the first line items squeezed in a cost-conscious hiring market, and employers are being asked to justify them at the same moment that return-to-office mandates and stretched middle-management layers are quietly raising the demand side of the ledger.\n\n**Angle:** A reported feature on the collapse of the \"buffer\" assumption -- why a decade of resilience workshops, wellness apps and gratitude channels was built on a mechanism the newest and largest evidence does not find, and what job redesign actually looks like when organizations try it. Aim it at managers and HR decision-makers, with a parallel general-interest version for readers who have been told their burnout is a coping problem.\n\n**Potential headlines:**\n- The evidence says a supportive boss does not cancel out an impossible workload\n- Resilience training worked -- just not on the thing it was sold to fix\n- Your burnout is not a coping failure, and the research finally says so\n\n**Potential outlets:**\n- *Harvard Business Review* -- has published extensively on burnout as an organizational rather than individual problem; this is the strongest evidence base yet for that editorial line, including a rare field test of participatory redesign.\n- *MIT Sloan Management Review* -- built for the \"our well-being spending has the wrong mechanism\" argument, with an audience that wants the job-design alternative spelled out.\n- *The Atlantic* -- a natural home for a cultural critique of the resilience industry and the moral logic that makes exhaustion a personal shortcoming.\n- *Fast Company* -- covers the workplace wellness benefits market closely and would run the \"what companies should buy instead\" turn for HR and founder readers.",
+    "pitch_ideas": "- **The 100,000-worker test that says job demands and resources just add up (Work ID W7166081872):** Lead with the methodological jolt -- machine learning given free rein to find buffering effects across 100,000 workers found none that improved prediction -- and what that means for every engagement survey that treats autonomy as an antidote to workload, for a manager-audience column or an evidence-based HR explainer.\n- **Letting frontline staff redesign their own jobs cut burnout (Work ID W7205707686):** A practical piece on what a participatory redesign session actually involves in a care setting, and the diagnostic question for any burnout program -- does it remove demands or just add support? -- for an HR/management how-to column, flagging the small non-randomized sample.\n- **LGBTQ workers in Sweden report worse mental health (Work ID W7213554539):** The equity reframe -- disparity as exposure, not vulnerability -- with incivility as the early-warning flag employers can measure, for a diversity-and-inclusion explainer or a general-interest work-psychology piece aimed at job seekers assessing workplace climate.\n- **Bullying at work predicts burnout a year later (Work ID W7211962843):** The uncomfortable split finding -- optimism and a supportive manager preserve your life outside work while exhaustion accumulates anyway -- as a corrective to resilience-as-solution advice, for a career-advice column or a women's/lifestyle work-psychology slot.\n- **A five-day self-training course got employees to nudge themselves (Work ID W7213538292):** The \"self-nudging\" mechanism -- physical and digital prompts beat good intentions -- plus the honest caveat that only the people who finished the daily tasks benefited, for a personal-productivity or career-advice column.\n- **Why your evening feels flat (Work ID W7213645268):** The best-told study in the batch: unfinished work drains not just your attention but your belief that the evening is worth planning, which is why free time dissolves into scrolling -- for a general-interest or lifestyle work-psychology feature on recovery and leisure.\n- **Leaderboards at work (Work ID W7171963754):** Isolate the finding that competition, specifically, was the gamification feature tied to work addiction, burnout and quitting -- rewards and status looked less damaging -- as an audit prompt for anyone running sales contests, for a workplace news brief or HR explainer.\n- **When family interrupts remote work (Work ID W7204753044):** Tie directly to return-to-office and core-hours mandates: flexibility over *when*, not just *where*, is the protective factor, and tightening schedules appears to cost women most -- for a business-press work column or a women's-outlet piece on remote work and caregiving, marking the gender finding as post hoc.\n- **A highly proactive boss with a less proactive team (Work ID W7172021448):** Counterintuitive leadership piece -- the initiative-taking leader every company wants to hire can manufacture overload when dropped onto a settled team -- for a manager-audience leadership column.\n- **Gamified gig platforms can reduce burnout when the algorithm seems fair (Work ID W7172490991):** Pair with the leaderboard study as a \"when does gamification help versus harm\" explainer, with perceived algorithmic fairness as the precondition, for a technology-and-work or platform-economy section.\n- **Stressed managers make for employees who log on while sick (Work ID W7204491528):** The sharp detail is that managers' self-ratings of their stress management predicted nothing -- only their teams' perceptions did -- framed around virtual presenteeism as a downstream symptom of squeezed middle management, for a workplace news brief or middle-manager-focused column.\n- **It's not the age gap with your boss that matters (Work ID W7172442198):** A behavior-level piece on what makes age salient -- generational jokes, assumptions about tech fluency, \"when I started out\" -- and how that, not the years themselves, tracks with engagement and exhaustion, for a management column or general-interest piece on multigenerational teams."
+  }
+}
