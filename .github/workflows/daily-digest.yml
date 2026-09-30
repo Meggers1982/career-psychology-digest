@@ -2,12 +2,12 @@ name: Daily Career Psychology Digest
 
 on:
   schedule:
-    # 07:37 UTC = 2:37am CDT / 1:37am CST, so the DST switch needs no edit. The
+    # 10:37 UTC = 5:37am CDT / 4:37am CST (5am Central; shifts an hour with DST). The
     # odd minute is deliberate: GitHub queues scheduled runs, the queue is worst
     # on a round hour, and her other digests already sit on :00 slots. Expect
     # it to start late anyway -- 2.5 to 4.5 hours is typical across her repos,
     # 11.5 the worst seen.
-    - cron: "37 7 * * *"
+    - cron: "37 10 * * *"
 
   workflow_dispatch:
     inputs:
