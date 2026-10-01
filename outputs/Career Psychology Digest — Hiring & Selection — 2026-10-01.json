@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-01",
+  "days_back": 60,
+  "window_from": "2026-08-02",
+  "window_to": "2026-10-01",
+  "focus": "Hiring & Selection",
+  "topic": "hiring & selection",
+  "query": "(\"personnel selection\" OR \"employee selection\" OR \"job interview\" OR \"hiring decision\" OR recruitment OR recruiter OR \"applicant\" OR \"resume\" OR \"cognitive ability test\" OR \"structured interview\" OR \"hiring bias\" OR \"job applicant\" OR onboarding OR \"employer brand\")",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 30,
+    "not_research": 3,
+    "no_abstract": 2,
+    "off_topic": 0,
+    "already_covered": 15,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 10
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7214648548",
+      "headline": "Video job tests work as well as written ones — and are easier on candidates' brains",
+      "the_study": "Researchers updated and extended the meta-analytic evidence on situational judgment tests (SJTs), the \"what would you do in this situation?\" assessments widely used in hiring, pooling 457 independent samples from 302 studies with a total N of 244,257. SJTs predicted not just job performance but also academic performance, organizational citizenship behavior and counterproductive work behavior, and validity was higher among real applicants than in research-only settings. Comparing formats, multimedia (video) SJTs matched text-based ones on validity while imposing less incidental cognitive load, and open-ended written responses were as valid as multiple-choice; webcam-recorded constructed responses carried the lowest cognitive load of all.",
+      "why_it_matters": "SJTs are cheap relative to assessment centers and interviews, and this evidence says employers can modernize the format — video scenarios, open or recorded answers — without sacrificing predictive power, while making the test less about reading comprehension.",
+      "story_angle_primary": "If your organization uses or is considering SJTs, the format choice is now an evidence-based decision: ask your assessment vendor whether multimedia and constructed-response versions have been validated in your setting, and note that reducing the reading burden may help candidates whose test performance is dragged down by incidental cognitive load rather than job-relevant judgment. Also worth checking: the finding that validity is stronger in live applicant settings than in pilot research samples cuts against the assumption that applicants' self-presentation ruins these tests.",
+      "story_angle_secondary": "For job seekers, the \"tell us what you'd do\" scenario test is not a soft filler stage — it predicts performance, citizenship behavior and rule-breaking at work, and it is increasingly likely to arrive as a video clip or a webcam answer rather than a wall of text.",
+      "caveats": "Meta-analysis aggregates studies of varying quality and typically reports corrected correlations, which run higher than raw observed ones; evidence on the newer SJT paradigms is described by the authors themselves as initial, with far fewer samples than the traditional text-based format; criterion-related validity is predictive association, not proof that the test causes better hires.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-28",
+      "doi": "10.1037/apl0001420",
+      "paper_title": "A meta-analytic examination of the criterion-related validity and cognitive loading associated with traditional and new situational judgment test paradigms.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7211881958",
+      "headline": "Workers with invisible disabilities get doubted; workers with visible ones get assumed about",
+      "the_study": "Researchers screened 1,871 peer-reviewed empirical articles and synthesized 291 studies on physical disability at work, coding each for disability type, career stage and country, then conducting a thematic analysis across the career life cycle. They found recurring patterns at every stage: bias in recruitment and selection, barriers to onboarding and development, performance-related bias, limited advancement and inconsistent accommodation practice. The visibility of a disability consistently shaped treatment — employees with less visible conditions faced skepticism about whether their accommodation requests were legitimate, while those with more visible conditions faced prescriptive assumptions about what they needed.",
+      "why_it_matters": "Accommodation policy tends to be written as if disability is one thing, but the evidence suggests two distinct failure modes — disbelief and over-assumption — that require different managerial responses.",
+      "story_angle_primary": "Managers handling accommodation requests can audit for both failures at once: is the process forcing employees with non-obvious conditions to over-prove themselves, and is it handing employees with obvious ones a predetermined package nobody asked them about? The simplest corrective the review points to is asking rather than inferring, at every career stage, not just at onboarding.",
+      "story_angle_secondary": "For readers deciding whether to disclose a health condition at work, the research maps a real dilemma: staying invisible tends to attract doubt about your needs, while being visible tends to attract other people's assumptions about your limits.",
+      "caveats": "This is a systematic review and thematic synthesis, not new primary data or a quantitative meta-analysis; the underlying literature is heavily concentrated in high-income Western countries and dominated by mobility and musculoskeletal impairments, and the authors note it is fragmented, individual-level and shaped by deficit-based assumptions.",
+      "journal": "Applied Psychology",
+      "published": "2026-09-07",
+      "doi": "10.1111/apps.70138",
+      "paper_title": "Physical disability in the workplace: A career life cycle review",
+      "source_id": "S47864991"
+    },
+    {
+      "work_id": "W7207613776",
+      "headline": "\"Always on display\": migrant women of color describe what inclusion policies miss",
+      "the_study": "Researchers conducted semi-structured interviews with eighteen migrant women of color working in the Irish services sector, plus interviews with employers, and analyzed them through an intersectional lens combining gender, race, ethnicity, religion and region of origin. The women's accounts clustered into two themes — an everyday balancing act of negotiating work, identity and belonging, and a sense of being constantly watched and judged against stereotypes. Employers, meanwhile, pointed to structural, policy, social and cultural integration constraints as the limits on advancing inclusion, revealing a gap between what workers needed and what organizations believed they could deliver.",
+      "why_it_matters": "It puts both sides of the inclusion conversation in one study, showing that the barrier is often not a missing policy but a mismatch between formal HR provisions and the daily experience of being visibly different at work.",
+      "story_angle_primary": "HR leaders can use this as a prompt to test whether their diversity commitments survive contact with frontline reality: ask employees from minoritized groups what scrutiny feels like day to day, and compare that with what managers assume the policies are already handling.",
+      "story_angle_secondary": "The interviews describe a form of workplace labor rarely counted — the effort of managing how you are perceived all day, on top of doing the job.",
+      "caveats": "Small qualitative sample (18 women plus employers), a single country and sector, and self-reported experiences; findings are interpretive and not intended to generalize statistically.",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-09-03",
+      "doi": "10.1080/09585192.2026.2726273",
+      "paper_title": "Migrant women in the Irish services sector: an intersectional analysis of gendered and racialised experiences",
+      "source_id": "S184846731"
+    },
+    {
+      "work_id": "W7203635941",
+      "headline": "What a bad boss does to a brand-new hire: nurses describe learning to fake it, then checking out",
+      "the_study": "Researchers conducted 61 semi-structured life-world interviews with nursing students and newly employed nurses in healthcare organizations, then coded the accounts thematically to reconstruct early negative socialization events. Two patterns emerged. Newcomers first responded to abusive supervision by building \"self-suppressive facades\" — hiding reactions and performing compliance while still hoping the relationship would improve. When the mistreatment repeated, that hope collapsed into resignation, instrumental endurance (staying only for the paycheck or the resume line) and withdrawal, with some reframing it as \"the organization doesn't deserve me.\"",
+      "why_it_matters": "The first weeks on the job set a newcomer's expectations of what a work relationship can be, and early mistreatment appears to convert engaged recruits into quietly disengaged ones who are hard to win back. For sectors already struggling to retain young nurses, the damage may be done long before anyone files a complaint.",
+      "story_angle_primary": "Managers running onboarding should treat visible compliance from new hires as uninformative: these interviews suggest the quietest, most agreeable newcomer may be the one who has stopped expecting anything from the relationship. Worth testing whether your organization has any channel — mentor outside the reporting line, early skip-level check-in — where a newcomer can report a supervisor problem without it going to that supervisor.",
+      "story_angle_secondary": "For anyone starting a first job: the instinct to swallow it and keep your head down is extremely common, and these accounts trace how it hardens over months into cynicism that follows you. The interviews are a useful map of the stages — hopeful self-suppression, then endurance, then withdrawal — for recognizing where you are before you decide whether to stay.",
+      "caveats": "Qualitative interview study with no comparison group or outcome measures; retrospective self-reports of mistreatment from one occupation (nursing) in one healthcare context; themes are interpretive and cannot establish how common or how causal these dynamics are.",
+      "journal": "Personnel Review",
+      "published": "2026-08-17",
+      "doi": "10.1108/pr-04-2025-0362",
+      "paper_title": "The echo of abusive supervision",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7172526535",
+      "headline": "When \"going green\" becomes a moral duty, employees feel guilty — and quietly resist",
+      "the_study": "A qualitative, multi-source study across five organizations in banking, telecommunications and manufacturing in Pakistan, combining semi-structured interviews with internal documents and published sustainability reports. The researchers found that green HR expectations were framed less as job requirements than as ethical obligations, which employees internalized and policed in themselves. The result was self-regulation accompanied by tension, guilt and subtle resistance; the authors call the mechanism \"moral camouflage\" — managerial control recast as ethical responsibility.",
+      "why_it_matters": "Sustainability programs are usually evaluated on pro-environmental behavior and employer-brand gains, but this suggests the moralized framing itself carries a cost in guilt and covert pushback that standard engagement surveys would miss.",
+      "story_angle_primary": "If you run a sustainability or ESG program, examine the language in your communications: framing targets as what a good person does, rather than what the job requires, may buy compliance while generating resentment and moral fatigue. A practical test is whether employees can raise objections to green targets without appearing unethical — if not, the apparent buy-in may be camouflage.",
+      "story_angle_secondary": "Many workers have felt the odd discomfort of being asked to feel personally virtuous about a corporate initiative they had no say in. This study names that feeling and shows it is a recognizable organizational pattern, not a personal failure of enthusiasm.",
+      "caveats": "Qualitative study in five organizations in a single country (Pakistan); the authors themselves note limited generalizability to less collectivist or less religious contexts. No quantitative measurement of guilt, resistance or performance outcomes; findings are interpretive and shaped by an explicitly critical theoretical lens (Labour Process Theory).",
+      "journal": "Personnel Review",
+      "published": "2026-08-05",
+      "doi": "10.1108/pr-10-2025-1152",
+      "paper_title": "The moral camouflage of green HRM: how sustainability discourse legitimises managerial control",
+      "source_id": "S139232146"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7214648548",
+      "headline": "Video job tests work as well as written ones — and are easier on candidates' brains",
+      "verdict": "minor",
+      "notes": "Sample counts, outcomes and cognitive-load findings match the abstract. Two small issues: a non-significant difference between response modalities is presented as equivalence, and the specific cost comparison to assessment centers and interviews is not in the abstract.",
+      "issues": [
+        {
+          "label": "Null result framed as equivalence",
+          "severity": "Minor",
+          "as_written": "open-ended written responses were as valid as multiple-choice",
+          "abstract_says": "the multiple-choice modality did not significantly outperform written constructed response modalities in terms of validity",
+          "problem": "A failure to find a significant difference is not the same as demonstrated equivalence; the digest converts absence of evidence into evidence of equal validity.",
+          "suggested_fix": "Reword to \"multiple-choice formats did not significantly outperform written constructed-response formats on validity\"."
+        },
+        {
+          "label": "Cost comparison not in abstract",
+          "severity": "Minor",
+          "as_written": "SJTs are cheap relative to assessment centers and interviews",
+          "abstract_says": "The implications of these findings are among others discussed in the context of the cost effectiveness of SJTs vis-à-vis other selection procedures.",
+          "problem": "The abstract refers generically to cost effectiveness versus other selection procedures; it does not name assessment centers or interviews or quantify the comparison. Unverifiable from abstract only.",
+          "suggested_fix": "Say the authors discuss SJT cost effectiveness relative to other selection procedures, without naming specific methods."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7211881958",
+      "headline": "Workers with invisible disabilities get doubted; workers with visible ones get assumed about",
+      "verdict": "minor",
+      "notes": "Screening and inclusion numbers and the thematic patterns match. The headline drops the review's restriction to physical disability, and the visibility finding is stated slightly more firmly and more broadly than the abstract's hedged \"appears to moderate accommodation experiences\".",
+      "issues": [
+        {
+          "label": "Scope widened beyond physical disability",
+          "severity": "Minor",
+          "as_written": "Workers with invisible disabilities get doubted; workers with visible ones get assumed about",
+          "abstract_says": "we screened 1871 peer‐reviewed English‐language empirical articles and retained 291 studies focused on physical disability at work",
+          "problem": "\"Invisible disabilities\" is commonly read to include mental health and chronic illness; this review covers only physical disability, with visibility varying within that category. The body text clarifies, but the headline does not.",
+          "suggested_fix": "Add \"physical\" to the headline, e.g. \"Workers with less visible physical disabilities get doubted...\"."
+        },
+        {
+          "label": "Hedge removed and claim broadened",
+          "severity": "Minor",
+          "as_written": "The visibility of a disability consistently shaped treatment",
+          "abstract_says": "physical disability visibility consistently appears to moderate accommodation experiences",
+          "problem": "The abstract hedges (\"appears to moderate\") and limits the claim to accommodation experiences; the digest states it as established and generalizes to \"treatment\" overall.",
+          "suggested_fix": "Write \"visibility consistently appeared to shape accommodation experiences\"."
+        },
+        {
+          "label": "Recommendation not sourced to the review",
+          "severity": "Minor",
+          "as_written": "The simplest corrective the review points to is asking rather than inferring, at every career stage, not just at onboarding.",
+          "abstract_says": "We call for future research that integrates interpersonal, organizational, and policy‐level dynamics...",
+          "problem": "The abstract's stated implication is a research agenda, not an \"ask rather than infer\" practice prescription. Unverifiable from abstract only.",
+          "suggested_fix": "Present the advice as the digest's inference rather than as something the review recommends."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7207613776",
+      "headline": "\"Always on display\": migrant women of color describe what inclusion policies miss",
+      "verdict": "accurate",
+      "notes": "Design, sample (18 migrant women of colour plus employers), country/sector, themes and intersectional framing all match the abstract; caveats appropriately flag the small qualitative sample and lack of statistical generalizability.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "work_id": "W7203635941",
+      "headline": "What a bad boss does to a brand-new hire: nurses describe learning to fake it, then checking out",
+      "verdict": "minor",
+      "notes": "Interview count, participants, analytic approach and the two themes match. One small embellishment of \"instrumental endurance\", and the \"why it matters\" edges toward causal/prevalence claims that the caveats partly offset.",
+      "issues": [
+        {
+          "label": "Embellished detail",
+          "severity": "Minor",
+          "as_written": "instrumental endurance (staying only for the paycheck or the resume line)",
+          "abstract_says": "Repeated experiences diminish this hope, resulting in resignation, instrumental endurance and relational withdrawal.",
+          "problem": "The parenthetical specifics (paycheck, resume line) are not in the abstract. Unverifiable from abstract only.",
+          "suggested_fix": "Drop the parenthetical or label it as the digest's gloss on \"instrumental endurance\"."
+        },
+        {
+          "label": "Causal drift in framing",
+          "severity": "Minor",
+          "as_written": "early mistreatment appears to convert engaged recruits into quietly disengaged ones who are hard to win back",
+          "abstract_says": "Experiences of AS lead to self-suppressive facades aimed at maintaining the hope of future resonance... Alienation emerges as a way of inhabiting the relationship",
+          "problem": "A retrospective qualitative study cannot establish conversion rates or that disengaged newcomers are \"hard to win back\"; the hedge \"appears\" only partly covers this.",
+          "suggested_fix": "Reframe as what the interviews describe (a trajectory participants recounted) rather than an outcome the study documents."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7172526535",
+      "headline": "When \"going green\" becomes a moral duty, employees feel guilty — and quietly resist",
+      "verdict": "accurate",
+      "notes": "Design, five organizations, three sectors, Pakistan context, the moral-framing findings and the \"moral camouflage\" mechanism all match. The digest names Labour Process Theory but omits the abstract's Neo-Institutional Theory half of the framework — not an error, just an incomplete description.",
+      "issues": []
+    }
+  ],
+  "coverage": {
+    "checked": 5,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7214648548": {
+        "query": "Video job tests work well written ones easier candidates brains",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7211881958": {
+        "query": "Workers invisible disabilities get doubted workers visible ones get assumed",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7207613776": {
+        "query": "Always display migrant women color describe inclusion policies miss",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7203635941": {
+        "query": "bad boss does brand hire nurses describe learning fake then",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7172526535": {
+        "query": "going green becomes moral duty employees feel guilty quietly resist",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "**Convergent findings**\n- Assessment modernization keeps surviving its skeptics. The new SJT meta-analysis, \"Video job tests work as well as written ones — and are easier on candidates' brains\" (W7214648548), finds multimedia and constructed-response formats match text on validity, converging with the previous digest's \"Applicants have had ChatGPT for years. Pre-employment test scores barely budged\" (W7202071941): the two together suggest the standardized test stage is more robust to format change and to AI disruption than the procurement panic implies.\n- Formal policy repeatedly loses to relational and lived reality. \"Workers with invisible disabilities get doubted; workers with visible ones get assumed about\" (W7211881958) and \"'Always on display': migrant women of color describe what inclusion policies miss\" (W7207613776) echo the prior digest's \"What employees with ADHD say actually helps at work: informal relationships and flexible bosses\" (W7208704204) and \"'Nowhereness': when neither work nor home is a safe place to be yourself\" (W7213532045).\n\n**Advances**\n- The SJT meta-analysis (W7214648548) directly extends \"VR hiring tests make employers look more attractive — mainly to younger candidates\" (W7202387608). The earlier study established that format changes candidate reactions; the new one establishes that format does not cost validity and that video/webcam formats cut incidental cognitive load — together making the case for immersive SJTs considerably stronger than either alone.\n- \"What a bad boss does to a brand-new hire: nurses describe learning to fake it, then checking out\" (W7203635941) advances the onboarding thread opened by \"Helping the new hire only pays off for you if they're good at the job\" (W7202177851). The previous study examined the coworker's side of early socialization; this one examines what the newcomer does when the early relationship is actively hostile — facades first, withdrawal later.\n- The disability review (W7211881958) adds a mechanism to the accommodation story the ADHD study raised (W7208704204): visibility determines whether the failure is disbelief or over-assumption, which the earlier qualitative work did not separate.\n\n**Counterpoints**\n- \"When 'going green' becomes a moral duty, employees feel guilty — and quietly resist\" (W7172526535) complicates \"A two-minute allocation game predicts which job perks candidates actually care about\" (W7204088664). Environmental and social commitments attract a measurable segment of candidates at the recruitment stage, but once inside the organization, moralized green expectations appear to generate guilt and covert resistance — an attraction asset that may become a retention liability.\n\n**New themes**\n- Managerial control recast as ethics (W7172526535) is new to this topic; nothing in the previous digest examined how moral framing substitutes for job requirements.\n- Early-tenure abusive supervision as a hiring-funnel loss (W7203635941) is also new: the previous digest's post-hire studies focused on help, fairness perceptions and benefits design, not on mistreatment during the first weeks.",
+    "feature_pitch": "**The pattern:** Four of the five studies describe employees performing compliance that organizations read as buy-in. New nurses build \"self-suppressive facades\" and go quiet before they disengage (W7203635941); employees in green HR programs self-police and feel guilty while resisting subtly, what the authors call \"moral camouflage\" (W7172526535); migrant women of color manage how they are perceived all day while employers point to policy constraints (W7207613776); and workers with invisible disabilities over-prove their needs while those with visible ones accept packages nobody asked them about (W7211881958). The common finding is that the surface signal employers rely on — agreement, participation, no complaints — carries almost no information about what is actually happening.\n\n**Why pitch this now:** Employers are leaning harder than ever on engagement scores, ESG participation rates and DEI dashboards to prove their programs work, at a moment when DEI and sustainability commitments are under political and budgetary scrutiny and have to justify themselves on measured results.\n\n**Angle:** A reported feature on the measurement blind spot in people programs — why visible compliance is the least diagnostic thing an employer can collect, and what managers can ask instead — written for HR leaders and senior managers, with a general-interest version on the unpaid work of looking fine at work.\n\n**Potential headlines:**\n- Four studies, four programs, one blind spot: employees who go along with it\n- Your most agreeable employee may have already given up on you\n- The exhausting job of seeming fine at work\n\n**Potential outlets:**\n- **Harvard Business Review** — the piece is ultimately about what leaders should measure instead of participation and sentiment scores, which is HBR's core management-practice territory.\n- **Fast Company** — covers ESG and DEI program design closely and would take the \"moral camouflage\" finding as a concrete critique of how sustainability targets are communicated internally.\n- **The Guardian (Work & Careers)** — strong record on disability disclosure, migrant worker experience and nurse retention, all four of which sit inside this thread.\n- **Refinery29 (Work & Money)** — the daily labor of managing other people's perceptions, and the disclose-or-don't dilemma for invisible conditions, fits its first-person-adjacent career reporting.",
+    "pitch_ideas": "- **Video job tests work as well as written ones — and are easier on candidates' brains (Work ID W7214648548):** The biggest SJT evidence base yet says employers can switch to video scenarios and recorded open answers without losing predictive power — and that validity is actually higher with real applicants than in pilot samples — so the format question is now a procurement decision, for a hiring or HR explainer and a workplace-tech brief.\n- **Workers with invisible disabilities get doubted; workers with visible ones get assumed about (Work ID W7211881958):** Two opposite accommodation failures — disbelief versus prescriptive assumption — require different managerial fixes, and the corrective is asking rather than inferring at every career stage, for a manager-audience column, plus a disclose-or-don't piece for a general-interest or women's/lifestyle outlet.\n- **\"Always on display\": migrant women of color describe what inclusion policies miss (Work ID W7207613776):** Interviewing both sides shows the gap is not a missing policy but a mismatch between HR provisions and the daily experience of constant scrutiny — a prompt for HR leaders to test their commitments against frontline accounts, for a DEI-strategy column or a women's-outlet feature on the uncounted labor of being watched at work.\n- **What a bad boss does to a brand-new hire: nurses describe learning to fake it, then checking out (Work ID W7203635941):** The quietest, most agreeable newcomer may be the one who has stopped expecting anything — with a practical test of whether your organization has any route for reporting a supervisor that doesn't go through that supervisor, for a manager-audience column and a first-job career-advice piece.\n- **When \"going green\" becomes a moral duty, employees feel guilty — and quietly resist (Work ID W7172526535):** Framing sustainability targets as what a good person does buys compliance while generating resentment; the diagnostic is whether an employee can object to a green target without looking unethical, for an ESG/management column or a work-psychology explainer in a general-interest outlet."
+  }
+}
