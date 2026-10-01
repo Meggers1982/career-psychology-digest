@@ -1,0 +1,142 @@
+{
+  "id": "career-psychology-digest-hiring-selection-2026-10-01-part-2",
+  "filename": "Career Psychology Digest — Hiring & Selection — 2026-10-01 (Part 2).md",
+  "title": "Career Psychology Digest — Hiring & Selection — 2026-10-01 (Part 2)",
+  "run_date": "2026-10-01",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-02",
+  "window_to": "2026-10-01",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "5",
+  "articles_found": 30,
+  "screening": {
+    "found": 30,
+    "not_research": 3,
+    "no_abstract": 2,
+    "off_topic": 0,
+    "already_covered": 20,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 5
+  },
+  "focus": "Hiring & Selection",
+  "topic": "hiring & selection",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 2,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Should employers screen job applicants for well-being? A warning about where that leads",
+      "paper_title": "How (Not) to Incorporate Employee Well‐Being as a Selection Criterion: Commentary on König et al. (2026)",
+      "journal": "International Journal of Selection and Assessment",
+      "published": "2026-09-09",
+      "work_id": "W7212036280",
+      "doi": "10.1111/ijsa.70079",
+      "source_id": "S148368070",
+      "the_study": "This is a commentary in the *International Journal of Selection and Assessment* responding to a provocation article by König and colleagues, who argued that employee well-being should be treated as an explicit outcome that personnel selection is designed to maximize. The authors agree with the goal but warn that assessing applicants' well-being or mental health directly risks screening out people with current mental health difficulties and intruding on data that is legally protected as sensitive in many jurisdictions. They sketch four safer routes instead: structured assessment of person–environment fit, assessing an applicant's likely effect on colleagues' well-being, measuring how candidates construe ambiguous work situations, and selecting on health behaviors rather than health status.",
+      "why_it_matters": "Well-being is moving from an HR perk to a selection criterion, and the line between hiring for a healthy culture and quietly filtering out people with mental health histories is thin — and in many countries, legally consequential.",
+      "story_angle_primary": "If your organization is adding resilience, stress tolerance or well-being measures to its hiring process, ask what exactly is being inferred and whether it would survive a discrimination challenge; the authors' fit-based and behavior-based alternatives are worth testing against your current battery, though none have been validated as a complete system yet.",
+      "story_angle_secondary": "For job seekers, this is a glimpse of a coming frontier in assessment: employers increasingly want to predict not just whether you can do the job but whether the job will make you miserable — and the field is actively arguing about how much of your inner life they are entitled to measure.",
+      "caveats": "Commentary and conceptual argument, not new empirical evidence; the alternative approaches proposed are untested proposals rather than validated selection tools; legal arguments are jurisdiction-dependent.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Faithful summary of a commentary; two small attribution/wording stretches — the first two 'safer routes' were already raised in the provocation article, and König et al. advocated inclusion of well-being as an outcome rather than one selection is 'designed to maximize'.",
+      "tags": [
+        "hiring & selection",
+        "wellbeing & work-life balance"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "What actually gets people from a salaried job to full-time freelancing — and what keeps them afloat",
+      "paper_title": "From standard employment to freelancing: mobilizing career capital and bonding social capital",
+      "journal": "Career Development International",
+      "published": "2026-08-25",
+      "work_id": "W7204183347",
+      "doi": "10.1108/cdi-02-2026-0145",
+      "source_id": "S182336501",
+      "the_study": "Researchers conducted semi-structured in-depth interviews with nine knowledge- and skill-based full-time freelancers in Taiwan, recruited through purposive and snowball sampling, and analyzed them thematically. The pattern they describe: people did not leap toward freelancing so much as accumulate a long-running structural mismatch in standard employment, with prolonged dissatisfaction eventually hardening into a motive to leave. Once out, professional competence and existing occupational networks generated the work, while close personal ties — family and friends rather than professional contacts — absorbed the financial and emotional shocks that made the career sustainable.",
+      "why_it_matters": "It suggests the practical precondition for going independent is not just skill or a client list but a tight private support network that can absorb the bad months — a resource distributed very unequally.",
+      "story_angle_primary": "Managers losing good people to freelancing should read the \"structural misfit\" finding as a retention signal: these departures were slow-burning mismatches of autonomy and work design, visible long before the resignation, not sudden offers that couldn't be matched.",
+      "story_angle_secondary": "For anyone daydreaming about going independent: the interviews suggest the networks that win you work and the relationships that keep you solvent are two different things, and the second one is the easier to neglect.",
+      "caveats": "Very small qualitative sample (N=9), single country (Taiwan) and a narrow slice of knowledge/skill-based freelancers; retrospective self-report of career history; findings are interpretive and not statistically generalizable; survivor bias — only people who stayed freelance were interviewed.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional self-report",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, sample (N=9, Taiwan, purposive/snowball, thematic analysis) and core themes match the abstract; caveats are appropriately framed as interpretive. Two small interpretive additions: 'financial' shocks for 'practical support', and specifying bonding ties as family and friends.",
+      "tags": [
+        "career development & mobility",
+        "hiring & selection"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7212036280",
+      "journal": "International Journal of Selection and Assessment",
+      "date": "2026-09-09",
+      "doi": "10.1111/ijsa.70079"
+    },
+    {
+      "work_id": "W7204183347",
+      "journal": "Career Development International",
+      "date": "2026-08-25",
+      "doi": "10.1108/cdi-02-2026-0145"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- The new commentary **\"Should employers screen job applicants for well-being?\" (W7212036280)** extends the previous digest's recurring worry that selection processes absorb legally sensitive, non-job information. It is the normative twin of **\"What your LinkedIn profile says about your faith may be shaping who gets the interview\" (W7202344708)**, which showed protected-characteristic data leaking into callback decisions in practice; the commentary argues the same leakage is about to be built in deliberately, under a well-being label.\n- The warning that well-being screening would filter out people with current mental health difficulties lines up with the prior batch's lived-experience work — **\"What employees with ADHD say actually helps at work\" (W7208704204)** and **\"'Nowhereness'\" (W7213532045)** — where the conditions that determine whether someone thrives are relational and contextual, not traits an applicant carries into the room.\n\n**Advances**\n- **\"What actually gets people from a salaried job to full-time freelancing\" (W7204183347)** advances the previous digest's **\"When a career ends against your will, work doesn't always matter less afterwards\" (W7207518842)**, both in *Career Development International* and both qualitative: the earlier study tracked identity after involuntary exit, the new one reconstructs voluntary exit, and together they bracket the two directions out of standard employment.\n- The commentary's four proposed alternatives — person–environment fit, effect on colleagues' well-being, situational construal, health behaviors — are a design response to the structural trade-off documented in **\"You can't have all three\" (W7213166433)**: each alternative is an attempt to move an outcome without triggering adverse impact, which the simulation suggests is harder than it looks.\n\n**Counterpoints**\n- The previous digest's **\"Coping strategies that help women survive a male-dominated field can also entrench it\" (W7204477379)** and the paramedic reflection trial **(W4412125794)** both cautioned against loading adaptation onto individuals. The new freelancing study (**W7204183347**) cuts the other way in one respect: the people who got out successfully did so on the strength of private, individual resources — family and friends absorbing the bad months — which is adaptation as the only available option when the environment does not change.\n\n**New themes**\n- Well-being as an explicit *selection criterion* rather than a retention or benefits question is new to this topic (**W7212036280**); the previous digest treated well-being as a post-hire matter (W4412125794, W7208704204).\n- Exit into self-employment as a hiring-and-retention signal (**W7204183347**) is new; the prior batch covered retention through benefit design (**W7211872890**) but not the slow accumulation of misfit that precedes a departure no counteroffer can fix.",
+  "feature_pitch_raw": "**The pattern:** Both studies in this small batch are about person–environment fit and who bears the cost when it fails. The commentary (**W7212036280**) describes employers moving toward measuring whether the job will make a candidate miserable — and warns the obvious implementations amount to screening on mental health status — while the freelancing interviews (**W7204183347**) show misfit in standard employment accumulating for years before people leave, with close family and friends, not professional networks, carrying the financial risk of the exit.\n\n**Why pitch this now:** Employers are formalizing well-being into hiring criteria just as mental health data protection tightens (GDPR special-category rules, ADA limits on medical inquiry) and as self-employment keeps absorbing experienced knowledge workers who could not get the fit they wanted inside an organization.\n\n**Angle:** A feature on \"fit\" as the next contested variable in hiring — what employers are preparing to measure about your inner life, what the field itself says is off-limits, and what workers do when the organization never addresses the mismatch at all. Works for a management/HR-leader audience in business press, and for a general-interest or women's outlet as a piece about who can actually afford to leave a bad fit.\n\n**Potential headlines:**\n- Employers want to know if the job will make you unhappy. The assessment field is arguing about whether they may ask\n- The slow-motion resignation nobody logged as a retention problem\n- Before you go freelance, count who catches you\n\n**Potential outlets:**\n- **WSJ Work & Careers** — the legal exposure in screening for well-being and the steady drift of experienced staff into freelancing are both squarely its beat for employer readers.\n- **Harvard Business Review** — the commentary's four alternative assessment designs are a decision HR leaders are making right now, framed as selection-system design rather than wellness messaging.\n- **Wired** — the \"how much of your inner life may an employer measure\" thread fits its coverage of workplace data and sensitive-category inference.\n- **Stylist** — the freelancing finding that private relationships, not professional contacts, keep independent careers afloat suits its careers and money coverage for readers weighing the leap.",
+  "pitch_ideas_raw": "- **Should employers screen job applicants for well-being? A warning about where that leads (Work ID W7212036280):** Assessment researchers are openly debating whether hiring should optimize employee well-being — and warning that the obvious version of it screens out people with mental health histories and touches legally protected data; pair with the four proposed workarounds as a checklist for anyone adding resilience or stress-tolerance measures, for a hiring/HR explainer or a manager-audience column.\n- **What actually gets people from a salaried job to full-time freelancing — and what keeps them afloat (Work ID W7204183347):** The networks that win you work and the relationships that keep you solvent are different, and the second is both the decisive one and unequally distributed — plus the retention read for managers, who can see structural misfit years before the resignation, for a career-advice column or a work-psychology piece in a general-interest or women's/lifestyle outlet.",
+  "fact_check": {
+    "studies_reviewed": 2,
+    "verdicts_by_work": {
+      "W7212036280": "⚠️ Minor issues",
+      "W7204183347": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "5 (5 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "2",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Hiring & Selection — 2026-10-01 (Part 2)\n**Checked:** 2026-10-01 | **Studies reviewed:** 2\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Should employers screen job applicants for well-being? A warning about where that leads\n**Work ID:** W7212036280 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Attribution of the four alternatives** — Severity: Minor\n\n- **As written:** \"They sketch four safer routes instead: structured assessment of person–environment fit, assessing an applicant's likely effect on colleagues' well-being, measuring how candidates construe ambiguous work situations, and selecting on health behaviors rather than health status.\"\n- **Abstract says:** \"we elaborate on two indirect pathways already noted in the provocation article: (a) the structured assessment of person–environment fit and (b) applicants' potential impact on others' well‐being and mental health in the workplace. In addition, we introduce two complementary approaches: (c) assessing how applicants interpret work situations (situation construal)... and (d) selecting for health behaviors\"\n- **Problem:** The digest presents all four routes as the commentary authors' own proposals, whereas the abstract says the first two were already noted by König et al. and only the latter two are newly introduced.\n- **Suggested fix:** \"Note that two of the four routes elaborate on pathways König et al. already raised, while situation construal and health behaviors are the commentary's own additions.\"\n\n**Issue B. Characterization of the target article's claim** — Severity: Minor\n\n- **As written:** \"who argued that employee well-being should be treated as an explicit outcome that personnel selection is designed to maximize\"\n- **Abstract says:** \"advocating for the explicit inclusion of employee well‐being as an outcome in personnel selection\"\n- **Problem:** 'Designed to maximize' is a stronger formulation than the abstract's 'explicit inclusion… as an outcome'.\n- **Suggested fix:** \"Rephrase to 'who argued that employee well-being should be explicitly included as an outcome in personnel selection'.\"\n\n**Issue C. 'Situation construal' described as ambiguous situations** — Severity: Minor\n\n- **As written:** \"measuring how candidates construe ambiguous work situations\"\n- **Abstract says:** \"assessing how applicants interpret work situations (situation construal)\"\n- **Problem:** The abstract refers to work situations generally; 'ambiguous' is an added qualifier not supported by the abstract.\n- **Suggested fix:** \"Drop 'ambiguous' and write 'how candidates interpret work situations (situation construal)'.\"\n\n### Study 2: What actually gets people from a salaried job to full-time freelancing — and what keeps them afloat\n**Work ID:** W7204183347 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. 'Financial' support not in abstract** — Severity: Minor\n\n- **As written:** \"close personal ties — family and friends rather than professional contacts — absorbed the financial and emotional shocks that made the career sustainable\"\n- **Abstract says:** \"bonding social capital buffers transition-related risks through emotional and practical support, thereby promoting career sustainability\"\n- **Problem:** The abstract says 'emotional and practical support'; the digest converts 'practical' into specifically 'financial' shocks, and specifies the bonding ties as family and friends, neither of which the abstract states.\n- **Suggested fix:** \"Use the abstract's wording — 'absorbed transition risks through emotional and practical support' — and describe bonding social capital as close personal ties without asserting the specific composition.\"\n\n**Issue B. Why it matters leans on an unstated inference** — Severity: Minor\n\n- **As written:** \"It suggests the practical precondition for going independent is not just skill or a client list but a tight private support network that can absorb the bad months — a resource distributed very unequally.\"\n- **Abstract says:** \"bonding social capital buffers transition-related risks through emotional and practical support, thereby promoting career sustainability\"\n- **Problem:** 'Practical precondition' and the inequality-of-access claim go beyond a nine-person interpretive study; the abstract makes no distributional claim.\n- **Suggested fix:** \"Soften to 'these nine accounts suggest that close personal support, not just skill or clients, helped sustain the transition' and drop or explicitly flag the inequality point as commentary.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Should employers screen job applicants for well-being? A warning about where that leads | ⚠️ Minor issues | Faithful summary of a commentary; two small attribution/wording stretches — the first two 'safer routes' were already raised in the provocation article, and König et al. advocated inclusion of well-being as an outcome rather than one selection is 'designed to maximize'. |\n| 2 | What actually gets people from a salaried job to full-time freelancing — and what keeps them afloat | ⚠️ Minor issues | Design, sample (N=9, Taiwan, purposive/snowball, thematic analysis) and core themes match the abstract; caveats are appropriately framed as interpretive. Two small interpretive additions: 'financial' shocks for 'practical support', and specifying bonding ties as family and friends. |\n\n**Total issues:** 5 (5 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 2\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 2,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
