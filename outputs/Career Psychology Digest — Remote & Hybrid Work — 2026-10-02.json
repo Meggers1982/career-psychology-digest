@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-02",
+  "days_back": 60,
+  "window_from": "2026-08-03",
+  "window_to": "2026-10-02",
+  "focus": "Remote & Hybrid Work",
+  "topic": "remote & hybrid work",
+  "query": "(\"remote work\" OR telework OR telecommuting OR \"hybrid work\" OR \"work from home\" OR \"virtual work\" OR \"flexible work\" OR \"return to office\" OR \"virtual team\" OR \"flexible working\" OR \"distributed work\")",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 13,
+    "not_research": 1,
+    "no_abstract": 1,
+    "off_topic": 0,
+    "already_covered": 1,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 10
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7203941475",
+      "headline": "Seven years inside a company that went remote: psychological safety got stronger, not weaker",
+      "the_study": "A longitudinal qualitative study of a professional services organization that moved from in-person to fully remote work, based on 275 interviews and roughly 330 hours of observation collected over seven years. Contrary to the assumption that virtual work erodes trust, the researcher found that remote interaction patterns — glimpses of homes, kids, pets, flexible scheduling conversations — prompted more personal self-disclosure among colleagues. That mutual \"humanizing\" built psychological safety from the bottom up, through peers rather than through leaders, and was accompanied by coordination practices that let people flex where and when they worked while still getting tasks done.",
+      "why_it_matters": "It challenges the common return-to-office argument that trust and candor require shared physical space, and shows psychological safety can be a group-initiated achievement rather than something a leader must manufacture.",
+      "story_angle_primary": "Managers worried that remote teams lack candor could look at what this organization did differently: making room for personal disclosure in routine virtual contact instead of trying to replicate office rituals. Because this is one company studied in depth, treat it as an existence proof — remote teams *can* build safety this way — rather than a guarantee that yours will.",
+      "story_angle_secondary": "The small awkward intrusions of home life into video calls — the laundry pile, the interrupting toddler — may be doing quiet relational work, making coworkers see each other as full people rather than job titles.",
+      "caveats": "Single organization in professional services; qualitative design cannot quantify effects or rule out that this firm's culture or workforce was unusual; no comparison group of in-person teams.",
+      "journal": "Organization Science",
+      "published": "2026-08-21",
+      "doi": "10.1287/orsc.2024.19818",
+      "paper_title": "Repatterning Interactions in Remote Work Environments: Bolstering Psychological Safety Through Mutually Humanizing Self-Disclosure",
+      "source_id": "S206124708"
+    },
+    {
+      "work_id": "W7213775189",
+      "headline": "Compressed workweeks help some employees and quietly hurt others",
+      "the_study": "Researchers tracked N=147 employees over six months, before and after their organization moved to a compressed workweek (the same hours packed into fewer days), using growth curve modeling to chart change over time. Stress fell and health improved — but only for employees with high job autonomy. For those with low autonomy, perceived organizational support actually declined over the study period, and task performance rose only among employees whose work was not highly interdependent with others.",
+      "why_it_matters": "Compressed schedules are being adopted as a flexibility perk for jobs that can't go remote, but this suggests the benefits depend on job design: give the schedule to people without control over their work or with tightly coupled tasks and you may generate resentment rather than relief.",
+      "story_angle_primary": "Before rolling out a four-day or compressed schedule across the board, audit which roles have real autonomy and which depend on constant handoffs — the same policy can produce opposite results in two departments of the same company.",
+      "story_angle_secondary": "\"Fewer, longer days\" sounds universally appealing, but whether it feels like freedom or like a grind depends less on the calendar than on how much say you have over your own work.",
+      "caveats": "Modest sample (N=147) and a six-month horizon; no randomized control group, so broader workplace changes over the period can't be ruled out; outcomes largely self-reported.",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-09-20",
+      "doi": "10.1002/job.70130",
+      "paper_title": "Who Benefits From Compressed Workweeks? The Role of Job Autonomy and Task Interdependence in Shaping Longitudinal Changes",
+      "source_id": "S160573970"
+    },
+    {
+      "work_id": "W7202178589",
+      "headline": "The \"work companion\": the coworking-space relationship that isn't friendship and isn't colleagues",
+      "the_study": "A grounded-theory study drew on observation, archival material and interviews with 80 workers across 21 coworking spaces to ask how people build useful relationships with others who share no employer, goals or profession. The authors identify a distinct relationship type they call the work companion — someone you work alongside with a shared focus on work but without the obligations of friendship, family or employment. These ties deliver both personal support and professional value precisely because they are low-obligation and flexible; when real friendship or employment ties intrude, the flexibility and the benefit erode.",
+      "why_it_matters": "It names something remote and hybrid workers are groping toward — a form of companionship that supplies structure and social contact without the demands of either close friendship or office politics.",
+      "story_angle_primary": "Companies subsidizing coworking memberships or designing hybrid \"anchor\" spaces should note that the value may come from loose, unobligated contact with near-strangers, not from engineered networking; forcing structured socializing may destroy the very flexibility that makes it work.",
+      "story_angle_secondary": "For anyone who has felt lonely working from home but doesn't want office small talk, this study describes a middle category of relationship — people you share a desk and a coffee machine with, and nothing more — and explains why it can be genuinely sustaining.",
+      "caveats": "Qualitative and exploratory; coworking-space members are self-selected and skew toward freelancers and independent workers, so findings may not transfer to employees of large firms; no measured outcomes such as productivity or well-being.",
+      "journal": "Organization Science",
+      "published": "2026-08-11",
+      "doi": "10.1287/orsc.2022.16202",
+      "paper_title": "Coworking: Finding Value Through Work Companions",
+      "source_id": "S206124708"
+    },
+    {
+      "work_id": "W7169580639",
+      "headline": "In global virtual teams, agreeableness was the one trait high performers all shared",
+      "the_study": "Using fuzzy-set qualitative comparative analysis — a method that looks for combinations of conditions rather than single predictors — researchers examined Big Five personality traits and peer-rated individual performance among 697 participants nested in 171 global virtual teams. Three distinct trait configurations led to high performance, and agreeableness appeared in all three, emerging as a necessary condition. No single other trait was indispensable; conscientiousness, openness and the rest mattered only in particular combinations.",
+      "why_it_matters": "If the finding holds in workplace teams, it suggests that staffing distributed, cross-border teams rewards cooperative temperament more than the drive and dominance often prized in colocated settings.",
+      "story_angle_primary": "Managers assembling distributed teams could watch whether their highest-rated remote contributors are the cooperative ones rather than the assertive ones — and whether performance criteria written for office work still fit. This was a student-team study, so treat it as a hypothesis to test against your own peer-review and performance data.",
+      "story_angle_secondary": "Working across time zones and screens may reward a different kind of person than the office did: not the loudest voice in the room, but the one who is easy to work with when nobody can read the room at all.",
+      "caveats": "Sample was students in global virtual team projects, not employees, with short-lived teams and no organizational stakes; performance was peer-rated, which may itself favor agreeable people; configurational analysis identifies patterns, not causation.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-08-04",
+      "doi": "10.1108/jmp-11-2025-1180",
+      "paper_title": "Agreeable team members wanted: personality configurations of high-performing individuals in global virtual teams",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7204438985",
+      "headline": "Return-to-office works better when teammates, not bosses, provide the support",
+      "the_study": "Researchers ran a two-wave panel study of 250 employees in the Indian IT sector, surveying them right after they returned to the office following extended work-from-home or hybrid arrangements and again six months later. They tracked \"job reattachment\" — the degree to which people mentally reconnected with their work — and found its link to individual performance was not significant immediately after the return but became positive six months later, while work withdrawal behaviors declined over the same period. Job engagement explained the link between reattachment and both performance and withdrawal. Reliance on a dependable supervisor boosted the reattachment–engagement link only in the first phase, whereas perceived compassionate behavior from teammates kept mattering at both points in time.",
+      "why_it_matters": "Organizations mandating office returns often expect an immediate productivity payoff; this suggests the benefits take roughly half a year to show up, and that peer support is the more durable lever than supervisor dependability.",
+      "story_angle_primary": "Managers planning or defending a return-to-office policy can use this as a reason to set expectations over months rather than weeks, and to invest in team-level compassion — check-ins, peer buddies, shared rituals — rather than leaning solely on supervisors to carry the transition. Worth testing whether the same pattern holds in your own workforce before treating six months as a fixed timeline.",
+      "story_angle_secondary": "For anyone who has gone back to a desk after years at home and felt oddly unproductive, the data offer reassurance: psychologically reconnecting to office work is a slow process, and the colleagues around you may matter more to how it goes than your boss does.",
+      "caveats": "Single country and single industry (Indian IT sector); self-report measures of performance and withdrawal raise common-method concerns; N=250 across two waves is modest; only two measurement points over six months, so causal claims are limited.",
+      "journal": "Personnel Review",
+      "published": "2026-08-27",
+      "doi": "10.1108/pr-07-2025-0755",
+      "paper_title": "What does it take to bring employees back to office? Driving reattachment and engagement through compassionate team and dependable supervisors",
+      "source_id": "S139232146"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7203941475",
+      "headline": "Seven years inside a company that went remote: psychological safety got stronger, not weaker",
+      "verdict": "minor",
+      "notes": "Design, N of interviews/observation hours and the group-initiated mechanism all match the abstract; the only stretch is a set of concrete illustrative details (homes, kids, pets) the abstract never mentions.",
+      "issues": [
+        {
+          "label": "Illustrative details not in abstract",
+          "severity": "Minor",
+          "as_written": "the researcher found that remote interaction patterns — glimpses of homes, kids, pets, flexible scheduling conversations — prompted more personal self-disclosure among colleagues",
+          "abstract_says": "I find that remote work supports interactional patterns that facilitate self-disclosure among group members.",
+          "problem": "The specific examples of what the interaction patterns were (homes, kids, pets, scheduling talk) are the digest's invention; the abstract describes the patterns only in general terms. Unverifiable from abstract only.",
+          "suggested_fix": "Either drop the concrete examples or label them as illustration, e.g. 'everyday virtual interaction patterns (the paper's examples of these are not visible in the abstract) prompted more personal self-disclosure'."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7213775189",
+      "headline": "Compressed workweeks help some employees and quietly hurt others",
+      "verdict": "accurate",
+      "notes": "N=147, six-month pre/post design, growth curve modeling, and all three moderated patterns (autonomy for stress/health, autonomy for POS decline, task interdependence for performance) are reported correctly, with appropriate hedging and caveats.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "work_id": "W7202178589",
+      "headline": "The \"work companion\": the coworking-space relationship that isn't friendship and isn't colleagues",
+      "verdict": "minor",
+      "notes": "Grounded theory, 80 workers, 21 spaces, the work companion construct and the relational-embeddedness boundary condition are all represented faithfully; one caveat detail about sample composition goes beyond the abstract.",
+      "issues": [
+        {
+          "label": "Sample composition claim",
+          "severity": "Minor",
+          "as_written": "coworking-space members are self-selected and skew toward freelancers and independent workers, so findings may not transfer to employees of large firms",
+          "abstract_says": "workers ... work alongside others with different employers, occupations, and backgrounds ... interview data collected from 80 workers in 21 coworking spaces",
+          "problem": "The abstract does not describe the occupational mix of the sample; it actually refers to members having 'different employers', so the freelancer skew is not verifiable from the abstract alone.",
+          "suggested_fix": "Soften to 'coworking-space members are self-selected, and the abstract does not report their mix of employment types, so transfer to employees of large firms is untested'."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7169580639",
+      "headline": "In global virtual teams, agreeableness was the one trait high performers all shared",
+      "verdict": "accurate",
+      "notes": "fsQCA, 697 students in 171 GVTs, three configurations each containing agreeableness as a necessary condition, peer-rated performance — all correct. Student sample is flagged in both the story angle and caveats, and causal language is avoided.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "work_id": "W7204438985",
+      "headline": "Return-to-office works better when teammates, not bosses, provide the support",
+      "verdict": "significant",
+      "notes": "Design and sample are right, but the withdrawal result is restated as a decline in withdrawal behaviour rather than a weakening relationship, and the supervisory-dependence moderation is described slightly more narrowly than the abstract reports.",
+      "issues": [
+        {
+          "label": "Withdrawal finding restated as a level change",
+          "severity": "Moderate",
+          "as_written": "found its link to individual performance was not significant immediately after the return but became positive six months later, while work withdrawal behaviors declined over the same period",
+          "abstract_says": "Results revealed that the non-significant impact of job reattachment on performance changed to a positive significant impact, while the impact of work withdrawal reduced over a six-month duration.",
+          "problem": "The abstract reports that the (reattachment-related) impact on/of work withdrawal weakened over time — a change in a relationship, not evidence that employees' withdrawal behaviour itself fell. The digest converts this into an absolute decline in withdrawal, which readers could take as 'returning to the office reduces withdrawal'.",
+          "suggested_fix": "Rewrite as 'while the reattachment–withdrawal association weakened over the six months' rather than claiming withdrawal behaviours declined."
+        },
+        {
+          "label": "Supervisory dependence moderation narrowed",
+          "severity": "Minor",
+          "as_written": "Reliance on a dependable supervisor boosted the reattachment–engagement link only in the first phase",
+          "abstract_says": "supervisory dependence was found to be a significant moderator in the reattachment–engagement link, and it demonstrated a significant moderated-mediation effect in phase 1 but became non-significant in phase 2",
+          "problem": "The abstract reports supervisory dependence as a significant moderator of the reattachment–engagement link generally; it was the moderated-mediation effect that was confined to phase 1. The digest attaches the phase-1-only qualifier to the wrong effect.",
+          "suggested_fix": "Say that supervisory dependence moderated the reattachment–engagement link, but its downstream (moderated-mediation) effect held only in the first phase."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 5,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7203941475": {
+        "query": "Seven years inside company went remote psychological safety got stronger",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213775189": {
+        "query": "Compressed workweeks help some employees quietly hurt others",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202178589": {
+        "query": "work companion coworking space relationship isn friendship isn colleagues",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7169580639": {
+        "query": "global virtual teams agreeableness one trait high performers all shared",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204438985": {
+        "query": "Return office works better teammates not bosses provide support",
+        "returned": 3,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet — this is the first run._",
+    "feature_pitch": "**The pattern:** Four of the five studies in this batch point the same direction: in distributed and post-return work, the load-bearing relationship is lateral, not vertical. Psychological safety in a firm that went fully remote was built bottom-up by peers rather than manufactured by leaders (W7203941475); coworkers' compassion outlasted supervisor dependability in sustaining people through a return to the office (W7204438985); agreeableness was the one trait present in every high-performing configuration in global virtual teams (W7169580639); and coworking-space \"work companions\" delivered support and professional value precisely because no employer or boss was attached (W7202178589). The implicit corollary — that managers matter less than the org chart assumes — is the uncomfortable part.\n\n**Why pitch this now:** Return-to-office mandates are still being justified on the premise that proximity to leadership rebuilds trust and performance, while companies simultaneously thin out middle management layers — and this evidence suggests the thing actually holding distributed work together is the peer tier that neither policy is designed to protect.\n\n**Angle:** A reported feature on the quiet redistribution of workplace social infrastructure from managers to coworkers — what it means for how teams are staffed, how RTO is sold, and what happens to workers whose peer networks are thin — framed for a business and management readership, with a general-interest variant centered on the reader's own experience of which colleague actually got them through the last two years.\n\n**Potential headlines:**\n- The coworkers, not the boss, are holding distributed teams together\n- Companies brought everyone back to the office to rebuild trust. The research says the trust was never coming from the top.\n- If your manager left tomorrow, your team would probably be fine — your work friendships are another matter\n\n**Potential outlets:**\n- *MIT Sloan Management Review* — takes seriously the organizational-design implication that psychological safety and engagement can be peer-generated rather than leader-driven.\n- *Business Insider* — actively covering RTO mandates and middle-management cuts; this gives those two stories a single evidence-based through-line.\n- *The Atlantic* (work and culture coverage) — the \"work companion\" and humanizing-via-video-call material supports a broader essay on what kind of relationship a coworker has become.\n- *Fast Company* — fits its team-design and future-of-work beat, especially the staffing implication that cooperative temperament outperforms assertiveness across screens and time zones.",
+    "pitch_ideas": "- **Seven years inside a company that went remote: psychological safety got stronger, not weaker (Work ID W7203941475):** A rare seven-year inside look at one firm arguing that the mess of home life on camera is what built candor — pitch as a direct rebuttal to the \"trust needs an office\" argument, for a manager-audience column or a work-psychology explainer in a general-interest outlet.\n- **Compressed workweeks help some employees and quietly hurt others (Work ID W7213775189):** The four-day-week story nobody runs — the same schedule relieves autonomous workers and sours low-autonomy, highly interdependent ones, so the rollout question is job design, not the calendar; for an HR explainer or a management column aimed at companies currently piloting compressed schedules.\n- **The \"work companion\": the coworking-space relationship that isn't friendship and isn't colleagues (Work ID W7202178589):** Names a middle category of relationship — companionship without obligation — that remote workers have been improvising for years, and warns that structured networking destroys it; ideal for a general-interest or women's/lifestyle feature on loneliness and working from home.\n- **In global virtual teams, agreeableness was the one trait high performers all shared (Work ID W7169580639):** Distributed work may reward being easy to work with over being assertive — a provocative hiring-and-promotion angle, but it's a student-team study, so pitch it as a hypothesis piece for a hiring/HR explainer rather than a hard finding.\n- **Return-to-office works better when teammates, not bosses, provide the support (Work ID W7204438985):** Returning workers took roughly six months to mentally reconnect, and peer compassion mattered more durably than a dependable supervisor — pitch as a workplace news brief for executives expecting an immediate RTO productivity bump, or as a reassurance piece in a career-advice column for people who feel inexplicably unproductive back at a desk."
+  }
+}

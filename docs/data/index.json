@@ -1,11 +1,22 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 4,
+  "run_count": 5,
   "topics": [
     "hiring & selection",
+    "remote & hybrid work",
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-remote-hybrid-work-2026-10-02",
+      "title": "Career Psychology Digest — Remote & Hybrid Work — 2026-10-02",
+      "topic": "remote & hybrid work",
+      "run_date": "2026-10-02",
+      "study_count": 5,
+      "total_issues": "4 (3 Minor, 1 Moderate, 0 Major)",
+      "lead_count": 3,
+      "top_score": 87
+    },
     {
       "id": "career-psychology-digest-hiring-selection-2026-10-01",
       "title": "Career Psychology Digest — Hiring & Selection — 2026-10-01",

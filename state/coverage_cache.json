@@ -10,6 +10,16 @@
         "state": "unreported"
       }
     },
+    "W7169580639": {
+      "checked_at": "2026-10-02T16:23:33.017202+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "global virtual teams agreeableness one trait high performers all shared",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7172526535": {
       "checked_at": "2026-10-01T14:21:40.782291+00:00",
       "result": {
@@ -37,6 +47,16 @@
         "outlets": [],
         "query": "Helping hire only pays off they good job",
         "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "W7202178589": {
+      "checked_at": "2026-10-02T16:23:30.213369+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "work companion coworking space relationship isn friendship isn colleagues",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -90,6 +110,16 @@
         "state": "unreported"
       }
     },
+    "W7203941475": {
+      "checked_at": "2026-10-02T16:23:22.973582+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Seven years inside company went remote psychological safety got stronger",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7204088664": {
       "checked_at": "2026-09-29T12:45:40.342344+00:00",
       "result": {
@@ -117,6 +147,16 @@
         "outlets": [],
         "query": "Rejected algorithm Adding human reviewer changes candidates feel about",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204438985": {
+      "checked_at": "2026-10-02T16:23:34.814150+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Return office works better teammates not bosses provide support",
+        "returned": 3,
         "state": "unreported"
       }
     },
@@ -216,6 +256,16 @@
         "articles": [],
         "outlets": [],
         "query": "Nowhereness neither work nor home safe place yourself",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7213775189": {
+      "checked_at": "2026-10-02T16:23:26.849099+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Compressed workweeks help some employees quietly hurt others",
         "returned": 0,
         "state": "unreported"
       }
