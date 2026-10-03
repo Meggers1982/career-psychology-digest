@@ -20,6 +20,16 @@
         "state": "unreported"
       }
     },
+    "W7172502435": {
+      "checked_at": "2026-10-03T15:01:07.200254+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Politically skilled employees aren spared abusive bosses their extra effort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7172526535": {
       "checked_at": "2026-10-01T14:21:40.782291+00:00",
       "result": {
@@ -30,12 +40,52 @@
         "state": "unreported"
       }
     },
+    "W7201985959": {
+      "checked_at": "2026-10-03T15:00:58.056423+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "economy breaks employees start caring lot about whether pay fair",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7202070440": {
+      "checked_at": "2026-10-03T15:00:46.802974+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "nursing home workers happier work their blood showed inflammation",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7202071941": {
       "checked_at": "2026-09-29T12:45:13.458654+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Applicants have had ChatGPT years Pre employment test scores barely",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7202072432": {
+      "checked_at": "2026-10-03T15:01:20.868757+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Organizational support only pays off performance manager converts into motivation",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7202110265": {
+      "checked_at": "2026-10-03T15:00:06.356755+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Meta analysis workplace chameleons impress bosses than they actually perform",
         "returned": 0,
         "state": "unreported"
       }
@@ -60,12 +110,32 @@
         "state": "unreported"
       }
     },
+    "W7202297645": {
+      "checked_at": "2026-10-03T15:01:04.317068+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Trained workers job hunt because training makes job feel like",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "W7202344708": {
       "checked_at": "2026-09-29T12:45:07.639784+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "LinkedIn profile says about faith shaping who gets interview",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7202354404": {
+      "checked_at": "2026-10-03T15:01:13.989466+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "boss brags about being swamped read decides happens next",
         "returned": 0,
         "state": "unreported"
       }
@@ -106,6 +176,36 @@
         "articles": [],
         "outlets": [],
         "query": "Hiring filters cut applicant pool screen out best candidates too",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7203815879": {
+      "checked_at": "2026-10-03T15:00:24.358241+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "test grip hiring just got weaker meta analysis puts validity",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7203857104": {
+      "checked_at": "2026-10-03T15:00:39.193899+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Playing favorites doesn automatically backfire favored employee know",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7203894267": {
+      "checked_at": "2026-10-03T15:00:36.038892+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "most motivated employee one dodging colleagues hallway",
         "returned": 0,
         "state": "unreported"
       }
@@ -180,6 +280,16 @@
         "state": "unreported"
       }
     },
+    "W7204867954": {
+      "checked_at": "2026-10-03T15:00:54.443976+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Being bossed algorithm actually help gig workers switch off home",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7207518842": {
       "checked_at": "2026-09-29T12:45:03.507855+00:00",
       "result": {
@@ -200,6 +310,16 @@
         "state": "unreported"
       }
     },
+    "W7207756322": {
+      "checked_at": "2026-10-03T15:00:09.972394+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "men scores vary selection test picks workforce both mostly male",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7208704204": {
       "checked_at": "2026-09-29T12:46:09.406626+00:00",
       "result": {
@@ -207,6 +327,16 @@
         "outlets": [],
         "query": "employees ADHD say actually helps work informal relationships flexible bosses",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7208791578": {
+      "checked_at": "2026-10-03T15:01:09.981294+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Career success means different things depending driving",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -240,12 +370,52 @@
         "state": "unreported"
       }
     },
+    "W7212127227": {
+      "checked_at": "2026-10-03T15:00:01.116311+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "same perk keeps nonprofit worker but not corporate one",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7212286790": {
+      "checked_at": "2026-10-03T15:01:17.509145+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cadets who happy work two years earlier likelier win scarce",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213166433": {
       "checked_at": "2026-09-29T12:44:46.024471+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "have all three recruiting math forces trade off between diversity",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7213349432": {
+      "checked_at": "2026-10-03T15:01:00.124329+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Responsible leaders create two kinds team harmony only one them",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7213501285": {
+      "checked_at": "2026-10-03T15:00:48.815077+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Constantly scanning problems makes leaders feel impactful depleted same time",
         "returned": 0,
         "state": "unreported"
       }
@@ -290,6 +460,36 @@
         "state": "unreported"
       }
     },
+    "W7214434160": {
+      "checked_at": "2026-10-03T15:01:01.736864+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Training budgets tell almost nothing many people attend tells who",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7214630663": {
+      "checked_at": "2026-10-03T15:00:21.489202+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "makes over 50s want keep working doesn apply managers",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "W7214632122": {
+      "checked_at": "2026-10-03T15:00:13.516620+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Engagement daily state assertiveness day predicts",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7214648548": {
       "checked_at": "2026-10-01T14:21:24.868428+00:00",
       "result": {
@@ -297,6 +497,36 @@
         "outlets": [],
         "query": "Video job tests work well written ones easier candidates brains",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214754642": {
+      "checked_at": "2026-10-03T15:00:17.279836+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Followers extra mile boss who seems overqualified unless they competitive",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7215081402": {
+      "checked_at": "2026-10-03T15:00:42.846249+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "short video writing exercise cut employee exhaustion two weeks later",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7215123713": {
+      "checked_at": "2026-10-03T15:01:22.169055+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Employees sent abroad come home company has moved many start",
+        "returned": 20,
         "state": "unreported"
       }
     }

@@ -1,0 +1,840 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-03",
+  "days_back": 60,
+  "window_from": "2026-08-04",
+  "window_to": "2026-10-03",
+  "focus": "Motivation & Engagement",
+  "topic": "motivation & engagement",
+  "query": "(\"work motivation\" OR \"employee engagement\" OR \"job satisfaction\" OR \"organizational commitment\" OR \"intrinsic motivation\" OR \"job performance\" OR \"goal setting\" OR \"meaningful work\" OR \"job autonomy\" OR \"employee recognition\" OR \"organizational citizenship\" OR \"work engagement\" OR \"employee retention\")",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 51,
+    "not_research": 4,
+    "no_abstract": 2,
+    "off_topic": 0,
+    "already_covered": 6,
+    "over_journal_cap": 6,
+    "over_cap": 0,
+    "sent": 33
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7212127227",
+      "headline": "Why the same perk keeps a nonprofit worker but not a corporate one",
+      "the_study": "Researchers ran four linked studies comparing how employee-centered management practices — benefits, participation in decisions, and training — play out in nonprofits versus for-profit firms. A preliminary study compared employee ratings across sectors; Study 1 used archival Statistics Canada workplace survey data and found these practices were linked to lower voluntary turnover in nonprofits than in for-profits; a qualitative study pointed to psychological contract fulfillment as the mechanism; and scenario experiments tested that mediation directly. The same HR investment appeared to buy more loyalty in the nonprofit setting, apparently because it confirms employees' sense that the organization keeps its implicit promises.",
+      "why_it_matters": "Nonprofits competing for talent against better-paying employers may get disproportionate retention returns from participation, training and benefits — and for-profit managers learn that identical practices don't produce identical loyalty when employees read them against different expectations.",
+      "story_angle_primary": "For managers: before benchmarking HR spend against other sectors, ask what employees believe your organization promised them. The archival turnover evidence suggests practices that signal 'we meant what we said' outperform generic perks — though the mechanism was tested with scenarios, not live policy changes.",
+      "story_angle_secondary": "For readers weighing a mission-driven job against a corporate one: the research suggests the value of training, voice and benefits depends partly on whether they match what you thought you signed up for, which is one reason people leave jobs that look good on paper.",
+      "caveats": "Mixed evidence quality: the turnover result is archival and correlational, the mediation test rests on hypothetical scenario experiments rather than real decisions, and the archival data are Canadian only.",
+      "journal": "Personnel Psychology",
+      "published": "2026-09-10",
+      "doi": "10.1111/peps.70042",
+      "paper_title": "Can Nonprofits Gain an Advantage in Employee Retention Through Management Practices? A Comparative Lens for Managing Nonprofit Versus for‐Profit Employees",
+      "source_id": "S84664706"
+    },
+    {
+      "work_id": "W7202110265",
+      "headline": "Meta-analysis: workplace chameleons impress bosses more than they actually perform",
+      "the_study": "A meta-analysis of 35 samples examined the long-assumed link between self-monitoring — the tendency to read a room and adjust your behavior accordingly — and job performance. The overall correlation was modest (r = .12), and moderator analyses showed it appeared only in supervisor ratings, not in objective outcome measures, and only for contextual performance (helping, cooperating), not core task performance. The authors conclude self-monitoring is more about style, in the sense of shaping raters' perceptions, than substance.",
+      "why_it_matters": "If performance ratings reward social adaptability rather than output, organizations may be promoting impression managers and misreading who actually delivers — a direct challenge to the common belief that political skill equals effectiveness.",
+      "story_angle_primary": "For managers: audit whether your appraisal system can distinguish contribution from polish. Pair supervisor ratings with outcome data on at least some roles, and notice if your highest-rated people cluster among the most socially attuned rather than the most productive.",
+      "story_angle_secondary": "For readers: adapting your persona to the room really does seem to pay in how you're seen at work — just not, on this evidence, in what you actually produce. That gap explains a lot of office frustration about who gets ahead.",
+      "caveats": "Small overall effect; moderator effects are themselves described as modest with substantial residual heterogeneity; meta-analytic correlations cannot establish causation, and the number of samples (35) is modest for strong moderator claims.",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-08-10",
+      "doi": "10.1111/joop.70139",
+      "paper_title": "Self‐monitoring and job performance: Substance or style? A meta‐analysis",
+      "source_id": "S87328381"
+    },
+    {
+      "work_id": "W7207756322",
+      "headline": "When men's scores vary more, the selection test picks a workforce that's both mostly male and weaker",
+      "the_study": "Published in the *Journal of Applied Psychology*, this work models the consequences of 'greater male variability' — the tendency for men's scores on many ability and personality measures to be more spread out than women's, even at similar average levels — for the output of selection systems. The analysis shows that when such measures are used to select the top scorers, women end up underrepresented, and that selection systems with certain common design attributes yield a workforce that is not only predominantly male but also lower in expected job performance than alternatives. The authors propose design changes that reduce the distorting influence of variability differences on hiring decisions.",
+      "why_it_matters": "It reframes a core diversity problem as a measurement and system-design problem: the same top-down selection rule that produces skewed gender composition can also leave performance on the table, meaning fairness and quality fixes can point in the same direction.",
+      "story_angle_primary": "For managers and HR leaders: examine how your cut scores, top-down ranking and banding rules interact with the distribution — not just the average — of candidate scores. The paper argues specific, fixable design attributes drive the skew, so this is a question for your assessment vendor, not just your diversity statement.",
+      "story_angle_secondary": "For readers: this is a concrete answer to why 'we just hire the top scorers' doesn't automatically mean merit — the shape of the score distribution, not only who is better on average, shapes who ends up in the room.",
+      "caveats": "The abstract supplied is truncated; the work appears to be analytical/simulation-based modeling of selection systems rather than a study of hired employees, so conclusions depend on the assumed distributions and selection parameters.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-03",
+      "doi": "10.1037/apl0001409",
+      "paper_title": "The man of the (second) moment: How greater male variability affects the gender composition and productivity of the workforce.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7214632122",
+      "headline": "Engagement is a daily state — and assertiveness on the day predicts it",
+      "the_study": "Ninety-five full-time employees completed daily diaries across 10 workdays, producing 804 daily observations linking day-level personality states to day-level work engagement. Narrow facets did extra explanatory work: state assertiveness predicted that day's engagement over and above lagged engagement, overall state extraversion and positive mood, while state anxiety predicted engagement beyond state neuroticism and negative mood. In other words, how assertive or anxious someone felt that day mattered independently of their general disposition or mood.",
+      "why_it_matters": "It supports treating engagement as something that fluctuates day to day and is tied to specific, potentially malleable states rather than a fixed personality trait that managers can only hire for.",
+      "story_angle_primary": "For managers: if engagement moves daily, engagement surveys once a year tell you little. Consider whether your meeting design, workload and psychological safety make it easy or hard for people to speak up on a given day — assertiveness on the day was the standout predictor.",
+      "story_angle_secondary": "For readers: a flat, disengaged Tuesday isn't necessarily evidence you're in the wrong job. The data show engagement swings within the same person across a short period, tracking how assertive or anxious you feel that day.",
+      "caveats": "Small sample (N=95), all self-report from a single source so common-method bias is plausible, correlational within-person design over only 10 workdays, and occupation/country details are limited.",
+      "journal": "Journal of Business and Psychology",
+      "published": "2026-09-28",
+      "doi": "10.1007/s10869-026-10147-7",
+      "paper_title": "Incremental advantage of extraversion and neuroticism facets in predicting state work engagement",
+      "source_id": "S61413993"
+    },
+    {
+      "work_id": "W7214754642",
+      "headline": "Followers go the extra mile for a boss who seems overqualified — unless they're competitive narcissists",
+      "the_study": "Across one US vignette experiment and two multi-wave, multi-source surveys of employees in China, researchers tested how perceiving your leader as overqualified for the role affects your behavior toward them. Seeing a leader as overqualified strengthened followers' personal identification with that leader, which in turn predicted more organizational citizenship behavior directed at the leader. The effect depended on follower personality: narcissistic admiration amplified the identification pathway, while narcissistic rivalry suppressed it.",
+      "why_it_matters": "Overqualification is usually studied as a liability for the overqualified employee; here it's an asset that spills over, with a leader's surplus credentials making followers more willing to help them — but not with every follower.",
+      "story_angle_primary": "For managers: a leader who is 'too good' for the job may be a team-level advantage, not just a flight risk. Watch for the subset of direct reports who respond to a high-status boss with rivalry rather than admiration, since the same leader attribute moves them in the opposite direction.",
+      "story_angle_secondary": "For readers: how you react to a boss with more credentials than the job requires — inspired or threatened — says as much about you as about them, and shapes how much discretionary help you end up giving.",
+      "caveats": "One study uses hypothetical vignettes; the field evidence comes from two surveys in China, limiting generalization; citizenship behavior toward the leader is measured relationally and outcomes rest partly on self-reported perceptions of the leader.",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-09-29",
+      "doi": "10.1002/job.70132",
+      "paper_title": "Linking Leader Overqualification to Employee Organizational Citizenship Behaviors Toward the Leader: A Personal Identification Process Model",
+      "source_id": "S160573970"
+    },
+    {
+      "work_id": "W7214630663",
+      "headline": "What makes over-50s want to keep working — and why it doesn't apply to managers",
+      "the_study": "A survey of 432 employees aged 50 and over in a Dutch local government examined whether job resources predict willingness to continue working in their current role. Job satisfaction fully mediated the effects of autonomy and social support, and partially mediated the effect of learning opportunities. Crucially, job category moderated the satisfaction–willingness link: it was strong for professionals and support staff but absent among those in managerial positions.",
+      "why_it_matters": "With aging workforces and pension ages rising, employers trying to retain older staff may need different levers for different job families — job satisfaction appears to be a poor retention lever for older managers.",
+      "story_angle_primary": "For HR and managers: if you're redesigning roles to keep experienced staff longer, autonomy, social support and learning opportunities are the resources that translate into willingness to stay — but don't assume the same satisfaction-based logic works for your older managers, for whom the link didn't appear.",
+      "story_angle_secondary": "For readers approaching their 50s and 60s: the decision to keep working often turns less on pay than on whether the job still offers control, colleagues and something new to learn.",
+      "caveats": "Cross-sectional self-report survey — no causal inference; single organization (one Dutch local government) and single country; the managerial subgroup is likely small, so the null finding there should be treated as tentative.",
+      "journal": "Personnel Review",
+      "published": "2026-09-28",
+      "doi": "10.1108/pr-06-2025-0665",
+      "paper_title": "Job resources as predictors for older workers’ willingness to continue working: moderated mediation model of job category and job satisfaction",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7203815879",
+      "headline": "The IQ test's grip on hiring just got weaker: new meta-analysis puts the validity at .20, not .50",
+      "the_study": "Researchers obtained the raw datasets behind three recent competing meta-analyses of general mental ability (GMA) and job performance, covering studies published between 1990 and 2022, and pooled them into a single comprehensive analysis (total k=212 samples, N=109,396 workers). The mean operational validity of cognitive ability for overall job performance came out at .18 to .22 — far below the near-.50 figure that dominated textbooks and was based largely on pre-1980 data. Moderator analyses using O*NET job complexity dimensions found little link between cognitive complexity (\"Data\") and validity, but a positive relationship for manual complexity (\"Things\"), contradicting the long-standing assumption that intelligence tests matter most in cognitively demanding jobs.",
+      "why_it_matters": "Cognitive ability testing has been defended for decades as the most powerful and defensible selection tool available, and that claim has shaped hiring budgets, vendor pitches and legal arguments; the contemporary estimate suggests it explains roughly 4% of performance variance, not 25%.",
+      "story_angle_primary": "If your organization buys cognitive ability tests, ask the vendor which meta-analysis their validity claims rest on and whether the data predate 1980 — and reconsider how much weight a test score should carry relative to structured interviews, work samples and job knowledge assessments.",
+      "story_angle_secondary": "For job seekers who have felt reduced to an aptitude score, this is evidence that the predictive power of such tests over actual job performance is modest — and that the \"smart people do better at complex jobs\" assumption is shakier than it sounds.",
+      "caveats": "Meta-analytic operational validities are corrected estimates, not observed correlations, and the debate is precisely about how much correction is appropriate; the analysis reuses overlapping datasets assembled by other teams, and validity coefficients reflect correlation with supervisor-rated performance rather than proven causation.",
+      "journal": "Journal of Business and Psychology",
+      "published": "2026-08-25",
+      "doi": "10.1007/s10869-026-10146-8",
+      "paper_title": "Is general mental ability still the best predictor of job performance? Integrating contemporary meta-analytic evidence",
+      "source_id": "S61413993"
+    },
+    {
+      "work_id": "W7203894267",
+      "headline": "Your most motivated employee may be the one dodging colleagues in the hallway",
+      "the_study": "Across three studies — an online experiment with a U.S. sample, a field experiment in China, and a survey of Chinese employees — researchers tested whether high task motivation can produce a maladaptive side effect: avoiding interaction with coworkers. When employees perceived their work as low in task interdependence, those with higher task motivation were more likely to dodge social interaction in order to protect their focus, and that avoidance was in turn associated with lower job performance.",
+      "why_it_matters": "Managers typically treat motivation as an unmitigated good, but the findings suggest highly driven employees in seemingly independent roles can cut themselves off from the information and coordination they actually need to perform.",
+      "story_angle_primary": "If you manage someone who is head-down and highly driven, check whether they understand how interdependent their work really is — making the hand-offs and downstream dependencies explicit may be what converts their motivation into results rather than isolation.",
+      "story_angle_secondary": "The familiar instinct to close the door, decline the meeting and \"just get it done\" can quietly cost you — especially when you underestimate how much your output depends on other people's.",
+      "caveats": "Two of three samples are Chinese and the online experiment uses a panel-type U.S. sample; the survey component is self-report and cannot establish causation; funded by the National Natural Science Foundation of China.",
+      "journal": "Organization Science",
+      "published": "2026-08-21",
+      "doi": "10.1287/orsc.2024.18802",
+      "paper_title": "Can Task Motivation Backfire? The Roles of Perceived Task Interdependence and Interaction Avoidance",
+      "source_id": "S206124708"
+    },
+    {
+      "work_id": "W7203857104",
+      "headline": "Playing favorites doesn't automatically backfire — if the favored employee is you, and you know it",
+      "the_study": "Three studies — a preregistered experiment, a single-level multi-wave survey, and a multilevel, multi-wave, multisource study — examined how followers react when a leader visibly treats team members differently. Differentiation generally lowered followers' sense of being treated fairly by their supervisor, which then increased supervisor-directed deviance and reduced citizenship behavior toward the boss. But when a follower's own relationship quality with the leader was high and they compared favorably to teammates, the damaging effect of differentiation shrank to statistically zero.",
+      "why_it_matters": "Leaders inevitably build closer relationships with some reports than others; the research pinpoints that the harm comes from followers' justice perceptions, and that it falls disproportionately on those who sense they are on the losing end of the comparison.",
+      "story_angle_primary": "Before assuming your team can handle visible differences in how you treat people, audit who is likely to perceive themselves as the less-favored party — those are the relationships where unfairness perceptions, withdrawn goodwill and subtle pushback will show up first.",
+      "story_angle_secondary": "Much of what feels like office politics is really social comparison: how you feel about your boss depends less on how they treat you than on how they treat you relative to the person at the next desk.",
+      "caveats": "One component is a scenario-based experiment; the field components rely substantially on follower self-report for justice perceptions and deviance, and the designs are correlational over time rather than causal outside the experiment.",
+      "journal": "Journal of Management",
+      "published": "2026-08-20",
+      "doi": "10.1177/01492063261467674",
+      "paper_title": "How Followers Respond to Leader Differentiation: The Importance of Considering All Leader Differentiation Properties",
+      "source_id": "S122767448"
+    },
+    {
+      "work_id": "W7215081402",
+      "headline": "A short video and a writing exercise cut employee exhaustion two weeks later",
+      "the_study": "Researchers randomly assigned 120 employees to an online \"stress mindset\" micro-intervention — a video about the potential benefits of stressful situations plus a writing task — or to an alternative-treatment or passive control condition, with half the intervention group getting a booster session a week later. Two weeks on, the intervention had shifted participants' stress mindset with no fade-out, and both intervention groups reported lower exhaustion and were less likely to appraise work demands as hindrances. Unexpectedly, the no-booster group also showed a decline in challenge appraisal.",
+      "why_it_matters": "It suggests a very cheap, low-burden digital exercise can move how employees interpret job stress and reduce exhaustion — a contrast to expensive multi-session wellness programs.",
+      "story_angle_primary": "Worth testing as a low-cost supplement to wellness offerings, but treat it as a complement to fixing workload, not a substitute: reframing stress is not the same as reducing it, and the unexpected drop in challenge appraisal is a warning sign that deserves tracking.",
+      "story_angle_secondary": "How you interpret a stressful week — as a threat to survive or a demand you can meet — appears to be partly trainable, and the shift held for at least two weeks.",
+      "caveats": "Small sample (N=120 split across three conditions), short two-week horizon, self-report outcomes, and a counterintuitive negative finding on challenge appraisal; the booster did not clearly improve results.",
+      "journal": "European Journal of Work and Organizational Psychology",
+      "published": "2026-09-30",
+      "doi": "10.1080/1359432x.2026.2736701",
+      "paper_title": "Improving employees’ job-stress mindset with an online micro-intervention: a randomized controlled study",
+      "source_id": "S187270080"
+    },
+    {
+      "work_id": "W7202070440",
+      "headline": "When nursing home workers were happier at work, their blood showed less inflammation",
+      "the_study": "Researchers followed 799 nursing home employees across four measurement points over 18 months, combining surveys with blood-based C-reactive protein, a marker of chronic inflammation. At times when workers reported job satisfaction above their own personal average, they also showed lower perceived stress and lower chronic inflammation than at their own lower-satisfaction times. For employees without unpaid caregiving duties at home, higher job satisfaction was indirectly linked to lower inflammation through greater positive work-to-family spillover, and to lower perceived stress through reduced work-family conflict.",
+      "why_it_matters": "It links job satisfaction to a hard physiological health marker using within-person comparisons, strengthening the case that how people feel about their jobs is a health issue rather than just an HR metric.",
+      "story_angle_primary": "Job satisfaction surveys are usually framed as engagement and retention tools; this suggests they also track something with biological consequences — and that employees juggling unpaid caregiving may not get the same spillover benefits from a good day at work.",
+      "story_angle_secondary": "A satisfying stretch at work appears to follow you home in measurable ways, but if you are also caring for a relative or child outside work hours, the buffering effect looks weaker.",
+      "caveats": "Single occupation and industry (nursing home workers), observational design that cannot prove job satisfaction causes lower inflammation, predictors and most outcomes self-reported, and caregiver-status differences were patterns rather than cleanly distinct pathways.",
+      "journal": "Journal of Occupational Health Psychology",
+      "published": "2026-08-10",
+      "doi": "10.1037/ocp0000447",
+      "paper_title": "How we benefit from job satisfaction: The moderating effect of informal caregiving on the associations between job satisfaction and physiological and psychological stress.",
+      "source_id": "S3481703"
+    },
+    {
+      "work_id": "W7213501285",
+      "headline": "Constantly scanning for problems makes leaders feel impactful — and depleted at the same time",
+      "the_study": "Using an experience sampling study of 176 leader-follower dyads plus a scenario-based experiment (N=142), researchers tracked what happens to leaders themselves when they engage in vigilant leadership — actively monitoring for risks and problems. The behavior ran down two simultaneous paths: it raised leaders' sense of having impact at work, which boosted their engagement, while also producing ego depletion, which drained it. Followers' proactive personality tilted the balance: with proactive followers, the energizing path strengthened and the draining path weakened.",
+      "why_it_matters": "It reframes vigilance as a cost borne by the leader, and suggests the net toll depends heavily on who is on the team — leaders of passive teams pay more for the same behavior.",
+      "story_angle_primary": "If you're the manager always scanning for what could go wrong, notice that the drain is real and partly determined by your team: building followers who spot and act on problems themselves may be the most direct way to make vigilance sustainable for you.",
+      "story_angle_secondary": "The boss who seems exhausted by watching everything may be caught in a genuine bind — the same behavior that makes them feel they matter is what wears them out.",
+      "caveats": "The experience sampling study is short-term and self-report for leader states; the second study is a scenario-based experiment with hypothetical rather than real decisions and a modest N; ego depletion as a construct remains contested in the broader literature.",
+      "journal": "Applied Psychology",
+      "published": "2026-09-17",
+      "doi": "10.1111/apps.70142",
+      "paper_title": "Does vigilant leadership energize or drain leaders? A resource‐based dual path model",
+      "source_id": "S47864991"
+    },
+    {
+      "work_id": "W7204867954",
+      "headline": "Being bossed by an algorithm may actually help gig workers switch off at home",
+      "the_study": "Chinese researchers surveyed 658 gig workers across three time points to test how algorithmic management — platform systems that set goals, assign tasks and track performance — spills over into family life. Drawing on goal-setting theory, they found that tighter algorithmic direction increased workers' concentration on the job, which in turn was linked to more positive and less negative work-to-family spillover. The benefit faded for workers high in \"depletion sensitivity,\" who tire quickly and found the same system draining.",
+      "why_it_matters": "Algorithmic management is usually cast as a purely dehumanizing force, but this suggests clear, system-set goals can reduce the mental residue workers carry home — while hurting the subset of people who exhaust easily.",
+      "story_angle_primary": "For managers running platform or heavily tracked work: the study hints that the problem may be less automation per se than one-size-fits-all intensity. Worth examining whether your most fatigue-prone workers need adjustable targets or recovery buffers, rather than assuming monitoring affects everyone identically.",
+      "story_angle_secondary": "For anyone doing delivery, rideshare or freelance platform work: structure imposed from outside can make it easier to stop thinking about the job once the shift ends — but only if you're not already running on empty.",
+      "caveats": "Self-report survey at all three waves, so common-method bias is possible and causation can't be firmly established; gig workers in a single country; \"positive spillover\" measured by workers' own perceptions, not family members'; time lags were short.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-09-01",
+      "doi": "10.1108/jmp-10-2025-1066",
+      "paper_title": "Why and when algorithmic management influences gig workers' work-family interface? Based on goal-setting theory",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7201985959",
+      "headline": "When the economy breaks, employees start caring a lot more about whether pay is fair",
+      "the_study": "Using repeated employee surveys collected between 2007 and 2011 at Japanese-owned subsidiaries in China, researchers tracked how the drivers of organizational commitment shifted around the global financial crisis. Across four subsidiaries, reliance on reward fairness rose in one manufacturing site; a focused analysis of production workers there showed that perceived fairness of rewards became a significantly stronger predictor of commitment after the crisis, while other commitment drivers stayed flat or weakened. The effect was notably weaker among supervisors than frontline employees.",
+      "why_it_matters": "It suggests that during downturns, the usual levers of loyalty lose power and distributive fairness becomes the one that matters most — especially for the people furthest from the decisions.",
+      "story_angle_primary": "In a cost-cutting or restructuring cycle, perks and development talk may do less for commitment than being able to show that pay, bonuses and cuts were allocated fairly. Managers should also note that their own reaction to fairness isn't a good proxy for their team's — supervisors in this study were far less sensitive to it.",
+      "story_angle_secondary": "Economic anxiety changes what employees watch. When jobs feel precarious, people stop evaluating their employer on vague goodwill and start counting who got what.",
+      "caveats": "Non-experimental repeated cross-sections, not a tracked panel of the same individuals; the key effect appeared in one manufacturing subsidiary rather than uniformly; Japanese-owned firms in China in a specific historical window; moderation effect for supervisors was borderline (p = 0.050).",
+      "journal": "Human Resource Management Journal",
+      "published": "2026-08-07",
+      "doi": "10.1111/1748-8583.70061",
+      "paper_title": "When Fair Rewards Matter More: Economic Crisis, Employee Position, and Organizational Commitment in Japanese Subsidiaries in China",
+      "source_id": "S113497174"
+    },
+    {
+      "work_id": "W7213349432",
+      "headline": "\"Responsible\" leaders create two kinds of team harmony — and only one of them helps",
+      "the_study": "Across three studies, including multilevel, multisource, time-lagged data collected in more than one country, researchers developed measures of \"genuine\" versus \"superficial\" team harmony toward stakeholders and tested how responsible leadership — leadership oriented to stakeholders beyond shareholders — affects teams. Responsible leadership triggered both kinds of harmony: genuine harmony boosted team creativity and citizenship behavior toward stakeholders, while superficial harmony (smoothing things over for appearances) dragged them down. A mastery-oriented team climate amplified the good path and suppressed the bad one; a performance-oriented climate did the reverse.",
+      "why_it_matters": "It identifies a concrete failure mode for values-driven leadership: teams can perform agreement with the leader's stakeholder agenda instead of actually engaging with it, and a hard performance climate makes that fake version more likely.",
+      "story_angle_primary": "If you lead a team on ESG, customer or community commitments, watch for the difference between real buy-in and polite conformity. The study suggests emphasizing learning and mastery, rather than raw performance targets, shifts teams toward the genuine kind — worth testing in how you frame goals and run meetings.",
+      "story_angle_secondary": "Most people recognize the meeting where everyone nods and nothing changes. This research puts a name to it and shows why high-pressure environments breed it.",
+      "caveats": "Survey-based despite multisource and time-lagged design, so causal claims remain tentative; new self-developed harmony measures; team-level sample sizes not reported in the abstract; cultural generalizability still open.",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-09-01",
+      "doi": "10.1111/joop.70157",
+      "paper_title": "Enhancing team effectiveness through responsible leadership: A dual harmony perspective",
+      "source_id": "S87328381"
+    },
+    {
+      "work_id": "W7214434160",
+      "headline": "Training budgets tell you almost nothing — how many people attend tells you who stays",
+      "the_study": "Researchers analyzed longitudinal data on Korean manufacturing firms with a two-year lagged design and generalized estimating equations, comparing training-cost measures against composite indicators that combine cost with training time, enrollment rate, and financial and HR \"slack.\" Models based on the ratio of training cost to HR slack best explained firms' financial performance two years later, while training cost multiplied by enrollment rate best predicted lower turnover. Training spend on its own was the weakest way to evaluate the investment.",
+      "why_it_matters": "Most firms report training as a cost line, which this evidence says is close to meaningless; reach and spare capacity to absorb it are what connect training to money and retention.",
+      "story_angle_primary": "If you own an L&D budget, change what you report upward: participation breadth and whether the organization has the HR headroom to apply new skills predict outcomes better than dollars per head. A big spend concentrated on a few people, in a team with no slack, looks like investment and behaves like nothing.",
+      "story_angle_secondary": "For employees, it explains a familiar frustration: companies boast about training spend while most staff never get access, or come back from a course to a workload that leaves no room to use it.",
+      "caveats": "Firm-level archival data from one country and sector (Korean manufacturing), so mechanisms at the individual level are inferred; correlational despite the two-year lag; indicators are proxies, with no measure of training content or quality.",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-09-26",
+      "doi": "10.1080/09585192.2026.2737821",
+      "paper_title": "Training investment indicators beyond cost: analyzing the impact of training on organizational outcomes",
+      "source_id": "S184846731"
+    },
+    {
+      "work_id": "W7202297645",
+      "headline": "Trained workers job-hunt less — because training makes the job feel like a fit",
+      "the_study": "Drawing on a national survey of Chinese social work agencies, researchers analyzed 2,971 community workers nested in 215 agencies across 41 regions. Employer-provided training was associated with less job-search activity, and work engagement explained much of that link. The dampening effect of training on job search was stronger in regions where agencies imitated peers or followed professional norms, and weaker where training was driven by government mandate.",
+      "why_it_matters": "It suggests training retains people mainly by making the current job more engaging — and that compliance-driven, box-ticking training does not produce the same effect.",
+      "story_angle_primary": "Before expanding a training program, ask why it exists. This study indicates that training adopted because it is professionally expected or copied from respected peers holds people better than training run to satisfy a regulator — a useful question for anyone defending an L&D line item.",
+      "story_angle_secondary": "The common worry that training makes staff more marketable and likelier to leave didn't hold here; workers who got development were less likely to be looking elsewhere.",
+      "caveats": "Cross-sectional survey, so causation can't be established and engaged workers may simply receive more training; a single occupation (community/social workers) in one country; job search is self-reported, not actual turnover.",
+      "journal": "Personnel Review",
+      "published": "2026-08-12",
+      "doi": "10.1108/pr-07-2024-0659",
+      "paper_title": "Institutional isomorphism at the regional level: a multilevel analysis with training, work engagement and community workers' job search",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7172502435",
+      "headline": "Politically skilled employees aren't spared abusive bosses — their extra effort is what protects them",
+      "the_study": "A three-wave survey of 224 employees at a Chinese transportation firm tested whether subordinates' political skill shields them from abusive supervision. Political skill had no direct relationship with being mistreated; instead, politically skilled employees did more organization-directed citizenship behavior, and that extra discretionary effort was what predicted less abuse. Task performance, notably, did not serve the same protective function.",
+      "why_it_matters": "It reverses the usual framing in which employee behavior is only an outcome of abusive leadership, suggesting instead that what subordinates visibly contribute shapes how supervisors treat them.",
+      "story_angle_primary": "Uncomfortable but useful: simply hitting your targets may not register with a hostile manager, while visible contributions beyond the job description do. Managers should flip the lens and ask whether they are unconsciously reserving harsher treatment for people who do their job and nothing more.",
+      "story_angle_secondary": "The finding speaks to a familiar office dynamic — being good at reading people pays off not through charm alone, but through knowing which contributions get noticed.",
+      "caveats": "Single firm, single industry, single country; modest sample (N=224); all measures self-reported across the three waves, limiting causal claims about the direction between abuse and employee behavior; abusive supervision rated by subordinates only.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-08-05",
+      "doi": "10.1108/jmp-07-2025-0664",
+      "paper_title": "Are you morally included? The mediating effect of subordinates' task performance and organizational citizenship behavior between political skill and abusive supervision",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7208791578",
+      "headline": "\"Career success\" means different things depending on what's driving you",
+      "the_study": "In a time-separated survey of 377 U.S. women, researchers used canonical correlation analysis to map the two dimensions of a protean career — being self-directed and being values-driven — onto eight distinct facets of career success rather than a single satisfaction score. Growth and development was the facet most strongly tied to protean attitudes overall, and recognition the least. Self-directed women linked success most to growth and satisfaction; values-driven women linked it most to personal life.",
+      "why_it_matters": "It shows that collapsing career success into \"are you satisfied?\" hides what people are actually chasing — and that two people both described as having protean careers may want entirely different things.",
+      "story_angle_primary": "For managers holding career conversations, the practical message is to stop assuming promotions and recognition are the universal currency. Asking whether someone is optimizing for growth, for alignment with their values, or for room for a personal life changes what a meaningful retention offer looks like.",
+      "story_angle_secondary": "For anyone taking stock of their own career: external recognition came out as the weakest correlate of a self-authored career, which may be reassuring to people who feel they are doing well by their own standards but not collecting titles.",
+      "caveats": "Correlational and exploratory, with no causal or longitudinal test despite the time separation; U.S. women only, so comparisons across gender aren't possible; one success dimension (authenticity) had to be dropped for poor discriminant validity; all self-report.",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-09-04",
+      "doi": "10.1177/10690727261485957",
+      "paper_title": "Exploring Protean Career Attitudes and Career Success in U.S. Women",
+      "source_id": "S68758695"
+    },
+    {
+      "work_id": "W7202354404",
+      "headline": "When the boss brags about being swamped, your read on why decides what happens next",
+      "the_study": "Two studies examined how employees respond to leaders who boast about how stressed and overloaded they are: a scenario-based experiment with 294 employees and a two-wave survey of 332 employees. When subordinates attributed the stress bragging to a genuine push for performance, they engaged in task-focused reflection and reported higher work engagement. When they read it as impression management, they ruminated about the leader instead and withdrew from interacting with them.",
+      "why_it_matters": "Leaders who narrate their own exhaustion may think they are modeling commitment, but the same words can either energize a team or quietly push people away depending on the motive employees infer.",
+      "story_angle_primary": "Managers can audit their own \"I was up until 2am on this\" talk: the study suggests the deciding factor is whether the comment is tied to the work and the standard, or to the leader's image. The experimental half shows what can happen in principle, so the practical test is to ask trusted colleagues how such remarks actually land on the team.",
+      "story_angle_secondary": "A field guide to the boss who is always drowning: whether their busyness talk motivates you or makes you avoid them says as much about the trust in the relationship as about the workload.",
+      "caveats": "Study 1 is a hypothetical scenario experiment rather than real work decisions; Study 2 is a two-wave self-report survey with predictor and outcome from the same source, limiting causal claims and raising common-method concerns.",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-08-12",
+      "doi": "10.1002/job.70124",
+      "paper_title": "Hinting or Boasting? How Attributions of Leaders' Stress Bragging Shape Employee Behavior Through Rumination and Reflection",
+      "source_id": "S160573970"
+    },
+    {
+      "work_id": "W7212286790",
+      "headline": "Cadets who were happy at work two years earlier were likelier to win scarce leadership posts",
+      "the_study": "Researchers followed 444 first- and second-year cadets at the Korea Military Academy who reported their happiness at work in 2023, then checked who was appointed to competitive leadership roles in their fourth year — positions held by roughly 4% of each cohort. Controlling for baseline cumulative performance, gender and cohort, higher early happiness at work predicted selection (odds ratio 1.68). Affective organizational commitment was the component that most clearly predicted selection; job satisfaction did not.",
+      "why_it_matters": "Even in a system explicitly built to rank people on measurable merit, how attached someone feels to the organization early on appears to shape who later gets handed authority.",
+      "story_angle_primary": "If emotional attachment predicts promotion above and beyond performance scores, organizations should ask whether their selection processes are quietly rewarding enthusiasm and fit — and whether that advantages people who were already well treated. Worth checking in your own promotion data whether engagement surveys forecast advancement independent of appraisal ratings.",
+      "story_angle_secondary": "The long game of career advancement may start earlier and softer than people expect: feeling committed to where you work in year one can show up in who gets picked in year four.",
+      "caveats": "Single institution in one country (a military academy with unusual hierarchy and selection rules), modest N for a rare outcome, confidence intervals near the significance boundary for several components, and the correlational design cannot rule out that happier cadets differed in unmeasured ways.",
+      "journal": "International Journal of Selection and Assessment",
+      "published": "2026-09-11",
+      "doi": "10.1111/ijsa.70083",
+      "paper_title": "Who Gets Selected in Rigid Hierarchies? Early Happiness at Work and Competitive Leadership Selection",
+      "source_id": "S148368070"
+    },
+    {
+      "work_id": "W7202072432",
+      "headline": "Organizational support only pays off in performance when the manager converts it into motivation",
+      "the_study": "Using multisource, multi-time data from 217 employees and 41 supervisors, researchers tested why perceived organizational support sometimes translates into better in-role performance and sometimes doesn't. Support predicted supervisor-rated performance through employees' sense of competence and self-determination. Crucially, those indirect paths were significant only when transformational leadership was high — when it was low, the support-to-empowerment link essentially disappeared.",
+      "why_it_matters": "Companies invest heavily in support-style HR practices (benefits, recognition, development), and this suggests the return on that spending depends on whether immediate managers help people experience the support as empowerment.",
+      "story_angle_primary": "Before adding another support program, managers can ask whether frontline leaders are doing the translation work; the study implies HR investments and leadership development are complements, not substitutes. A natural internal test is comparing engagement and performance outcomes of the same benefits package across teams with differing manager behavior.",
+      "story_angle_secondary": "It helps explain a familiar frustration: why generous company perks can feel hollow under one boss and genuinely motivating under another.",
+      "caveats": "Cross-sectional in structure despite multi-time collection, so causation is not established; relatively small sample (217 employees, 41 supervisors) and empowerment measures are self-reported; context of a single organizational setting limits generalization.",
+      "journal": "Journal of Leadership & Organizational Studies",
+      "published": "2026-08-10",
+      "doi": "10.1177/15480518261475717",
+      "paper_title": "Unlocking Organizational Support Through Psychological Empowerment: Identification and Test of Transformational Leadership as a Catalyst of Perceived Organizational Support",
+      "source_id": "S64831726"
+    },
+    {
+      "work_id": "W7215123713",
+      "headline": "Employees sent abroad come home to a company that has moved on — and many start looking elsewhere",
+      "the_study": "Researchers interviewed 35 repatriates across industries, plus focus groups with HR professionals, about returning from international assignments during geopolitical crises and COVID-19. They distinguish career-function support (career continuity, making foreign knowledge usable, structured reintegration) from identity-belonging support (recognition, managerial empathy, inclusion in peer networks). Repatriates returning during disruption were acutely sensitive to gaps between what was promised before departure and what they actually got, and those gaps tracked with lower well-being, weaker commitment and intentions to leave.",
+      "why_it_matters": "International assignments are expensive talent investments, and this suggests the losses happen at the return, when the organization treats reentry as an administrative formality rather than a re-belonging process.",
+      "story_angle_primary": "If you manage returning expatriates, the actionable point is that a job slot alone is not reintegration: recognition of what they learned abroad and reentry into informal networks mattered as much as the role itself. Audit the promises made at departure against what reentering staff actually experience.",
+      "story_angle_secondary": "Anyone who has returned from a secondment, long leave or relocation will recognize the quiet shock of coming back to a workplace whose social map has redrawn itself without them.",
+      "caveats": "Qualitative interview study with 35 participants — no quantitative effect estimates, no comparison group, and self-reported retrospective accounts across mixed industries; findings are exploratory and not generalizable in a statistical sense.",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-10-01",
+      "doi": "10.1080/09585192.2026.2740757",
+      "paper_title": "Rebuilding belonging: the role of organizational support in repatriates’ socio-professional reintegration amid global volatility",
+      "source_id": "S184846731"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7212127227",
+      "headline": "Why the same perk keeps a nonprofit worker but not a corporate one",
+      "verdict": "accurate",
+      "notes": "Study structure (preliminary study, archival Statistics Canada data, qualitative study, scenario experiments), findings and mechanism all match the abstract; caveats correctly separate the archival correlational turnover result from the scenario-based mediation test.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "work_id": "W7202110265",
+      "headline": "Meta-analysis: workplace chameleons impress bosses more than they actually perform",
+      "verdict": "accurate",
+      "notes": "35 samples, r = .12, supervisor-rating-only and contextual-performance-only moderators all match. Caveats correctly note modest moderator magnitudes, residual heterogeneity and the non-causal nature of meta-analytic correlations.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "work_id": "W7207756322",
+      "headline": "When men's scores vary more, the selection test picks a workforce that's both mostly male and weaker",
+      "verdict": "minor",
+      "notes": "Core claims match the (truncated) abstract, but several specifics — top-scorer selection, cut scores, top-down ranking, banding, 'than alternatives' — go beyond what the supplied text states. The digest's own caveat flags the truncation.",
+      "issues": [
+        {
+          "label": "Selection-design specifics not in abstract",
+          "severity": "Minor",
+          "as_written": "examine how your cut scores, top-down ranking and banding rules interact with the distribution — not just the average — of candidate scores",
+          "abstract_says": "The supplied abstract text only says measures \"are used as selection tools\" and that \"selection systems with particular (and not uncommon) attributes result in a workforce that is not only mostly male but also inferior with regard to expected job performance.\"",
+          "problem": "The named design features (cut scores, top-down ranking, banding) and the phrase \"when such measures are used to select the top scorers\" are specific mechanisms the truncated abstract does not state. Unverifiable from abstract only.",
+          "suggested_fix": "Soften to \"the attributes of your selection system\" or note explicitly that the specific design features are inferred from the paper's framing rather than stated in the available abstract."
+        },
+        {
+          "label": "Comparative claim added",
+          "severity": "Minor",
+          "as_written": "yield a workforce that is not only predominantly male but also lower in expected job performance than alternatives",
+          "abstract_says": "\"result in a workforce that is not only mostly male but also inferior with regard to expected job performance\"",
+          "problem": "\"than alternatives\" adds an explicit comparison benchmark the abstract does not specify.",
+          "suggested_fix": "Drop \"than alternatives\" or write \"lower in expected job performance than the system's designers assume.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7214632122",
+      "headline": "Engagement is a daily state — and assertiveness on the day predicts it",
+      "verdict": "minor",
+      "notes": "N, design, observation count and incremental-prediction findings all match. Only issue is calling assertiveness the \"standout\" predictor when the abstract gives anxiety parallel standing.",
+      "issues": [
+        {
+          "label": "Assertiveness overweighted relative to anxiety",
+          "severity": "Minor",
+          "as_written": "assertiveness on the day was the standout predictor",
+          "abstract_says": "\"state assertiveness predicted state work engagement beyond lagged engagement, state extraversion, and state positive affect. Similarly, state anxiety predicted state work engagement beyond lagged engagement, state neuroticism, and state negative affect.\"",
+          "problem": "The abstract reports the two facets as parallel incremental predictors and gives no ranking; calling assertiveness the \"standout\" implies a comparison the abstract does not make.",
+          "suggested_fix": "Change to \"assertiveness was one of two facets that added predictive value on the day\" or drop the ranking language."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7214754642",
+      "headline": "Followers go the extra mile for a boss who seems overqualified — unless they're competitive narcissists",
+      "verdict": "accurate",
+      "notes": "Design (one US vignette experiment, two multi-wave multi-source surveys in China), the identification–OCBL mediation and both narcissism moderators are reported correctly, and the caveats flag the vignette and single-country limits.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "work_id": "W7214630663",
+      "headline": "What makes over-50s want to keep working — and why it doesn't apply to managers",
+      "verdict": "accurate",
+      "notes": "N=432, Dutch local government, full mediation for autonomy and social support, partial for learning opportunities, and the job-category moderation (none for managers) all match. Cross-sectional caveat present.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "work_id": "W7203815879",
+      "headline": "The IQ test's grip on hiring just got weaker: new meta-analysis puts the validity at .20, not .50",
+      "verdict": "minor",
+      "notes": "k, N, the .18–.22 range and the .20 summary estimate are all correct. The moderator section drops the 'Data and Things combined' result and the abstract's qualifier 'cognitive complexity alone', which softens the contradiction the digest claims.",
+      "issues": [
+        {
+          "label": "Dropped moderator nuance ('alone' and the Data×Things combination)",
+          "severity": "Moderate",
+          "as_written": "contradicting the long-standing assumption that intelligence tests matter most in cognitively demanding jobs",
+          "abstract_says": "\"indicated little relationship between Data (cognitive complexity) or People (interpersonal) and validity, a positive relationship for Things (manual), and higher validity in jobs combining greater Data and Things, challenging the traditional view that GMA is most predictive in jobs that are high on cognitive complexity alone\"",
+          "problem": "The abstract challenges the view that GMA predicts best in jobs high on cognitive complexity *alone*, and reports higher validity where Data and Things combine. The digest omits both the combination finding and the word 'alone', turning a qualified challenge into a flat contradiction.",
+          "suggested_fix": "Add that validity was higher in jobs combining cognitive and manual complexity, and rephrase as \"challenging the view that GMA matters most in jobs high on cognitive complexity alone.\""
+        },
+        {
+          "label": "'People' dimension omitted",
+          "severity": "Minor",
+          "as_written": "Moderator analyses using O*NET job complexity dimensions found little link between cognitive complexity (\"Data\") and validity, but a positive relationship for manual complexity (\"Things\")",
+          "abstract_says": "\"little relationship between Data (cognitive complexity) or People (interpersonal) and validity\"",
+          "problem": "The third O*NET dimension (People/interpersonal), which also showed little relationship, is left out of the summary.",
+          "suggested_fix": "Mention that neither Data nor People related to validity."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "work_id": "W7203894267",
+      "headline": "Your most motivated employee may be the one dodging colleagues in the hallway",
+      "verdict": "accurate",
+      "notes": "All three study designs and their national samples are reported correctly, the moderated mediation matches the abstract, and the Chinese funding source is disclosed in the caveats.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "work_id": "W7203857104",
+      "headline": "Playing favorites doesn't automatically backfire — if the favored employee is you, and you know it",
+      "verdict": "accurate",
+      "notes": "Three-study design, the interactional-justice mediation, the deviance/OCB outcomes and the high-LMX-quality × high-social-comparison boundary condition (effects not reliably different from zero) are all reported faithfully.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "work_id": "W7215081402",
+      "headline": "A short video and a writing exercise cut employee exhaustion two weeks later",
+      "verdict": "accurate",
+      "notes": "N=120 RCT, conditions, booster split, no fade-out, reduced exhaustion and hindrance appraisal, and the unexpected challenge-appraisal drop all match. The digest omits the work-engagement result (a less pronounced decrease in the no-booster group), but this does not distort the findings.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "work_id": "W7202070440",
+      "headline": "When nursing home workers were happier at work, their blood showed less inflammation",
+      "verdict": "accurate",
+      "notes": "Sample (799 nursing home workers, four waves over 18 months), CRP measure, within-person framing and the noncaregiver-specific indirect pathways all match the abstract; caveats correctly flag the non-distinct caregiver pathways and the observational design.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "work_id": "W7213501285",
+      "headline": "Constantly scanning for problems makes leaders feel impactful — and depleted at the same time",
+      "verdict": "accurate",
+      "notes": "Dual-path model, both samples (ESM N = 176 leader-follower dyads; scenario experiment N = 142) and the proactive-personality moderation are reported as in the abstract; caveats appropriately note the scenario design and contested ego-depletion construct.",
+      "issues": []
+    },
+    {
+      "number": 13,
+      "work_id": "W7204867954",
+      "headline": "Being bossed by an algorithm may actually help gig workers switch off at home",
+      "verdict": "minor",
+      "notes": "Design, N and mediation match, but the moderation is described as reversal into harm when the abstract reports only attenuation, and the Chinese sample is not stated in the abstract.",
+      "issues": [
+        {
+          "label": "Moderator described as harm rather than attenuation",
+          "severity": "Moderate",
+          "as_written": "The benefit faded for workers high in \"depletion sensitivity,\" who tire quickly and found the same system draining.",
+          "abstract_says": "As gig workers' depletion sensitivity increases, the positive indirect effect of algorithmic management on positive work-family spillover and its negative indirect effect on negative work-family spillover, are both attenuated.",
+          "problem": "Attenuation of an indirect benefit is not the same as the system becoming draining or harmful for that subgroup; the abstract reports no reversal of sign. The same overstatement appears in 'while hurting the subset of people who exhaust easily.'",
+          "suggested_fix": "Say the benefit was weaker (attenuated) for workers high in depletion sensitivity, rather than that they found the system draining or were hurt by it."
+        },
+        {
+          "label": "Sample nationality not in abstract",
+          "severity": "Minor",
+          "as_written": "Chinese researchers surveyed 658 gig workers across three time points",
+          "abstract_says": "By collecting three-wave time-lagged survey data from 658 gig workers, this study tested the hypotheses.",
+          "problem": "The abstract does not state the country of the researchers or the gig workers. Unverifiable from abstract only.",
+          "suggested_fix": "Drop the nationality claim or attribute it to the full text rather than the abstract."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "work_id": "W7201985959",
+      "headline": "When the economy breaks, employees start caring a lot more about whether pay is fair",
+      "verdict": "minor",
+      "notes": "Study design, period, subsidiary structure, the production-worker focus and the borderline supervisor moderation (p = 0.050, flagged in caveats) are all accurate; only the 'why it matters' framing slightly overstates.",
+      "issues": [
+        {
+          "label": "Other commitment drivers overstated as losing power",
+          "severity": "Minor",
+          "as_written": "It suggests that during downturns, the usual levers of loyalty lose power and distributive fairness becomes the one that matters most",
+          "abstract_says": "only reward fairness increased in predictive importance after the crisis, whereas other determinants remained stable or weakened",
+          "problem": "Other determinants 'remained stable or weakened'; saying they lose power and that fairness becomes the single most important lever goes beyond a relative increase in one predictor within one manufacturing subsidiary.",
+          "suggested_fix": "Reword to: reward fairness was the only driver that gained predictive importance, while others stayed flat or weakened."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "work_id": "W7213349432",
+      "headline": "\"Responsible\" leaders create two kinds of team harmony — and only one of them helps",
+      "verdict": "accurate",
+      "notes": "Three-study structure, measure development, multilevel/multisource/time-lagged cross-cultural design, the dual-harmony mediation and the opposing mastery vs. performance climate moderations all match the abstract; caveats correctly note survey basis and unreported team-level Ns.",
+      "issues": []
+    },
+    {
+      "number": 16,
+      "work_id": "W7214434160",
+      "headline": "Training budgets tell you almost nothing — how many people attend tells you who stays",
+      "verdict": "accurate",
+      "notes": "Korean manufacturing longitudinal data, two-year lag, GEE, the cost-to-HR-slack ratio for financial performance and cost-by-enrollment for turnover are all reported correctly; caveats appropriately flag firm-level, single-country, correlational limits.",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "work_id": "W7202297645",
+      "headline": "Trained workers job-hunt less — because training makes the job feel like a fit",
+      "verdict": "minor",
+      "notes": "Sample structure (2,971 workers, 215 agencies, 41 regions) and the isomorphism moderations are accurate; the mediation is described with more precision than the abstract supports.",
+      "issues": [
+        {
+          "label": "Strength of mediation not specified",
+          "severity": "Minor",
+          "as_written": "Employer-provided training was associated with less job-search activity, and work engagement explained much of that link.",
+          "abstract_says": "The findings confirmed that training can reduce job search, and work engagement can play a mediating role.",
+          "problem": "The abstract reports only that work engagement mediates; it does not say how much of the relationship is explained (partial vs. full).",
+          "suggested_fix": "Say work engagement partly accounted for the link, without quantifying it as 'much of'."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "work_id": "W7172502435",
+      "headline": "Politically skilled employees aren't spared abusive bosses — their extra effort is what protects them",
+      "verdict": "minor",
+      "notes": "Design (3-wave, 224 employees, Chinese transportation firm), the null direct effect and the null task-performance mediation are accurate; the protective direction of the OCB-O pathway is inferred rather than stated in the abstract.",
+      "issues": [
+        {
+          "label": "Direction of the indirect effect not stated in abstract",
+          "severity": "Minor",
+          "as_written": "politically skilled employees did more organization-directed citizenship behavior, and that extra discretionary effort was what predicted less abuse",
+          "abstract_says": "individual political skill is not directly associated with abusive supervision but indirectly relates to abusive supervision through increased OCB-O",
+          "problem": "The abstract states only that the indirect relationship runs through increased OCB-O; it does not specify that the result is less abusive supervision. The 'protects them' framing in the headline rests on that unstated sign.",
+          "suggested_fix": "Note that the abstract reports an indirect link via OCB-O without specifying the sign, or soften to 'appeared to relate to how supervisors treated them'."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "work_id": "W7208791578",
+      "headline": "\"Career success\" means different things depending on what's driving you",
+      "verdict": "accurate",
+      "notes": "N = 377 U.S. women, time-separated survey, canonical correlation analysis, the growth/recognition ranking and the self-directed vs. values-driven patterns all match; caveats correctly note the dropped authenticity dimension. One stylistic looseness: 'Self-directed women' / 'values-driven women' treats continuous protean dimensions as person types.",
+      "issues": []
+    },
+    {
+      "number": 20,
+      "work_id": "W7202354404",
+      "headline": "When the boss brags about being swamped, your read on why decides what happens next",
+      "verdict": "accurate",
+      "notes": "Both study designs and Ns (scenario experiment, 294; two-wave survey, 332) and both attribution pathways (reflection→engagement; rumination→interpersonal withdrawal) are reported accurately, with appropriate caveats on the hypothetical scenario and common-method concerns.",
+      "issues": []
+    },
+    {
+      "number": 21,
+      "work_id": "W7212286790",
+      "headline": "Cadets who were happy at work two years earlier were likelier to win scarce leadership posts",
+      "verdict": "minor",
+      "notes": "Design, N, OR and controls match the abstract; the summary of which subcomponents predicted selection is incomplete (engagement also fell short of significance).",
+      "issues": [
+        {
+          "label": "Incomplete reporting of non-significant subcomponents",
+          "severity": "Minor",
+          "as_written": "Affective organizational commitment was the component that most clearly predicted selection; job satisfaction did not.",
+          "abstract_says": "Among the subcomponents, affective organizational commitment significantly predicted leadership selection (OR = 1.77, 95% CI [1.07, 2.94]), whereas engagement (OR = 1.63, 95% CI [1.00, 2.66]) and job satisfaction (OR = 1.34, 95% CI [0.85, 2.14]) did not reach the conventional 0.05 significance threshold.",
+          "problem": "Naming only job satisfaction as a non-predictor implies engagement did predict selection, when it also failed to reach the significance threshold — and the digest's manager angle specifically points readers to engagement surveys.",
+          "suggested_fix": "Write: 'Affective organizational commitment was the only subcomponent to reach significance; engagement and job satisfaction did not.'"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "work_id": "W7202072432",
+      "headline": "Organizational support only pays off in performance when the manager converts it into motivation",
+      "verdict": "minor",
+      "notes": "Core model, sample (217 employees, 41 supervisors) and moderation by transformational leadership are accurate; two small embellishments beyond the abstract (performance source, single organization) and a slightly overstated description of the low-leadership condition.",
+      "issues": [
+        {
+          "label": "Overstated description of low transformational leadership condition",
+          "severity": "Minor",
+          "as_written": "when it was low, the support-to-empowerment link essentially disappeared",
+          "abstract_says": "transformational leadership strengthens the relationship between POS and psychological empowerment, such that the indirect effects of POS on in-role performance through meaning, competence, and self-determination are significant when transformational leadership is high, but not when it is low",
+          "problem": "The abstract reports that the indirect effects on performance were non-significant at low transformational leadership; it does not say the POS–empowerment link itself vanished.",
+          "suggested_fix": "Say the indirect effects of support on performance were not statistically significant when transformational leadership was low."
+        },
+        {
+          "label": "Performance rating source not stated",
+          "severity": "Minor",
+          "as_written": "Support predicted supervisor-rated performance through employees' sense of competence and self-determination.",
+          "abstract_says": "We test a multilevel moderated mediation model using multisource and multi-time data from 217 employees and 41 supervisors. Results indicate that POS is positively related to in-role performance through the psychological empowerment dimensions of competence and self-determination.",
+          "problem": "The abstract says the data were multisource and included supervisors but does not explicitly state that in-role performance was supervisor-rated. Unverifiable from abstract only.",
+          "suggested_fix": "Write 'in-role performance (multisource data including 41 supervisors)' unless the full text confirms supervisor ratings."
+        },
+        {
+          "label": "Single-setting claim not in abstract",
+          "severity": "Minor",
+          "as_written": "context of a single organizational setting limits generalization",
+          "abstract_says": "We test a multilevel moderated mediation model using multisource and multi-time data from 217 employees and 41 supervisors.",
+          "problem": "The abstract gives no information about whether the sample came from one organization, one industry or one country. Unverifiable from abstract only.",
+          "suggested_fix": "Replace with a caveat that the abstract does not report the sample's organizational or national context."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "work_id": "W7215123713",
+      "headline": "Employees sent abroad come home to a company that has moved on — and many start looking elsewhere",
+      "verdict": "minor",
+      "notes": "Method, sample and the two-level support model are reported accurately; the headline quantifies an outcome a qualitative study cannot support.",
+      "issues": [
+        {
+          "label": "Quantifier in headline not supported by qualitative design",
+          "severity": "Minor",
+          "as_written": "Employees sent abroad come home to a company that has moved on — and many start looking elsewhere",
+          "abstract_says": "Based on semi-structured interviews with 35 repatriates across industries and focus groups with HR professionals... These discrepancies affected well-being, organizational commitment, and retention intentions.",
+          "problem": "'Many start looking elsewhere' implies a prevalence estimate; a 35-person interview study reports themes about retention intentions, not proportions or actual turnover.",
+          "suggested_fix": "Rephrase to something like '— and some start rethinking whether to stay' or 'and retention intentions suffer'."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 23,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7212127227": {
+        "query": "same perk keeps nonprofit worker but not corporate one",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202110265": {
+        "query": "Meta analysis workplace chameleons impress bosses than they actually perform",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7207756322": {
+        "query": "men scores vary selection test picks workforce both mostly male",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214632122": {
+        "query": "Engagement daily state assertiveness day predicts",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214754642": {
+        "query": "Followers extra mile boss who seems overqualified unless they competitive",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214630663": {
+        "query": "makes over 50s want keep working doesn apply managers",
+        "returned": 20,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7203815879": {
+        "query": "test grip hiring just got weaker meta analysis puts validity",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7203894267": {
+        "query": "most motivated employee one dodging colleagues hallway",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7203857104": {
+        "query": "Playing favorites doesn automatically backfire favored employee know",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7215081402": {
+        "query": "short video writing exercise cut employee exhaustion two weeks later",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202070440": {
+        "query": "nursing home workers happier work their blood showed inflammation",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213501285": {
+        "query": "Constantly scanning problems makes leaders feel impactful depleted same time",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204867954": {
+        "query": "Being bossed algorithm actually help gig workers switch off home",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7201985959": {
+        "query": "economy breaks employees start caring lot about whether pay fair",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213349432": {
+        "query": "Responsible leaders create two kinds team harmony only one them",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214434160": {
+        "query": "Training budgets tell almost nothing many people attend tells who",
+        "returned": 2,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202297645": {
+        "query": "Trained workers job hunt because training makes job feel like",
+        "returned": 20,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7172502435": {
+        "query": "Politically skilled employees aren spared abusive bosses their extra effort",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7208791578": {
+        "query": "Career success means different things depending driving",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202354404": {
+        "query": "boss brags about being swamped read decides happens next",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7212286790": {
+        "query": "Cadets who happy work two years earlier likelier win scarce",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202072432": {
+        "query": "Organizational support only pays off performance manager converts into motivation",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7215123713": {
+        "query": "Employees sent abroad come home company has moved many start",
+        "returned": 20,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet — this is the first run._",
+    "feature_pitch": "**The pattern:** Four studies in this batch independently undercut the instruments organizations use to decide who is good at their job. \"The IQ test's grip on hiring just got weaker\" (W7203815879) cuts cognitive ability's validity from roughly .50 to .20 and finds it does *not* track cognitive job complexity; \"When men's scores vary more, the selection test picks a workforce that's both mostly male and weaker\" (W7207756322) shows top-down score selection can degrade both diversity and expected performance; the self-monitoring meta-analysis (W7202110265) finds social adaptability moves supervisor ratings but not objective output; and the Korea Military Academy study (W7212286790) finds early organizational commitment predicted scarce leadership appointments beyond measured performance. Taken together: both ends of the merit pipeline — the test at the door and the rating that decides promotion — are measuring something other than what employers think.\n\n**Why pitch this now:** Employers are buying AI-scored assessments and \"skills-based hiring\" tools at speed while simultaneously defending selection decisions in a hostile legal and political climate around diversity — and the central validity number those products were sold on has just been revised down by more than half.\n\n**Angle:** A reported feature on the quiet collapse of confidence in workplace measurement — how an industry built on the claim that it can rank people objectively is finding that its best tools explain a few percent of performance, reward polish over output, and can be re-engineered so that fairness and quality improve together. Works for a business/management audience wanting to audit its own hiring stack, and for general readers who have been ranked by one of these systems.\n\n**Potential headlines:**\n- The Hiring Test That Was Supposed to Predict Performance Explains About 4 Percent of It\n- Everything Your Employer Measures About You Rewards the Wrong Thing\n- You Were Judged by a Score. The Science Behind It Just Shrank.\n\n**Potential outlets:**\n- **MIT Sloan Management Review** — its readership buys and defends assessment systems; a piece that hands them the revised validity numbers and the selection-design fixes from W7207756322 is directly actionable.\n- **The Atlantic** — long-running interest in meritocracy's self-justifications; this is the empirical version of that argument, with the variability-and-selection modeling as the fresh hook.\n- **Wired** — covers algorithmic hiring and assessment vendors; the story that the underlying human-science baseline has been revised downward reframes its AI-screening coverage.\n- **Business Insider** — strong careers and recruiting desk with a job-seeker readership that has personally been filtered by aptitude tests and appraisal ratings.",
+    "pitch_ideas": "- **Why the same perk keeps a nonprofit worker but not a corporate one (Work ID W7212127227):** Mission-driven employers get more retention per dollar of benefits and training because the perks confirm an implicit promise — a \"how small nonprofits out-retain better-paying rivals\" piece, for a management or HR explainer.\n- **Meta-analysis: workplace chameleons impress bosses more than they actually perform (Work ID W7202110265):** The office-politics grievance, finally quantified — reading the room moves your rating, not your output; for a work-psychology explainer in a general-interest or women's/lifestyle outlet.\n- **When men's scores vary more, the selection test picks a workforce that's both mostly male and weaker (Work ID W7207756322):** Hiring \"the top scorers\" can cost you both women and performance — frame as questions to put to your assessment vendor, for a hiring/HR explainer.\n- **Engagement is a daily state — and assertiveness on the day predicts it (Work ID W7214632122):** The annual engagement survey measures something that changes by Tuesday; and a flat day isn't a career signal — for a manager-audience column or a career-advice column.\n- **Followers go the extra mile for a boss who seems overqualified — unless they're competitive narcissists (Work ID W7214754642):** Hiring an \"overqualified\" manager may be a team asset, with a caveat about the reports who respond with rivalry; for a leadership column.\n- **What makes over-50s want to keep working — and why it doesn't apply to managers (Work ID W7214630663):** Autonomy, colleagues and learning keep over-50s in post — but older managers don't respond to the satisfaction lever at all; for an HR explainer or an aging-workforce feature in a general-interest outlet.\n- **The IQ test's grip on hiring just got weaker (Work ID W7203815879):** The single most quotable number in this digest — plus the finding that test validity doesn't rise with cognitive complexity; a workplace news brief and a longer hiring explainer.\n- **Your most motivated employee may be the one dodging colleagues in the hallway (Work ID W7203894267):** Motivation has a social cost when people misjudge how independent their work is; a counterintuitive \"head-down is hurting you\" piece for a career-advice column.\n- **Playing favorites doesn't automatically backfire — if the favored employee is you (Work ID W7203857104):** Favoritism's damage is concentrated in whoever feels they lost the comparison; for a manager-audience column on team fairness audits.\n- **A short video and a writing exercise cut employee exhaustion two weeks later (Work ID W7215081402):** A near-free stress-mindset micro-intervention worked — with an honest caveat that reframing stress is not reducing workload; for a workplace wellbeing piece in a general-interest or lifestyle outlet.\n- **When nursing home workers were happier at work, their blood showed less inflammation (Work ID W7202070440):** Job satisfaction shows up in a blood marker — and employees doing unpaid caregiving at home don't get the same benefit; a strong health-meets-work story for a women's/lifestyle or general-interest outlet.\n- **Constantly scanning for problems makes leaders feel impactful — and depleted (Work ID W7213501285):** Vigilant managers are energized and drained by the same behavior, and passive teams make them pay more; for a manager-audience column on burnout.\n- **Being bossed by an algorithm may actually help gig workers switch off at home (Work ID W7204867954):** Counterintuitive gig-economy angle — algorithmic direction reduced mental spillover into family life, except for fatigue-prone workers; for a future-of-work or platform-economy brief.\n- **When the economy breaks, employees start caring a lot more about whether pay is fair (Work ID W7201985959):** In downturns, distributive fairness becomes the loyalty lever — and supervisors badly misread how much their teams care; for a management column on restructuring communications.\n- **\"Responsible\" leaders create two kinds of team harmony (Work ID W7213349432):** Why ESG and stakeholder agendas produce performative agreement, and why performance-pressure climates make the fake version more likely; for a leadership/management feature.\n- **Training budgets tell you almost nothing (Work ID W7214434160):** Stop reporting L&D spend — reach and organizational slack are what predict money and retention two years out; for an HR/finance-facing explainer.\n- **Trained workers job-hunt less — because training makes the job feel like a fit (Work ID W7202297645):** Kills the \"train them and they'll leave\" myth, with the twist that compliance-driven training doesn't work; for a career-advice or HR column.\n- **Politically skilled employees aren't spared abusive bosses (Work ID W7172502435):** Doing your job well doesn't protect you from a hostile manager; visible discretionary effort did — uncomfortable but reportable, for a workplace-psychology explainer.\n- **\"Career success\" means different things depending on what's driving you (Work ID W7208791578):** Among 377 US women, recognition was the weakest marker of a self-authored career — a strong \"stop measuring yourself in titles\" piece for a women's/lifestyle careers section.\n- **When the boss brags about being swamped (Work ID W7202354404):** Stress-bragging leaders either energize or repel, depending entirely on the motive employees infer; a highly shareable workplace-culture piece for a general-interest outlet.\n- **Cadets who were happy at work two years earlier were likelier to win scarce leadership posts (Work ID W7212286790):** Emotional attachment predicted promotion above performance scores, even in an explicitly merit-ranked system; for a hiring/promotion-equity explainer.\n- **Organizational support only pays off when the manager converts it into motivation (Work ID W7202072432):** Why the same benefits package feels hollow under one boss and motivating under another; for a manager-audience column on why HR spend underperforms.\n- **Employees sent abroad come home to a company that has moved on (Work ID W7215123713):** Expensive international assignments leak talent at reentry, because firms treat return as paperwork rather than re-belonging; for a global-mobility/HR feature or a general-interest piece on coming back from any long absence."
+  }
+}
