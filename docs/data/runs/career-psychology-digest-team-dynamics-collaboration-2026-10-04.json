@@ -1,0 +1,602 @@
+{
+  "id": "career-psychology-digest-team-dynamics-collaboration-2026-10-04",
+  "filename": "Career Psychology Digest — Team Dynamics & Collaboration — 2026-10-04.md",
+  "title": "Career Psychology Digest — Team Dynamics & Collaboration — 2026-10-04",
+  "run_date": "2026-10-04",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-05",
+  "window_to": "2026-10-04",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "15",
+  "articles_found": 20,
+  "screening": {
+    "found": 20,
+    "not_research": 1,
+    "no_abstract": 2,
+    "off_topic": 1,
+    "already_covered": 1,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 15
+  },
+  "focus": "Team Dynamics & Collaboration",
+  "topic": "team dynamics & collaboration",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 12,
+  "studies": [
+    {
+      "number": 1,
+      "title": "After a team flops, flat teams rebound by recruiting a star — hierarchical ones won't",
+      "paper_title": "Survival of the Flattest: Teams with Low (but Not High) Status Differentiation Turn Failure into Success by Adding High-Status Members",
+      "journal": "Organization Science",
+      "published": "2026-08-21",
+      "work_id": "W7203807114",
+      "doi": "10.1287/orsc.2024.19306",
+      "source_id": "S206124708",
+      "the_study": "Researchers combined longitudinal archival data on 4,811 product development teams with two preregistered experiments, one at the individual level (N=783) and one with real interacting teams (N=222). Failure made members uncertain about their own standing; what they did next depended on how steep the team's internal status hierarchy already was. Teams with little status differentiation responded to failure by being more willing to bring in a high-status new member — and that addition improved subsequent performance. Teams with steep hierarchies saw the same recruit as a personal threat and resisted adding them.",
+      "why_it_matters": "It identifies a concrete, controllable reason why some teams learn from failure and others stagnate: the willingness to add talent after a setback is shaped by internal pecking order, not by how badly the team needs help.",
+      "story_angle_primary": "If you're deciding whether to add a senior hire to a struggling team, look first at the team's existing status structure: in visibly hierarchical teams, expect resistance framed as 'fit' or 'headcount' concerns that is really status protection, and consider how flattening roles or clarifying that no one is being demoted might change the calculus.",
+      "story_angle_secondary": "A hidden reason high-performing newcomers get a cold welcome: in teams where some people are already clearly on top, a talented arrival threatens their place in the pecking order — so resistance to you may have nothing to do with your work.",
+      "caveats": "Archival study is correlational and limited to product development teams; the experimental teams were short-lived lab groups performing assigned tasks rather than ongoing workplace teams, so the field generalization rests mainly on the archival data.",
+      "score": 83,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": 783,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample figures and core findings match the abstract; two small overstatements (active \"resistance\" by hierarchical teams; lab characterization of Study 3) go slightly beyond what the abstract states.",
+      "tags": [
+        "hiring & selection",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "Gossip is how new hires actually learn the rules — if it's true, work-related and interesting",
+      "paper_title": "Socializing through the grapevine: A content-based functional perspective on the receipt of workplace gossip during newcomer socialization.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-03",
+      "work_id": "W7207711849",
+      "doi": "10.1037/apl0001423",
+      "source_id": "S166002381",
+      "the_study": "Researchers ran a 12-week experience-sampling study tracking 168 organizational newcomers through their first three months, collecting 1,741 weekly observations. Rather than just counting how much gossip people heard, they measured its content: whether it was work-related, truthful and interesting. All three attributes predicted clearer understanding of workplace norms and better social integration, over and above gossip frequency — and norm clarity in turn predicted task proficiency, while social integration predicted affective commitment.",
+      "why_it_matters": "It reframes the grapevine from a liability to an informal onboarding channel, and suggests the question for managers isn't how to stop gossip but what kind of information is circulating to new people.",
+      "story_angle_primary": "Formal onboarding rarely covers the unwritten rules; consider who is informally briefing your new hires and whether that content is accurate, since this study suggests truthful work-relevant gossip helped newcomers get productive and committed faster than sheer volume of chatter.",
+      "story_angle_secondary": "If you're new in a job, the colleague who tells you 'how things really work here' may be doing more for your first three months than the official induction pack — and the useful signal is whether what they say is accurate and about work, not how juicy it is.",
+      "caveats": "Gossip content and outcomes were rated by newcomers themselves, raising common-method concerns; observational rather than experimental, so causality is not established; truthfulness is a perception rather than a verified fact.",
+      "score": 88,
+      "band": "Lead",
+      "evidence_type": "experience sampling",
+      "sample_size": 1741,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, N and mediating chain are reported accurately; the digest states \"all three attributes\" predicted both outcomes where the abstract says hypotheses were only \"largely\" supported, and one story angle slips into causal/comparative language.",
+      "tags": [
+        "hiring & selection",
+        "leadership & management",
+        "motivation & engagement",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 3,
+      "title": "Talking about your kids at work isn't a distraction — it may help you at the office and at home",
+      "paper_title": "Feel Free to Chat About Your Kids? Exploring the Effects of Workplace Parenting Conversations",
+      "journal": "Organization Science",
+      "published": "2026-09-11",
+      "work_id": "W7212308571",
+      "doi": "10.1287/orsc.2023.18043",
+      "source_id": "S206124708",
+      "the_study": "Across four studies, researchers investigated \"workplace parenting conversations\" — in-depth exchanges about parenting between coworkers who are parents. They used qualitative interviews to map content and processes, an experience-sampling study testing the model with behavioral outcomes at work and at home, further interviews on mechanisms, and a field experiment. The conversations produced mainly positive instrumental, affective and relational benefits that showed up in behavior in both the work and parenting domains.",
+      "why_it_matters": "It challenges the assumption that personal talk about family is professionally costly, suggesting instead that these exchanges can function as a resource for working parents and the people around them.",
+      "story_angle_primary": "Managers worried that personal chatter eats into productivity may be policing the wrong conversations; this research suggests parenting talk operates as informal peer support, so the practical test is whether your team norms allow it without penalizing the people who use it.",
+      "story_angle_secondary": "For working parents, swapping notes with a colleague about bedtime battles or school choices can be more than small talk — it may deliver advice, emotional relief and a stronger sense of being known at work.",
+      "caveats": "Abstract reports overall positive effects without detailing effect sizes, sample sizes or the field experiment's setting; experience sampling relies on self-report across work and home; focused on parents, so findings may not extend to other personal identities or to non-parents who may feel excluded.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "field experiment",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 2,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Four-study mixed-methods structure, the conversation definition and the \"primarily positive\" effects across work and home all match the abstract; caveats appropriately note the missing sample and effect-size detail.",
+      "tags": [
+        "compensation",
+        "hiring & selection",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [
+        "The New York Times",
+        "India Today"
+      ],
+      "covered_articles": [
+        {
+          "title": "How Can I Actually Get Work Done When the Kids Are Home? | Reviews by Wirecutter",
+          "outlet": "The New York Times",
+          "link": "https://www.nytimes.com/wirecutter/reviews/ask-wirecutter-reclaim-focus-in-chaotic-home/"
+        },
+        {
+          "title": "No office politics: Why some employees would rather work from home",
+          "outlet": "India Today",
+          "link": "https://www.indiatoday.in/jobs/deep-dive/story/no-office-politics-why-some-employees-would-rather-work-from-home-3005373-2026-09-29"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Diversity training only boosted creativity when it taught teams to actually mine each other's knowledge",
+      "paper_title": "Stimulating gender-diverse teams’ creativity through team diversity training: A field experiment",
+      "journal": "Journal of Business and Psychology",
+      "published": "2026-10-03",
+      "work_id": "W7218884614",
+      "doi": "10.1007/s10869-026-10155-7",
+      "source_id": "S61413993",
+      "the_study": "In a randomized field experiment, researchers assigned 57 intact organizational teams (446 people) to one of two diversity training designs or no training, measuring team creativity before and after. Training that focused only on building shared team identity did nothing for creativity, and neither training moved team identification at all. Training that combined identity with information elaboration — teaching teams to surface and integrate members' differing knowledge — was linked to higher creativity in highly gender-diverse teams, via improved information elaboration.",
+      "why_it_matters": "Most corporate diversity training targets attitudes and belonging; this field evidence suggests the performance payoff comes from teaching teams concrete processes for using the different perspectives they already have.",
+      "story_angle_primary": "Before signing off on the next diversity workshop, ask what behavior it trains: this experiment suggests sessions aimed at feeling like one team produced no measurable creativity gain, while sessions that drilled how to elicit and combine differing knowledge did — in the most diverse teams.",
+      "story_angle_secondary": "Why mixed teams sometimes underperform expectations: the raw variety of viewpoints does little unless the team has a habit of actually asking for and using what each member knows.",
+      "caveats": "The two active training conditions did not differ significantly from each other, the authors call the information-elaboration pathway tentative, and the effects applied only to the most gender-diverse teams; 57 teams is modest for a team-level experiment and the authors explicitly call for replication; single organizational context.",
+      "score": 93,
+      "band": "Lead",
+      "evidence_type": "field experiment",
+      "sample_size": 446,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "N (446 individuals in 57 intact teams), randomized field experiment design, both null results and the conditional elaboration pathway are reported faithfully, and the caveats carry the abstract's own cautions (non-significant contrast, tentative mechanism, call for replication).",
+      "tags": [
+        "diversity, equity & inclusion at work",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 5,
+      "title": "When the boss thanks a colleague in public, witnesses may cut corners to get noticed",
+      "paper_title": "Sour grapes: how coworker-targeted leader gratitude expressions shape witness deprivation and negative reactions",
+      "journal": "Personnel Review",
+      "published": "2026-08-12",
+      "work_id": "W7202283587",
+      "doi": "10.1108/pr-10-2025-1189",
+      "source_id": "S139232146",
+      "the_study": "Two studies — a three-wave multisource survey of 320 employees and a scenario-based experiment with 246 participants — examined how people react to seeing their leader express gratitude to a coworker. Witnessing coworker-directed praise predicted feelings of relative deprivation, which in turn predicted more expediency (cutting corners to get results) and more self-promotion. The effect was weaker for employees with high-quality relationships with their leader.",
+      "why_it_matters": "Public recognition is usually treated as cost-free, but this suggests it creates an audience of people who feel shortchanged and may compensate in unhelpful ways.",
+      "story_angle_primary": "If you praise individuals publicly, watch the room: this research suggests observers with weaker relationships with you are the ones most likely to respond with corner-cutting and self-marketing, which argues for pairing public thanks with substantive one-on-one attention to everyone else.",
+      "story_angle_secondary": "That flash of resentment when a colleague gets thanked and you don't is common enough to be measurable — and it tends to push people toward louder self-promotion rather than better work.",
+      "caveats": "One of the two studies used hypothetical scenarios rather than real recognition events; the survey, though multi-wave and multisource, remains correlational; expediency and self-promotion measured over a short horizon; context and country not specified in the abstract.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": 320,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Both study designs and Ns match, the relative-deprivation mediation and the LMX boundary condition are correctly reported, and the digest keeps predictive rather than causal language for the survey.",
+      "tags": [
+        "career development & mobility",
+        "leadership & management",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 6,
+      "title": "What male allies actually do at work — and why managers' motives differ from everyone else's",
+      "paper_title": "Men as allies at work: Behaviours, motives and outcomes of workplace gender allyship",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-09-29",
+      "work_id": "W7214919069",
+      "doi": "10.1111/joop.70158",
+      "source_id": "S87328381",
+      "the_study": "Researchers collected open-ended critical incident reports from 85 working men (45 managers, 40 non-managers) describing their real allyship experiences toward women colleagues. They built a typology of three behavior categories: support (instrumental, emotional, social support and mentoring), social change (advocacy, pushing organizational change, confronting sexism) and self-education. Managers were more strongly motivated by job-related reasons, while non-managers more often cited empathic concern for women coworkers; participants reported meaningful benefits for women and relatively few negative consequences for themselves.",
+      "why_it_matters": "It converts a vague aspiration into a concrete behavioral menu, and suggests the frequently cited fear of backlash against male allies may be overstated in everyday practice.",
+      "story_angle_primary": "Allyship training often stops at awareness; this typology gives managers specific actions to assign and model — mentoring, sponsorship in rooms where decisions happen, confronting sexist remarks, and ongoing self-education — plus a warning that managers' motives may be read as career-driven rather than genuine.",
+      "story_angle_secondary": "For anyone who has wondered whether speaking up for a colleague is worth the risk: the men in this study reported their interventions helped and cost them surprisingly little.",
+      "caveats": "Qualitative and descriptive only, with no comparison group and no objective outcome measures; outcomes for women were as perceived by the men themselves; N=85 is small and self-selected, and people willing to report allyship incidents may understate backlash.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "qualitative",
+      "sample_size": 85,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample, typology and the manager/non-manager motive contrast are accurate; the digest omits that both groups shared moral and social-justice motives and that the typology covers recommended as well as enacted behaviors.",
+      "tags": [
+        "career development & mobility",
+        "compensation",
+        "leadership & management",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 7,
+      "title": "The team member who organizes everyone else learns the least from team training",
+      "paper_title": "We Succeeded, But Did I Learn? How Team Role Orientations Affect Individual‐Level Transfer of Team Training",
+      "journal": "Personnel Psychology",
+      "published": "2026-08-09",
+      "work_id": "W7202035170",
+      "doi": "10.1111/peps.70038",
+      "source_id": "S84664706",
+      "the_study": "Researchers studied 84 teams (N=330 students) going through a simulation-based team training program and measured what individuals personally learned. Members with a \"Doer\" orientation gained more taskwork knowledge and skill; \"Team Builders\" gained more teamwork knowledge and skill; but the \"Organizer\" orientation actively inhibited taskwork learning and teamwork knowledge. Self-regulatory learning behavior — planning, assessing and adjusting one's own contribution — explained the Doer and Team Builder effects, and strong team learning amplified the pattern.",
+      "why_it_matters": "Team training is usually evaluated on team results, obscuring the fact that the person coordinating the group may be absorbing the least of the actual competencies being taught.",
+      "story_angle_primary": "If your team succeeds at a training exercise, don't assume everyone developed: this study suggests the natural coordinator can finish a simulation with less task and teamwork knowledge than peers, so consider rotating roles and asking individuals to track their own learning rather than the team's score.",
+      "story_angle_secondary": "A career warning for the habitual organizer: being the person who keeps everyone on schedule can crowd out the chance to build the skills the exercise was supposed to teach you.",
+      "caveats": "Student teams in a simulation, not employees in real organizational teams; learning outcomes measured immediately with no evidence of transfer to actual jobs; 330 students across 84 teams limits power for team-level effects.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "modeling",
+      "sample_size": 330,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample (84 student teams, N=330) and the three role-orientation effects are accurate; the team-learning moderation is described more broadly than the abstract supports.",
+      "tags": [
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 8,
+      "title": "Staying quiet in your first weeks can make you a target",
+      "paper_title": "Being hazed out of silence for the newcomer: a victim-precipitation and protection model",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-10-01",
+      "work_id": "W7215049715",
+      "doi": "10.1108/jmp-06-2025-0537",
+      "source_id": "S53726244",
+      "the_study": "Researchers surveyed 266 newcomer–coworker dyads in mainland China at two time points, pairing new hires' reports of their own silence with their coworkers' perceptions and behavior. Newcomers who kept quiet were read by coworkers as submissive, and that perception predicted more hazing — the belittling, unpleasant initiation behavior aimed at new members. The exception: newcomers with higher social status in the group were largely shielded, even when seen as submissive.",
+      "why_it_matters": "The standard advice to new hires is to keep your head down and listen, but this suggests silence can be misread as weakness and invite mistreatment from peers rather than protection.",
+      "story_angle_primary": "Managers onboarding new people should watch for peer hazing rather than assuming quietness equals smooth adjustment: build in structured opportunities for newcomers to speak (early presentations, visible assignments, sponsor introductions) that raise their standing before the group forms an impression of them.",
+      "story_angle_secondary": "For anyone starting a job: how your reticence is interpreted may matter more than what you actually say, and visible endorsement from someone respected in the team can change how colleagues treat you.",
+      "caveats": "Time-lagged survey, not an experiment, so causation can't be established; single-country (China) sample where hazing norms and status dynamics may differ; newcomer silence was self-reported.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "N, country and the silence–submissiveness–hazing path match; the protective effect of social status is stated more absolutely than the abstract does, and some design details are not verifiable from the abstract.",
+      "tags": [
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 9,
+      "title": "When a colleague redesigns their own job, coworkers either copy them or sabotage them",
+      "paper_title": "Colleagues' job crafting: How inspiration and anxiety relate to helping and undermining behaviour",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-09-01",
+      "work_id": "W7205707681",
+      "doi": "10.1111/joop.70154",
+      "source_id": "S87328381",
+      "the_study": "Taking the rarely studied \"observer\" view of job crafting, researchers ran a three-wave survey plus an experience-sampling study of employees watching coworkers reshape their own roles. Seeing a coworker craft their job sparked inspiration, which led to more helping and less undermining — but it also sparked anxiety, which led to more social undermining. The anxiety pathway was conditional on observers' construal level, i.e., whether they viewed the situation in big-picture or concrete terms.",
+      "why_it_matters": "Encouraging employees to proactively redesign their jobs has an overlooked social cost: it can make bystanders feel threatened and prompt them to quietly undercut the crafter.",
+      "story_angle_primary": "If you promote job crafting, consider making it collective and transparent rather than an individual perk — framing one person's redesign as a template others can use may convert coworker anxiety into inspiration instead of resentment.",
+      "story_angle_secondary": "Watching a colleague carve out a better version of their role is a common experience that can be motivating or quietly destabilizing; recognizing which reaction you're having is useful information about your own job.",
+      "caveats": "Self-report surveys with predictors and outcomes from the same source in both studies; correlational designs despite multiple waves; sample composition and country not specified in the abstract.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "The dual-pathway findings and the construal-level moderator are correctly reported, but the headline recasts helping behavior as imitation and the body uses causal verbs for correlational designs that the caveats themselves flag.",
+      "tags": [
+        "career development & mobility",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 10,
+      "title": "When a coworker treats you badly, you start blaming your boss too",
+      "paper_title": "Who Is to Blame? A Network Perspective on Workplace Injustice",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-09-02",
+      "work_id": "W7205007222",
+      "doi": "10.1002/job.70127",
+      "source_id": "S160573970",
+      "the_study": "Across two studies — one using event-based data on specific injustice incidents, one a constructive replication with tests of boundary conditions — researchers traced how blame spreads. Being treated unfairly by a coworker led employees to blame that coworker and then, in sequence, to blame and perceive injustice from their supervisor. The spillover was strongest when employees saw the offending coworker as acting with the supervisor's delegated authority while also holding higher informal status than the victim did.",
+      "why_it_matters": "Supervisors can absorb reputational damage for mistreatment they never committed, which means peer conflict quietly erodes trust in leadership and the organization.",
+      "story_angle_primary": "Managers who delegate authority to high-status team members should recognize that those members' behavior gets attributed back to them — visible, prompt responses to peer-level unfairness may be the only way to stop blame from migrating upward.",
+      "story_angle_secondary": "It explains a familiar feeling: a rude colleague leaves you resenting the boss who let it happen, and why unresolved peer friction so often ends with people deciding the whole place is unfair.",
+      "caveats": "Perceptions of injustice and blame are self-reported from the same person; sample sizes, occupations and countries not specified in the abstract; Study 2's design (field vs. scenario-based) is unclear from the abstract.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "experiments",
+      "sample_size": null,
+      "journal_tier": "A",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Two-study structure, the sequential blame mediation and the two-way boundary condition are reported correctly; the body uses causal phrasing for predictive, largely self-reported data.",
+      "tags": [
+        "leadership & management",
+        "team dynamics & collaboration",
+        "wellbeing & work-life balance"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 11,
+      "title": "Plan for small changes, improvise through big ones",
+      "paper_title": "Team Change Adaptation: The Role of Goal Orientation and Change Characteristics",
+      "journal": "Small Group Research",
+      "published": "2026-09-29",
+      "work_id": "W7214778895",
+      "doi": "10.1177/10464964261484947",
+      "source_id": "S133913429",
+      "the_study": "Combining a laboratory experiment with a multi-wave field survey of teams, researchers compared two ways teams respond to a change event: planned adaptation (regrouping and deliberately replanning) and improvised adaptation (adjusting on the fly). Planned adaptation produced better performance when the change was relatively minor and familiar, while improvised adaptation won out as changes became more disruptive and novel. Teams' goal orientations — learning versus performance focus — predicted which process they actually engaged in.",
+      "why_it_matters": "It gives leaders a decision rule for reorganizations and disruptions: the instinct to call a planning meeting helps for routine shifts but can be the wrong move when the change is genuinely unprecedented.",
+      "story_angle_primary": "Before responding to a disruption, assess how novel and disruptive it really is — and notice that your team's default mode (plan it out vs. wing it) may be driven by its goal orientation rather than by what the situation requires.",
+      "story_angle_secondary": "The familiar office argument between \"let's make a plan\" and \"let's just try something\" has a conditional answer, which depends on how unfamiliar the problem is.",
+      "caveats": "The laboratory component uses artificial tasks and likely student participants; the field component is a survey, so the planned/improvised distinction is self-reported; sample sizes and settings not specified in the abstract.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Core contingency finding matches the abstract; the specific \"learning versus performance\" goal orientations are not named in the abstract, and the \"decision rule\" framing is slightly firmer than a single two-part study supports.",
+      "tags": [
+        "leadership & management",
+        "team dynamics & collaboration",
+        "workplace communication"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 12,
+      "title": "The one team member who sees the task differently can drag everyone down",
+      "paper_title": "Odd One Out: A Configural Perspective on Team Mental Models",
+      "journal": "Small Group Research",
+      "published": "2026-09-07",
+      "work_id": "W7211946634",
+      "doi": "10.1177/10464964261473645",
+      "source_id": "S133913429",
+      "the_study": "Instead of measuring the usual average similarity of team members' mental models, researchers looked at configurations — specifically \"cognitive isolation,\" where one member's understanding of the task diverges while everyone else's aligns. They tracked 79 student teams running a three-week business simulation. Cognitive isolation hurt team performance, but only in teams whose members had low epistemic motivation, that is, little drive to understand things thoroughly.",
+      "why_it_matters": "A single out-of-sync member isn't automatically a problem; it becomes one when the team isn't curious enough to surface and reconcile the difference.",
+      "story_angle_primary": "Rather than chasing uniform agreement on how work gets done, watch for the isolated outlier and invest in the conditions — time, accountability for accuracy, genuine questioning — that make a team willing to dig into why someone sees the task differently.",
+      "story_angle_secondary": "Being the person who understands a project differently from everyone else is uncomfortable and potentially costly, and whether it gets resolved depends largely on whether your teammates care enough to ask.",
+      "caveats": "Student teams in a business simulation rather than real organizational teams; 79 teams is modest for a moderated effect; short three-week horizon.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "modeling",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Sample (79 student teams, three-week business simulation), the configural \"cognitive isolation\" construct, and the low-epistemic-motivation boundary condition all match the abstract; caveats flag the student-simulation setting and modest team count.",
+      "tags": [
+        "motivation & engagement",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7203807114",
+      "journal": "Organization Science",
+      "date": "2026-08-21",
+      "doi": "10.1287/orsc.2024.19306"
+    },
+    {
+      "work_id": "W7207711849",
+      "journal": "Journal of Applied Psychology",
+      "date": "2026-09-03",
+      "doi": "10.1037/apl0001423"
+    },
+    {
+      "work_id": "W7212308571",
+      "journal": "Organization Science",
+      "date": "2026-09-11",
+      "doi": "10.1287/orsc.2023.18043"
+    },
+    {
+      "work_id": "W7218884614",
+      "journal": "Journal of Business and Psychology",
+      "date": "2026-10-03",
+      "doi": "10.1007/s10869-026-10155-7"
+    },
+    {
+      "work_id": "W7202283587",
+      "journal": "Personnel Review",
+      "date": "2026-08-12",
+      "doi": "10.1108/pr-10-2025-1189"
+    },
+    {
+      "work_id": "W7214919069",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "date": "2026-09-29",
+      "doi": "10.1111/joop.70158"
+    },
+    {
+      "work_id": "W7202035170",
+      "journal": "Personnel Psychology",
+      "date": "2026-08-09",
+      "doi": "10.1111/peps.70038"
+    },
+    {
+      "work_id": "W7215049715",
+      "journal": "Journal of Managerial Psychology",
+      "date": "2026-10-01",
+      "doi": "10.1108/jmp-06-2025-0537"
+    },
+    {
+      "work_id": "W7205707681",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "date": "2026-09-01",
+      "doi": "10.1111/joop.70154"
+    },
+    {
+      "work_id": "W7205007222",
+      "journal": "Journal of Organizational Behavior",
+      "date": "2026-09-02",
+      "doi": "10.1002/job.70127"
+    },
+    {
+      "work_id": "W7214778895",
+      "journal": "Small Group Research",
+      "date": "2026-09-29",
+      "doi": "10.1177/10464964261484947"
+    },
+    {
+      "work_id": "W7211946634",
+      "journal": "Small Group Research",
+      "date": "2026-09-07",
+      "doi": "10.1177/10464964261473645"
+    }
+  ],
+  "trends_raw": "_No prior digest on this topic to compare against yet — this is the first run._",
+  "feature_pitch_raw": "**The pattern:** Across this batch, the decisive force in people's working lives isn't the manager — it's the peer layer, which quietly polices status and punishes anyone who disturbs it. Flat teams recruit a star after failure while hierarchical ones block them (\"After a team flops,\" W7203807114); quiet newcomers get read as submissive and hazed by coworkers (W7215049715); colleagues who redesign their own jobs trigger anxiety and social undermining in bystanders (W7205707681); employees who merely watch a leader thank someone else feel deprived and start cutting corners and self-promoting (W7202283587); and unfair treatment by a high-status peer migrates upward until the supervisor is blamed for it (W7205007222). Gossip (W7207711849) rounds it out as the channel through which newcomers actually learn this unwritten status system.\n\n**Why pitch this now:** Organizations have spent two years delayering — stripping out middle managers, widening spans of control and pushing \"self-managed\" and crafted work — on the assumption that removing supervisors removes hierarchy; this evidence says it just relocates hierarchy to the peer group, where no one is accountable for it and HR has no visibility.\n\n**Angle:** A feature on the informal status economy that runs underneath the org chart: who it rewards, who it quietly punishes (newcomers, outliers, the person who dares to reshape their own role), and why the standard management levers — public praise, job-crafting programs, onboarding decks — keep producing side effects among the bystanders no one was managing. Works for a business/management readership, and in a lighter register for general-interest and women's/lifestyle readers who have lived the \"why is this team freezing me out?\" experience.\n\n**Potential headlines:**\n- Your Coworkers, Not Your Boss, Decide How Your Job Goes\n- Companies Cut the Managers. The Pecking Order Stayed.\n- The Office Status Game You're Losing Without Knowing You're Playing\n\n**Potential outlets:**\n- *Harvard Business Review* — a direct challenge to delayering and \"empowerment\" orthodoxy, with concrete evidence that peer status dynamics absorb the authority managers give up.\n- *Business Insider* — strong appetite for the lived mechanics of return-to-office teams, new-hire treatment and quiet undermining, told through specific research findings.\n- *The Atlantic* — fits its work-and-social-life coverage: hierarchy as an inescapable human behavior that reappears wherever organizations try to design it out.\n- *Refinery29* (Work & Money) — the newcomer, outlier and \"spoke up and got frozen out\" experiences land hard with a younger, career-building readership.",
+  "pitch_ideas_raw": "- **After a team flops, flat teams rebound by recruiting a star — hierarchical ones won't (Work ID W7203807114):** Why \"we're worried about fit\" is often status protection in disguise, and how to read a struggling team's pecking order before approving a senior hire, for a manager-audience column.\n- **Gossip is how new hires actually learn the rules (Work ID W7207711849):** Stop trying to kill the grapevine and audit it instead — who is informally briefing your new hires, and is what they're saying accurate, for a hiring or HR explainer.\n- **Talking about your kids at work isn't a distraction (Work ID W7212308571):** Parenting talk as unpaid peer support that benefits both the office and home — plus the live question of whether non-parents get left out, for a work-psychology explainer in a general-interest or women's/lifestyle outlet.\n- **Diversity training only boosted creativity when it taught teams to mine each other's knowledge (Work ID W7218884614):** A buyer's guide to DEI training that actually moves performance — behavior drills beat belonging sessions, with the replication caveats stated plainly, for a management or HR-strategy feature.\n- **When the boss thanks a colleague in public, witnesses may cut corners (Work ID W7202283587):** The hidden bill for public recognition, and why the employees with the weakest relationship with you react worst, for a manager-audience column on recognition practices.\n- **What male allies actually do at work (Work ID W7214919069):** A concrete behavioral menu for allyship plus the finding that feared backlash rarely materialized — and the twist that managers' motives are more career-driven, for a workplace-culture piece in a women's or general-interest outlet.\n- **The team member who organizes everyone else learns the least from team training (Work ID W7202035170):** A career warning for the habitual coordinator, and a case for rotating roles in team exercises, for a career-advice column.\n- **Staying quiet in your first weeks can make you a target (Work ID W7215049715):** The standard \"keep your head down\" advice to new hires may invite peer hazing — what to do instead in week one, for a career-advice column or workplace news brief.\n- **When a colleague redesigns their own job, coworkers either copy them or sabotage them (Work ID W7205707681):** The overlooked social cost of job crafting, and why making redesign collective and transparent beats granting it as an individual perk, for a manager-audience column.\n- **When a coworker treats you badly, you start blaming your boss too (Work ID W7205007222):** Peer conflict as a reputational liability for leaders — why delegating authority to a high-status teammate puts your own credibility on the line, for a leadership column.\n- **Plan for small changes, improvise through big ones (Work ID W7214778895):** A decision rule for reorganizations and disruptions, including the warning that teams default to their goal orientation rather than to what the situation requires, for a management or operations column.\n- **The one team member who sees the task differently can drag everyone down (Work ID W7211946634):** Being the cognitive outlier only hurts when teammates aren't curious enough to ask — a case against forcing consensus, for a work-psychology explainer or team-leadership brief.",
+  "fact_check": {
+    "studies_reviewed": 12,
+    "verdicts_by_work": {
+      "W7203807114": "⚠️ Minor issues",
+      "W7207711849": "⚠️ Minor issues",
+      "W7212308571": "✅ Accurate",
+      "W7218884614": "✅ Accurate",
+      "W7202283587": "✅ Accurate",
+      "W7214919069": "⚠️ Minor issues",
+      "W7202035170": "⚠️ Minor issues",
+      "W7215049715": "⚠️ Minor issues",
+      "W7205707681": "⚠️ Minor issues",
+      "W7205007222": "⚠️ Minor issues",
+      "W7214778895": "⚠️ Minor issues",
+      "W7211946634": "✅ Accurate"
+    },
+    "summary": {
+      "total_issues": "16 (16 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "8",
+      "entries_cleared": "4"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Team Dynamics & Collaboration — 2026-10-04\n**Checked:** 2026-10-04 | **Studies reviewed:** 12\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: After a team flops, flat teams rebound by recruiting a star — hierarchical ones won't\n**Work ID:** W7203807114 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. \"Resisted\" overstates a null effect** — Severity: Minor\n\n- **As written:** \"Teams with steep hierarchies saw the same recruit as a personal threat and resisted adding them.\"\n- **Abstract says:** \"failure will increase the willingness to add high-status members in teams with low but not high status differentiation\"\n- **Problem:** The abstract reports that failure did not increase willingness in high-differentiation teams, which is a null effect, not an active reduction or resistance. Members perceiving a threat is the theorized mechanism, not a measured behavioral refusal.\n- **Suggested fix:** \"Rephrase as \"Teams with steep hierarchies showed no such increase in willingness, with members viewing the addition as a threat to their own status.\"\"\n\n**Issue B. Lab description of the team experiment** — Severity: Minor\n\n- **As written:** \"the experimental teams were short-lived lab groups performing assigned tasks rather than ongoing workplace teams\"\n- **Abstract says:** \"two preregistered experiments at the individual (Study 2, n = 783 participants) and team levels (Study 3, n = 222 teams)\"\n- **Problem:** The abstract does not describe the setting, duration or task of the team-level experiment, so this characterization is unverifiable from the abstract only.\n- **Suggested fix:** \"Soften to \"the experiments were short-term preregistered studies rather than studies of ongoing workplace teams (setting not specified in the abstract).\"\"\n\n### Study 2: Gossip is how new hires actually learn the rules — if it's true, work-related and interesting\n**Work ID:** W7207711849 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. \"All three\" drops the abstract's hedge** — Severity: Minor\n\n- **As written:** \"All three attributes predicted clearer understanding of workplace norms and better social integration, over and above gossip frequency\"\n- **Abstract says:** \"The results largely supported our hypotheses, showing that, above and beyond the frequency of gossip received, the three attributes of gossip content enhanced newcomers' norm clarity and social integration.\"\n- **Problem:** \"Largely supported\" signals that not every predicted path held; the digest presents a uniform result for all three attributes on both outcomes.\n- **Suggested fix:** \"Add \"largely\" or \"most of\" — e.g. \"The attributes largely predicted clearer norm understanding and better social integration...\"\"\n\n**Issue B. Causal and comparative phrasing in story angle** — Severity: Minor\n\n- **As written:** \"truthful work-relevant gossip helped newcomers get productive and committed faster than sheer volume of chatter\"\n- **Abstract says:** \"above and beyond the frequency of gossip received, the three attributes of gossip content enhanced newcomers' norm clarity and social integration. In turn, norm clarity increased task proficiency, while social integration improved affective commitment.\"\n- **Problem:** This is an observational experience-sampling study, so \"helped\" implies causation, and \"faster\" implies a speed comparison the study did not test (content was tested over and above frequency, not against it on a timeline).\n- **Suggested fix:** \"Rewrite as \"gossip content, not just how much newcomers heard, was associated with norm clarity and integration, which in turn tracked with proficiency and commitment.\"\"\n\n### Study 3: Talking about your kids at work isn't a distraction — it may help you at the office and at home\n**Work ID:** W7212308571 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 4: Diversity training only boosted creativity when it taught teams to actually mine each other's knowledge\n**Work ID:** W7218884614 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 5: When the boss thanks a colleague in public, witnesses may cut corners to get noticed\n**Work ID:** W7202283587 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 6: What male allies actually do at work — and why managers' motives differ from everyone else's\n**Work ID:** W7214919069 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Shared motives dropped** — Severity: Minor\n\n- **As written:** \"Managers were more strongly motivated by job-related reasons, while non-managers more often cited empathic concern for women coworkers\"\n- **Abstract says:** \"Although both managers and non-managers were motivated by moral obligation and social justice concerns, managers were more strongly motivated by job-related motives, whereas non-managers more often emphasized empathic concern for women coworkers.\"\n- **Problem:** Omitting the common baseline of moral obligation and social justice makes the manager/non-manager difference look like a wholesale divergence in motive, which feeds the story angle's suggestion that managers' motives are career-driven.\n- **Suggested fix:** \"Add that both groups cited moral obligation and social justice, with the job-related vs. empathic difference layered on top.\"\n\n**Issue B. Typology also covers recommended behaviors** — Severity: Minor\n\n- **As written:** \"open-ended critical incident reports from 85 working men (45 managers, 40 non-managers) describing their real allyship experiences\"\n- **Abstract says:** \"a typology of enacted and recommended allyship behaviours\"\n- **Problem:** The typology includes behaviors participants recommended, not only ones they actually enacted, which the digest's \"real allyship experiences\" framing obscures.\n- **Suggested fix:** \"Note that the typology combines behaviors men reported enacting with ones they recommended.\"\n\n### Study 7: The team member who organizes everyone else learns the least from team training\n**Work ID:** W7202035170 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Team learning moderation overgeneralized** — Severity: Minor\n\n- **As written:** \"strong team learning amplified the pattern\"\n- **Abstract says:** \"we find support for the amplifying top-down influence of team learning effectiveness on the relationships between Doer and Organizer orientations and learning outcomes\"\n- **Problem:** The amplifying effect was found for the Doer and Organizer orientations only, not for the full set of relationships including Team Builder; \"the pattern\" implies it applied across the board.\n- **Suggested fix:** \"Specify \"team learning effectiveness amplified the Doer and Organizer effects.\"\"\n\n**Issue B. Immediate measurement claim** — Severity: Minor\n\n- **As written:** \"learning outcomes measured immediately with no evidence of transfer to actual jobs\"\n- **Abstract says:** \"From a sample of 84 student teams (N = 330) engaged in a simulation-based team training program...\"\n- **Problem:** The abstract does not state the timing of the learning measures, so the \"measured immediately\" detail is unverifiable from the abstract only (the no-transfer-to-jobs point is fair given the student sample).\n- **Suggested fix:** \"Trim to \"learning outcomes were measured within the simulation, with no evidence of transfer to actual jobs.\"\"\n\n### Study 8: Staying quiet in your first weeks can make you a target\n**Work ID:** W7215049715 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Protective effect overstated** — Severity: Minor\n\n- **As written:** \"newcomers with higher social status in the group were largely shielded, even when seen as submissive\"\n- **Abstract says:** \"newcomer social status served as the protective factor that could protect silent newcomers who were perceived as submissive from being hazed\"\n- **Problem:** The abstract describes status as a buffering moderator, not as near-complete protection; \"largely shielded\" implies a stronger attenuation than reported.\n- **Suggested fix:** \"Change to \"higher social status buffered silent newcomers from hazing.\"\"\n\n**Issue B. Measurement sourcing and timing not in abstract** — Severity: Minor\n\n- **As written:** \"at two time points, pairing new hires' reports of their own silence with their coworkers' perceptions and behavior\"\n- **Abstract says:** \"We conducted a time-lagged survey involving 266 newcomer–coworker dyads in mainland China.\"\n- **Problem:** The abstract confirms a time-lagged dyadic design but does not specify two waves or which variables came from which member of the dyad; this allocation is unverifiable from the abstract only.\n- **Suggested fix:** \"Say \"a time-lagged dyadic survey of 266 newcomer–coworker pairs\" without assigning specific measures to each source.\"\n\n### Study 9: When a colleague redesigns their own job, coworkers either copy them or sabotage them\n**Work ID:** W7205707681 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Headline mischaracterizes the measured outcome** — Severity: Minor\n\n- **As written:** \"When a colleague redesigns their own job, coworkers either copy them or sabotage them\"\n- **Abstract says:** \"observer functional behavioural responses (i.e., more helping and less undermining) and dysfunctional behavioural responses (i.e., less helping and more undermining)\"\n- **Problem:** The positive outcome measured was helping behavior toward the crafter, not imitating their job crafting, so \"copy them\" names an outcome the study did not assess.\n- **Suggested fix:** \"Reword to \"coworkers either pitch in or undercut them.\"\"\n\n**Issue B. Causal verbs for correlational data** — Severity: Minor\n\n- **As written:** \"Seeing a coworker craft their job sparked inspiration, which led to more helping and less undermining — but it also sparked anxiety, which led to more social undermining.\"\n- **Abstract says:** \"inspiration mediated the relationship between coworker job crafting and both helping behaviour and social undermining, while anxiety only mediated the relationship between coworker job crafting and social undermining\"\n- **Problem:** The abstract consistently uses associative language for a three-wave survey and an experience-sampling study; \"sparked\" and \"led to\" read as established causation, which sits awkwardly against the digest's own caveat.\n- **Suggested fix:** \"Use \"was associated with\" / \"in turn related to\" in the body text.\"\n\n### Study 10: When a coworker treats you badly, you start blaming your boss too\n**Work ID:** W7205007222 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Causal phrasing for predictive findings** — Severity: Minor\n\n- **As written:** \"Being treated unfairly by a coworker led employees to blame that coworker and then, in sequence, to blame and perceive injustice from their supervisor.\"\n- **Abstract says:** \"event-based data demonstrate that coworker injustice predicts supervisor injustice through the sequential mediation of coworker and supervisor blame\"\n- **Problem:** The abstract says \"predicts\" for event-based data; \"led to\" asserts causation that the described designs (and the digest's own caveat about same-source self-report) do not support.\n- **Suggested fix:** \"Change to \"Coworker injustice predicted blame toward the coworker and, in sequence, blame and perceived injustice toward the supervisor.\"\"\n\n**Issue B. Boundary condition simplified** — Severity: Minor\n\n- **As written:** \"strongest when employees saw the offending coworker as acting with the supervisor's delegated authority while also holding higher informal status than the victim did\"\n- **Abstract says:** \"perceived intermediary delegation (PID)… strengthens the blame migrating effect when victims concurrently hold lower relative statuses with their supervisors than their offending coworkers\"\n- **Problem:** The abstract frames the status condition in terms of the victim's status relative to the supervisor compared with the coworker's; the digest's simpler \"higher status than the victim\" loses the relative-to-supervisor comparison.\n- **Suggested fix:** \"Note that the effect peaked when the victim's standing with the supervisor was lower than the offending coworker's.\"\n\n### Study 11: Plan for small changes, improvise through big ones\n**Work ID:** W7214778895 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Goal orientation types not specified in abstract** — Severity: Minor\n\n- **As written:** \"Teams' goal orientations — learning versus performance focus — predicted which process they actually engaged in.\"\n- **Abstract says:** \"We also find that team goal orientations differentially shape teams’ engagement in each process.\"\n- **Problem:** The abstract refers only to \"team goal orientations\" without naming learning versus performance orientation, and does not say which orientation maps onto which adaptation process. The digest's specificity cannot be confirmed from the abstract.\n- **Suggested fix:** \"Write \"Teams' goal orientations shaped which process they engaged in (the abstract does not specify which orientation led to which)\" or flag the learning/performance labels as unverifiable from the abstract.\"\n\n**Issue B. \"Decision rule\" overstates a single study** — Severity: Minor\n\n- **As written:** \"It gives leaders a decision rule for reorganizations and disruptions\"\n- **Abstract says:** \"These findings offer a more integrative account of team adaptation following change.\"\n- **Problem:** The authors frame the contribution as a theoretical account, not a managerial decision rule; presenting one lab experiment plus one field survey as a rule for reorganizations leaps past what the abstract claims.\n- **Suggested fix:** \"Soften to \"It points leaders toward a contingency: planning helps for routine shifts, while improvisation may fit genuinely novel disruptions.\"\"\n\n### Study 12: The one team member who sees the task differently can drag everyone down\n**Work ID:** W7211946634 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | After a team flops, flat teams rebound by recruiting a star — hierarchical ones won't | ⚠️ Minor issues | Sample figures and core findings match the abstract; two small overstatements (active \"resistance\" by hierarchical teams; lab characterization of Study 3) go slightly beyond what the abstract states. |\n| 2 | Gossip is how new hires actually learn the rules — if it's true, work-related and interesting | ⚠️ Minor issues | Design, N and mediating chain are reported accurately; the digest states \"all three attributes\" predicted both outcomes where the abstract says hypotheses were only \"largely\" supported, and one story angle slips into causal/comparative language. |\n| 3 | Talking about your kids at work isn't a distraction — it may help you at the office and at home | ✅ Accurate | Four-study mixed-methods structure, the conversation definition and the \"primarily positive\" effects across work and home all match the abstract; caveats appropriately note the missing sample and effect-size detail. |\n| 4 | Diversity training only boosted creativity when it taught teams to actually mine each other's knowledge | ✅ Accurate | N (446 individuals in 57 intact teams), randomized field experiment design, both null results and the conditional elaboration pathway are reported faithfully, and the caveats carry the abstract's own cautions (non-significant contrast, tentative mechanism, call for replication). |\n| 5 | When the boss thanks a colleague in public, witnesses may cut corners to get noticed | ✅ Accurate | Both study designs and Ns match, the relative-deprivation mediation and the LMX boundary condition are correctly reported, and the digest keeps predictive rather than causal language for the survey. |\n| 6 | What male allies actually do at work — and why managers' motives differ from everyone else's | ⚠️ Minor issues | Sample, typology and the manager/non-manager motive contrast are accurate; the digest omits that both groups shared moral and social-justice motives and that the typology covers recommended as well as enacted behaviors. |\n| 7 | The team member who organizes everyone else learns the least from team training | ⚠️ Minor issues | Sample (84 student teams, N=330) and the three role-orientation effects are accurate; the team-learning moderation is described more broadly than the abstract supports. |\n| 8 | Staying quiet in your first weeks can make you a target | ⚠️ Minor issues | N, country and the silence–submissiveness–hazing path match; the protective effect of social status is stated more absolutely than the abstract does, and some design details are not verifiable from the abstract. |\n| 9 | When a colleague redesigns their own job, coworkers either copy them or sabotage them | ⚠️ Minor issues | The dual-pathway findings and the construal-level moderator are correctly reported, but the headline recasts helping behavior as imitation and the body uses causal verbs for correlational designs that the caveats themselves flag. |\n| 10 | When a coworker treats you badly, you start blaming your boss too | ⚠️ Minor issues | Two-study structure, the sequential blame mediation and the two-way boundary condition are reported correctly; the body uses causal phrasing for predictive, largely self-reported data. |\n| 11 | Plan for small changes, improvise through big ones | ⚠️ Minor issues | Core contingency finding matches the abstract; the specific \"learning versus performance\" goal orientations are not named in the abstract, and the \"decision rule\" framing is slightly firmer than a single two-part study supports. |\n| 12 | The one team member who sees the task differently can drag everyone down | ✅ Accurate | Sample (79 student teams, three-week business simulation), the configural \"cognitive isolation\" construct, and the low-epistemic-motivation boundary condition all match the abstract; caveats flag the student-simulation setting and modest team count. |\n\n**Total issues:** 16 (16 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 8\n**Entries cleared:** 4\n"
+  },
+  "coverage": {
+    "checked": 12,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
