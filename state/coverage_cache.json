@@ -20,6 +20,16 @@
         "state": "unreported"
       }
     },
+    "W7171908932": {
+      "checked_at": "2026-10-05T19:29:50.327710+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "000 person country test she finds doesn budge leader equals",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7172502435": {
       "checked_at": "2026-10-03T15:01:07.200254+00:00",
       "result": {
@@ -36,6 +46,26 @@
         "articles": [],
         "outlets": [],
         "query": "going green becomes moral duty employees feel guilty quietly resist",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7196926461": {
+      "checked_at": "2026-10-05T19:30:45.634674+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "short video about stress changed mothers coped workplace discrimination",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7197013324": {
+      "checked_at": "2026-10-05T19:31:06.849530+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "white male managers resist diversity programs differently Johannesburg Chicago",
         "returned": 0,
         "state": "unreported"
       }
@@ -170,6 +200,26 @@
         "state": "unreported"
       }
     },
+    "W7203448124": {
+      "checked_at": "2026-10-05T19:30:35.655161+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Men power think system fair Women same titles don",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7203472368": {
+      "checked_at": "2026-10-05T19:30:30.619539+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "News outlets don spin corporate activism they choose which parts",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7203608858": {
       "checked_at": "2026-09-29T12:45:57.859168+00:00",
       "result": {
@@ -197,6 +247,26 @@
         "outlets": [],
         "query": "Hiring filters cut applicant pool screen out best candidates too",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7203758314": {
+      "checked_at": "2026-10-05T19:30:34.308653+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "employee diversity networks actually all day they keep bumping into",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7203777671": {
+      "checked_at": "2026-10-05T19:30:56.079847+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Bad bosses don just push people out they push them",
+        "returned": 20,
         "state": "unreported"
       }
     },
@@ -310,6 +380,24 @@
         "state": "unreported"
       }
     },
+    "W7204687022": {
+      "checked_at": "2026-10-05T19:31:01.926539+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://theindependent.sg/foreign-worker-feels-excluded-after-colleagues-repeatedly-switch-to-mandarin-at-work-is-this-something-people-just-accept-here",
+            "outlet": "theindependent.sg",
+            "title": "Foreign worker feels excluded after colleagues repeatedly switch to Mandarin at work: \u2018Is this something people just accept here?\u2019"
+          }
+        ],
+        "outlets": [
+          "theindependent.sg"
+        ],
+        "query": "colleagues switch languages excluded workers hit back",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
     "W7204867954": {
       "checked_at": "2026-10-03T15:00:54.443976+00:00",
       "result": {
@@ -400,6 +488,16 @@
         "state": "unreported"
       }
     },
+    "W7210264840": {
+      "checked_at": "2026-10-05T19:30:59.118742+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Underemployment doesn hit all once erodes meaning then burns people",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7211872890": {
       "checked_at": "2026-09-29T12:45:48.126639+00:00",
       "result": {
@@ -430,6 +528,16 @@
         "state": "unreported"
       }
     },
+    "W7211977299": {
+      "checked_at": "2026-10-05T19:30:48.767991+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Indian organization helped widowed women unlearn shame three stages",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7212036280": {
       "checked_at": "2026-10-01T17:09:07.134027+00:00",
       "result": {
@@ -437,6 +545,16 @@
         "outlets": [],
         "query": "Should employers screen job applicants well being warning about where",
         "returned": 18,
+        "state": "unreported"
+      }
+    },
+    "W7212085651": {
+      "checked_at": "2026-10-05T19:30:40.005277+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Deep roots community make motherhood discrimination harder endure not easier",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -484,6 +602,16 @@
         "state": "lightly_reported"
       }
     },
+    "W7212427136": {
+      "checked_at": "2026-10-05T19:30:54.537489+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Disability Confident badges rarely show actual commitments job ads",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213166433": {
       "checked_at": "2026-09-29T12:44:46.024471+00:00",
       "result": {
@@ -501,6 +629,16 @@
         "outlets": [],
         "query": "Responsible leaders create two kinds team harmony only one them",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7213451050": {
+      "checked_at": "2026-10-05T19:30:02.038922+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Mixed teams clock watchers slow burners only get temporal leadership",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -544,12 +682,52 @@
         "state": "unreported"
       }
     },
+    "W7213915259": {
+      "checked_at": "2026-10-05T19:30:24.502692+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Green nudges work really change behavior but biggest wins come",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7213928112": {
+      "checked_at": "2026-10-05T19:30:06.687084+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "menu grouped changes people pick ten experiments hidden power list",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214020374": {
+      "checked_at": "2026-10-05T19:29:52.904125+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Career tests measure only interests push women away STEM adding",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7214200214": {
       "checked_at": "2026-09-29T12:45:01.721987+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Older younger candidates talk differently video interviews rewording question narrows",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214278713": {
+      "checked_at": "2026-10-05T19:29:56.957127+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "accommodation trap supports make job workable quietly make dead end",
         "returned": 0,
         "state": "unreported"
       }
@@ -580,6 +758,16 @@
         "articles": [],
         "outlets": [],
         "query": "Engagement daily state assertiveness day predicts",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214634718": {
+      "checked_at": "2026-10-05T19:30:18.398973+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Alienating threat employees actually say about their company diversity programs",
         "returned": 0,
         "state": "unreported"
       }
@@ -651,6 +839,16 @@
         "outlets": [],
         "query": "Employees sent abroad come home company has moved many start",
         "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "W7218392398": {
+      "checked_at": "2026-10-05T19:30:14.125201+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Recruiters say they don trust hiring algorithms then follow their",
+        "returned": 4,
         "state": "unreported"
       }
     },

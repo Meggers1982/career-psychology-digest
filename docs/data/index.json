@@ -1,7 +1,8 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 7,
+  "run_count": 8,
   "topics": [
+    "diversity, equity & inclusion at work",
     "hiring & selection",
     "motivation & engagement",
     "remote & hybrid work",
@@ -9,6 +10,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-diversity-equity-inclusion-at-work-2026-10-05",
+      "title": "Career Psychology Digest — Diversity, Equity & Inclusion at Work — 2026-10-05",
+      "topic": "diversity, equity & inclusion at work",
+      "run_date": "2026-10-05",
+      "study_count": 19,
+      "total_issues": "21 (16 Minor, 5 Moderate, 0 Major)",
+      "lead_count": 9,
+      "top_score": 90
+    },
     {
       "id": "career-psychology-digest-team-dynamics-collaboration-2026-10-04",
       "title": "Career Psychology Digest — Team Dynamics & Collaboration — 2026-10-04",
