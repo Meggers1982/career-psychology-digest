@@ -230,12 +230,32 @@
         "state": "unreported"
       }
     },
+    "W7203630460": {
+      "checked_at": "2026-10-06T16:58:11.003425+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "women join board firms likely build abroad than buy abroad",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7203635941": {
       "checked_at": "2026-10-01T14:21:36.120009+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "bad boss does brand hire nurses describe learning fake then",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7203695857": {
+      "checked_at": "2026-10-06T16:56:57.330247+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Field experiment Indian markets identical stalls drew customers woman selling",
         "returned": 0,
         "state": "unreported"
       }
@@ -702,6 +722,16 @@
         "state": "unreported"
       }
     },
+    "W7213965712": {
+      "checked_at": "2026-10-06T16:57:38.413948+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Feeling grateful made people pay green products blunted money grab",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7214020374": {
       "checked_at": "2026-10-05T19:29:52.904125+00:00",
       "result": {
@@ -809,6 +839,16 @@
         "outlets": [],
         "query": "male allies actually work managers motives differ everyone else",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214937827": {
+      "checked_at": "2026-10-06T16:56:53.878672+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "grew sales beats cut costs even dollars identical",
+        "returned": 9,
         "state": "unreported"
       }
     },
