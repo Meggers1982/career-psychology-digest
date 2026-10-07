@@ -1,0 +1,283 @@
+{
+  "id": "career-psychology-digest-entrepreneurship-2026-10-07",
+  "filename": "Career Psychology Digest — Entrepreneurship — 2026-10-07.md",
+  "title": "Career Psychology Digest — Entrepreneurship — 2026-10-07",
+  "run_date": "2026-10-07",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-08",
+  "window_to": "2026-10-07",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "6",
+  "articles_found": 8,
+  "screening": {
+    "found": 8,
+    "not_research": 0,
+    "no_abstract": 0,
+    "off_topic": 1,
+    "already_covered": 1,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 6
+  },
+  "focus": "Entrepreneurship",
+  "topic": "entrepreneurship",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 5,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Startups hit by a disaster in year one stay scrappier — and riskier — for years",
+      "paper_title": "Early Environmental Shocks and Organizational Reconfiguration in High-Growth Ventures",
+      "journal": "Organization Science",
+      "published": "2026-10-05",
+      "work_id": "W7220410857",
+      "doi": "10.1287/orsc.2023.18371",
+      "source_id": "S206124708",
+      "the_study": "Researchers analyzed a panel of 19,984 US startups founded between 1985 and 2010 that later raised venture capital, flagging those whose founding county had a FEMA Major Disaster Declaration within 12 months of founding. Disaster-exposed ventures went on to fail at higher rates and got no general edge in follow-on funding, but were more likely to reach an IPO when market conditions turned favorable. Employee-level data suggested these firms retained flatter structures, more fluid roles and broader expertise than comparable peers as they grew.",
+      "why_it_matters": "It suggests that the conditions of a company's first year leave structural fingerprints that persist for a decade or more, shaping whether a firm can reorganize quickly when an opportunity appears.",
+      "story_angle_primary": "Leaders can ask what their organization's founding period baked in: if a crisis forced flat structures and generalist roles early, that fluidity may be an under-recognized asset for pivoting — but one paired with a higher failure risk that needs active management, not just celebration.",
+      "story_angle_secondary": "For anyone choosing where to work, the study hints that a company's early history — not just its current org chart — shapes what daily work feels like: broader roles and less rigid hierarchy at firms forged in disruption.",
+      "caveats": "Observational panel data, so the disaster-exposure comparison is quasi-experimental rather than randomized; the employee-structure evidence is described as descriptive; sample limited to US startups that successfully raised venture financing, excluding the many that never did.",
+      "score": 90,
+      "band": "Lead",
+      "evidence_type": "field experiment",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, N, window and outcome pattern all match the abstract; two small overreaches in how the descriptive employee evidence and the persistence horizon are characterized.",
+      "tags": [
+        "entrepreneurship"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "North Korean defectors who started businesses built three very different kinds of companies — and the difference was identity",
+      "paper_title": "Who will I be? Refugee entrepreneurship and founder identity",
+      "journal": "Journal of Business Venturing",
+      "published": "2026-09-29",
+      "work_id": "W7214760936",
+      "doi": "10.1016/j.jbusvent.2026.106657",
+      "source_id": "S66201313",
+      "the_study": "Over 27 months, researchers followed 23 North Korean defector founders building ventures in South Korea. Facing demeaning stereotypes attached to their refugee status, founders adopted one of three self-chosen social identities and constructed narratives anchored in their past, present or future to justify their path. Those identity choices traced directly into their companies: distinct missions, branding, hiring preferences and the roles the founders themselves played.",
+      "why_it_matters": "It shows that how a stigmatized founder answers the question \"who am I here?\" becomes concrete business strategy — the people hired, the customers courted, the story told to investors.",
+      "story_angle_primary": "Managers and investors assessing founders from marginalized backgrounds can look past a single \"refugee entrepreneur\" template: the study documents meaningfully different venture models arising from how founders respond to local social evaluations of them.",
+      "story_angle_secondary": "A vivid account of identity work under stigma that will resonate with anyone rebuilding a career after a major rupture — a move abroad, a career switch, a long gap — and deciding which version of their story to lead with.",
+      "caveats": "Qualitative field study with a small, highly specific sample (23 North Korean defector founders in one country); no comparison group, no quantitative outcomes, and findings are interpretive rather than causal or statistically generalizable.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "qualitative",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 2,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Duration, sample and the three-identity/narrative-anchoring findings match; the host-country detail is not in the abstract.",
+      "tags": [
+        "entrepreneurship",
+        "hiring & selection"
+      ],
+      "covered_by": [
+        "Newswise"
+      ],
+      "covered_articles": [
+        {
+          "title": "How North Korean Defectors Help Us Understand Refugee Entrepreneurs | Newswise",
+          "outlet": "Newswise",
+          "link": "https://www.newswise.com/articles/how-north-korean-defectors-help-us-understand-refugee-entrepreneurs"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Why women founders post about their worst days — and how they manage the fallout",
+      "paper_title": "From breakdown to breakthrough: How entrepreneurs craft vulnerability narratives on social media",
+      "journal": "Journal of Business Venturing",
+      "published": "2026-10-02",
+      "work_id": "W7215047180",
+      "doi": "10.1016/j.jbusvent.2026.106656",
+      "source_id": "S66201313",
+      "the_study": "Researchers interviewed 33 women entrepreneurs and observed their Instagram activity for 21 months to understand why founders publicly share fear, doubt and struggle rather than polished success stories. They found founders held self-oriented, relational and normative motives for disclosure simultaneously, shifting between them as circumstances changed. Crucially, these women developed specific narrative-crafting tactics to keep the benefits of openness while limiting the interpersonal risks that come with exposing weakness in a context of gendered bias.",
+      "why_it_matters": "It reframes entrepreneurial storytelling: not every public narrative is a legitimacy play, and vulnerability online is actively managed labor rather than spontaneous confession.",
+      "story_angle_primary": "Founders and leaders experimenting with candid posting can treat disclosure as a crafted practice — deciding what stage of a struggle to share, how to frame it, and which audience they are building — rather than assuming authenticity is risk-free, especially given the gendered penalties the study documents.",
+      "story_angle_secondary": "For anyone whose feed is full of carefully curated burnout confessions, this explains the machinery behind them: what people get out of sharing hard times publicly and the quiet work that goes into not getting hurt by it.",
+      "caveats": "Qualitative study of 33 women entrepreneurs on a single platform; no men or comparison group, no measurement of business outcomes from disclosure, and findings are interpretive rather than causal.",
+      "score": 75,
+      "band": "Strong",
+      "evidence_type": "qualitative",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Method, N, platform and motive typology are reported accurately; one phrase treats gendered bias as a study finding rather than a premise.",
+      "tags": [
+        "compensation",
+        "entrepreneurship",
+        "hiring & selection"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 4,
+      "title": "Entrepreneurs in conflict zones don't \"bounce back\" — they cycle between retreat and reengagement",
+      "paper_title": "Survival Is Triumph Enough: Rhythmic Resilience Amid Chronic Adversity and Acute Shocks",
+      "journal": "Journal of Management",
+      "published": "2026-08-19",
+      "work_id": "W7203797024",
+      "doi": "10.1177/01492063261468322",
+      "source_id": "S122767448",
+      "the_study": "Researchers conducted an inductive, longitudinal study of 32 displaced entrepreneurs living in conflict-affected regions of Iraq, where chronic hardship is punctuated by acute shocks. Rather than recovering or thriving, these founders practiced what the authors call rhythmic resilience: repeating cycles of withdrawal, reengagement and adaptation that sustained survival across household, venture and community. The pattern carried a cost the authors label a resilience–survival paradox — survival was protected at the expense of personal well-being, business growth and social ties.",
+      "why_it_matters": "It challenges the popular framing of resilience as growth through adversity, documenting instead a mode of endurance in which deliberate withdrawal is a strategy, not a failure.",
+      "story_angle_primary": "Leaders running teams or businesses through prolonged instability can reconsider resilience metrics that reward constant output: the study suggests periods of strategic pullback may be what makes continued operation possible, while flagging the hidden toll on health and relationships.",
+      "story_angle_secondary": "For readers facing long stretches of hardship rather than a single setback, the finding that survival itself counts — and that stepping back is part of the pattern — is a counterweight to bounce-back-stronger narratives.",
+      "caveats": "Qualitative, inductive study of 32 entrepreneurs in one extreme context (conflict-affected Iraq); self-reported accounts, no outcome measures, and generalizability to ordinary business adversity is untested.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Design, sample, setting, the rhythmic-resilience cycle and the resilience–survival paradox all match the abstract; caveats appropriately flag the qualitative, single-context design.",
+      "tags": [
+        "entrepreneurship",
+        "motivation & engagement",
+        "wellbeing & work-life balance"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 5,
+      "title": "The startup policy that grows the economy while hollowing out the towns next door",
+      "paper_title": "Spatial (In)equality and Entrepreneurial Ecosystem Policy: A Historical Analysis of the Scottish Highlands",
+      "journal": "Entrepreneurship Theory and Practice",
+      "published": "2026-08-25",
+      "work_id": "W7204156044",
+      "doi": "10.1177/10422587261472141",
+      "source_id": "S187626162",
+      "the_study": "Researchers conducted a historical analysis of entrepreneurial ecosystem policy in the Scottish Highlands and Islands from 1965 to 1990, comparing policies that attract resources from outside the region with those that embed resources in local communities. Resource-attracting policies produced higher economic output but concentrated opportunity in a few places, drained peripheral areas and increased the region's fragility. Resource-embedding policies yielded less aggregate output but greater spatial inclusion and resilience.",
+      "why_it_matters": "It identifies a real trade-off behind headline economic development numbers: the same policy that boosts regional GDP can deepen inequality between towns and leave the whole region more exposed when conditions change.",
+      "story_angle_primary": "Executives and civic leaders evaluating regional investment incentives or hub strategies can ask which of the two logics a policy follows, and watch for the drainage mechanism the study identifies — talent and opportunity migrating from surrounding communities into a single designated center.",
+      "story_angle_secondary": "It helps explain a familiar pattern in rural and post-industrial areas: why a nearby boomtown can coexist with declining villages a short drive away, and why \"the region is growing\" can be true and misleading at once.",
+      "caveats": "Historical case analysis of a single region over one 25-year period; no statistical identification of causal effects, and transferability to contemporary ecosystem policy elsewhere is an interpretive claim.",
+      "score": 77,
+      "band": "Strong",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Region, period, policy comparison and the output-versus-inclusion trade-off are reported faithfully; caveats correctly note the single-region historical design and absence of causal identification.",
+      "tags": [
+        "diversity, equity & inclusion at work",
+        "entrepreneurship"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7220410857",
+      "journal": "Organization Science",
+      "date": "2026-10-05",
+      "doi": "10.1287/orsc.2023.18371"
+    },
+    {
+      "work_id": "W7214760936",
+      "journal": "Journal of Business Venturing",
+      "date": "2026-09-29",
+      "doi": "10.1016/j.jbusvent.2026.106657"
+    },
+    {
+      "work_id": "W7215047180",
+      "journal": "Journal of Business Venturing",
+      "date": "2026-10-02",
+      "doi": "10.1016/j.jbusvent.2026.106656"
+    },
+    {
+      "work_id": "W7203797024",
+      "journal": "Journal of Management",
+      "date": "2026-08-19",
+      "doi": "10.1177/01492063261468322"
+    },
+    {
+      "work_id": "W7204156044",
+      "journal": "Entrepreneurship Theory and Practice",
+      "date": "2026-08-25",
+      "doi": "10.1177/10422587261472141"
+    }
+  ],
+  "trends_raw": "_No prior digest on this topic to compare against yet — this is the first run._",
+  "feature_pitch_raw": "**The pattern:** Four of the five studies in this batch converge on the same uncomfortable finding — adversity does shape ventures durably, but almost never in the clean \"stronger for it\" way the startup canon promises. Startups hit by a disaster in their first year keep flatter, more improvisational structures for a decade and occasionally reach an IPO, while failing at higher rates overall (W7220410857); conflict-displaced founders in Iraq survive by cycling between withdrawal and reengagement, at documented cost to health, growth and relationships (W7203797024); stigmatized defector founders convert hostile social evaluations into three divergent business models (W7214760936); and women founders treat public vulnerability as carefully engineered labor rather than catharsis (W7215047180). Together they describe adversity as something founders metabolize into permanent structure and strategy — with a bill attached that the resilience literature rarely itemizes.\n\n**Why pitch this now:** Climate-driven disaster declarations, displacement and prolonged economic instability are now baseline operating conditions for a large share of new firms, at exactly the moment \"founder resilience\" has hardened into a funding criterion, an accelerator curriculum and a LinkedIn genre — and this batch of research says the construct is being used wrong.\n\n**Angle:** A reported feature that takes apart the resilience story entrepreneurship sells itself, using researchers who went into disaster zones, refugee communities and Instagram feeds to show what endurance actually costs and what it quietly builds; aimed at founders, investors and the general business reader who has absorbed the bounce-back narrative without noticing its price tag.\n\n**Potential headlines:**\n- What Surviving a Disaster Actually Does to a Company\n- The Strongest Founders in the Research Aren't Bouncing Back. They're Retreating.\n- Your Hardest Year Is Still Running Your Business\n\n**Potential outlets:**\n- *The Atlantic* — its work coverage regularly interrogates American achievement myths, and \"resilience as an unexamined ideology\" is squarely that beat.\n- *Fast Company* — reaches the founder and accelerator audience most invested in the resilience script, and runs research-driven critiques of startup orthodoxy.\n- *MIT Sloan Management Review* — the structural-imprinting finding on disaster-exposed firms is exactly its register for investors and operators rethinking resilience metrics.\n- *Inc.* — small-business and founder readership that lives the chronic-adversity version of this story rather than the venture-backed one.",
+  "pitch_ideas_raw": "- **Startups hit by a disaster in year one stay scrappier — and riskier — for years (Work ID W7220410857):** A company's founding-year crisis is still visible in its org chart ten years later — report it as a piece on what \"founding imprint\" means for anyone evaluating an employer or an acquisition target, for a management or leadership column.\n- **North Korean defectors who started businesses built three very different kinds of companies — and the difference was identity (Work ID W7214760936):** Three founders, same stigma, three completely different companies — a narrative feature on how founders from marginalized backgrounds choose which version of their past to build a business on, for a general-interest or women's/lifestyle long read.\n- **Why women founders post about their worst days — and how they manage the fallout (Work ID W7215047180):** The \"authentic\" burnout post is engineered — break down the specific narrative tactics women founders use to get the benefits of candor without the penalty, for a career-advice or digital-culture column in a women's or lifestyle outlet.\n- **Entrepreneurs in conflict zones don't \"bounce back\" — they cycle between retreat and reengagement (Work ID W7203797024):** Strategic withdrawal as a survival skill, not a failure — pitch as a challenge to how companies measure resilience during prolonged instability, for a manager-audience column or work-psychology explainer.\n- **The startup policy that grows the economy while hollowing out the towns next door (Work ID W7204156044):** Why \"the region is growing\" and \"the next town over is emptying\" can both be true — a policy explainer on the two competing logics behind startup-hub incentives, for a business-policy or regional-economy section.",
+  "fact_check": {
+    "studies_reviewed": 5,
+    "verdicts_by_work": {
+      "W7220410857": "⚠️ Minor issues",
+      "W7214760936": "⚠️ Minor issues",
+      "W7215047180": "⚠️ Minor issues",
+      "W7203797024": "✅ Accurate",
+      "W7204156044": "✅ Accurate"
+    },
+    "summary": {
+      "total_issues": "4 (4 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "3",
+      "entries_cleared": "2"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Entrepreneurship — 2026-10-07\n**Checked:** 2026-10-07 | **Studies reviewed:** 5\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Startups hit by a disaster in year one stay scrappier — and riskier — for years\n**Work ID:** W7220410857 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Persistence horizon not stated in abstract** — Severity: Minor\n\n- **As written:** \"It suggests that the conditions of a company's first year leave structural fingerprints that persist for a decade or more\"\n- **Abstract says:** \"We study whether shocks from local natural disasters can leave durable organizational traces in young high-growth ventures... These durable organizational traces may, in turn, shape ventures' subsequent capacity for reconfiguration.\"\n- **Problem:** The abstract says \"durable\" traces but never quantifies the duration; \"a decade or more\" is a specific claim that cannot be verified from the abstract alone.\n- **Suggested fix:** \"Change to \"leave durable structural fingerprints\" or \"traces that persist well into the firm's growth\".\"\n\n**Issue B. Descriptive evidence stated more firmly than abstract** — Severity: Minor\n\n- **As written:** \"Employee-level data suggested these firms retained flatter structures, more fluid roles and broader expertise than comparable peers as they grew.\"\n- **Abstract says:** \"Descriptive employee-level evidence further documents differences in organizational structure and composition consistent with greater retained fluidity among exposed ventures.\"\n- **Problem:** The abstract reports only differences in structure and composition \"consistent with greater retained fluidity\"; the specific list (flatness, role fluidity, broader expertise) comes from the authors' theoretical interpretation, not from what the employee data directly showed.\n- **Suggested fix:** \"Reword to \"Descriptive employee-level data showed structural differences consistent with greater retained fluidity, which the authors interpret as flatness, role fluidity and broader expertise.\"\"\n\n### Study 2: North Korean defectors who started businesses built three very different kinds of companies — and the difference was identity\n**Work ID:** W7214760936 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Country of venture creation not in abstract** — Severity: Minor\n\n- **As written:** \"researchers followed 23 North Korean defector founders building ventures in South Korea\"\n- **Abstract says:** \"We conducted a 27-month field study of 23 North Korean Defector (NKD) founders... how refugee founders respond to being in a new country\"\n- **Problem:** The abstract never names South Korea as the setting; it refers only to \"a new country.\" Unverifiable from abstract only (though a plausible inference).\n- **Suggested fix:** \"Say \"building ventures in their new country\" unless the setting is confirmed in the full text.\"\n\n### Study 3: Why women founders post about their worst days — and how they manage the fallout\n**Work ID:** W7215047180 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Gendered penalties framed as a documented finding** — Severity: Minor\n\n- **As written:** \"rather than assuming authenticity is risk-free, especially given the gendered penalties the study documents\"\n- **Abstract says:** \"These disclosures expose entrepreneurs to interpersonal risks, heightened for women entrepreneurs who contend with gendered biases and less supportive social contexts.\"\n- **Problem:** The abstract presents heightened risk for women as background motivation for the study's focus, not as a measured or documented outcome; the study reports no comparative test of penalties.\n- **Suggested fix:** \"Change to \"given the gendered biases the study takes as its starting point\" or \"the heightened interpersonal risks the authors describe\".\"\n\n### Study 4: Entrepreneurs in conflict zones don't \"bounce back\" — they cycle between retreat and reengagement\n**Work ID:** W7203797024 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 5: The startup policy that grows the economy while hollowing out the towns next door\n**Work ID:** W7204156044 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Startups hit by a disaster in year one stay scrappier — and riskier — for years | ⚠️ Minor issues | Design, N, window and outcome pattern all match the abstract; two small overreaches in how the descriptive employee evidence and the persistence horizon are characterized. |\n| 2 | North Korean defectors who started businesses built three very different kinds of companies — and the difference was identity | ⚠️ Minor issues | Duration, sample and the three-identity/narrative-anchoring findings match; the host-country detail is not in the abstract. |\n| 3 | Why women founders post about their worst days — and how they manage the fallout | ⚠️ Minor issues | Method, N, platform and motive typology are reported accurately; one phrase treats gendered bias as a study finding rather than a premise. |\n| 4 | Entrepreneurs in conflict zones don't \"bounce back\" — they cycle between retreat and reengagement | ✅ Accurate | Design, sample, setting, the rhythmic-resilience cycle and the resilience–survival paradox all match the abstract; caveats appropriately flag the qualitative, single-context design. |\n| 5 | The startup policy that grows the economy while hollowing out the towns next door | ✅ Accurate | Region, period, policy comparison and the output-versus-inclusion trade-off are reported faithfully; caveats correctly note the single-region historical design and absence of causal identification. |\n\n**Total issues:** 4 (4 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 3\n**Entries cleared:** 2\n"
+  },
+  "coverage": {
+    "checked": 5,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}

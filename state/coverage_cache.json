@@ -290,6 +290,16 @@
         "state": "unreported"
       }
     },
+    "W7203797024": {
+      "checked_at": "2026-10-07T17:34:35.187505+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Entrepreneurs conflict zones don bounce back they cycle between retreat",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7203807114": {
       "checked_at": "2026-10-04T15:33:19.352014+00:00",
       "result": {
@@ -346,6 +356,16 @@
         "articles": [],
         "outlets": [],
         "query": "two minute allocation game predicts which job perks candidates actually",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204156044": {
+      "checked_at": "2026-10-07T17:34:40.376939+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "startup policy grows economy while hollowing out towns next door",
         "returned": 0,
         "state": "unreported"
       }
@@ -822,6 +842,24 @@
         "state": "unreported"
       }
     },
+    "W7214760936": {
+      "checked_at": "2026-10-07T17:34:09.299182+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.newswise.com/articles/how-north-korean-defectors-help-us-understand-refugee-entrepreneurs",
+            "outlet": "Newswise",
+            "title": "How North Korean Defectors Help Us Understand Refugee Entrepreneurs | Newswise"
+          }
+        ],
+        "outlets": [
+          "Newswise"
+        ],
+        "query": "North Korean defectors who started businesses built three very different",
+        "returned": 2,
+        "state": "lightly_reported"
+      }
+    },
     "W7214778895": {
       "checked_at": "2026-10-04T15:34:04.666683+00:00",
       "result": {
@@ -849,6 +887,16 @@
         "outlets": [],
         "query": "grew sales beats cut costs even dollars identical",
         "returned": 9,
+        "state": "unreported"
+      }
+    },
+    "W7215047180": {
+      "checked_at": "2026-10-07T17:34:19.347870+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "women founders post about their worst days they manage fallout",
+        "returned": 3,
         "state": "unreported"
       }
     },
@@ -898,6 +946,16 @@
         "articles": [],
         "outlets": [],
         "query": "Diversity training only boosted creativity taught teams actually mine each",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7220410857": {
+      "checked_at": "2026-10-07T17:33:46.176625+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Startups hit disaster year one stay scrappier riskier years",
         "returned": 0,
         "state": "unreported"
       }

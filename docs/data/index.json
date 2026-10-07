@@ -1,8 +1,9 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 9,
+  "run_count": 10,
   "topics": [
     "diversity, equity & inclusion at work",
+    "entrepreneurship",
     "hiring & selection",
     "motivation & engagement",
     "negotiation & decision-making",
@@ -11,6 +12,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-entrepreneurship-2026-10-07",
+      "title": "Career Psychology Digest — Entrepreneurship — 2026-10-07",
+      "topic": "entrepreneurship",
+      "run_date": "2026-10-07",
+      "study_count": 5,
+      "total_issues": "4 (4 Minor, 0 Moderate, 0 Major)",
+      "lead_count": 2,
+      "top_score": 90
+    },
     {
       "id": "career-psychology-digest-negotiation-decision-making-2026-10-06",
       "title": "Career Psychology Digest — Negotiation & Decision-Making — 2026-10-06",
