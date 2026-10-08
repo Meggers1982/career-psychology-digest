@@ -1,0 +1,100 @@
+{
+  "id": "career-psychology-digest-workplace-communication-2026-10-08",
+  "filename": "Career Psychology Digest — Workplace Communication — 2026-10-08.md",
+  "title": "Career Psychology Digest — Workplace Communication — 2026-10-08",
+  "run_date": "2026-10-08",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-09",
+  "window_to": "2026-10-08",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "3",
+  "articles_found": 5,
+  "screening": {
+    "found": 5,
+    "not_research": 0,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 2,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 3
+  },
+  "focus": "Workplace Communication",
+  "topic": "workplace communication",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 1,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Narcissistic bosses hear the good ideas and silence the bad news",
+      "paper_title": "Does narcissistic leadership promote or inhibit employee voice? The roles of team chaxu climate and work-family balance",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-09-10",
+      "work_id": "W7212150272",
+      "doi": "10.1108/jmp-09-2025-0889",
+      "source_id": "S53726244",
+      "the_study": "Researchers surveyed 408 employees and 68 supervisors at Chinese firms across three time points, measuring how employees perceived their leader's narcissism and how much they spoke up at work. They separated two kinds of speaking up: promotive voice (suggestions for improvement) and prohibitive voice (flagging problems, risks and wrongdoing). Narcissistic leadership was positively associated with promotive voice but negatively associated with prohibitive voice, and both links ran through a \"chaxu\" team climate — one in which the leader openly divides the team into favored insiders and outsiders. Leaders who reported better work-family balance were less likely to foster that insider-outsider climate.",
+      "why_it_matters": "The leaders most likely to be praised for \"energizing\" their teams may be systematically starving themselves of warnings — employees pitch flashy ideas but stop reporting risks, which is precisely the information that prevents costly failures.",
+      "story_angle_primary": "If your team generates plenty of ideas but almost never raises problems, treat that asymmetry as a warning sign about your own leadership style rather than evidence of a well-run operation. Managers can audit the ratio of suggestions to risk reports in their meetings, and watch for the insider-outsider dynamics — favored confidants, differentiated access — that appear to drive the silence. The study is correlational and based in Chinese organizations, so it suggests a pattern worth probing, not a diagnostic test.",
+      "story_angle_secondary": "It offers a read on the everyday calculation employees make around a self-focused boss: flattery-adjacent suggestions are safe, bad news is not. The finding that leaders with better work-family balance built less favoritism into their teams also hints that an overloaded manager's home life spills into how fairly they treat people.",
+      "caveats": "Single country (China) and the \"chaxu climate\" construct is culturally specific; leadership narcissism was measured through employee perceptions rather than independently assessed; time-lagged but still correlational, so causal direction is not established; voice behavior relationships may be shaped by common source across employee-reported measures.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": 408,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, sample and the two main voice findings match the abstract. Main problem: the leaders' work-family balance result is a moderator (it weakens the narcissism\\u2013chaxu link), but the digest twice reports it as a standalone main effect. Minor embellishment in the chaxu gloss and in attributing the work-family measure to leaders' own reports.",
+      "tags": [
+        "leadership & management",
+        "team dynamics & collaboration",
+        "wellbeing & work-life balance",
+        "workplace communication"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7212150272",
+      "journal": "Journal of Managerial Psychology",
+      "date": "2026-09-10",
+      "doi": "10.1108/jmp-09-2025-0889"
+    }
+  ],
+  "trends_raw": "_No prior digest on this topic to compare against yet -- this is the first run._",
+  "feature_pitch_raw": "_No cross-study feature angle identified in this batch._",
+  "pitch_ideas_raw": "- **Narcissistic bosses hear the good ideas and silence the bad news (Work ID W7212150272):** Frame it as a diagnostic for managers — a team that overflows with suggestions but never flags risk is not a high-performing team, it is a team that has learned which messages are safe; pair with the insider-outsider \"favorites\" dynamic and the odd finding that leaders with better work-family balance play favorites less, for a manager-audience column or a leadership/work-psychology explainer in a general-interest outlet.",
+  "fact_check": {
+    "studies_reviewed": 1,
+    "verdicts_by_work": {
+      "W7212150272": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "4 (2 Minor, 2 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Workplace Communication — 2026-10-08\n**Checked:** 2026-10-08 | **Studies reviewed:** 1\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Narcissistic bosses hear the good ideas and silence the bad news\n**Work ID:** W7212150272 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Moderator reported as main effect** — Severity: Moderate\n\n- **As written:** \"Leaders who reported better work-family balance were less likely to foster that insider-outsider climate.\"\n- **Abstract says:** \"leaders' work-family balance weakens the positive association between narcissistic leadership and team chaxu climate\"\n- **Problem:** The abstract describes work-family balance as a boundary condition that buffers the narcissism-to-chaxu-climate relationship, not as a general predictor of less favoritism. As written, readers could conclude that any leader with better balance builds a fairer team, which the abstract does not support.\n- **Suggested fix:** \"Rewrite as: \"Among narcissistic leaders, those with better work-family balance were less likely to translate that narcissism into an insider-outsider climate \\u2014 the study frames balance as a buffering condition, not a general driver of fairness.\"\"\n\n**Issue B. Same moderator error repeated in story angle** — Severity: Moderate\n\n- **As written:** \"The finding that leaders with better work-family balance built less favoritism into their teams also hints that an overloaded manager's home life spills into how fairly they treat people.\"\n- **Abstract says:** \"leaders' work-family balance weakens the positive association between narcissistic leadership and team chaxu climate\"\n- **Problem:** Repeats the main-effect framing of what the abstract reports as a moderation, and adds a causal spillover reading (\"home life spills into\") for a time-lagged correlational survey.\n- **Suggested fix:** \"Reframe as a conditional, non-causal observation, e.g. \"Work-family balance appeared to blunt the link between narcissistic leadership and favoritism, hinting at \\u2014 but not demonstrating \\u2014 a connection between a manager's home life and how they treat their team.\"\"\n\n**Issue C. Embellished definition of chaxu climate** — Severity: Minor\n\n- **As written:** \"a \"chaxu\" team climate \\u2014 one in which the leader openly divides the team into favored insiders and outsiders\"\n- **Abstract says:** \"team chaxu climate mediates the relationships between narcissistic leadership and both forms of employee voice\"\n- **Problem:** The abstract gives no definition of chaxu climate; the word \"openly\" adds a claim about visibility of the favoritism that cannot be checked from the abstract.\n- **Suggested fix:** \"Drop \"openly\" or mark the definition as a general gloss on the construct rather than a study finding.\"\n\n**Issue D. Source of work-family balance measure** — Severity: Minor\n\n- **As written:** \"Leaders who reported better work-family balance\"\n- **Abstract says:** \"Data were collected from 408 employees and 68 supervisors in China using a three-wave time-lagged survey.\"\n- **Problem:** The abstract does not specify whether work-family balance was leader-reported or rated by employees. Unverifiable from abstract only.\n- **Suggested fix:** \"Use neutral wording such as \"leaders with better work-family balance\" unless the source of the rating can be confirmed from the full text.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Narcissistic bosses hear the good ideas and silence the bad news | ⚠️ Minor issues | Design, sample and the two main voice findings match the abstract. Main problem: the leaders' work-family balance result is a moderator (it weakens the narcissism\\u2013chaxu link), but the digest twice reports it as a standalone main effect. Minor embellishment in the chaxu gloss and in attributing the work-family measure to leaders' own reports. |\n\n**Total issues:** 4 (2 Minor, 2 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 1,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}

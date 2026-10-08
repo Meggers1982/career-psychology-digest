@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 10,
+  "run_count": 11,
   "topics": [
     "diversity, equity & inclusion at work",
     "entrepreneurship",
@@ -9,9 +9,20 @@
     "negotiation & decision-making",
     "remote & hybrid work",
     "team dynamics & collaboration",
+    "workplace communication",
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-workplace-communication-2026-10-08",
+      "title": "Career Psychology Digest — Workplace Communication — 2026-10-08",
+      "topic": "workplace communication",
+      "run_date": "2026-10-08",
+      "study_count": 1,
+      "total_issues": "4 (2 Minor, 2 Moderate, 0 Major)",
+      "lead_count": 0,
+      "top_score": 80
+    },
     {
       "id": "career-psychology-digest-entrepreneurship-2026-10-07",
       "title": "Career Psychology Digest — Entrepreneurship — 2026-10-07",
