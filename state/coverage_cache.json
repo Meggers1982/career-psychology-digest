@@ -558,6 +558,16 @@
         "state": "unreported"
       }
     },
+    "W7211910578": {
+      "checked_at": "2026-10-10T15:58:31.542859+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Poverty level pay pushes workers toward exit but they work",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "W7211946634": {
       "checked_at": "2026-10-04T15:34:07.267990+00:00",
       "result": {
@@ -679,6 +689,16 @@
         "outlets": [],
         "query": "Responsible leaders create two kinds team harmony only one them",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7213445976": {
+      "checked_at": "2026-10-10T15:58:27.553903+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "bad boss one team make other boss look like hero",
+        "returned": 17,
         "state": "unreported"
       }
     },
@@ -937,6 +957,16 @@
         "outlets": [],
         "query": "Employees sent abroad come home company has moved many start",
         "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "W7215124307": {
+      "checked_at": "2026-10-10T15:58:40.696136+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Tying CEO pay climate goals linked emissions not fewer",
+        "returned": 0,
         "state": "unreported"
       }
     },
