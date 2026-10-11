@@ -10,6 +10,16 @@
         "state": "unreported"
       }
     },
+    "W7167993239": {
+      "checked_at": "2026-10-11T16:28:43.242928+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "perfectionist boss follows employees home back work sick",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7169580639": {
       "checked_at": "2026-10-02T16:23:33.017202+00:00",
       "result": {
@@ -210,6 +220,16 @@
         "state": "unreported"
       }
     },
+    "W7203464894": {
+      "checked_at": "2026-10-11T16:28:38.364682+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "she out earns him her work family conflict rises his",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "W7203472368": {
       "checked_at": "2026-10-05T19:30:30.619539+00:00",
       "result": {
@@ -256,6 +276,16 @@
         "articles": [],
         "outlets": [],
         "query": "Field experiment Indian markets identical stalls drew customers woman selling",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7203699710": {
+      "checked_at": "2026-10-11T16:29:29.566414+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Teams believe they deliver don just they share load evenly",
         "returned": 0,
         "state": "unreported"
       }
@@ -350,6 +380,16 @@
         "state": "unreported"
       }
     },
+    "W7204030144": {
+      "checked_at": "2026-10-11T16:29:09.675299+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Having boss mentor own gender feels better but doesn improve",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7204088664": {
       "checked_at": "2026-09-29T12:45:40.342344+00:00",
       "result": {
@@ -390,6 +430,24 @@
         "state": "unreported"
       }
     },
+    "W7204244254": {
+      "checked_at": "2026-10-11T16:29:14.700593+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
+            "outlet": "World Health Organization (WHO)",
+            "title": "Mental health at work"
+          }
+        ],
+        "outlets": [
+          "World Health Organization (WHO)"
+        ],
+        "query": "Employee involvement isn always makes workplace health programs work",
+        "returned": 20,
+        "state": "lightly_reported"
+      }
+    },
     "W7204438985": {
       "checked_at": "2026-10-02T16:23:34.814150+00:00",
       "result": {
@@ -406,6 +464,16 @@
         "articles": [],
         "outlets": [],
         "query": "Coping strategies help women survive male dominated field also entrench",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204489065": {
+      "checked_at": "2026-10-11T16:28:58.160103+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Rude customers chat window follow employees home",
         "returned": 0,
         "state": "unreported"
       }
@@ -436,6 +504,16 @@
         "query": "colleagues switch languages excluded workers hit back",
         "returned": 1,
         "state": "lightly_reported"
+      }
+    },
+    "W7204799973": {
+      "checked_at": "2026-10-11T16:29:13.455602+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Admiring workaholic boss protect catching their burnout",
+        "returned": 0,
+        "state": "unreported"
       }
     },
     "W7204867954": {
@@ -568,6 +646,16 @@
         "state": "unreported"
       }
     },
+    "W7211941550": {
+      "checked_at": "2026-10-11T16:29:19.208330+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "cultural intelligence isn always better expatriates Abu Dhabi finds facets",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7211946634": {
       "checked_at": "2026-10-04T15:34:07.267990+00:00",
       "result": {
@@ -584,6 +672,16 @@
         "articles": [],
         "outlets": [],
         "query": "Indian organization helped widowed women unlearn shame three stages",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7211998375": {
+      "checked_at": "2026-10-11T16:28:51.041835+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Always isn choice professionals describe work life boundaries longer exist",
         "returned": 0,
         "state": "unreported"
       }
@@ -689,6 +787,16 @@
         "outlets": [],
         "query": "Responsible leaders create two kinds team harmony only one them",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7213366869": {
+      "checked_at": "2026-10-11T16:28:54.260310+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "both work home blow once working mothers lose control boundary",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -900,6 +1008,16 @@
         "state": "unreported"
       }
     },
+    "W7214892649": {
+      "checked_at": "2026-10-11T16:29:02.895566+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Tech savvy employees burn out faster organization disorganized",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7214919069": {
       "checked_at": "2026-10-04T15:33:33.941109+00:00",
       "result": {
@@ -996,6 +1114,16 @@
         "articles": [],
         "outlets": [],
         "query": "Startups hit disaster year one stay scrappier riskier years",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7220972684": {
+      "checked_at": "2026-10-11T16:28:46.856318+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Feeling excluded work ruins evening wake worse",
         "returned": 0,
         "state": "unreported"
       }

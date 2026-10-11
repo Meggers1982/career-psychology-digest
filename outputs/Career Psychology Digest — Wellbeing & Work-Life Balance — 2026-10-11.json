@@ -1,0 +1,494 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-11",
+  "days_back": 60,
+  "window_from": "2026-08-12",
+  "window_to": "2026-10-11",
+  "focus": "Wellbeing & Work-Life Balance",
+  "topic": "wellbeing & work-life balance",
+  "query": "(\"work-life balance\" OR \"work-family conflict\" OR \"work-life conflict\" OR \"work-life\" OR \"employee wellbeing\" OR \"employee well-being\" OR \"four-day week\" OR \"family-supportive\" OR \"boundary management\" OR \"always-on\" OR \"recovery from work\" OR \"occupational health\") ",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 27,
+    "not_research": 2,
+    "no_abstract": 1,
+    "off_topic": 0,
+    "already_covered": 6,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 18
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7203464894",
+      "headline": "When she out-earns him, her work-family conflict rises — his doesn't",
+      "the_study": "Researchers analyzed longitudinal dyadic data from more than 4,000 German couples using polynomial regression within a longitudinal actor-partner interdependence model, and replicated the results in a US sample. The bigger the pay gap in a woman's favor, the more work-family conflict she reported; for men, the pay gap had no such effect. The pattern was strongest for women with traditional gender role beliefs, mothers, and those with less supportive partners, and the conflict accumulated over time into lower long-term well-being.",
+      "why_it_matters": "It suggests that an employer's work-life policies collide with what is happening in employees' households: a promotion or raise that tips the earnings balance can quietly increase strain at home for women rather than relieving it.",
+      "story_angle_primary": "Managers assume pay progression is unambiguously good news. This large longitudinal study suggests the household context determines whether flexibility and support policies actually land — worth asking whether promotion conversations and work-life benefits account for what is happening in employees' homes, especially for women moving into primary-earner status.",
+      "story_angle_secondary": "For couples: the research shows the strain spikes at modest deviations from the traditional arrangement — the moment a woman starts earning a bit more — then levels off as the gap widens. It is a portrait of how social expectations, not money itself, create the pressure.",
+      "caveats": "Observational longitudinal panel data, so causal claims are limited; self-reported work-family conflict and well-being; primarily German data with a US replication; gender role beliefs measured by self-report.",
+      "journal": "Human Resource Management",
+      "published": "2026-08-13",
+      "doi": "10.1002/hrm.70092",
+      "paper_title": "More Money Than Him, More Conflict for Her: A Longitudinal Investigation of the Partner Pay Gap, Work–Family Conflict, and Well‐Being",
+      "source_id": "S134094273"
+    },
+    {
+      "work_id": "W7167993239",
+      "headline": "A perfectionist boss follows employees home — and back to work sick",
+      "the_study": "A three-wave longitudinal survey over six months tracked 483 employees nested in 102 teams, measuring shared team perceptions of leaders' other-oriented perfectionism (bosses who demand flawlessness from others). Teams who saw their leader as perfectionistic reported more work-family conflict, which in turn predicted more presenteeism — working while ill. Effects held after controlling for baseline conflict and presenteeism, negative affect, general health, workload, job control, and demographics.",
+      "why_it_matters": "It identifies a specific, common leader trait that pushes employees to drag themselves into work sick, and shows the damage travels through the family domain rather than just through workload.",
+      "story_angle_primary": "Leaders who set impossibly high standards for their teams may believe they are driving excellence; this study suggests they are driving sick employees into work and conflict into homes. Worth examining in leadership development and 360 feedback: is the standard-setting read as high expectations or as unattainable perfectionism?",
+      "story_angle_secondary": "Many people recognize the boss who is never quite satisfied. This research puts numbers on what that does to evenings, family life, and the decision to power through illness instead of taking a sick day.",
+      "caveats": "Self-report measures throughout, though separated across three waves; single study, with team-level aggregation of leader perceptions rather than independent leader ratings; correlational design despite longitudinal controls; country/industry context not specified in the abstract.",
+      "journal": "Work & Stress",
+      "published": "2026-08-31",
+      "doi": "10.1080/02678373.2026.2718051",
+      "paper_title": "The perfect storm: how leader perfectionism fuels employee work-family conflict and presenteeism",
+      "source_id": "S141527467"
+    },
+    {
+      "work_id": "W7220972684",
+      "headline": "Feeling excluded at work ruins your evening — and you wake up worse for it",
+      "the_study": "Researchers ran a daily diary study with morning, afternoon and evening surveys across 3,480 person-days from 389 employees. Days when people felt more included in their workgroup led to more positive and less negative evening reflection about work, which in turn predicted better well-being the next morning. The effects were stronger for \"contextual minorities\" — employees who saw themselves as underrepresented or non-prototypical in their immediate team.",
+      "why_it_matters": "Inclusion is usually treated as an annual-survey, policy-level construct; this shows it swings day to day and carries into employees' evenings and the next morning's energy, with the biggest swings for the people already least represented.",
+      "story_angle_primary": "Managers can't fix inclusion once a year. The lever here is daily: who gets asked to speak, who gets looped into decisions, who gets the informal check-in — and whether the people least like the rest of the team are the ones absorbing the volatility.",
+      "story_angle_secondary": "The study names something most people recognize: ruminating at night about a meeting where you felt sidelined, then starting the next day already depleted. It shows the ride-home replay is a real mechanism, not a personal failing.",
+      "caveats": "All self-report from a single source, so same-source bias applies despite temporal separation; within-person associations cannot fully establish causation; occupational and national context of the sample not specified in the abstract.",
+      "journal": "Personnel Psychology",
+      "published": "2026-10-08",
+      "doi": "10.1111/peps.70045",
+      "paper_title": "The Inclusion Hangover: A Daily Diary Study of the Reflective Mechanisms for Employee Well‐Being",
+      "source_id": "S84664706"
+    },
+    {
+      "work_id": "W7211998375",
+      "headline": "Always-on isn't a choice: UK professionals describe work-life boundaries that no longer exist",
+      "the_study": "A qualitative study of 42 UK professionals, analyzed using the Gioia methodology, examined how smartphones and constant connectivity reshape the work-home interface. The researchers argue workers aren't choosing to integrate work and life — they adopt integration as a survival strategy inside a high-responsiveness culture, producing what the authors call a \"neo work-life domain\" where roles run concurrently and recovery is cognitively overwhelmed. They conclude the real task has shifted from managing boundaries to managing attention, and call for a statutory \"right to disconnect.\"",
+      "why_it_matters": "It challenges the standard advice that employees should simply set better boundaries, arguing the constraint is cultural and structural, so interventions aimed at individual willpower will miss.",
+      "story_angle_primary": "If your organization's wellbeing program tells people to switch off while the informal norm rewards instant replies, this research says the norm will win. Worth auditing response-time expectations and who in leadership models them, rather than issuing another boundary-setting workshop.",
+      "story_angle_secondary": "Many people blame themselves for checking email at 10pm. This study reframes that as a rational response to an environment where responsiveness is how competence is judged.",
+      "caveats": "Qualitative, interpretive study with 42 participants in one country (UK); professional occupations only; no quantitative measurement of technostress or outcomes; findings are theory-building, not generalizable estimates; policy recommendation (right to disconnect) goes beyond what the data test.",
+      "journal": "Human Relations",
+      "published": "2026-09-08",
+      "doi": "10.1177/00187267261482002",
+      "paper_title": "The end of boundaries: Technovation, technostress, and the rise of the neo work-life domain",
+      "source_id": "S61446109"
+    },
+    {
+      "work_id": "W7213366869",
+      "headline": "When both work and home blow up at once, working mothers lose control of the boundary — but not always for the worse",
+      "the_study": "Researchers interviewed and surveyed 54 working mothers at two time points about how they managed work-family boundaries through a shock that disrupted both domains simultaneously. They describe \"de-agentic boundary management\": a state where tactics are imposed by external constraint rather than chosen, making some strategies unavoidable and others simply unavailable. Mothers reported mixed results, including some unexpected longer-term benefits after the disruption.",
+      "why_it_matters": "Most work-life advice and most HR policy assumes employees are choosing how to blend work and home; this documents what happens when that choice is removed, and suggests organizations should be offering options rather than assuming preferences.",
+      "story_angle_primary": "Flexibility policies built on the idea that employees pick their preferred arrangement break down in crises. Managers can ask which boundary tactics are actually available to a given employee right now, rather than which they prefer in principle.",
+      "story_angle_secondary": "For readers who lived through a period when work and home collapsed into each other at the same time, this names the experience — and documents that some people came out of it with durable gains, not just losses.",
+      "caveats": "Small qualitative sample (N=54), working mothers only, retrospective accounts at two time points; findings are descriptive and theory-generating, not generalizable; no comparison group of fathers or non-parents.",
+      "journal": "Applied Psychology",
+      "published": "2026-09-15",
+      "doi": "10.1111/apps.70141",
+      "paper_title": "“This is happening without my buy‐in”: De‐agentic boundary management through a multi‐domain work–life shock event",
+      "source_id": "S47864991"
+    },
+    {
+      "work_id": "W7204489065",
+      "headline": "Rude customers in the chat window follow employees home",
+      "the_study": "Researchers combined a 10-day experience-sampling study of service employees with two scenario-based experiments to examine \"customer cyber incivility\" — dismissive, curt or insulting messages in online service channels. Days with more uncivil customer messages were linked to greater ego depletion, which in turn predicted more work–family conflict at home; effects on service performance were weaker, showing up in the experiments but not consistently in the daily diary data. Two buffers helped: talking the incident through with others (cognitive social sharing) and practical job support.",
+      "why_it_matters": "As service work migrates to chat, email and messaging platforms, firms often assume screen-mediated rudeness stings less than face-to-face abuse — this suggests the cost mostly lands at home, where employers never see it.",
+      "story_angle_primary": "Managers of chat and email-based service teams could test whether building in short debriefs after hostile customer exchanges, plus concrete task support, reduces the spillover employees carry home; the diary evidence suggests the biggest damage is invisible on performance dashboards.",
+      "story_angle_secondary": "For anyone who deals with customers through a screen: the research suggests the irritation of a nasty message doesn't evaporate when you close the tab — it tends to show up as depleted patience with family that evening, and talking it over with a colleague appears to help.",
+      "caveats": "Experience-sampling data are self-reported from a single source, raising common-method concerns; the two supporting studies used hypothetical scenarios rather than real customer encounters; service-performance effects were inconsistent across studies; short 10-day window.",
+      "journal": "Applied Psychology",
+      "published": "2026-08-26",
+      "doi": "10.1111/apps.70135",
+      "paper_title": "How and when customer cyber incivility relates to employees' work and nonwork outcomes: The roles of ego depletion and social support",
+      "source_id": "S47864991"
+    },
+    {
+      "work_id": "W7214892649",
+      "headline": "Tech-savvy employees burn out faster when the organization is disorganized",
+      "the_study": "A multi-source study of 2,267 employees nested in 1,547 units across 80 German small and medium-sized enterprises tested whether \"technological readiness\" — employees' comfort and competence with digital tools — protects against emotional exhaustion. It doesn't do so automatically: tech-ready employees reported higher emotional exhaustion when their unit lacked formalized processes and when the top management team failed to set clear boundaries around technology use. Readiness only translated into lower strain when organizational structures and leadership norms backed it up.",
+      "why_it_matters": "Companies investing in digital upskilling may be inadvertently loading their most capable people with more digital demands, unless they also set rules about availability, tool use and process clarity.",
+      "story_angle_primary": "If your most tech-fluent people are quietly becoming the go-to fixers for everyone's digital problems, this large multi-source study suggests the fix is structural — documented processes and explicit top-team norms on connectivity — not more training.",
+      "story_angle_secondary": "Being the person who is good with technology at work can be a career asset and a burnout trap at the same time; this study puts data behind the feeling that competence attracts unpaid digital labor.",
+      "caveats": "Cross-sectional design, so causal direction cannot be established; single country (Germany) and SME context; effects rest on interaction terms that may be modest in size.",
+      "journal": "Group & Organization Management",
+      "published": "2026-09-30",
+      "doi": "10.1177/10596011261488153",
+      "paper_title": "Tech Ready Yet Emotionally Drained: Unraveling the Multilevel Dynamics of Top Management Team Boundary Control and Formalization in Organizations",
+      "source_id": "S192266589"
+    },
+    {
+      "work_id": "W7204030144",
+      "headline": "Having a boss or mentor of your own gender feels better — but doesn't improve outcomes",
+      "the_study": "A meta-analysis synthesized the research literature on gender similarity in hierarchical work relationships such as supervisor–subordinate pairs and mentoring dyads, covering interpersonal outcomes (perceived similarity, relationship quality, support) and work outcomes (attitudes, performance, turnover intentions). Gender-matched pairs reported more perceived similarity and better relationship quality, but gender similarity was not associated with work-related outcomes. Junior women reported more perceived similarity and support in gender-similar dyads; junior men reported higher relationship quality with same-gender seniors, while junior women's relationship quality was comparable either way.",
+      "why_it_matters": "It challenges a common assumption behind formal mentoring programs — that matching women with women mentors is the key lever — while showing the benefits that do exist are asymmetric by gender.",
+      "story_angle_primary": "Before building a mentoring program around gender matching, consider that the meta-analytic evidence links it to warmer relationships but not better performance, attitudes or retention; the question for HR is what the program is actually meant to deliver.",
+      "story_angle_secondary": "For people choosing or being assigned a mentor: a same-gender mentor may feel more comfortable, but the accumulated evidence suggests the relationship's quality matters more for your career than the demographic match.",
+      "caveats": "Meta-analysis inherits the limitations of mostly cross-sectional, self-report primary studies; reported associations may be corrected correlations; number of samples per outcome and effect sizes not specified in the abstract; null findings on work outcomes could reflect heterogeneous measures.",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-08-23",
+      "doi": "10.1002/job.70123",
+      "paper_title": "Gender Similarity in Hierarchical Work Relationships: A Meta‐Analysis",
+      "source_id": "S160573970"
+    },
+    {
+      "work_id": "W7204799973",
+      "headline": "Admiring your workaholic boss may protect you from catching their burnout",
+      "the_study": "A multi-wave field study of 292 full-time employees examined how having a workaholic leader affects followers. Leader workaholism predicted followers' obsessive passion for work, which in turn predicted burnout — but followers who strongly identified with their leader were less likely to pick up that obsessive, compulsive drive, weakening the path to burnout. The authors frame identification as a buffer rather than an amplifier, contrary to the intuition that admiring a workaholic would make you copy them.",
+      "why_it_matters": "It suggests the health risk from driven leaders runs through followers developing a compulsive relationship with work, and that the follower's own psychological stance — not just the leader's behavior — shapes the damage.",
+      "story_angle_primary": "If you lead long hours, the actionable target may be less your own calendar than watching for signs of obsessive, can't-switch-off work patterns in your team — and recognizing that distant, unidentified followers may be the ones most at risk.",
+      "story_angle_secondary": "Working for someone who never stops is a common career experience; this study speaks to the difference between being inspired by a hard-driving boss and being quietly conscripted into their habits.",
+      "caveats": "Self-reported measures throughout despite multi-wave design; the counterintuitive buffering effect needs replication; occupational context and country not specified in the abstract; no objective burnout or health data.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-08-31",
+      "doi": "10.1108/jmp-03-2024-0186",
+      "paper_title": "More identification, less pain? Leader identification helps followers reduce burnout when facing leader workaholism",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7204244254",
+      "headline": "Employee involvement isn't always what makes workplace health programs work",
+      "the_study": "Using data from the intervention arm of a randomized controlled trial of an organizational occupational health intervention across 64 Danish preschools, researchers applied coincidence analysis — a configurational method designed to detect multiple causal pathways — to ask whether employee participation is really essential to success. Direct participation (employees themselves involved) and indirect participation (through representatives) appeared to substitute for each other: when one was low, the other needed to be high. Crucially, when staff simply perceived the intervention as highly relevant, that alone constituted an independent route to the intended outcomes.",
+      "why_it_matters": "It questions the orthodoxy that participatory design is the non-negotiable ingredient in workplace wellbeing programs, pointing instead to perceived relevance as a route organizations can also pursue.",
+      "story_angle_primary": "If running a full participatory process for a wellbeing initiative is impractical, this trial-based analysis suggests representative involvement — or simply making the intervention obviously relevant to the work people actually do — may be enough to get results.",
+      "story_angle_secondary": "Explains why so many corporate wellbeing initiatives fall flat: the evidence here points to employees judging whether the program addresses a problem they recognize, more than whether they were consulted about it.",
+      "caveats": "Single sector and country (Danish preschools), 64 units; configurational analysis within an RCT's intervention arm rather than a randomized test of participation itself; method is unfamiliar and results are exploratory.",
+      "journal": "Work & Stress",
+      "published": "2026-08-25",
+      "doi": "10.1080/02678373.2026.2722052",
+      "paper_title": "What is the role of direct and indirect participation in organisational occupational health interventions? A configural perspective",
+      "source_id": "S141527467"
+    },
+    {
+      "work_id": "W7211941550",
+      "headline": "More cultural intelligence isn't always better: a study of expatriates in Abu Dhabi finds the facets can work against each other",
+      "the_study": "Researchers surveyed 182 expatriate employees working in Abu Dhabi on the four facets of cultural intelligence (CQ) — metacognitive, cognitive, motivational and behavioral — and then had each person's line manager rate their task performance and two kinds of organizational citizenship behavior (helping colleagues and driving change), with emotional intelligence statistically controlled. Overall CQ predicted all three performance ratings, and it was more strongly tied to citizenship behaviors than to core task performance. But the facets interacted in unexpected ways: when metacognitive CQ was weak, lower motivational CQ was actually associated with higher helping behavior and task performance, suggesting the facets are not simply additive.",
+      "why_it_matters": "Companies increasingly screen and train for \"cultural intelligence\" in globally mobile staff on the assumption that more of every component is better; this evidence suggests the components interact, and that CQ may pay off more in collegial and change-oriented behavior than in the core job itself.",
+      "story_angle_primary": "For managers running international assignments: question CQ training programs and selection tools that treat the four facets as a single score to be maximized. This is one field study in one city, but it raises a testable question inside your own organization — does your highest-CQ expatriate actually outperform, and on which part of the job?",
+      "story_angle_secondary": "For anyone moving abroad for work: the payoff from cultural savvy may show up less in how well you do your tasks and more in how well you help colleagues and push for change — the social side of fitting into a new workplace.",
+      "caveats": "Cross-sectional design, so causation cannot be established; single location (Abu Dhabi) and a specific population (expatriates) limit generalizability; N=182 is modest for testing multiple interaction effects, which are prone to instability; CQ measures are self-reported even though performance ratings come from managers; the counterintuitive interactions are post hoc and need replication.",
+      "journal": "Personnel Review",
+      "published": "2026-09-08",
+      "doi": "10.1108/pr-12-2025-1427",
+      "paper_title": "Cultural intelligence and job performance: a comprehensive investigation with some counter-intuitive interaction effects",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7203699710",
+      "headline": "Teams that believe they can deliver don't just do more — they share the load more evenly",
+      "the_study": "Using a multilevel group process framework and consensus emergence modeling on repeated measures of team members' task contributions over time, researchers examined how \"team potency\" — a team's shared belief in its own effectiveness — shaped both how much members contributed and how evenly that work was distributed. Contribution patterns differed markedly from team to team rather than following a single common trajectory. Teams with stronger potency beliefs started higher on average contributions and stayed there, and crucially, their members' contributions converged over time — becoming more similar rather than drifting into a pattern of a few carrying the rest.",
+      "why_it_matters": "Free-riding and uneven workloads are a chronic source of resentment and burnout in team-based work; this points to a collective belief, not just task design or monitoring, as a lever on who ends up doing the work.",
+      "story_angle_primary": "For managers: track not only team output but its distribution across members over time, and treat early wins and visible evidence of team capability as a potential tool for leveling contributions rather than only boosting them. The study is longitudinal but observational, so test it as a hypothesis about your own teams.",
+      "story_angle_secondary": "For anyone who has been the person doing most of the group's work: the research suggests the imbalance may be less about individual laziness than about whether the group collectively believes it can succeed.",
+      "caveats": "The abstract does not specify sample size, occupation or setting, and such team-trajectory studies are frequently run with student project teams rather than employees; observational and correlational despite the longitudinal design, so potency and contribution equality may be mutually reinforcing rather than one causing the other; contribution measures may be self- or peer-reported.",
+      "journal": "Small Group Research",
+      "published": "2026-08-18",
+      "doi": "10.1177/10464964261472424",
+      "paper_title": "Team Potency as a Driver of Higher and More Equal Task Contributions",
+      "source_id": "S133913429"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7203464894",
+      "headline": "When she out-earns him, her work-family conflict rises — his doesn't",
+      "verdict": "minor",
+      "notes": "Design, sample and moderators match the abstract. Two small framing slips: a post hoc pattern is presented as a main finding, and the male null is phrased as an absence of effect rather than of association.",
+      "issues": [
+        {
+          "label": "Post hoc analysis presented as established finding",
+          "severity": "Minor",
+          "as_written": "the research shows the strain spikes at modest deviations from the traditional arrangement — the moment a woman starts earning a bit more — then levels off as the gap widens",
+          "abstract_says": "Post hoc analyses suggest a front‐loaded pattern, with women's WFC increasing most sharply at modest deviations from traditional earning arrangements and leveling off as pay gaps widen.",
+          "problem": "The abstract explicitly labels this as a post hoc, suggestive pattern; the digest reports it as something \"the research shows,\" giving it more evidentiary weight than the authors claim.",
+          "suggested_fix": "Change to \"post hoc analyses suggest the strain rises most sharply at modest deviations...\""
+        },
+        {
+          "label": "Causal wording for the male null result",
+          "severity": "Minor",
+          "as_written": "for men, the pay gap had no such effect",
+          "abstract_says": "Results show that larger partner pay gaps are associated with higher WFC for women, but not for men.",
+          "problem": "The abstract reports associations in observational panel data; \"had no such effect\" implies a tested causal relationship.",
+          "suggested_fix": "Use \"for men, no such association appeared.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7167993239",
+      "headline": "A perfectionist boss follows employees home — and back to work sick",
+      "verdict": "accurate",
+      "notes": "Sample (483 employees in 102 teams), three-wave six-month design, mediation path and the full control list all match the abstract; caveats correctly note the self-report and correlational limits.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "work_id": "W7220972684",
+      "headline": "Feeling excluded at work ruins your evening — and you wake up worse for it",
+      "verdict": "minor",
+      "notes": "Sample (3,480 days, 389 employees), design and the contextual-minority boundary condition are reported correctly, but the body uses causal language that the digest's own caveat disclaims.",
+      "issues": [
+        {
+          "label": "Causal language for within-person diary associations",
+          "severity": "Moderate",
+          "as_written": "Days when people felt more included in their workgroup led to more positive and less negative evening reflection about work, which in turn predicted better well-being the next morning.",
+          "abstract_says": "multilevel path analyses supported the proposed model, demonstrating that positive and negative evening work reflection explain how daily workgroup inclusion carries over to next‐morning well‐being",
+          "problem": "\"Led to\" asserts causation from a single-source daily diary study; the digest's own caveat states causation cannot be established, so the body contradicts the caveat.",
+          "suggested_fix": "Rewrite as \"Days when people felt more included were followed by more positive and less negative evening reflection, which in turn was associated with better well-being the next morning.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7211998375",
+      "headline": "Always-on isn't a choice: UK professionals describe work-life boundaries that no longer exist",
+      "verdict": "accurate",
+      "notes": "Method (42 UK professionals, Gioia), the \"neo work-life domain\" concept, the shift from boundary to attention management and the right-to-disconnect recommendation all match the abstract; caveats correctly mark the policy call as beyond the data.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "work_id": "W7213366869",
+      "headline": "When both work and home blow up at once, working mothers lose control of the boundary — but not always for the worse",
+      "verdict": "accurate",
+      "notes": "Sample (54 working mothers, interviews plus qualitative survey at two time points), the de-agentic boundary management concept, the unavoidable/unavailable distinction and the mixed and unexpectedly positive longer-term outcomes all match.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "work_id": "W7204489065",
+      "headline": "Rude customers in the chat window follow employees home",
+      "verdict": "minor",
+      "notes": "Three-study design, ego depletion mechanism and both moderators match. The service-performance result is slightly softened relative to the abstract.",
+      "issues": [
+        {
+          "label": "Service performance result softened",
+          "severity": "Minor",
+          "as_written": "effects on service performance were weaker, showing up in the experiments but not consistently in the daily diary data",
+          "abstract_says": "the latter were supported only in Studies 2A and 2B",
+          "problem": "The abstract states the service-performance relationships were not supported in the experience-sampling study at all; \"not consistently\" implies partial support in the diary data.",
+          "suggested_fix": "Change to \"showing up in the two experiments but not supported in the 10-day diary study.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "work_id": "W7214892649",
+      "headline": "Tech-savvy employees burn out faster when the organization is disorganized",
+      "verdict": "minor",
+      "notes": "Sample figures (2,267 employees, 1,547 units, 80 German SMEs) and the two moderators are accurate, but the digest adds a benefit under supportive conditions and a workload mechanism the abstract does not report.",
+      "issues": [
+        {
+          "label": "Claimed benefit under supportive conditions",
+          "severity": "Minor",
+          "as_written": "Readiness only translated into lower strain when organizational structures and leadership norms backed it up.",
+          "abstract_says": "TR is associated with higher levels of emotional exhaustion if it is not supported by formalization and TMTBC.",
+          "problem": "The abstract only reports the harmful association when support is absent; it does not state that readiness is associated with lower exhaustion when formalization and TMT boundary control are present.",
+          "suggested_fix": "Reframe as \"The strain association only disappeared when organizational structures and leadership norms backed readiness up.\""
+        },
+        {
+          "label": "Unsupported mechanism (extra digital demands)",
+          "severity": "Minor",
+          "as_written": "Companies investing in digital upskilling may be inadvertently loading their most capable people with more digital demands",
+          "abstract_says": "we conceptualize TR as a personal resource and then develop and test a multilevel model in which its relationship with emotional exhaustion depends on unit-level formalization and organizational-level top management team boundary control (TMTBC)",
+          "problem": "The abstract does not test or report that tech-ready employees take on more digital demands; the mechanism is the digest's inference.",
+          "suggested_fix": "Mark it as a hypothesis, e.g. \"one possible explanation the study does not test is that...\""
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "work_id": "W7204030144",
+      "headline": "Having a boss or mentor of your own gender feels better — but doesn't improve outcomes",
+      "verdict": "minor",
+      "notes": "The main meta-analytic pattern is reported correctly, but one gender comparison drops its reference group and a story angle makes a career claim the meta-analysis does not test.",
+      "issues": [
+        {
+          "label": "Dropped comparison group in the junior-women finding",
+          "severity": "Minor",
+          "as_written": "Junior women reported more perceived similarity and support in gender-similar dyads",
+          "abstract_says": "junior women report higher perceived similarity and support in gender similar dyads than men",
+          "problem": "The abstract's comparison is junior women versus junior men within gender-similar dyads; the digest reads as a comparison of similar versus dissimilar dyads for women.",
+          "suggested_fix": "Add the reference group: \"Junior women reported more perceived similarity and support in gender-similar dyads than junior men did.\""
+        },
+        {
+          "label": "Career-outcome claim not tested",
+          "severity": "Minor",
+          "as_written": "the accumulated evidence suggests the relationship's quality matters more for your career than the demographic match",
+          "abstract_says": "Findings reveal that gender similarity promotes perceived similarity and relationship quality, but not work‐related outcomes.",
+          "problem": "The meta-analysis examined gender similarity as the predictor; it did not test whether relationship quality predicts career outcomes, so the comparative claim goes beyond the abstract.",
+          "suggested_fix": "Say instead that gender matching was not linked to work outcomes in this evidence base, without ranking it against relationship quality."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "work_id": "W7204799973",
+      "headline": "Admiring your workaholic boss may protect you from catching their burnout",
+      "verdict": "accurate",
+      "notes": "Sample (292 full-time employees, multi-wave), the obsessive passion mediator and the buffering role of leader identification all match the abstract; caveats appropriately note the unspecified context.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "work_id": "W7204244254",
+      "headline": "Employee involvement isn't always what makes workplace health programs work",
+      "verdict": "accurate",
+      "notes": "Setting (64 Danish preschools, intervention units of an RCT), the coincidence-analysis method, the substitution between direct and indirect participation and the independent relevance route are all reported faithfully, with appropriate hedging.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "work_id": "W7211941550",
+      "headline": "More cultural intelligence isn't always better: a study of expatriates in Abu Dhabi finds the facets can work against each other",
+      "verdict": "minor",
+      "notes": "Design, sample (182 expatriates in Abu Dhabi), manager-rated outcomes, EI control and the counterintuitive motivational-CQ interaction all match. Two small issues: \"predicted\" overstates the abstract's \"related to\" for a cross-sectional design, and the caveat calls the interactions post hoc when the abstract presents them as a planned focus.",
+      "issues": [
+        {
+          "label": "Causal verb for cross-sectional associations",
+          "severity": "Minor",
+          "as_written": "Overall CQ predicted all three performance ratings, and it was more strongly tied to citizenship behaviors than to core task performance.",
+          "abstract_says": "Global CQ was related to all performance measures, but the relationships of the four facets of CQ differed across measures... global CQ was more strongly related to OCB-H and OCB-C than to task performance",
+          "problem": "The abstract uses purely associational language (\"related to\") for what the digest itself describes as a cross-sectional survey; \"predicted\" implies temporal or causal precedence the design cannot support.",
+          "suggested_fix": "Change to \"Overall CQ was associated with all three performance ratings\"."
+        },
+        {
+          "label": "Interactions described as post hoc",
+          "severity": "Minor",
+          "as_written": "the counterintuitive interactions are post hoc and need replication",
+          "abstract_says": "Of special interest were the interactions between meta-cognitive CQ (MCQ) with the other three facets of CQ... The first study with specifically collected data to test the interactions between CQ facets",
+          "problem": "The abstract frames the facet interactions as the study's a priori focus with data collected specifically to test them, not as post hoc exploration; the caveat mischaracterizes the design.",
+          "suggested_fix": "Reword to \"the interaction patterns were more nuanced than the authors expected and need replication\"."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "work_id": "W7203699710",
+      "headline": "Teams that believe they can deliver don't just do more — they share the load more evenly",
+      "verdict": "minor",
+      "notes": "Method (multilevel group process framework, consensus emergence modeling), team-specific trajectories, higher initial mean contributions and increasing within-team similarity all match the abstract; caveats appropriately flag the missing sample details and the observational design. Only nuance: the abstract frames the level effect as \"higher-quality\" contributions, which the digest renders purely as quantity.",
+      "issues": [
+        {
+          "label": "Quantity vs. quality of contributions",
+          "severity": "Minor",
+          "as_written": "Teams that believe they can deliver don't just do more — they share the load more evenly",
+          "abstract_says": "These findings highlight team potency as an internal driver of both higher-quality and more equal contributions within teams.",
+          "problem": "The abstract characterizes the level effect as \"higher-quality\" contributions; the digest translates this as doing \"more,\" a quantity claim the abstract does not make explicit beyond the team-level mean of task contributions.",
+          "suggested_fix": "Say \"contribute more strongly\" or mirror the abstract's \"higher-quality and more equal contributions\"."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 12,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7203464894": {
+        "query": "she out earns him her work family conflict rises his",
+        "returned": 20,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7167993239": {
+        "query": "perfectionist boss follows employees home back work sick",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7220972684": {
+        "query": "Feeling excluded work ruins evening wake worse",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7211998375": {
+        "query": "Always isn choice professionals describe work life boundaries longer exist",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213366869": {
+        "query": "both work home blow once working mothers lose control boundary",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204489065": {
+        "query": "Rude customers chat window follow employees home",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214892649": {
+        "query": "Tech savvy employees burn out faster organization disorganized",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204030144": {
+        "query": "Having boss mentor own gender feels better but doesn improve",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204799973": {
+        "query": "Admiring workaholic boss protect catching their burnout",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204244254": {
+        "query": "Employee involvement isn always makes workplace health programs work",
+        "returned": 20,
+        "outlets": [
+          "World Health Organization (WHO)"
+        ],
+        "articles": [
+          {
+            "title": "Mental health at work",
+            "outlet": "World Health Organization (WHO)",
+            "link": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work"
+          }
+        ],
+        "state": "lightly_reported"
+      },
+      "W7211941550": {
+        "query": "cultural intelligence isn always better expatriates Abu Dhabi finds facets",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7203699710": {
+        "query": "Teams believe they deliver don just they share load evenly",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet — this is the first run._",
+    "feature_pitch": "**The pattern:** Six of the twelve studies converge on the same mechanism: the damage from work is being paid out at home, where no employer measures it. Perfectionistic bosses push conflict into the family domain and employees back to work sick (W7167993239); rude customers in chat windows deplete workers whose service metrics look unaffected (W7204489065); daily exclusion poisons the evening and the next morning (W7220972684); pay raises that make a woman the higher earner raise *her* work-family conflict and erode long-term wellbeing (W7203464894); UK professionals describe always-on responsiveness as survival, not choice (W7211998375); and working mothers in a dual-domain crisis lose access to the boundary tactics policy assumes they're choosing (W7213366869). Two further studies show why individual fixes miss: digital competence raises exhaustion when the organization has no process clarity or leadership norms (W7214892649), and health-intervention success hinges on perceived relevance rather than participation rituals (W7204244254).\n\n**Why pitch this now:** Right-to-disconnect legislation is moving in several countries while service work keeps migrating to chat and messaging and employers push digital upskilling — all of which this batch suggests shifts strain into households that no dashboard, engagement survey, or wellbeing app can see.\n\n**Angle:** A feature on the \"invisible balance sheet\" of modern work — how leadership style, customer channels, inclusion, and pay dynamics export their costs into evenings and relationships, and why boundary-setting workshops and app-based wellbeing programs are aimed at the wrong level. Best for a business/management readership, with a strong parallel version for general-interest and women's outlets built around the household-level findings.\n\n**Potential headlines:**\n- Work Stress Is Being Paid For at Home, and Four New Studies Show How\n- Your Team's Numbers Look Fine. That's Where the Problem Is Hiding.\n- The Evenings You Lose to Work Are the Ones No One Is Counting\n\n**Potential outlets:**\n- *Harvard Business Review* — the structural-versus-individual argument (process clarity, leader norms, perceived relevance) is squarely its evidence-to-practice territory for senior managers.\n- *The Atlantic* — the always-on findings and nightly rumination research support the cultural essay it does well on how work colonizes private life.\n- *Fast Company* — the chat-incivility and tech-readiness studies fit its coverage of how digital work channels create costs companies didn't budget for.\n- *Stylist* — the out-earning, working-mother boundary, and exclusion findings give it a research-backed take on the domestic cost of career progression for women readers.",
+    "pitch_ideas": "- **When she out-earns him, her work-family conflict rises — his doesn't (Work ID W7203464894):** The promotion that makes her the breadwinner raises her strain, not his — and the spike comes at *small* pay gaps, not large ones, for a women's/lifestyle work-psychology explainer or a money-and-relationships column.\n- **A perfectionist boss follows employees home — and back to work sick (Work ID W7167993239):** Name presenteeism as a leadership-style problem, not a sick-leave-policy problem, and ask what 360 feedback should be catching — for a manager-audience column.\n- **Feeling excluded at work ruins your evening — and you wake up worse for it (Work ID W7220972684):** Inclusion is a daily behavior, not an annual survey score, and the volatility lands hardest on the least-represented person in the room — for a DEI or people-management explainer.\n- **Always-on isn't a choice (Work ID W7211998375):** Pair the \"neo work-life domain\" findings with live right-to-disconnect policy debates to argue boundary-setting advice is misdirected — for a workplace policy feature or UK-facing business section.\n- **When both work and home blow up at once (Work ID W7213366869):** Flexibility policy assumes employees choose their arrangement; this documents what happens when the choice disappears — and that some mothers gained from it — for an HR explainer or a general-interest piece on post-crisis working parenthood.\n- **Rude customers in the chat window follow employees home (Work ID W7204489065):** Screen-mediated abuse doesn't show up in service metrics, it shows up in employees' evenings — plus a concrete buffer (debriefing with colleagues) — for a customer-service management piece or a frontline-worker news brief.\n- **Tech-savvy employees burn out faster when the organization is disorganized (Work ID W7214892649):** The office's \"good with computers\" person becomes everyone's unpaid IT help desk — a career-advice angle with a structural fix for managers, for a work-psychology explainer in a general-interest outlet.\n- **Having a boss or mentor of your own gender feels better — but doesn't improve outcomes (Work ID W7204030144):** Meta-analytic evidence questions the design logic of gender-matched mentoring programs while finding the benefits are asymmetric between junior men and women — for an HR/talent-development explainer or a careers column on choosing a mentor.\n- **Admiring your workaholic boss may protect you from catching their burnout (Work ID W7204799973):** The counterintuitive turn — distance from a driven leader, not admiration of one, is the risk factor for obsessive work patterns — for a leadership column, flagged as needing replication.\n- **Employee involvement isn't always what makes workplace health programs work (Work ID W7204244254):** Why so many wellbeing initiatives flop: relevance beats consultation, and there is more than one route to a working program — for an HR or occupational-health explainer.\n- **More cultural intelligence isn't always better (Work ID W7211941550):** CQ pays off in helping colleagues and driving change more than in core task performance, which complicates expatriate selection and training tools — for a global-mobility or international-assignment piece, with strong caveats on the single-city sample.\n- **Teams that believe they can deliver share the load more evenly (Work ID W7203699710):** Reframe free-riding as a team-belief problem rather than an individual-laziness problem, and tell managers to track contribution *distribution*, not just output — for a team-management column."
+  }
+}
