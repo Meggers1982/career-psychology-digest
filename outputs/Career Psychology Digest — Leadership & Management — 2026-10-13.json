@@ -1,0 +1,402 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-13",
+  "days_back": 60,
+  "window_from": "2026-08-14",
+  "window_to": "2026-10-13",
+  "focus": "Leadership & Management",
+  "topic": "leadership & management",
+  "query": "(leader OR leadership OR manager OR supervisor OR \"middle management\") AND (employee OR workplace OR organization OR subordinate OR team OR follower) AND (\"leadership style\" OR \"transformational leadership\" OR \"servant leadership\" OR \"abusive supervision\" OR \"psychological safety\" OR \"management practice\" OR feedback OR \"trust in leader\" OR \"leader behavior\")",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 24,
+    "not_research": 1,
+    "no_abstract": 1,
+    "off_topic": 0,
+    "already_covered": 4,
+    "over_journal_cap": 2,
+    "over_cap": 0,
+    "sent": 16
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7212753349",
+      "headline": "Leadership isn't a personality — it's a string of small wins, and you can engineer them",
+      "the_study": "Researchers tested whether brief \"implicit leader prototype\" exercises — prompts that get a manager to do something that matches their own mental image of what a leader does — can produce bursts of transformational behavior. Across three studies (a preregistered pilot experiment, a 15-day within-person experience-sampling field study of leaders, and a preregistered within-leader field experiment), these micro-interventions raised leaders' momentary sense of psychological empowerment (meaning, competence, self-determination, impact), which in turn predicted more transformational action as rated by the leaders themselves, observers and multiple direct reports.",
+      "why_it_matters": "It reframes leadership development away from expensive one-off training toward daily, self-administered \"microwins\" that can be run between meetings — and it uses direct-report ratings rather than leaders' own flattering self-assessments.",
+      "story_angle_primary": "Managers could try treating transformational leadership as a daily state rather than a fixed identity: test whether a short prompt each morning that connects an upcoming task to your own image of a good leader changes how your team rates you that week. The field experiment is promising but it is early evidence, not a validated corporate curriculum.",
+      "story_angle_secondary": "The findings suggest the boss who inspires you on Tuesday and sleepwalks through Thursday isn't a hypocrite — leadership fluctuates day to day, and part of what drives it is whether the leader currently feels their work matters.",
+      "caveats": "Multi-study design is a strength, but effects are measured over short horizons (a 15-day sampling window); the field experiment is within-leader, so there is no separate untreated control group of leaders; the interventions' durability beyond the study period is untested.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-14",
+      "doi": "10.1037/apl0001421",
+      "paper_title": "Breadcrumbs to transformational acts: Enacting implicit leader prototypes to become psychologically empowered as a leader.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7221561375",
+      "headline": "Servant leaders get better results when they also deliver tough criticism",
+      "the_study": "Critics argue servant leadership is a feel-good style that breeds complacency. This study tested whether \"tough love\" — criticism delivered in a positive tone with a clear intent to help the recipient improve — changes the equation, using multi-source field data collected at three points in time and controlling for ordinary positive and negative feedback plus prior levels of the outcomes. Tough love significantly strengthened the link between servant leadership and both in-role job performance and organizational citizenship behavior, with mixed results for creativity and turnover intentions.",
+      "why_it_matters": "It suggests supportive leadership and blunt developmental feedback are complements, not opposites: the servant leader who never criticizes may be leaving performance on the table.",
+      "story_angle_primary": "If you lead with empathy and still see flat performance, the missing ingredient may be explicit, improvement-focused criticism — the test is whether your reports can name a specific deficiency you've recently helped them fix. Note that tough love only worked alongside genuine servant behavior; criticism without the supportive base is a different and riskier thing.",
+      "story_angle_secondary": "A boss who only praises you may feel pleasant but is not necessarily helping your career; the most useful managers combine visible investment in your growth with willingness to tell you what you're bad at.",
+      "caveats": "Field data are time-lagged and multi-source, which is strong, but the design is still correlational rather than experimental; results for creativity and turnover intentions were mixed; sample details, industry and country are not specified in the abstract.",
+      "journal": "Human Relations",
+      "published": "2026-10-12",
+      "doi": "10.1177/00187267261490086",
+      "paper_title": "The moderating role of tough love on relations between servant leadership and follower outcomes",
+      "source_id": "S61446109"
+    },
+    {
+      "work_id": "W7220937301",
+      "headline": "When a manager plays favorites, the overlooked team member can still save the team",
+      "the_study": "Using a multi-source, time-lagged survey of 91 work teams in Taiwan, researchers examined \"differentiated transformational leadership\" — when a leader distributes inspirational, supportive behavior unevenly across team members — and its damage to helping norms and team viability. They found that the proactivity of the least-supported member buffers the harm: when the person receiving the least leader support still acts proactively, the corrosive effect of unequal treatment on the team is reduced.",
+      "why_it_matters": "Leaders routinely invest more in some reports than others, often without noticing; this suggests the cost shows up in team-level helping norms, and that the person with the least to gain is pivotal to whether the team holds together.",
+      "story_angle_primary": "Managers should audit how their attention is distributed across a team and watch the person getting the least of it — not just for their own performance, but because that person's engagement predicts whether the whole team keeps functioning. Leadership coaches could pair leader-behavior work with support for the least-favored member.",
+      "story_angle_secondary": "If you're the team member your boss overlooks, withdrawing is the intuitive response — but this evidence suggests staying proactive is what keeps the team, and your place in it, intact.",
+      "caveats": "Cross-sectional in structure despite time lags, so causality is not established; 91 teams in a single country (Taiwan) and cultural norms around hierarchy may shape results; team-level sample size is modest.",
+      "journal": "Small Group Research",
+      "published": "2026-10-07",
+      "doi": "10.1177/10464964261487362",
+      "paper_title": "Differentiated Leadership and Team Viability: The Buffering Role of Least-Supported Members’ Proactivity",
+      "source_id": "S133913429"
+    },
+    {
+      "work_id": "W7220922862",
+      "headline": "An angry boss who can punish you makes you feel less than human — and you check out",
+      "the_study": "Across a set of studies including one with N=288, researchers examined what happens when leaders express anger at followers. Leader anger expression increased followers' sense of organizational dehumanization — feeling treated as a tool rather than a person — which in turn increased withdrawal behavior. Crucially, the effect depended on the leader's coercive power: when the leader had little power to punish, the chain was much weaker. The results held after controlling for abusive supervision and after testing followers' emotional reactions and inferences about the leader as alternative explanations.",
+      "why_it_matters": "Anger is often defended as an honest motivational tool, but this suggests its damage runs through a distinct route — making people feel dehumanized by the organization — and is amplified precisely when the angry person controls your fate.",
+      "story_angle_primary": "Senior leaders with real punitive power should treat visible anger as a higher-cost act than a peer's anger: the same outburst produces more withdrawal when it comes from someone who can fire you. Watch for quiet withdrawal — missed meetings, minimal effort — rather than open conflict as the symptom.",
+      "story_angle_secondary": "It helps explain why an outburst from a powerful boss lands so differently from one from a colleague, and why the common response is to disengage rather than push back.",
+      "caveats": "Abstract is truncated, so the full design, samples and settings are unclear; at least one study has N=288 with unspecified sampling; mediation findings from survey or scenario data cannot firmly establish causation; withdrawal appears to be measured by self-report.",
+      "journal": "Journal of Occupational Health Psychology",
+      "published": "2026-10-08",
+      "doi": "10.1037/ocp0000449",
+      "paper_title": "Angry leader with coercive power: Unpacking the effects on follower withdrawal through organizational dehumanization.",
+      "source_id": "S3481703"
+    },
+    {
+      "work_id": "W7220913877",
+      "headline": "In restaurants, a manager's humility shows up as group trust — and then as service quality",
+      "the_study": "Researchers surveyed restaurant employees in Thailand in two waves, with 801 usable responses from workers across 120 restaurants (average team size 6.68), and analyzed the data with multi-level structural equation modeling. Store manager servant leadership predicted employee engagement indirectly, via workers' perceptions of supervisor support, and at the store level it built group trust, which in turn predicted a stronger service climate.",
+      "why_it_matters": "It gives frontline service operators a concrete chain to manage — manager behavior, to felt support and shared trust, to the service climate customers experience — in a sector where turnover and engagement are chronic problems.",
+      "story_angle_primary": "Multi-site managers could treat group trust as a measurable store-level metric sitting between leadership training and customer-facing results, rather than assuming leadership style affects service directly. The mechanism is perceived support, so the practical test is whether staff feel backed, not whether managers believe they are supportive.",
+      "story_angle_secondary": "For anyone working in hospitality or retail, the quality of your immediate manager — not head-office policy — is what most shapes whether the job feels worth showing up for.",
+      "caveats": "Two-wave survey, not an experiment, so causal direction is uncertain; all measures appear self-reported by employees, raising common-method concerns; single industry (restaurants) and single country (Thailand); roughly 57% of respondents completed both waves, raising attrition questions.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-10-08",
+      "doi": "10.1108/jmp-07-2025-0644",
+      "paper_title": "Servant leadership effects on service climate and employee engagement: a multi-level analysis",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7204196725",
+      "headline": "Delegation only lands well when the boss shares credit — and absorbs blame",
+      "the_study": "Researchers reframed delegation as an ambivalent stressor and tested when employees treat extra responsibility as a challenge versus a burden. Three studies: two scenario-based experiments (N=217 and N=218) plus a two-wave field survey of employees (N=330). Leaders who publicly took the blame when delegated work went wrong consistently reduced employees' hindrance appraisals and turnover intentions; leaders who shared credit boosted challenge appraisals and proactive 'taking charge' in the experiments, though that effect did not replicate in the field data.",
+      "why_it_matters": "Handing people more responsibility is usually sold as development, but it can read as dumped risk; the findings suggest the blame-absorbing half of the leader's bargain is what actually keeps delegated employees from heading for the door.",
+      "story_angle_primary": "Managers who delegate should audit what happens after the task: do you publicly own failures of work you handed off? The experimental half of this evidence shows what can happen under controlled conditions, but the field survey backs the blame-taking effect specifically — making it the safer behavior to test first in your own team.",
+      "story_angle_secondary": "For anyone who has been handed a stretch assignment and quietly resented it: the research puts a name to the feeling. Whether new responsibility feels like an opportunity or a trap often depends less on the task than on whether your boss will stand next to you when it fails.",
+      "caveats": "Two of three studies use hypothetical scenarios rather than real delegation decisions; the credit-sharing effect failed to replicate in the field; the field study is a two-wave self-report survey, so causal claims are limited; sample origins and occupations not fully specified in the abstract.",
+      "journal": "Journal of Leadership & Organizational Studies",
+      "published": "2026-08-25",
+      "doi": "10.1177/15480518261480215",
+      "paper_title": "Appraising and Reacting to Delegation: The Contingent Roles of Leader Credit Sharing and Leader Blame Taking",
+      "source_id": "S64831726"
+    },
+    {
+      "work_id": "W7214609077",
+      "headline": "High-performance HR can breed misbehavior in hospitals — unless leaders serve rather than drive",
+      "the_study": "A multilevel study of 345 medical staff nested within 226 hospitals examined how high-performance work systems (HPWS) relate to deviant behavior. Psychological contract breach and work intensification mediated the link between HPWS and interpersonal deviance — rudeness and mistreatment of colleagues. Servant leadership moderated the escalation from interpersonal deviance to deviance aimed at the organization itself, dampening the spread.",
+      "why_it_matters": "Intensive performance-management systems are widely adopted in healthcare, and this suggests their hidden cost runs through broken promises and heavier workloads into how staff treat each other.",
+      "story_angle_primary": "If you are rolling out performance systems, track the mediators, not just the outputs: are people reporting heavier workloads and a sense the deal has changed? The study points to servant leadership behaviors as a containment mechanism that stops colleague-to-colleague friction from becoming sabotage of the organization.",
+      "story_angle_secondary": "Rising incivility among coworkers is often blamed on personalities. This research suggests it can be a downstream symptom of a management system that quietly asked for more than it promised.",
+      "caveats": "Cross-sectional self-report design, so causation cannot be established; an unusual nesting structure (roughly 1.5 respondents per hospital) limits what the multilevel analysis can support; single sector and country; deviance measured by self-report.",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-09-28",
+      "doi": "10.1080/09585192.2026.2740089",
+      "paper_title": "Illuminating the dark corners: a multi-level integrated framework of high-performance work systems, interpersonal deviance, and organizational deviance in the healthcare sector",
+      "source_id": "S184846731"
+    },
+    {
+      "work_id": "W7206184378",
+      "headline": "Overworked IT staff are coping alone — and want structural fixes, not wellness perks",
+      "the_study": "Semi-structured in-depth interviews with 38 Indian IT professionals explored how they experience and manage heavy work investment. Thematic analysis found workers relied almost entirely on self-regulated personal recovery strategies, perceived their employers' wellness offerings as thin, and named what they actually wanted: psychological safety, fair and transparent appraisal and reward systems, supportive leadership, open communication and participatory management.",
+      "why_it_matters": "It is a direct rebuttal of the wellness-app approach to overwork: employees in one of the world's largest tech labor markets say the remedy is management practice and procedural fairness, not more self-care resources.",
+      "story_angle_primary": "Before funding another well-being program, ask employees what they would trade it for. These workers consistently pointed to fairness in appraisal and genuine leader support — things that cost managerial attention rather than budget.",
+      "story_angle_secondary": "The quiet reality of long-hours work: most people build their own recovery rituals and assume the company will not help. The interviews show how much of overwork management has been privatized onto the individual.",
+      "caveats": "Qualitative study with 38 interviewees in a single industry and country; findings are exploratory and not generalizable or testable as causal claims; perceptions of employer provision are self-reported, not verified against actual HR offerings.",
+      "journal": "International Journal of Workplace Health Management",
+      "published": "2026-09-02",
+      "doi": "10.1108/ijwhm-02-2026-0043",
+      "paper_title": "Managing heavy work investment: a qualitative study of employees’ experiences and expectations in the Indian IT industry",
+      "source_id": "S117038752"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7212753349",
+      "headline": "Leadership isn't a personality — it's a string of small wins, and you can engineer them",
+      "verdict": "minor",
+      "notes": "Design and multi-study description match the abstract; the \"Why it matters\" line misstates the rating sources, and the abstract reports no numeric results to verify the mediation claim.",
+      "issues": [
+        {
+          "label": "Rating sources mischaracterized",
+          "severity": "Minor",
+          "as_written": "and it uses direct-report ratings rather than leaders' own flattering self-assessments",
+          "abstract_says": "subsequent transformational action (as rated by the self, others, and multiple direct reports)",
+          "problem": "The studies used self-ratings alongside other-ratings and direct-report ratings, not direct reports instead of self-ratings. The digest's own body text says as much, so the \"Why it matters\" line contradicts it.",
+          "suggested_fix": "Reword to \"and it supplements leaders' self-ratings with observer and multiple direct-report ratings.\""
+        },
+        {
+          "label": "Mediation result stated more precisely than the abstract",
+          "severity": "Minor",
+          "as_written": "these micro-interventions raised leaders' momentary sense of psychological empowerment (meaning, competence, self-determination, impact), which in turn predicted more transformational action",
+          "abstract_says": "To test our theorizing that implicit leader prototype interventions trigger a state of psychological empowerment conducive to subsequent transformational action ... Taken together, our work provides a prescriptive and theoretically grounded means by which to cultivate transformational leadership",
+          "problem": "The abstract states the theorizing and an overall supportive conclusion but gives no effect sizes or explicit statement that empowerment mediated the effect; the specific causal chain is not verifiable from the abstract alone.",
+          "suggested_fix": "Attribute the chain to the authors' tested model (\"the authors report support for a chain in which ...\") and note that effect sizes are not given in the abstract."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7221561375",
+      "headline": "Servant leaders get better results when they also deliver tough criticism",
+      "verdict": "minor",
+      "notes": "Design, controls and mixed outcomes accurately reported; one story-angle claim goes beyond what a moderation test shows, and \"significantly strengthened\" is firmer than the abstract's wording.",
+      "issues": [
+        {
+          "label": "Claim about tough love without servant leadership",
+          "severity": "Moderate",
+          "as_written": "Note that tough love only worked alongside genuine servant behavior; criticism without the supportive base is a different and riskier thing.",
+          "abstract_says": "tough love is shown to moderate relations between servant leadership and both in-role performance and organizational citizenship behaviors",
+          "problem": "A moderation test shows the servant-leadership link is stronger at higher tough love; the abstract reports nothing about the effects of tough love delivered in the absence of servant leadership, so the \"only worked alongside\" claim is not supported.",
+          "suggested_fix": "Say the study tested tough love only as a moderator of servant leadership and did not examine criticism delivered without a supportive base."
+        },
+        {
+          "label": "Strength of moderation wording",
+          "severity": "Minor",
+          "as_written": "Tough love significantly strengthened the link between servant leadership and both in-role job performance and organizational citizenship behavior",
+          "abstract_says": "tough love is shown to moderate relations between servant leadership and both in-role performance and organizational citizenship behaviors",
+          "problem": "The abstract reports moderation consistent with the strengthening hypothesis but gives no statistics; \"significantly strengthened\" implies a reported significance test and magnitude not shown in the abstract.",
+          "suggested_fix": "Use \"moderated (in the hypothesized, strengthening direction)\" and note that no effect sizes appear in the abstract."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7220937301",
+      "headline": "When a manager plays favorites, the overlooked team member can still save the team",
+      "verdict": "minor",
+      "notes": "Sample (91 Taiwanese teams, multi-source, time-lagged) is correct, but the abstract is proposal-worded and does not report the buffering result as a finding.",
+      "issues": [
+        {
+          "label": "Proposed model reported as a result",
+          "severity": "Moderate",
+          "as_written": "They found that the proactivity of the least-supported member buffers the harm",
+          "abstract_says": "we propose and examine how the least-supported members’ proactivity mitigates the destructive effects of differentiated transformational leadership. We anticipate this research to bring important insights...",
+          "problem": "The abstract describes what the study proposes and examines and does not state that the buffering effect was supported; presenting it as a confirmed finding goes beyond the abstract.",
+          "suggested_fix": "Write that the researchers proposed and tested whether least-supported members' proactivity buffers the harm, and flag that the abstract does not report the result (unverifiable from abstract only)."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7220922862",
+      "headline": "An angry boss who can punish you makes you feel less than human — and you check out",
+      "verdict": "minor",
+      "notes": "Mediation and moderation are reported in the right direction; abstract is truncated, which the digest flags. Only the magnitude word \"much\" overstates.",
+      "issues": [
+        {
+          "label": "Magnitude of moderation embellished",
+          "severity": "Minor",
+          "as_written": "when the leader had little power to punish, the chain was much weaker",
+          "abstract_says": "This mediated relationship was weakened when the leader's coercive power was low.",
+          "problem": "The abstract says the indirect effect was weakened, with no indication of how much; \"much weaker\" adds magnitude that cannot be checked.",
+          "suggested_fix": "Drop \"much\" and say the mediated relationship was weaker when coercive power was low."
+        },
+        {
+          "label": "Number of studies",
+          "severity": "Minor",
+          "as_written": "Across a set of studies including one with N=288",
+          "abstract_says": "= 288), we found that leader anger expression triggered followers' organizational dehumanization",
+          "problem": "The truncated abstract shows only one sample size and gives no information on how many studies were run; \"a set of studies\" is an inference.",
+          "suggested_fix": "Say only that one reported sample had N = 288 and that the truncated abstract does not reveal the number of studies."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7220913877",
+      "headline": "In restaurants, a manager's humility shows up as group trust — and then as service quality",
+      "verdict": "minor",
+      "notes": "Sample figures, waves and model match the abstract exactly; the headline swaps the measured outcome (service climate) for service quality.",
+      "issues": [
+        {
+          "label": "Outcome relabeled as service quality",
+          "severity": "Minor",
+          "as_written": "a manager's humility shows up as group trust — and then as service quality",
+          "abstract_says": "servant leadership cultivated group trust at the store level, which, in turn, positively impacted service climate",
+          "problem": "Service climate is employees' shared perception of the emphasis on service, not measured customer-facing service quality; the headline implies a customer outcome the study did not measure. The body text uses the correct term.",
+          "suggested_fix": "Change the headline to \"...and then as service climate\" and avoid implying customers' experience was measured."
+        },
+        {
+          "label": "Implied customer experience",
+          "severity": "Minor",
+          "as_written": "to the service climate customers experience",
+          "abstract_says": "servant leadership cultivated group trust at the store level, which, in turn, positively impacted service climate",
+          "problem": "Service climate was rated by employees; no customer data are reported in the abstract.",
+          "suggested_fix": "Say \"to the service climate employees report\" and note that customer outcomes were not measured."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "work_id": "W7204196725",
+      "headline": "Delegation only lands well when the boss shares credit — and absorbs blame",
+      "verdict": "minor",
+      "notes": "Three-study design and all three Ns are correct, and the failed field replication is reported; small slips on \"publicly,\" the plural \"experiments,\" and the hindrance wording.",
+      "issues": [
+        {
+          "label": "\"Publicly\" not in the abstract",
+          "severity": "Minor",
+          "as_written": "Leaders who publicly took the blame when delegated work went wrong",
+          "abstract_says": "leader blame taking consistently weakens the delegation–hindrance appraisal link, reducing turnover intention",
+          "problem": "The abstract describes leader blame taking without specifying that it must be public; the public element is an added detail.",
+          "suggested_fix": "Drop \"publicly\" or mark it as an interpretation not specified in the abstract."
+        },
+        {
+          "label": "Credit-sharing effect attributed to both experiments",
+          "severity": "Minor",
+          "as_written": "leaders who shared credit boosted challenge appraisals and proactive 'taking charge' in the experiments",
+          "abstract_says": "Leader credit sharing strengthens the delegation–challenge appraisal link and subsequent taking charge in the experiment, but this effect is not replicated in the field study.",
+          "problem": "Only Study 1a tested the challenge pathway, so the effect comes from one experiment, not both.",
+          "suggested_fix": "Change to \"in the challenge-pathway experiment (Study 1a, N = 217).\""
+        },
+        {
+          "label": "Moderation described as a main effect",
+          "severity": "Minor",
+          "as_written": "consistently reduced employees' hindrance appraisals and turnover intentions",
+          "abstract_says": "leader blame taking consistently weakens the delegation–hindrance appraisal link, reducing turnover intention",
+          "problem": "Blame taking weakened the link between delegation and hindrance appraisal; the digest states it lowered hindrance appraisals outright.",
+          "suggested_fix": "Write \"weakened the link between delegation and hindrance appraisal, and in turn turnover intention.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "work_id": "W7214609077",
+      "headline": "High-performance HR can breed misbehavior in hospitals — unless leaders serve rather than drive",
+      "verdict": "minor",
+      "notes": "Sample, mediators and moderator are accurate; framing is more causal than the abstract's correlational language, and \"sabotage\" overstates organizational deviance.",
+      "issues": [
+        {
+          "label": "Causal framing of a correlational multilevel study",
+          "severity": "Moderate",
+          "as_written": "this suggests their hidden cost runs through broken promises and heavier workloads into how staff treat each other",
+          "abstract_says": "high-performance work systems (HPWS) may inadvertently correlate with adverse employee outcomes ... psychological contract breach and work intensification serve as mediators between HPWS and interpersonal deviance",
+          "problem": "The abstract is explicitly correlational (\"may inadvertently correlate\"); the body text asserts a causal pathway, which sits uneasily with the digest's own caveat that causation cannot be established.",
+          "suggested_fix": "Reword to \"these variables statistically mediated the association\" and keep the correlational hedge in the body, not just the caveats."
+        },
+        {
+          "label": "\"Sabotage\" overstates organizational deviance",
+          "severity": "Minor",
+          "as_written": "stops colleague-to-colleague friction from becoming sabotage of the organization",
+          "abstract_says": "the progression of interpersonal deviance to organizational deviance is moderated by servant leadership, which diminishes the upward trajectory of deviant actions inside the organization",
+          "problem": "Organizational deviance covers a range of counterproductive behaviors; \"sabotage\" implies a severe, specific act the abstract does not report.",
+          "suggested_fix": "Use \"organization-directed deviance\" instead of \"sabotage.\""
+        },
+        {
+          "label": "Design details not in abstract",
+          "severity": "Minor",
+          "as_written": "Cross-sectional self-report design, so causation cannot be established",
+          "abstract_says": "The current multilevel research is based on data from 345 medical staff nested within 226 hospitals in healthcare organizations (hospitals)",
+          "problem": "The abstract does not state the time structure or the rating source; the cross-sectional and self-report labels are inferences.",
+          "suggested_fix": "Note that the abstract does not specify the time design or data sources (unverifiable from abstract only)."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "work_id": "W7206184378",
+      "headline": "Overworked IT staff are coping alone — and want structural fixes, not wellness perks",
+      "verdict": "accurate",
+      "notes": "Method, sample (38 Indian IT professionals, semi-structured interviews, thematic analysis) and the list of employee expectations match the abstract; caveats appropriately mark the study as exploratory and non-generalizable.",
+      "issues": []
+    }
+  ],
+  "coverage": {
+    "checked": 8,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7212753349": {
+        "query": "Leadership isn personality string small wins engineer them",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7221561375": {
+        "query": "Servant leaders get better results they also deliver tough criticism",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7220937301": {
+        "query": "manager plays favorites overlooked team member still save team",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7220922862": {
+        "query": "angry boss who punish makes feel than human check out",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7220913877": {
+        "query": "restaurants manager humility shows group trust then service quality",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204196725": {
+        "query": "Delegation only lands well boss shares credit absorbs blame",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214609077": {
+        "query": "High performance breed misbehavior hospitals unless leaders serve rather than",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7206184378": {
+        "query": "Overworked staff coping alone want structural fixes not wellness perks",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet — this is the first run._",
+    "feature_pitch": "**The pattern:** Taken together, this batch stops treating leadership as a style or personality and starts treating it as a ledger of small distributive acts — who gets the credit, who absorbs the blame, who gets the leader's attention, who gets told the truth. \"Delegation only lands well when the boss shares credit — and absorbs blame\" (W7204196725), \"Servant leaders get better results when they also deliver tough criticism\" (W7221561375), \"When a manager plays favorites, the overlooked team member can still save the team\" (W7220937301) and \"An angry boss who can punish you makes you feel less than human\" (W7220922862) all locate the effect in a specific transaction rather than a trait, while \"Leadership isn't a personality — it's a string of small wins\" (W7212753349) makes the same move at the level of the leader's own day. Two workforce studies close the loop from the employee side: overworked Indian IT staff asked for fair appraisal, supportive leaders and psychological safety instead of wellness perks (W7206184378), and hospital staff under high-performance work systems turned on each other when the implicit deal changed, with servant leadership containing the spread (W7214609077).\n\n**Why pitch this now:** Employers are cutting wellness budgets and flattening middle management while AI-driven workload intensification pushes more responsibility down the org chart — which makes the cheap, attention-based behaviors in this research (owning failures publicly, distributing attention evenly, saying the hard thing) the only leadership lever most squeezed managers actually still control.\n\n**Angle:** A reported feature arguing that the measurable part of good management is not charisma or \"style\" but a handful of distributive acts a manager performs or fails to perform each week — written for managers and the people who report to them, with a practical audit a reader can run on their own boss or themselves.\n\n**Potential headlines:**\n- What good managers actually do differently, according to a year of leadership research\n- The warmest boss on your team may be the one holding you back\n- Your manager's weekly ledger of credit, blame and attention is quietly deciding your career\n\n**Potential outlets:**\n- *Harvard Business Review* — its manager readership will take the \"delegation is a bargain, not a gift\" and \"support plus candor\" findings as directly actionable practice.\n- *MIT Sloan Management Review* — strong fit for the systems half of the story, where high-performance HR practices and attention inequality produce measurable team-level damage.\n- *The Atlantic* (work and business coverage) — the dehumanization and privatized-recovery findings support a cultural argument about what employees have stopped expecting from employers.\n- *Fast Company* — well suited to the \"skip the wellness app, fix the appraisal process\" counterprogramming against the corporate well-being industry.",
+    "pitch_ideas": "- **Leadership isn't a personality — it's a string of small wins, and you can engineer them (Work ID W7212753349):** Test the \"daily microwin\" prompt as a free alternative to five-figure leadership training, with honest framing that it's early evidence judged by direct reports rather than self-ratings, for a manager-audience column or leadership-development explainer.\n- **Servant leaders get better results when they also deliver tough criticism (Work ID W7221561375):** The empathetic-boss trap — why kindness without specific developmental criticism leaves performance on the table, and how to tell which kind of boss you have, for a management column or a work-psychology piece in a general-interest/women's outlet.\n- **When a manager plays favorites, the overlooked team member can still save the team (Work ID W7220937301):** The attention audit — how unevenly distributed leader support erodes team helping norms, and why the least-favored person is the hinge, for a manager-audience column or team-dynamics explainer.\n- **An angry boss who can punish you makes you feel less than human — and you check out (Work ID W7220922862):** Why the same outburst costs far more when it comes from someone who can fire you, and why the symptom is quiet withdrawal rather than confrontation, for a workplace news brief or an explainer on bad bosses in a general-interest outlet.\n- **In restaurants, a manager's humility shows up as group trust — and then as service quality (Work ID W7220913877):** Group trust as a store-level metric multi-site operators can actually measure between leadership training and customer experience, for a hospitality/retail trade or operations-focused business section.\n- **Delegation only lands well when the boss shares credit — and absorbs blame (Work ID W7204196725):** Stretch assignment or dumped risk — the blame-absorbing test that decides whether delegated employees stay, with the credit-sharing caveat that it didn't replicate in the field, for a manager-audience column or career-advice column.\n- **High-performance HR can breed misbehavior in hospitals — unless leaders serve rather than drive (Work ID W7214609077):** Workplace rudeness as a downstream symptom of performance systems that quietly asked for more than they promised, for an HR explainer or healthcare-workforce news piece.\n- **Overworked IT staff are coping alone — and want structural fixes, not wellness perks (Work ID W7206184378):** What tech workers say they'd trade their wellness benefits for — fair appraisals, honest communication, a manager who backs them — for a benefits/HR explainer or a general-interest feature on the privatization of recovery."
+  }
+}

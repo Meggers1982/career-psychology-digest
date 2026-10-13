@@ -1,15 +1,5 @@
 {
   "studies": {
-    "W4412125794": {
-      "checked_at": "2026-09-29T12:46:05.435678+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "daily reflection prompt helped paramedics find meaning bad shifts but",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7167993239": {
       "checked_at": "2026-10-11T16:28:43.242928+00:00",
       "result": {
@@ -110,16 +100,6 @@
         "state": "unreported"
       }
     },
-    "W7202071941": {
-      "checked_at": "2026-09-29T12:45:13.458654+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Applicants have had ChatGPT years Pre employment test scores barely",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7202072432": {
       "checked_at": "2026-10-03T15:01:20.868757+00:00",
       "result": {
@@ -137,16 +117,6 @@
         "outlets": [],
         "query": "Meta analysis workplace chameleons impress bosses than they actually perform",
         "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7202177851": {
-      "checked_at": "2026-09-29T12:45:14.855090+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Helping hire only pays off they good job",
-        "returned": 20,
         "state": "unreported"
       }
     },
@@ -180,32 +150,12 @@
         "state": "unreported"
       }
     },
-    "W7202344708": {
-      "checked_at": "2026-09-29T12:45:07.639784+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "LinkedIn profile says about faith shaping who gets interview",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7202354404": {
       "checked_at": "2026-10-03T15:01:13.989466+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "boss brags about being swamped read decides happens next",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7202387608": {
-      "checked_at": "2026-09-29T12:46:02.060649+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "hiring tests make employers look attractive mainly younger candidates",
         "returned": 0,
         "state": "unreported"
       }
@@ -236,16 +186,6 @@
         "articles": [],
         "outlets": [],
         "query": "News outlets don spin corporate activism they choose which parts",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7203608858": {
-      "checked_at": "2026-09-29T12:45:57.859168+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "jokey job costing candidates",
         "returned": 0,
         "state": "unreported"
       }
@@ -286,16 +226,6 @@
         "articles": [],
         "outlets": [],
         "query": "Teams believe they deliver don just they share load evenly",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7203733318": {
-      "checked_at": "2026-09-29T12:44:42.361390+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Hiring filters cut applicant pool screen out best candidates too",
         "returned": 0,
         "state": "unreported"
       }
@@ -390,16 +320,6 @@
         "state": "unreported"
       }
     },
-    "W7204088664": {
-      "checked_at": "2026-09-29T12:45:40.342344+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "two minute allocation game predicts which job perks candidates actually",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7204156044": {
       "checked_at": "2026-10-07T17:34:40.376939+00:00",
       "result": {
@@ -420,12 +340,12 @@
         "state": "unreported"
       }
     },
-    "W7204209860": {
-      "checked_at": "2026-09-29T12:44:54.391997+00:00",
+    "W7204196725": {
+      "checked_at": "2026-10-13T17:50:26.684368+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Rejected algorithm Adding human reviewer changes candidates feel about",
+        "query": "Delegation only lands well boss shares credit absorbs blame",
         "returned": 0,
         "state": "unreported"
       }
@@ -458,32 +378,12 @@
         "state": "unreported"
       }
     },
-    "W7204477379": {
-      "checked_at": "2026-09-29T12:45:19.390386+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Coping strategies help women survive male dominated field also entrench",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7204489065": {
       "checked_at": "2026-10-11T16:28:58.160103+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Rude customers chat window follow employees home",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7204553807": {
-      "checked_at": "2026-09-29T12:44:51.171646+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Startup stock options attract engineers mostly signal not financial bet",
         "returned": 0,
         "state": "unreported"
       }
@@ -546,13 +446,13 @@
         "state": "unreported"
       }
     },
-    "W7207518842": {
-      "checked_at": "2026-09-29T12:45:03.507855+00:00",
+    "W7206184378": {
+      "checked_at": "2026-10-13T17:50:32.481429+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "career ends against will work doesn always matter afterwards",
-        "returned": 6,
+        "query": "Overworked staff coping alone want structural fixes not wellness perks",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -586,16 +486,6 @@
         "state": "unreported"
       }
     },
-    "W7208704204": {
-      "checked_at": "2026-09-29T12:46:09.406626+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "employees ADHD say actually helps work informal relationships flexible bosses",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7208791578": {
       "checked_at": "2026-10-03T15:01:09.981294+00:00",
       "result": {
@@ -612,16 +502,6 @@
         "articles": [],
         "outlets": [],
         "query": "Underemployment doesn hit all once erodes meaning then burns people",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7211872890": {
-      "checked_at": "2026-09-29T12:45:48.126639+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Free tuition beats reimbursement education perks keep frontline workers quitting",
         "returned": 0,
         "state": "unreported"
       }
@@ -770,12 +650,12 @@
         "state": "unreported"
       }
     },
-    "W7213166433": {
-      "checked_at": "2026-09-29T12:44:46.024471+00:00",
+    "W7212753349": {
+      "checked_at": "2026-10-13T17:50:08.741717+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "have all three recruiting math forces trade off between diversity",
+        "query": "Leadership isn personality string small wins engineer them",
         "returned": 0,
         "state": "unreported"
       }
@@ -830,16 +710,6 @@
         "state": "unreported"
       }
     },
-    "W7213532045": {
-      "checked_at": "2026-09-29T12:45:36.989941+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Nowhereness neither work nor home safe place yourself",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7213775189": {
       "checked_at": "2026-10-02T16:23:26.849099+00:00",
       "result": {
@@ -847,16 +717,6 @@
         "outlets": [],
         "query": "Compressed workweeks help some employees quietly hurt others",
         "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7213900915": {
-      "checked_at": "2026-09-29T12:45:21.739860+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Employees without children quietly keeping score flexibility policies",
-        "returned": 1,
         "state": "unreported"
       }
     },
@@ -900,16 +760,6 @@
         "state": "unreported"
       }
     },
-    "W7214200214": {
-      "checked_at": "2026-09-29T12:45:01.721987+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Older younger candidates talk differently video interviews rewording question narrows",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7214278713": {
       "checked_at": "2026-10-05T19:29:56.957127+00:00",
       "result": {
@@ -927,6 +777,16 @@
         "outlets": [],
         "query": "Training budgets tell almost nothing many people attend tells who",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7214609077": {
+      "checked_at": "2026-10-13T17:50:29.228396+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "High performance breed misbehavior hospitals unless leaders serve rather than",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1118,6 +978,36 @@
         "state": "unreported"
       }
     },
+    "W7220913877": {
+      "checked_at": "2026-10-13T17:50:20.212417+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "restaurants manager humility shows group trust then service quality",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7220922862": {
+      "checked_at": "2026-10-13T17:50:16.396722+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "angry boss who punish makes feel than human check out",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7220937301": {
+      "checked_at": "2026-10-13T17:50:14.259692+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "manager plays favorites overlooked team member still save team",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7220972684": {
       "checked_at": "2026-10-11T16:28:46.856318+00:00",
       "result": {
@@ -1125,6 +1015,16 @@
         "outlets": [],
         "query": "Feeling excluded work ruins evening wake worse",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7221561375": {
+      "checked_at": "2026-10-13T17:50:10.799164+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Servant leaders get better results they also deliver tough criticism",
+        "returned": 1,
         "state": "unreported"
       }
     }
