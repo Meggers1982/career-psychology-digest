@@ -310,6 +310,16 @@
         "state": "unreported"
       }
     },
+    "W7203948385": {
+      "checked_at": "2026-10-14T15:30:07.047426+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Absent leadership drains police officers resilience only partly cushions fall",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7204030144": {
       "checked_at": "2026-10-11T16:29:09.675299+00:00",
       "result": {
@@ -710,6 +720,16 @@
         "state": "unreported"
       }
     },
+    "W7213658467": {
+      "checked_at": "2026-10-14T15:29:48.710133+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "stressed teachers sleep pathway linking workload depression anxiety",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213775189": {
       "checked_at": "2026-10-02T16:23:26.849099+00:00",
       "result": {
@@ -898,6 +918,16 @@
         "state": "unreported"
       }
     },
+    "W7214949930": {
+      "checked_at": "2026-10-14T15:29:50.195252+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Being proactive person doesn mean manage energy well mood does",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "W7215047180": {
       "checked_at": "2026-10-07T17:34:19.347870+00:00",
       "result": {
@@ -925,6 +955,16 @@
         "outlets": [],
         "query": "short video writing exercise cut employee exhaustion two weeks later",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7215114401": {
+      "checked_at": "2026-10-14T15:29:42.011617+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "boss under pressure stress gets passed down staff quietly push",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -968,12 +1008,50 @@
         "state": "unreported"
       }
     },
+    "W7220357899": {
+      "checked_at": "2026-10-14T15:29:40.105921+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.channelnewsasia.com/commentary/singapore-ai-jobs-improve-redesign-work-6330546",
+            "outlet": "CNA",
+            "title": "Commentary: Workers shouldn\u2019t have to figure out AI on their own"
+          }
+        ],
+        "outlets": [
+          "CNA"
+        ],
+        "query": "Workers who use redesign their own jobs report meaningful days",
+        "returned": 4,
+        "state": "lightly_reported"
+      }
+    },
+    "W7220405540": {
+      "checked_at": "2026-10-14T15:30:00.070719+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Making work playful cuts burnout but through caution not fun",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7220410857": {
       "checked_at": "2026-10-07T17:33:46.176625+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Startups hit disaster year one stay scrappier riskier years",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7220865997": {
+      "checked_at": "2026-10-14T15:30:10.460066+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Quiet quitting about laziness than about felt emptiness work",
         "returned": 0,
         "state": "unreported"
       }
@@ -1015,6 +1093,16 @@
         "outlets": [],
         "query": "Feeling excluded work ruins evening wake worse",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7221041588": {
+      "checked_at": "2026-10-14T15:30:01.561721+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Bosses who talk openly about mental health get than happier",
+        "returned": 1,
         "state": "unreported"
       }
     },
