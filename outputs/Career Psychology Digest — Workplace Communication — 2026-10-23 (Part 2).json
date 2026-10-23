@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-23",
+  "days_back": 60,
+  "window_from": "2026-08-24",
+  "window_to": "2026-10-23",
+  "focus": "Workplace Communication",
+  "topic": "workplace communication",
+  "query": "(\"workplace communication\" OR \"organizational communication\" OR \"employee voice\" OR \"speaking up\" OR \"feedback seeking\" OR \"email overload\" OR \"meeting\" OR \"internal communication\" OR \"virtual communication\" OR \"workplace conversation\" OR \"whistleblowing\" OR \"silence in organizations\" OR \"workplace gossip\")",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 5,
+    "not_research": 0,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 4,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 1
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [],
+  "fact_check": [],
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {}
+  },
+  "sections": {}
+}
