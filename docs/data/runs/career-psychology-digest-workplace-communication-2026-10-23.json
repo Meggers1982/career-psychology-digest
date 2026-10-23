@@ -1,0 +1,99 @@
+{
+  "id": "career-psychology-digest-workplace-communication-2026-10-23",
+  "filename": "Career Psychology Digest — Workplace Communication — 2026-10-23.md",
+  "title": "Career Psychology Digest — Workplace Communication — 2026-10-23",
+  "run_date": "2026-10-23",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-24",
+  "window_to": "2026-10-23",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "2",
+  "articles_found": 5,
+  "screening": {
+    "found": 5,
+    "not_research": 0,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 3,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 2
+  },
+  "focus": "Workplace Communication",
+  "topic": "workplace communication",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 1,
+  "studies": [
+    {
+      "number": 1,
+      "title": "The 30% rule: how much diversity a group needs before it actually changes anything",
+      "paper_title": "Critical mass theory: An integrative conceptual review.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-10",
+      "work_id": "W7212172629",
+      "doi": "10.1037/apl0001408",
+      "source_id": "S166002381",
+      "the_study": "Researchers conducted an integrative review of 277 studies testing \"critical mass theory\" — the idea that representation of an underrepresented group has to cross a threshold before group dynamics genuinely shift. Nearly a third of the quantitative studies were not methodologically capable of testing the idea at all (they modeled only straight-line relationships, or had too little representation for a threshold to show up). Among the studies that were adequate, 83% found threshold effects, with an average tipping point of about 29% representation (SD = 6.67%). Crossing that threshold was linked to better interpersonal dynamics and, downstream, to employee satisfaction, the success of diversity and CSR initiatives, less misconduct, lower financial risk, innovation, reputation and performance.",
+      "why_it_matters": "It reframes diversity targets from a moral or optics question into a dosage question: adding one or two people from an underrepresented group to a team or board may change little, while crossing roughly 30% is where measurable shifts in behavior and outcomes appear.",
+      "story_angle_primary": "Managers setting representation goals for teams, boards or leadership pipelines can ask a sharper question than \"are we diverse?\" — namely, \"is any group stuck below the threshold where its members' voices actually carry?\" The review also flags moderators worth checking: effects are stronger and the threshold lower when underrepresented members hold leadership roles and when organizational values align with theirs, and weaker when the minority group is itself internally divided — so counting heads is not enough.",
+      "story_angle_secondary": "For anyone who has been the only woman, the only person of color or the only older worker in a room, this puts numbers on a familiar experience: being one of three in a group of ten feels and functions very differently from being one of one, and the research suggests that difference is real rather than imagined.",
+      "caveats": "This is a conceptual review and vote-count-style synthesis of published studies, not a new meta-analysis with pooled effect sizes, so publication bias and the heavy exclusion of methodologically weak studies could inflate the apparent support. The 29% average masks wide variation across settings, outcomes and which group is underrepresented, and most underlying studies are correlational — crossing a threshold is associated with better outcomes, not proven to cause them (better-performing organizations may simply be more able to reach critical mass).",
+      "score": 90,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Core facts (277 studies, integrative conceptual review, one-third methodologically inadequate, 83% support, 29% mean threshold, SD = 6.67%) are reproduced accurately and the caveats are strong. Two small issues: the digest assigns a direction to outcomes the abstract lists neutrally, and it drops two of the four strengthening moderators (equitable contexts, stronger prior performance).",
+      "tags": [
+        "diversity, equity & inclusion at work",
+        "team dynamics & collaboration",
+        "workplace communication"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7212172629",
+      "journal": "Journal of Applied Psychology",
+      "date": "2026-09-10",
+      "doi": "10.1037/apl0001408"
+    }
+  ],
+  "trends_raw": "**New themes**\n- The level of analysis shifts from leader traits to group arithmetic. The previous digest's \"Narcissistic bosses hear the good ideas and silence the bad news\" (W7212150272) explained whose voice carries by pointing at one person — a self-focused leader who sorts the team into insiders and outsiders. \"The 30% rule: how much diversity a group needs before it actually changes anything\" (W7212172629) explains the same outcome structurally: below roughly 29% representation, an underrepresented group's members are effectively outsiders no matter who is leading. For a writer, these are two different causal doors into one question — why some people in a room are functionally unhearable.\n\n**Advances**\n- W7212172629 adds a moderator that speaks directly to the earlier finding: threshold effects are stronger and the tipping point lower when underrepresented members hold leadership roles, and weaker when the minority group is internally divided. That is a composition-side answer to the insider-outsider climate W7212150272 described as leader-created — representation in authority, not just headcount, is what converts presence into influence.\n\n**Counterpoints**\n- No direct empirical contradiction. Worth flagging that the two studies share a methodological ceiling rather than a disagreement: W7212150272 is time-lagged correlational with employee-rated leader traits, and W7212172629 is a vote-count-style review of largely correlational studies with heavy exclusion of weak designs. Neither licenses causal language about fixing team communication.",
+  "feature_pitch_raw": "_No cross-study feature angle identified in this batch._",
+  "pitch_ideas_raw": "- **The 30% rule: how much diversity a group needs before it actually changes anything (Work ID W7212172629):** Reframe diversity targets as a dosage question rather than a values question — the evidence points to a tipping point near 29% below which added representation changes little, with the sharper managerial test being \"which group on this team is stuck under the threshold?\" plus the moderators (minority members in leadership lower the threshold; internal division among them raises it); flag honestly that the review is vote-count synthesis of correlational work, so this is a planning heuristic, not a proven causal lever — fits a manager-audience column, an HR/DEI explainer, or a work-psychology piece in a general-interest or women's outlet built around the lived difference between being one of one and one of three.",
+  "fact_check": {
+    "studies_reviewed": 1,
+    "verdicts_by_work": {
+      "W7212172629": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "3 (3 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Workplace Communication — 2026-10-23\n**Checked:** 2026-10-23 | **Studies reviewed:** 1\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: The 30% rule: how much diversity a group needs before it actually changes anything\n**Work ID:** W7212172629 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Direction added to neutral outcome list** — Severity: Minor\n\n- **As written:** \"less misconduct, lower financial risk, innovation, reputation and performance\"\n- **Abstract says:** \"associated with improved interpersonal dynamics with downstream effects on employee satisfaction, the success of diversity and corporate social responsibility initiatives, misconduct, financial risk, innovation, organizational reputation, and performance\"\n- **Problem:** The abstract names misconduct and financial risk as outcome domains without stating the direction of effect; the digest asserts these go down.\n- **Suggested fix:** \"Write \"and downstream effects on employee satisfaction, diversity and CSR initiative success, misconduct, financial risk, innovation, reputation and performance\" without specifying direction.\"\n\n**Issue B. Two moderators dropped** — Severity: Minor\n\n- **As written:** \"effects are stronger and the threshold lower when underrepresented members hold leadership roles and when organizational values align with theirs\"\n- **Abstract says:** \"Critical mass effects are stronger and the threshold is lower when underrepresented members hold leadership roles, organizations operate in more equitable contexts, organizational and societal values align with those of the minority group, and organizations have stronger prior performance.\"\n- **Problem:** Two of four named boundary conditions are omitted — notably \"stronger prior performance,\" which is directly relevant to the digest's own reverse-causality caveat.\n- **Suggested fix:** \"Add that effects are also stronger in more equitable contexts and in organizations with stronger prior performance.\"\n\n**Issue C. Headline implies an established rule** — Severity: Minor\n\n- **As written:** \"The 30% rule: how much diversity a group needs before it actually changes anything\"\n- **Abstract says:** \"Among studies meeting methodologically requirements, 83% support critical mass threshold effects, with a mean threshold of 29% (SD = 6.67%)\"\n- **Problem:** \"Rule\" and \"needs before it actually changes anything\" frame a mean threshold from a vote-count review of largely correlational studies as an established causal rule; the SD of 6.67% and the body's own caveat about wide variation argue against this.\n- **Suggested fix:** \"Soften to something like \"Around 30%: the representation threshold where group dynamics tend to shift.\"\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | The 30% rule: how much diversity a group needs before it actually changes anything | ⚠️ Minor issues | Core facts (277 studies, integrative conceptual review, one-third methodologically inadequate, 83% support, 29% mean threshold, SD = 6.67%) are reproduced accurately and the caveats are strong. Two small issues: the digest assigns a direction to outcomes the abstract lists neutrally, and it drops two of the four strengthening moderators (equitable contexts, stronger prior performance). |\n\n**Total issues:** 3 (3 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 1,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
