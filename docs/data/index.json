@@ -1,7 +1,8 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 17,
+  "run_count": 18,
   "topics": [
+    "ai & the future of work",
     "compensation",
     "diversity, equity & inclusion at work",
     "entrepreneurship",
@@ -16,6 +17,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-ai-the-future-of-work-2026-10-24",
+      "title": "Career Psychology Digest — AI & the Future of Work — 2026-10-24",
+      "topic": "ai & the future of work",
+      "run_date": "2026-10-24",
+      "study_count": 9,
+      "total_issues": "9 (7 Minor, 2 Moderate, 0 Major)",
+      "lead_count": 3,
+      "top_score": 88
+    },
     {
       "id": "career-psychology-digest-workplace-communication-2026-10-23",
       "title": "Career Psychology Digest — Workplace Communication — 2026-10-23",

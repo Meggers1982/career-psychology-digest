@@ -10,6 +10,16 @@
         "state": "unreported"
       }
     },
+    "W7168435596": {
+      "checked_at": "2026-10-24T14:10:20.646286+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "People accept subordinate but not boss sticking point morality not",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7203464894": {
       "checked_at": "2026-10-11T16:28:38.364682+00:00",
       "result": {
@@ -88,12 +98,32 @@
         "state": "unreported"
       }
     },
+    "W7204647820": {
+      "checked_at": "2026-10-24T14:10:02.076161+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Gig workers extra mile algorithm seems fair but privacy monitoring",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7204799973": {
       "checked_at": "2026-10-11T16:29:13.455602+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Admiring workaholic boss protect catching their burnout",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204855159": {
+      "checked_at": "2026-10-24T14:10:15.074420+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Letting make final call decisions damages company reputation",
         "returned": 0,
         "state": "unreported"
       }
@@ -158,6 +188,16 @@
         "state": "unreported"
       }
     },
+    "W7213334889": {
+      "checked_at": "2026-10-24T14:09:51.320128+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "app decides who ratings rankings rewrite gig workers sense worth",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213366869": {
       "checked_at": "2026-10-11T16:28:54.260310+00:00",
       "result": {
@@ -175,6 +215,16 @@
         "outlets": [],
         "query": "bad boss one team make other boss look like hero",
         "returned": 17,
+        "state": "unreported"
+      }
+    },
+    "W7213541995": {
+      "checked_at": "2026-10-24T14:10:17.017463+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Workers who see coming likely career work would protect them",
+        "returned": 20,
         "state": "unreported"
       }
     },
@@ -238,6 +288,16 @@
         "state": "unreported"
       }
     },
+    "W7218741843": {
+      "checked_at": "2026-10-24T14:09:47.338098+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Workers managed algorithms start treating customers than human",
+        "returned": 5,
+        "state": "unreported"
+      }
+    },
     "W7220357899": {
       "checked_at": "2026-10-14T15:29:40.105921+00:00",
       "result": {
@@ -262,6 +322,16 @@
         "articles": [],
         "outlets": [],
         "query": "Making work playful cuts burnout but through caution not fun",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7220851400": {
+      "checked_at": "2026-10-24T14:09:54.004086+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Actors directors screenwriters improvising three very different responses",
         "returned": 0,
         "state": "unreported"
       }
@@ -333,6 +403,26 @@
         "outlets": [],
         "query": "Servant leaders get better results they also deliver tough criticism",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7222280836": {
+      "checked_at": "2026-10-24T14:10:06.694172+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Fifty years Canadian census data immigrants still earn concentrated wrong",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7223279808": {
+      "checked_at": "2026-10-24T14:09:44.129160+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Worried will take job anxiety quietly pushing manage career better",
+        "returned": 0,
         "state": "unreported"
       }
     }
