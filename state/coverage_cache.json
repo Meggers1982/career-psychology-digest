@@ -138,16 +138,6 @@
         "state": "unreported"
       }
     },
-    "W7211910578": {
-      "checked_at": "2026-10-10T15:58:31.542859+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Poverty level pay pushes workers toward exit but they work",
-        "returned": 20,
-        "state": "unreported"
-      }
-    },
     "W7211941550": {
       "checked_at": "2026-10-11T16:29:19.208330+00:00",
       "result": {
@@ -208,16 +198,6 @@
         "state": "unreported"
       }
     },
-    "W7213445976": {
-      "checked_at": "2026-10-10T15:58:27.553903+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "bad boss one team make other boss look like hero",
-        "returned": 17,
-        "state": "unreported"
-      }
-    },
     "W7213541995": {
       "checked_at": "2026-10-24T14:10:17.017463+00:00",
       "result": {
@@ -275,16 +255,6 @@
         "outlets": [],
         "query": "boss under pressure stress gets passed down staff quietly push",
         "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "W7215124307": {
-      "checked_at": "2026-10-10T15:58:40.696136+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Tying CEO pay climate goals linked emissions not fewer",
-        "returned": 0,
         "state": "unreported"
       }
     },
@@ -413,6 +383,16 @@
         "outlets": [],
         "query": "Fifty years Canadian census data immigrants still earn concentrated wrong",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7222968425": {
+      "checked_at": "2026-10-25T14:33:56.633895+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Pay gaps inside executive suite boost digital transformation until they",
+        "returned": 4,
         "state": "unreported"
       }
     },

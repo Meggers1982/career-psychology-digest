@@ -1,0 +1,98 @@
+{
+  "id": "career-psychology-digest-compensation-2026-10-25",
+  "filename": "Career Psychology Digest — Compensation — 2026-10-25.md",
+  "title": "Career Psychology Digest — Compensation — 2026-10-25",
+  "run_date": "2026-10-25",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-26",
+  "window_to": "2026-10-25",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "2",
+  "articles_found": 8,
+  "screening": {
+    "found": 8,
+    "not_research": 0,
+    "no_abstract": 1,
+    "off_topic": 0,
+    "already_covered": 5,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 2
+  },
+  "focus": "Compensation",
+  "topic": "compensation",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 1,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Pay gaps inside the executive suite boost digital transformation — until they don't",
+      "paper_title": "Executive incentives and digital transformation: governance evidence from China",
+      "journal": "Personnel Review",
+      "published": "2026-10-19",
+      "work_id": "W7222968425",
+      "doi": "10.1108/pr-03-2026-0450",
+      "source_id": "S139232146",
+      "the_study": "Researchers analyzed panel data on 3,583 Chinese A-share listed firms from 2011 to 2023 (37,274 firm-year observations), measuring each company's digital transformation with a text-based index built from annual reports and estimating fixed-effects models with robustness and endogeneity checks. Equity-based incentive exposure for executives and internal pay dispersion were both positively associated with digital transformation, while cash compensation showed a weaker, specification-sensitive link to broad transformation but a clearer link to immediate technology spending. Crucially, pay dispersion showed an inverted-U pattern: moderate gaps between top and lower executive pay tracked with more transformation, very large gaps with less.",
+      "why_it_matters": "Boards routinely debate cash versus equity and how wide internal pay gaps should be; this suggests the answer depends on the time horizon of the strategy being funded, and that tournament-style pay has a ceiling beyond which coordination suffers.",
+      "story_angle_primary": "For executives and compensation committees: audit whether your incentive mix matches the payoff horizon of your strategic bets — cash for near-term resource mobilization, equity for multi-year transformations — and treat internal pay spread as a dial with an optimum rather than a lever to maximize. Note this is correlational panel evidence from one market, so treat it as a hypothesis to test against your own firm's history.",
+      "story_angle_secondary": "The finding offers a window into why the gap between a CEO's pay and that of the executives below them is not just a fairness question: past a point, the spread appears to correspond with worse coordination on big company-wide projects, not better effort.",
+      "caveats": "Observational panel data — associations, not established causation, despite endogeneity checks; single country (China) and listed firms only; digital transformation measured indirectly through text analysis of annual reports, which may capture corporate rhetoric as much as real change; cash compensation result was sensitive to model specification.",
+      "score": 83,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": 37274,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Study facts (sample, design, findings) match the abstract closely. Two small framing issues: the headline uses causal \"boost\" for observational panel data, and the general-readers angle treats the unmeasured coordination mechanism as something the data observed.",
+      "tags": [
+        "compensation",
+        "diversity, equity & inclusion at work"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7222968425",
+      "journal": "Personnel Review",
+      "date": "2026-10-19",
+      "doi": "10.1108/pr-03-2026-0450"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- Both digests converge on the limits of executive incentive pay as a lever for long-horizon corporate goals. \"Tying CEO pay to climate goals was linked to more emissions, not fewer\" (W7215124307) found that bonusing executives on a strategic non-financial objective did not track with real progress; \"Pay gaps inside the executive suite boost digital transformation — until they don't\" (W7222968425) similarly finds that cash compensation has only a weak, specification-sensitive link to broad transformation, with a clearer link only to immediate technology spending. The shared implication: short-horizon pay instruments buy short-horizon activity.\n- Both digests treat pay level and pay structure — not job content — as the compensation variable that does the real work. \"Poverty-level pay pushes workers toward the exit\" (W7211910578) isolated pay-related underemployment, rather than field or hours mismatch, as what corrodes satisfaction and retention; the new study locates the action in equity exposure and internal pay dispersion rather than in total compensation.\n\n**Advances**\n- The new study moves the executive-pay question from \"does incentive pay work?\" to \"which instrument, on what time horizon?\" Where W7215124307 effectively delivered a null-to-negative verdict on incentive-linked pay, W7222968425 (Work ID W7222968425) disaggregates the package — equity versus cash versus internal spread — and finds equity associated with multi-year transformation. That is a genuine refinement of the previous digest's skepticism rather than a contradiction of it.\n\n**Counterpoints**\n- The two digests pull in opposite directions on internal pay inequality. The previous digest's framing treated pay shortfalls and pay-related grievance as straightforwardly corrosive (W7211910578); the new study finds that moderate pay dispersion inside the executive suite tracks with *more* digital transformation, with harm appearing only at the extremes (W7222968425). The reconciliation — dispersion as a dial with an optimum, not a monotonic good or evil — is itself the story.\n\n**New themes**\n- Tournament theory and internal pay spread enter this topic for the first time (W7222968425); the previous digest contained nothing on vertical pay gaps within management ranks.\n- Compensation as a funder of technology strategy, rather than as a motivation or fairness question, is new to the topic.",
+  "feature_pitch_raw": "_No cross-study feature angle identified in this batch._",
+  "pitch_ideas_raw": "- **Pay gaps inside the executive suite boost digital transformation — until they don't (Work ID W7222968425):** The inverted-U is the pitchable turn — a bigger gap between the CEO and the executives below is associated with more progress on company-wide technology projects only up to a point, after which coordination appears to suffer, which reframes internal pay spread as a dial with an optimum rather than a motivation lever to maximize; pair it with the cash-versus-equity horizon finding (cash buys this quarter's tech spend, equity tracks multi-year transformation) for a manager-audience column or a governance/compensation-committee explainer in the business press, with the correlational, China-listed-firms-only caveat stated early.",
+  "fact_check": {
+    "studies_reviewed": 1,
+    "verdicts_by_work": {
+      "W7222968425": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "2 (2 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Compensation — 2026-10-25\n**Checked:** 2026-10-25 | **Studies reviewed:** 1\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Pay gaps inside the executive suite boost digital transformation — until they don't\n**Work ID:** W7222968425 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Causal verb in headline** — Severity: Minor\n\n- **As written:** \"Pay gaps inside the executive suite boost digital transformation — until they don't\"\n- **Abstract says:** \"Equity-based incentive exposure and internal pay dispersion are positively associated with DT ... Internal pay dispersion exhibits an inverted U-shaped relationship with DT\"\n- **Problem:** \"Boost\" asserts causation, while the study reports associations from fixed-effects panel models; the body text and caveats correctly hedge, so the headline is out of step with the rest of the entry.\n- **Suggested fix:** \"Reword to something associational, e.g. \"Pay gaps inside the executive suite track with more digital transformation — until they don't\".\"\n\n**Issue B. Coordination mechanism treated as observed** — Severity: Minor\n\n- **As written:** \"past a point, the spread appears to correspond with worse coordination on big company-wide projects, not better effort\"\n- **Abstract says:** \"suggesting that moderate tournament incentives may mobilize managerial effort, while excessive dispersion may weaken coordination\"\n- **Problem:** The abstract offers weakened coordination as a tentative interpretation of the inverted-U shape; coordination itself was not measured. The digest presents it as something the data correspond with.\n- **Suggested fix:** \"Add hedging, e.g. \"the authors suggest the spread may start to undermine coordination, though coordination itself wasn't measured\".\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Pay gaps inside the executive suite boost digital transformation — until they don't | ⚠️ Minor issues | Study facts (sample, design, findings) match the abstract closely. Two small framing issues: the headline uses causal \"boost\" for observational panel data, and the general-readers angle treats the unmeasured coordination mechanism as something the data observed. |\n\n**Total issues:** 2 (2 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 1,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}

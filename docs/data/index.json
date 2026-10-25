@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 18,
+  "run_count": 19,
   "topics": [
     "ai & the future of work",
     "compensation",
@@ -17,6 +17,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-compensation-2026-10-25",
+      "title": "Career Psychology Digest — Compensation — 2026-10-25",
+      "topic": "compensation",
+      "run_date": "2026-10-25",
+      "study_count": 1,
+      "total_issues": "2 (2 Minor, 0 Moderate, 0 Major)",
+      "lead_count": 1,
+      "top_score": 83
+    },
     {
       "id": "career-psychology-digest-ai-the-future-of-work-2026-10-24",
       "title": "Career Psychology Digest — AI & the Future of Work — 2026-10-24",
