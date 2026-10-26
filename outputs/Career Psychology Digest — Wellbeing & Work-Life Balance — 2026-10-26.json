@@ -1,0 +1,289 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-26",
+  "days_back": 60,
+  "window_from": "2026-08-27",
+  "window_to": "2026-10-26",
+  "focus": "Wellbeing & Work-Life Balance",
+  "topic": "wellbeing & work-life balance",
+  "query": "(\"work-life balance\" OR \"work-family conflict\" OR \"work-life conflict\" OR \"work-life\" OR \"employee wellbeing\" OR \"employee well-being\" OR \"four-day week\" OR \"family-supportive\" OR \"boundary management\" OR \"always-on\" OR \"recovery from work\" OR \"occupational health\") ",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 24,
+    "not_research": 2,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 14,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 8
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7222931749",
+      "headline": "Autonomy, competence, belonging: not just nice to have, but preconditions for well-being at work",
+      "the_study": "Researchers tested a 30-year-old assumption in self-determination theory — that satisfying the needs for autonomy, competence and relatedness is *necessary* for well-being, not merely helpful on average. Across three employee samples they used necessary condition analysis (NCA), a method designed to identify ceilings rather than average effects, examining job satisfaction, work meaningfulness, positive affect and work engagement. All three needs emerged as necessary conditions for all four well-being outcomes: without a minimum level of each, high well-being simply did not occur. Power and status, by contrast, were not necessary.",
+      "why_it_matters": "It reframes need satisfaction from a desirable extra into a bottleneck: perks, pay or status cannot compensate for a job that strips people of control, mastery or connection.",
+      "story_angle_primary": "Managers often try to offset a badly designed role with recognition, promotions or compensation. This evidence suggests testing the opposite diagnostic logic — audit whether each role clears a minimum threshold on autonomy, competence and relatedness first, since the analysis implies those shortfalls cap well-being no matter what else is added.",
+      "story_angle_secondary": "For anyone weighing a job offer, it is a sharp filter: a role that offers status but no say over how you work, no sense of getting good at something, and no real colleagues is unlikely to feel good, however impressive it looks on paper.",
+      "caveats": "Necessary condition analysis identifies ceilings in cross-sectional data and cannot establish causation; the abstract does not report sample sizes, countries or occupations, and well-being and need satisfaction are both self-reported, raising common-method concerns.",
+      "journal": "Journal of Vocational Behavior",
+      "published": "2026-10-19",
+      "doi": "10.1016/j.jvb.2026.104308",
+      "paper_title": "Are the basic psychological needs of self-determination theory necessary for employee well-being?",
+      "source_id": "S25746158"
+    },
+    {
+      "work_id": "W7223126999",
+      "headline": "Workplace FOMO drives after-hours phone checking — and it costs you recovery",
+      "the_study": "A five-day diary study of 140 employees (583 daily observations) tracked \"workplace fear of missing out\" (wFoMO) — the daily worry about missing work information or developments — alongside leisure-time use of work-related ICTs. On days when employees felt more wFoMO, they used work technology more during leisure time. That use did bring perceived informational benefits, but it was also associated with poorer recovery from work.",
+      "why_it_matters": "It identifies a specific, measurable psychological driver of after-hours connectivity — anxiety about being out of the loop — rather than treating evening email as simply a workload or culture problem.",
+      "story_angle_primary": "If your team checks Slack at night, the fix may be informational rather than disciplinary: predictable summaries, clear decision logs and explicit \"nothing will be decided without you\" norms could reduce the fear that fuels the checking. Worth testing whether reducing information uncertainty cuts evening ICT use more effectively than a right-to-disconnect policy alone.",
+      "story_angle_secondary": "The evening scroll through work messages genuinely does keep you better informed — which is exactly why it is hard to stop. The trade-off is measurable: the same behavior that keeps you in the loop leaves you less recovered the next day.",
+      "caveats": "Self-report diary data from a single sample of 140 employees over only five days; within-person associations are correlational and the occupational and national composition of the sample is not specified in the abstract.",
+      "journal": "International Journal of Workplace Health Management",
+      "published": "2026-10-21",
+      "doi": "10.1108/ijwhm-09-2025-0248",
+      "paper_title": "Always on my mind-a within-person study on workplace fear of missing out and ICT use during leisure time on informational benefits and employee well-being",
+      "source_id": "S117038752"
+    },
+    {
+      "work_id": "W7222892783",
+      "headline": "A good job only nudges Korean women toward parenthood if their husband pulls his weight",
+      "the_study": "Using three-wave data from 300 married working women in South Korea, researchers examined how \"decent work\" (secure, fairly paid, safe employment) relates to fertility intentions via work–family conflict and work–family enrichment. Decent work was linked to stronger fertility intentions through work–family enrichment — but only when spousal support for work–family reconciliation was high. The pathway through reduced work–family conflict was not significant.",
+      "why_it_matters": "In a country with the world's lowest birth rate, it suggests that improving job quality alone will not move fertility intentions unless the domestic division of labor shifts too.",
+      "story_angle_primary": "For employers in low-birth-rate labor markets designing family-friendly packages, the finding implies that benefits aimed only at mothers may underperform; policies that enable partners' caregiving — paternity leave, flexible hours for fathers — may be what lets good jobs translate into family plans.",
+      "story_angle_secondary": "It puts numbers behind a familiar kitchen-table reality: a stable, decent job makes starting a family feel possible only if the person you live with is actually sharing the load.",
+      "caveats": "Three-wave survey of 300 married Korean working women — correlational, culturally specific, self-report throughout, and fertility intentions are not fertility behavior.",
+      "journal": "Journal of Career Development",
+      "published": "2026-10-18",
+      "doi": "10.1177/08948453261500157",
+      "paper_title": "Decent Work and Fertility Intentions Among Korean Working Women: The Moderating Role of Spousal Support",
+      "source_id": "S82530051"
+    },
+    {
+      "work_id": "W7221798128",
+      "headline": "Lenient bosses build psychological safety — until they are too lenient",
+      "the_study": "Using a time-lagged, multi-source field survey with multilevel path modeling, researchers tested how leaders' leniency toward wrongdoing relates to followers' psychological safety. The relationship was an inverted U: moderate leniency was associated with the highest psychological safety, which in turn was linked to better job performance, while excessive leniency eroded the benefit. The curve depended on how serious the misconduct was — leniency was straightforwardly positive for minor infractions but turned nonlinear when wrongdoing was severe.",
+      "why_it_matters": "It complicates the popular advice that leaders should be forgiving to make teams feel safe: forgiveness that ignores serious misconduct appears to undermine the very safety it is meant to create.",
+      "story_angle_primary": "Leaders trying to build a \"no-blame\" culture should consider calibrating leniency to severity — letting small mistakes go while responding clearly to serious wrongdoing. Teams appear to read unlimited forgiveness as unfairness rather than safety.",
+      "story_angle_secondary": "Most people have worked for a boss who never disciplines anyone. This research suggests why that feels unsettling rather than liberating: when nothing is ever sanctioned, the rules feel arbitrary.",
+      "caveats": "The abstract reports no sample size, country, industry or time lag; survey-based and correlational despite the time lag, and psychological safety and performance ratings come from a field setting whose generalizability cannot be assessed from the information given.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-10-14",
+      "doi": "10.1108/jmp-10-2025-1068",
+      "paper_title": "Is leniency always divine? Nonlinear consequences of leader leniency for follower psychological safety and job performance",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7223069476",
+      "headline": "When fathers in finance take long paternity leave, the effects ripple past their own households",
+      "the_study": "Researchers interviewed fathers in French finance organizations who took extended paternity leave, plus the people around them — colleagues, HR representatives, top managers and life partners. Participants described shifts in social relations, connectedness and concern for collective well-being following leave. The authors identify two pathways: a \"transformative cycle\" in which leave disrupts gender norms and these cohesion effects appear, and a \"maintenance cycle\" in which norms hold and they do not — with the difference hinging on policy design, top-management engagement, organizational climate and support from the immediate manager and peers.",
+      "why_it_matters": "It shows that offering paternity leave is not enough; whether it changes anything depends on whether senior leaders visibly back it and line managers make it safe to use.",
+      "story_angle_primary": "If your organization has paternity leave that few men take fully, the lever is probably not the policy but the signals around it: who at the top has taken it, how managers respond to requests, and whether coverage is planned rather than improvised. Watch which of the two cycles your workplace is in.",
+      "story_angle_secondary": "The fathers' accounts suggest extended leave changes more than diaper duty — it reshaped how they related to colleagues and partners, hinting that caregiving experience travels back into working life.",
+      "caveats": "Qualitative interview study in a single industry (finance) and country (France), interpretivist rather than causal; sample size is not reported, and participants were men who already chose to take extended leave, so their experiences may not generalize to reluctant leave-takers.",
+      "journal": "Human Resource Management",
+      "published": "2026-10-20",
+      "doi": "10.1002/hrm.70104",
+      "paper_title": "The Paternity Leave Ripple Effect in the Finance Industry: Shaping Norms and Social Cohesion",
+      "source_id": "S134094273"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7222931749",
+      "headline": "Autonomy, competence, belonging: not just nice to have, but preconditions for well-being at work",
+      "verdict": "minor",
+      "notes": "Core claims match the abstract, but the digest drops the abstract's \"nuanced variations\" qualifier and describes the three studies as three distinct employee samples, which the abstract does not state.",
+      "issues": [
+        {
+          "label": "Dropped qualifier on consistency of findings",
+          "severity": "Moderate",
+          "as_written": "All three needs emerged as necessary conditions for all four well-being outcomes: without a minimum level of each, high well-being simply did not occur.",
+          "abstract_says": "Across three studies, we found consistent support for the necessary role of psychological need satisfaction in all four well-being indicators, with nuanced variations in these necessity relationships.",
+          "problem": "The abstract explicitly flags \"nuanced variations\" in the necessity relationships; the digest presents a uniform, absolute result (\"simply did not occur\") that reads as stronger and cleaner than what is claimed.",
+          "suggested_fix": "Add the qualifier, e.g. \"All three needs emerged as necessary conditions across the four well-being outcomes, though the authors note nuanced variations in how strong each necessity relationship was.\""
+        },
+        {
+          "label": "Three studies described as three employee samples",
+          "severity": "Minor",
+          "as_written": "Across three employee samples they used necessary condition analysis (NCA)",
+          "abstract_says": "Across three studies, we found consistent support for the necessary role of psychological need satisfaction",
+          "problem": "The abstract says three studies; it does not specify that each was a separate employee sample or describe the samples at all.",
+          "suggested_fix": "Write \"Across three studies\" and note that the abstract gives no sample details."
+        },
+        {
+          "label": "Cross-sectional characterization not in abstract",
+          "severity": "Minor",
+          "as_written": "Necessary condition analysis identifies ceilings in cross-sectional data and cannot establish causation",
+          "abstract_says": "The abstract describes NCA and three studies but does not state the design as cross-sectional.",
+          "problem": "The design label is not verifiable from the abstract alone, although the caution itself is appropriately conservative.",
+          "suggested_fix": "Soften to \"the abstract does not report the study designs; NCA identifies ceilings rather than causal effects.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7223126999",
+      "headline": "Workplace FOMO drives after-hours phone checking — and it costs you recovery",
+      "verdict": "minor",
+      "notes": "Sample and findings reported accurately, but several phrasings convert within-person associations and perceived benefits into established causal facts.",
+      "issues": [
+        {
+          "label": "Causal language for within-person diary associations",
+          "severity": "Minor",
+          "as_written": "Workplace FOMO drives after-hours phone checking — and it costs you recovery",
+          "abstract_says": "On days when people experienced more wFoMO, they were more likely to use ICTs, which was positively associated with perceived informational benefits and negatively with employee recovery.",
+          "problem": "\"Drives\" and \"costs you\" assert causation from day-level associations in self-report diary data; the digest's own caveat acknowledges the findings are correlational, so the headline contradicts it.",
+          "suggested_fix": "Reword to \"Workplace FOMO goes with after-hours phone checking — and poorer recovery.\""
+        },
+        {
+          "label": "Perceived benefits stated as objective",
+          "severity": "Moderate",
+          "as_written": "The evening scroll through work messages genuinely does keep you better informed",
+          "abstract_says": "positively associated with perceived informational benefits",
+          "problem": "The outcome was self-reported perceived informational benefit, not verified information gain; \"genuinely does keep you better informed\" treats a perception as an objective fact.",
+          "suggested_fix": "Change to \"People felt better informed on days they used work technology in the evening — which is exactly why it is hard to stop.\""
+        },
+        {
+          "label": "Unsupported next-day timing",
+          "severity": "Minor",
+          "as_written": "leaves you less recovered the next day",
+          "abstract_says": "negatively with employee recovery",
+          "problem": "The abstract does not specify a next-day lag for the recovery association.",
+          "suggested_fix": "Drop \"the next day\" or say \"is linked to poorer recovery.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7222892783",
+      "headline": "A good job only nudges Korean women toward parenthood if their husband pulls his weight",
+      "verdict": "minor",
+      "notes": "Design, N, moderator and the non-significant WFC pathway all match the abstract; only the headline's causal verb overreaches.",
+      "issues": [
+        {
+          "label": "Causal verb in headline for correlational data",
+          "severity": "Minor",
+          "as_written": "A good job only nudges Korean women toward parenthood if their husband pulls his weight",
+          "abstract_says": "decent work was associated with fertility intentions through WFE only when spousal support was high",
+          "problem": "\"Nudges ... toward parenthood\" implies both causation and actual childbearing; the study measured associations with fertility intentions in a three-wave survey.",
+          "suggested_fix": "Reword to \"A good job is linked to stronger family plans for Korean women — but only when spousal support is high.\""
+        },
+        {
+          "label": "Spousal support narrowed to husband's domestic labor",
+          "severity": "Minor",
+          "as_written": "if their husband pulls his weight",
+          "abstract_says": "spousal support for work–family reconciliation",
+          "problem": "The construct is perceived spousal support for reconciling work and family, which is broader than an observed division of household labor.",
+          "suggested_fix": "Refer to \"perceived spousal support for balancing work and family\" at least once in the body text."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7221798128",
+      "headline": "Lenient bosses build psychological safety — until they are too lenient",
+      "verdict": "minor",
+      "notes": "Inverted-U pattern, severity moderator and the performance link are reported accurately; the headline and one story angle state mechanisms the abstract does not test.",
+      "issues": [
+        {
+          "label": "Causal headline for time-lagged survey",
+          "severity": "Minor",
+          "as_written": "Lenient bosses build psychological safety — until they are too lenient",
+          "abstract_says": "The results show an inverted U-shaped relationship between leader leniency and follower psychological safety",
+          "problem": "\"Build\" asserts a causal effect; the design is a time-lagged, multi-source survey tested with path modeling, which the digest's caveat correctly calls correlational.",
+          "suggested_fix": "Reword to \"Lenient bosses go with higher psychological safety — until they are too lenient.\""
+        },
+        {
+          "label": "Unverified mechanism presented as finding",
+          "severity": "Minor",
+          "as_written": "Teams appear to read unlimited forgiveness as unfairness rather than safety.",
+          "abstract_says": "Drawing on fairness theory and the “too-much-of-a-good-thing” perspective, this study examines the curvilinear relationship between leader leniency and follower psychological safety",
+          "problem": "Fairness theory is the framing lens, not a measured mediator; the abstract reports psychological safety as the mechanism, not perceived unfairness.",
+          "suggested_fix": "Attribute it to theory, e.g. \"The authors draw on fairness theory to explain why unlimited forgiveness may stop feeling safe.\""
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7223069476",
+      "headline": "When fathers in finance take long paternity leave, the effects ripple past their own households",
+      "verdict": "minor",
+      "notes": "Method, setting and the two-cycle framework are described faithfully; the \"Why it matters\" line is firmer than the abstract's explicitly theorized, conditional claims.",
+      "issues": [
+        {
+          "label": "Theorized pathways stated as demonstrated",
+          "severity": "Moderate",
+          "as_written": "It shows that offering paternity leave is not enough; whether it changes anything depends on whether senior leaders visibly back it and line managers make it safe to use.",
+          "abstract_says": "We theorize that, under certain conditions, these changes may coalesce into relational and collective experiences aligned with social cohesion beyond the workplace. We further theorize two pathways.",
+          "problem": "The abstract repeatedly uses \"we theorize\" and \"may\"; the digest converts an interpretivist theoretical account into a demonstrated dependency, which is stronger than the evidence claimed.",
+          "suggested_fix": "Reword to \"The authors theorize that offering paternity leave may not be enough — whether it shifts norms appears to depend on top-management engagement and manager and peer support.\""
+        },
+        {
+          "label": "Macro-context of male-dominated industry omitted",
+          "severity": "Minor",
+          "as_written": "Qualitative interview study in a single industry (finance) and country (France), interpretivist rather than causal",
+          "abstract_says": "within the macro‐context of a male‐dominated industry",
+          "problem": "The abstract treats the male-dominated setting as a defining boundary condition for the findings, not just an industry label; the digest's caveat does not mention it.",
+          "suggested_fix": "Add that the findings are framed within a male-dominated industry context and may not transfer to more gender-balanced workplaces."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 5,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7222931749": {
+        "query": "Autonomy competence belonging not just nice have but preconditions well",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7223126999": {
+        "query": "Workplace FOMO drives after hours phone checking costs recovery",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7222892783": {
+        "query": "good job only nudges Korean women toward parenthood their husband",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7221798128": {
+        "query": "Lenient bosses build psychological safety until they too lenient",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7223069476": {
+        "query": "fathers finance take long paternity leave ripple past their own",
+        "returned": 2,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "**Convergent findings**\n- After-hours connectivity keeps surfacing as a recovery problem with a rational payoff for the worker. The new workplace-FOMO diary study (W7223126999) and the previous digest's UK qualitative study of always-on professionals (W7211998375) both conclude that evening checking is not a willpower failure — the earlier one framed it as survival inside a high-responsiveness culture, the new one puts a measurable informational benefit on the other side of the ledger alongside a measurable recovery cost.\n- The household, not the HR policy, keeps deciding whether work benefits land. The Korean decent-work and fertility study (W7222892783) finds the effect only holds when spousal support is high; the previous digest's out-earning study (W7203464894) found women's work-family conflict rose most when partners were less supportive. Same moderator, different outcome.\n\n**Advances**\n- Direction of travel reverses. The last batch documented work costs being exported into the home (W7167993239, W7204489065, W7220972684). This batch runs the arrow the other way: home arrangements determine whether good work translates into life outcomes (W7222892783) and whether men's leave changes anything at all (W7223069476).\n- Method escalation against \"average effects.\" The previous digest used coincidence analysis to find substitutable pathways in workplace health programs (W7204244254); the new self-determination theory study (W7222931749) uses necessary condition analysis to argue for floors rather than averages. Both are configurational/threshold methods challenging standard regression orthodoxy in wellbeing research — a genuine methodological thread worth tracking.\n- Structural-signals argument deepened. The earlier tech-readiness study showed that competence only protects when top-team norms and process clarity exist (W7214892649); the French paternity-leave study (W7223069476) makes the same point about a benefit rather than a skill — policy plus senior modeling and line-manager backing, or nothing.\n\n**Counterpoints**\n- Leader behavior is not linear. The previous digest's perfectionistic-boss study (W7167993239) implied that harsher standard-setting damages employees; the new leniency study (W7221798128) shows the opposite extreme damages them too, with an inverted-U peak at moderate leniency. Together with the workaholic-leader identification buffer (W7204799973), the leadership evidence in this topic is moving away from \"more of trait X is worse/better.\"\n- Status versus substance. The new necessary-conditions study (W7222931749) finds power and status are *not* necessary for well-being, which cuts against the implicit logic of the earlier pay-progression study (W7203464894) that advancement itself is the wellbeing variable; both point instead to relational and household conditions.\n\n**New themes**\n- Family formation as a work outcome. Fertility intentions (W7222892783) and fathers' extended leave (W7223069476) are new to this topic stream; the previous digest touched gender and care only through earnings and working mothers' boundary management (W7203464894, W7213366869).\n- Wrongdoing, fairness and psychological safety (W7221798128) is a new entry point into the safety literature, which the previous digest covered only through inclusion (W7220972684).",
+    "feature_pitch": "**The pattern:** Two studies on different continents, using different methods, land on the same uncomfortable conclusion: employer family policy does almost nothing on its own, because its effect runs entirely through men. \"A good job only nudges Korean women toward parenthood if their husband pulls his weight\" (W7222892783) finds decent work raises fertility intentions only where spousal support for work-family reconciliation is high, and \"When fathers in finance take long paternity leave, the effects ripple past their own households\" (W7223069476) finds that leave produces organizational and relational change only in a \"transformative cycle\" where top managers and line managers visibly back it — otherwise norms simply hold. The adjacent evidence that need satisfaction, not status or pay, is the binding constraint on wellbeing (W7222931749) reinforces that the lever is conditions and norms rather than compensation.\n\n**Why pitch this now:** Governments from Seoul to Washington are debating pronatalist incentives and expanded parental leave while employers tout family-friendly benefits packages, and this evidence says the money and the entitlement are the easy part — uptake by men, and the manager-level climate that permits it, is where the effect actually lives.\n\n**Angle:** A feature on the paternity-leave uptake gap as the hidden variable in every family-friendly benefit, built around the question of what it takes for men to use leave fully and what changes in a workplace when they do — a business/management version for HR and executive readers, and a gender-and-care version for general-interest and women's outlets.\n\n**Potential headlines:**\n- The Benefit That Only Works If Men Take It\n- Cash and Childcare Won't Raise the Birth Rate. Fathers Might.\n- Your Company's Parental Leave Is Generous on Paper. Check Who Has Actually Used It.\n\n**Potential outlets:**\n- *Fortune* — writes for CHROs and executives on the benefits arms race and demographic labor pressure, which is exactly the audience whose family-friendly spending this evidence calls into question.\n- *MIT Sloan Management Review* — the policy-design-versus-implementation finding (top-management engagement, immediate manager support, the two \"cycles\") is its core evidence-to-practice format.\n- *The Cut* — the domestic division of labor as the gatekeeper on women's family decisions is the kind of research-backed gender-and-work piece it runs.\n- *Fatherly* — directly about men's leave-taking, peer reaction and what changes at work afterward, for a readership deciding whether to take the full entitlement.",
+    "pitch_ideas": "- **Autonomy, competence, belonging: not just nice to have, but preconditions for well-being at work (Work ID W7222931749):** Pay, perks and status cannot buy back a job with no control, no mastery and no colleagues — a threshold test readers can apply to a job offer or a role redesign, for a work-psychology explainer in a general-interest outlet, with a manager-facing version on auditing roles against a floor rather than an average.\n- **Workplace FOMO drives after-hours phone checking — and it costs you recovery (Work ID W7223126999):** The evening Slack check genuinely does keep you informed, which is why right-to-disconnect rules alone may not stop it — the fix is informational (decision logs, predictable summaries, \"nothing gets decided without you\" norms), for a manager-audience column or a workplace-tech news brief.\n- **A good job only nudges Korean women toward parenthood if their husband pulls his weight (Work ID W7222892783):** Decent work raises fertility intentions only through work-family *enrichment*, and only with a supportive spouse — a sharp item for a careers or money-and-relationships column in a women's/lifestyle outlet, or a global-business brief tied to Korea's birth rate.\n- **Lenient bosses build psychological safety — until they are too lenient (Work ID W7221798128):** The counterintuitive turn on \"no-blame culture\" — unlimited forgiveness of serious misconduct reads as unfairness, not safety, and the curve depends on severity, for a leadership or manager-audience column.\n- **When fathers in finance take long paternity leave, the effects ripple past their own households (Work ID W7223069476):** What separates the workplaces where men's leave changes norms from the ones where nothing moves — senior visibility, planned coverage, line-manager reaction — for an HR explainer or a parenting-and-work piece in a general-interest outlet, flagged as qualitative and France-specific."
+  }
+}
