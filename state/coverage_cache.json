@@ -1,11 +1,61 @@
 {
   "studies": {
+    "W4414713988": {
+      "checked_at": "2026-10-27T16:11:24.770626+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Leaders take risks pattern holds chimpanzees too",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7167868566": {
+      "checked_at": "2026-10-27T16:10:55.354492+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "boss talks about their own good deeds half team inspired",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "W7168435596": {
       "checked_at": "2026-10-24T14:10:20.646286+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "People accept subordinate but not boss sticking point morality not",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7169828568": {
+      "checked_at": "2026-10-27T16:10:53.817322+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "not which evening activity choose mix",
+        "returned": 6,
+        "state": "unreported"
+      }
+    },
+    "W7172567426": {
+      "checked_at": "2026-10-27T16:11:30.006746+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Companies craft purpose statements all wrong useful part discomfort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7202007719": {
+      "checked_at": "2026-10-27T16:11:40.765847+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "energy peaks noon before lunch decides hard crash",
         "returned": 0,
         "state": "unreported"
       }
@@ -30,12 +80,52 @@
         "state": "unreported"
       }
     },
+    "W7204500576": {
+      "checked_at": "2026-10-27T16:12:22.094428+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "proactive career playbook works but comes anxiety not",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "W7204647820": {
       "checked_at": "2026-10-24T14:10:02.076161+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Gig workers extra mile algorithm seems fair but privacy monitoring",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204791763": {
+      "checked_at": "2026-10-27T16:11:48.405900+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Parents teachers build career confidence friends spark career curiosity",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204791998": {
+      "checked_at": "2026-10-27T16:11:42.350462+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Career stress doesn push students plan pushes them avoid",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7204821646": {
+      "checked_at": "2026-10-27T16:11:52.712377+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Stuck same grade years where quiet quitting starts",
         "returned": 0,
         "state": "unreported"
       }
@@ -50,6 +140,16 @@
         "state": "unreported"
       }
     },
+    "W7204869548": {
+      "checked_at": "2026-10-27T16:11:03.638493+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Mindfulness training work teaching people build resources not just protect",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7206184378": {
       "checked_at": "2026-10-13T17:50:32.481429+00:00",
       "result": {
@@ -57,6 +157,66 @@
         "outlets": [],
         "query": "Overworked staff coping alone want structural fixes not wellness perks",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7207539887": {
+      "checked_at": "2026-10-27T16:11:54.306795+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Don start day replaying yesterday mistakes",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7208741244": {
+      "checked_at": "2026-10-27T16:11:58.444243+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "leadership program measurably raised women ambition run office",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7208750164": {
+      "checked_at": "2026-10-27T16:11:12.934321+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "causes CEOs shout about loudest ones their firms least likely",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7210270541": {
+      "checked_at": "2026-10-27T16:11:14.007509+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "best connected person room hardest trust",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "W7211937530": {
+      "checked_at": "2026-10-27T16:12:04.637121+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "partner child job hunting own work suffers",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7212149146": {
+      "checked_at": "2026-10-27T16:12:06.476640+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Matching coach person beats matching method goal",
+        "returned": 6,
         "state": "unreported"
       }
     },
@@ -70,12 +230,52 @@
         "state": "unreported"
       }
     },
+    "W7212253583": {
+      "checked_at": "2026-10-27T16:12:20.982570+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Years out workforce raising children built skills employers overlook",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7212391861": {
+      "checked_at": "2026-10-27T16:12:09.944836+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "getting promised backfires repatriate paradox",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7212753349": {
       "checked_at": "2026-10-13T17:50:08.741717+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Leadership isn personality string small wins engineer them",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7212844454": {
+      "checked_at": "2026-10-27T16:12:14.829851+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Followers rated female leader vision competent than same vision man",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7213226017": {
+      "checked_at": "2026-10-27T16:11:38.534852+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Happiness hero chief storyteller weird job titles actually cost",
         "returned": 0,
         "state": "unreported"
       }
@@ -106,6 +306,16 @@
         "articles": [],
         "outlets": [],
         "query": "stressed teachers sleep pathway linking workload depression anxiety",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214180006": {
+      "checked_at": "2026-10-27T16:11:33.508974+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "family firms younger sibling joins first leaves soonest",
         "returned": 0,
         "state": "unreported"
       }

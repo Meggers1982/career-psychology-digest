@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 20,
+  "run_count": 21,
   "topics": [
     "ai & the future of work",
     "compensation",
@@ -17,6 +17,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-broad-all-career-and-work-psychology-topics-2026-10-27",
+      "title": "Career Psychology Digest — Broad (all career and work psychology topics) — 2026-10-27",
+      "topic": "",
+      "run_date": "2026-10-27",
+      "study_count": 21,
+      "total_issues": "31 (27 Minor, 4 Moderate, 0 Major)",
+      "lead_count": 8,
+      "top_score": 90
+    },
     {
       "id": "career-psychology-digest-wellbeing-work-life-balance-2026-10-26",
       "title": "Career Psychology Digest — Wellbeing & Work-Life Balance — 2026-10-26",

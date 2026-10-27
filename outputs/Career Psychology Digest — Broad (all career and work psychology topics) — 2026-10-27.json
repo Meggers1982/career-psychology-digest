@@ -1,0 +1,916 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-27",
+  "days_back": 60,
+  "window_from": "2026-08-28",
+  "window_to": "2026-10-27",
+  "focus": "Broad (all career and work psychology topics)",
+  "topic": "",
+  "query": "",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 200,
+    "not_research": 24,
+    "no_abstract": 19,
+    "off_topic": 8,
+    "already_covered": 55,
+    "over_journal_cap": 14,
+    "over_cap": 40,
+    "sent": 40
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7169828568",
+      "headline": "It's not which evening activity you choose — it's the mix",
+      "the_study": "Researchers took a person-centered approach to after-work recovery, using daily diary data (the replication sample comprised 321 employees providing 1,780 daily observations) to see whether evening activities cluster into recognizable patterns rather than acting one at a time. Distinct profiles of evening activity combinations emerged and largely replicated across two independent samples. Those profiles were linked to different recovery experiences (such as detachment and relaxation), well-being, and next-day work outcomes, and were predicted by what had happened at work that day.",
+      "why_it_matters": "Advice to 'exercise' or 'socialize' after work treats activities in isolation; this evidence suggests the shape of a whole evening — the combination of activities — is what predicts how recovered and effective you are the next morning.",
+      "story_angle_primary": "Managers who push single wellness levers (a gym benefit, a no-email-after-6 rule) may be missing the point: ask whether workloads leave employees able to assemble a whole restorative evening, and watch how demanding days push people into less restorative evening patterns.",
+      "story_angle_secondary": "For readers, a useful reframe of the nightly wind-down: the question is less 'is screen time bad?' and more 'what does my typical evening add up to, and do I wake up feeling restored?'",
+      "caveats": "Diary self-reports of activities, recovery and outcomes come from the same person (common-method concerns); profiles are descriptive clusters, not experimentally manipulated, so causal claims about next-day outcomes are limited; the published abstract is truncated and does not fully describe the first sample or the occupations involved.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-28",
+      "doi": "10.1037/apl0001424",
+      "paper_title": "The shape of recovery activities: A person-centered study of evening recovery activity profiles, their work antecedents, and outcomes.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7167868566",
+      "headline": "When the boss talks about their own good deeds, half the team is inspired and half is repelled",
+      "the_study": "Across a field study of 254 supervisor–employee dyads and an experiment with 233 employees, researchers examined what happens when supervisors publicly share their own involvement in morally positive events — volunteering, helping, doing the right thing. Self-focused moral talk raised employees' feelings of moral elevation and, through that, their citizenship behavior. But for supervisors who rarely highlighted other people's good deeds, the same self-focused talk instead produced employee disgust and less citizenship behavior.",
+      "why_it_matters": "Leaders are routinely coached to 'model values' out loud, but this evidence shows the same message reads as inspiring or as holier-than-thou virtue signaling depending on whether the leader also credits others.",
+      "story_angle_primary": "A practical test for leaders: audit your ratio of 'what I did' to 'what my people did' when describing the team's good works — the study suggests sharing the spotlight is what keeps moral storytelling from curdling into self-promotion.",
+      "story_angle_secondary": "It names a familiar workplace irritation — the colleague or boss whose good deeds always come with an announcement — and explains why the reaction is visceral disgust rather than mild annoyance.",
+      "caveats": "The field portion is cross-sectional dyadic survey data, so causality is inferred rather than established; the supporting experiment is relatively small (N=233 across conditions) and uses a controlled scenario; employee emotions and citizenship ratings rely partly on self-report.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-03",
+      "doi": "10.1037/apl0001416",
+      "paper_title": "Uplifting or off-putting? The effects of supervisors capitalizing on their involvement in positive moral events on employee outcomes.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7204869548",
+      "headline": "Mindfulness training may work by teaching people to build resources, not just protect them",
+      "the_study": "Using longitudinal qualitative data from 98 nonprofit employees going through mindfulness training, researchers built a theory of 'mindful resourcing': rather than mindfulness being a limited inner reserve that gets depleted, they describe it as a practice people use to create and enact new resources at work. They document 'resourcing spirals' in which employees string together small resource-creating moves and, with practice, extend them into longer and more consequential sequences.",
+      "why_it_matters": "It challenges the dominant 'resources are scarce, so conserve them' logic behind much burnout advice, suggesting training can expand what employees have to work with rather than only slowing the drain.",
+      "story_angle_primary": "For managers evaluating mindfulness or resilience programs: the payoff this research points to is skill in generating support, time and attention — so measure whether participants actually mobilize new resources, not just whether they feel calmer.",
+      "story_angle_secondary": "A different way to think about feeling stretched thin: some of what feels like a fixed shortage of time and energy may be a skill gap in assembling help, rather than a hard limit.",
+      "caveats": "Qualitative theory-building in a single training context with nonprofit employees; no control group, no quantitative outcomes, and no test of whether resourcing spirals improve performance or reduce burnout; funded by a California State University, Northridge RSCA Award.",
+      "journal": "Organization Science",
+      "published": "2026-09-01",
+      "doi": "10.1287/orsc.2022.17009",
+      "paper_title": "From Scarce Resources to Resourcing Spirals: A Theory of Mindful Resourcing",
+      "source_id": "S206124708"
+    },
+    {
+      "work_id": "W7208750164",
+      "headline": "The causes CEOs shout about loudest are the ones their firms are least likely to act on",
+      "the_study": "This three-essay Organization Science paper examines why CEOs take public stances on sociopolitical issues, whether those stances are followed by real firm initiatives, and how they ripple outward. Alongside political ideology, it introduces CEO narcissism as a driver of attention-seeking public activism. The central pattern across the essays: the issues most likely to draw attention to a CEO are the least likely to be matched by firm follow-through — though they still shift public and political debate.",
+      "why_it_matters": "It gives employees, investors and boards a sharper way to read executive statements on social issues: attention-grabbing stances and substantive corporate commitments appear to be partly decoupled.",
+      "story_angle_primary": "For leaders and comms teams: before putting out a public stance, ask whether the issue is one the firm can actually resource — the research suggests the most visible topics are the hardest to back with action, which is exactly where credibility is lost.",
+      "story_angle_secondary": "For anyone who has watched a CEO's social-issue statement land in their inbox: the findings suggest the personality of the person at the top, not just company values, shapes what gets said — and that saying it may still move public debate even when nothing changes internally.",
+      "caveats": "The published abstract is a dissertation summary and does not specify samples, data sources or analytic methods for the three essays, so the strength of evidence cannot be judged from it; CEO narcissism is typically measured indirectly through archival proxies; funded by the French National Research Agency (ANR-18-EURE-0005 / EUR DATA EFM).",
+      "journal": "Organization Science",
+      "published": "2026-09-04",
+      "doi": "10.1287/orsc.2026.23114",
+      "paper_title": "What Drives Chief Executive Officer Activism and What Chief Executive Officer Activism Drives: Why Chief Executive Officers Speak Out, When Firms Translate Activist Stances into Action, and How Chief Executive Officer Activism Builds Social Momentum",
+      "source_id": "S206124708"
+    },
+    {
+      "work_id": "W7210270541",
+      "headline": "Why the best-connected person in the room is the hardest to trust",
+      "the_study": "Researchers studied referral brokerage — people who connect two otherwise unconnected parties — using one field study plus two experiments. They found a paradox: networks rich in \"structural holes\" put brokers in the best position to spot valuable matches, but leave recipients with fewer shared contacts to vouch for the broker, eroding the trust needed to accept the referral. Brokers who engaged in \"network self-promotion\" — explicitly signaling the quality of their network and their matchmaking skill — closed the gap, but asymmetrically: self-promotion substituted for missing reputational cues about ability, amplified integrity-based trust when shared ties already existed, and did nothing for benevolence-based trust.",
+      "why_it_matters": "Referrals and introductions are how a huge share of jobs, clients and deals get made, and this shows the people best positioned to make them often face the steepest credibility barrier.",
+      "story_angle_primary": "If you broker introductions — recruiters, business developers, senior managers connecting teams — the research suggests being explicit about why you are well placed to make the match, especially when you and the recipient share no mutual contacts. Worth testing in your own outreach rather than assuming a bare introduction carries weight.",
+      "story_angle_secondary": "For anyone receiving an unsolicited introduction, the findings explain the instinctive hesitation: without mutual contacts, you are being asked to trust a stranger's judgment about another stranger. Knowing which part of trust is missing — competence versus good intentions — helps you ask the right follow-up questions.",
+      "caveats": "Two of the three studies are experiments, likely with online participants, and the paper does not describe the field study sample size or setting in the abstract; referral acceptance in experiments may not match real stakes.",
+      "journal": "Organizational Behavior and Human Decision Processes",
+      "published": "2026-09-06",
+      "doi": "10.1016/j.obhdp.2026.104523",
+      "paper_title": "A paradox of brokerage: alter distrust, network self-promotion, and the willingness to accept referrals from brokers",
+      "source_id": "S64744539"
+    },
+    {
+      "work_id": "W4414713988",
+      "headline": "Leaders take more risks — and the pattern holds in chimpanzees too",
+      "the_study": "Researchers combined data from the German Socio-Economic Panel (SOEP), a large nationally representative household survey, with observer reports of chimpanzees at two African sanctuaries. In both species, higher risk preference was associated with leadership status (humans) and hierarchical rank (chimpanzees). The association was considerably stronger in chimpanzees than in humans; risk preference also tracked higher average income among humans and was higher in males in both species.",
+      "why_it_matters": "It suggests the link between appetite for risk and rising to the top is not purely a modern corporate artifact, while also showing that human organizations weaken the link — presumably through formal selection, training and culture.",
+      "story_angle_primary": "If risk appetite quietly predicts who gets promoted, promotion systems may be selecting on a trait that is useful in some roles and dangerous in others. Managers could ask whether their own leadership pipeline rewards boldness independently of judgment and results.",
+      "story_angle_secondary": "For readers wondering why cautious, competent colleagues get passed over, this offers an uncomfortable partial explanation — and a reminder that the gender gap in measured risk appetite feeds directly into who ends up in charge.",
+      "caveats": "Cross-sectional and correlational — risk preference may follow from holding power rather than cause it. Human data from a single country (Germany); chimpanzee data rely on observer ratings at two sanctuaries. The cross-species comparison is suggestive, not evidence of a shared mechanism.",
+      "journal": "The Leadership Quarterly",
+      "published": "2026-09-07",
+      "doi": "10.1016/j.leaqua.2026.101992",
+      "paper_title": "Human and chimpanzee leaders are more risk-loving",
+      "source_id": "S152304618"
+    },
+    {
+      "work_id": "W7172567426",
+      "headline": "Companies craft 'purpose' statements all wrong — the useful part is the discomfort",
+      "the_study": "An ethnographic study followed facilitated purpose-creation processes inside top management teams at companies across several industries, analyzing both successful and failed attempts. The researchers found that emotional dynamics — particularly negative emotions, and the coexistence of conflicting positive and negative emotions — drove whether executives genuinely committed to the purpose they wrote. Processes that deliberately maintained discomfort and prevented premature closure, and that managed timing, spacing and physical materials, produced stronger commitment.",
+      "why_it_matters": "Most purpose and values exercises are designed to feel good and reach consensus fast, which this research suggests is exactly why they produce statements nobody believes.",
+      "story_angle_primary": "If you run strategy offsites or values workshops, the finding argues for resisting the urge to resolve tension on day one: sitting with unresolved conflict appears to be what converts a slogan into commitment. A testable change to how your next leadership retreat is structured.",
+      "story_angle_secondary": "Explains the familiar experience of a corporate mission statement that nobody can recall — the discomfort was engineered out of the process that created it.",
+      "caveats": "Qualitative ethnography across a small set of companies; no quantitative test, no measure of whether employees downstream ever bought in, and findings depend on the researchers' interpretation of facilitated sessions.",
+      "journal": "Academy of Management Journal",
+      "published": "2026-09-08",
+      "doi": "10.5465/amj.2024.0294",
+      "paper_title": "The Role of Emotions in Engendering Commitment to an Organizational Purpose",
+      "source_id": "S117778295"
+    },
+    {
+      "work_id": "W7214180006",
+      "headline": "In family firms, the younger sibling joins first — and leaves soonest",
+      "the_study": "Using Swedish registry-type data and family-stratified hazard models, researchers tracked next-generation career choices in family businesses: joining, holding a managerial post, and leaving. Later-born children were more likely than their older siblings to join the family firm as their first career move. But once inside, later-borns were less likely to reach managerial positions and more likely to exit altogether.",
+      "why_it_matters": "Succession planning in family businesses often assumes willingness to join signals commitment, when this suggests the early joiners may be the ones least likely to end up running the place.",
+      "story_angle_primary": "Family firm owners and advisors should separate who shows up first from who should lead: this evidence indicates birth order shapes entry and exit patterns in ways that can quietly misallocate the next generation. Worth examining whether managerial roles are being reserved for elder siblings regardless of fit.",
+      "story_angle_secondary": "A window into how family dynamics most of us recognize — the eldest expected to prove themselves outside, the youngest drawn back home — translate into real career trajectories and real money.",
+      "caveats": "Single country (Sweden), where family, inheritance and labor market norms may be distinctive; observational data, so birth order effects are associational and mechanism tests are indirect; culture-specific primogeniture norms may not generalize.",
+      "journal": "Entrepreneurship Theory and Practice",
+      "published": "2026-09-23",
+      "doi": "10.1177/10422587261485870",
+      "paper_title": "First In, First Out? Birth Order and Next-Generation Engagement in Family Firms",
+      "source_id": "S187626162"
+    },
+    {
+      "work_id": "W7213226017",
+      "headline": "'Happiness hero' and 'chief storyteller': what weird job titles actually cost you",
+      "the_study": "This is a theory paper taking a strategic HR perspective on the rise of unconventional job titles. It argues organizations use such titles to signal two things — that new tasks have been bundled into a genuinely novel role, and that a conventional role has been rebranded to convey the company's symbolic identity — and sorts titles into four types: conventional, elastic, semantic and transfigured. It then specifies two costs: \"legibility costs\" when attracting candidates who cannot tell what the job is, and \"verification costs\" at selection when neither side can benchmark the role.",
+      "why_it_matters": "Quirky titles are treated as free branding, but this frames them as a signal with real downstream costs in applicant pools and in employees' ability to prove their experience later.",
+      "story_angle_primary": "Before signing off on a 'vibe manager' req, managers can ask which of the two signals the title is actually sending, and whether the recruiting pipeline can absorb the loss of searchability and comparability.",
+      "story_angle_secondary": "For job seekers: an unconventional title can make your next move harder, because recruiters outside the company cannot decode what you did — a practical reason to negotiate for a legible title or a legible internal equivalent.",
+      "caveats": "Purely conceptual — no new data, no empirical test of whether unconventional titles actually reduce applicant quality or hurt later careers. Included for the framework rather than for evidence.",
+      "journal": "Academy of Management Review",
+      "published": "2026-09-15",
+      "doi": "10.5465/amr.2024.0311",
+      "paper_title": "Vibe Managers, Gurus, and Rockstars: Decoding the Strategic Use of Unconventional Job Titles in Organizations",
+      "source_id": "S46763546"
+    },
+    {
+      "work_id": "W7202007719",
+      "headline": "Your energy peaks at noon — and what you do before lunch decides how hard you crash",
+      "the_study": "Researchers used experience sampling with 106 employees who reported four times a day across 10 workdays (2,552 observations), then modeled daily energy as a piecewise growth curve. Energy followed an inverted-U, rising to a midday peak and declining afterward. Good sleep raised the starting level of energy but flattened the morning climb; high effort at noon predicted a steeper afternoon drop, and high afternoon effort predicted a steeper evening decline. Absorption in work mattered mainly when effort was low — deeply absorbed, low-effort work was followed by gentler evening declines.",
+      "why_it_matters": "It reframes daily energy as a managed resource with distinct phases rather than a fixed trait, suggesting that when demanding work is scheduled matters as much as how much of it there is.",
+      "story_angle_primary": "Managers could test scheduling cognitively heavy tasks around the natural midday peak and protecting the late afternoon, and treat chronic steep evening crashes in a team as a scheduling and workload signal rather than a motivation problem. This is one modest sample over two weeks, so treat it as a hypothesis to try with your own team's rhythms.",
+      "story_angle_secondary": "It gives a concrete explanation for why some evenings feel wrecked and others don't: sleep sets your starting tank, but heavy effort in the second half of the day is what makes the drop steep — and losing yourself in work isn't automatically restorative once effort is high.",
+      "caveats": "Self-reported energy, effort and sleep from the same people (common-method concerns); 106 employees over 10 workdays is a short horizon; associations are within-person correlations, not experimental manipulations of effort or sleep.",
+      "journal": "Journal of Business and Psychology",
+      "published": "2026-08-28",
+      "doi": "10.1007/s10869-026-10144-w",
+      "paper_title": "From peaks to plummets—linking sleep, effort, and absorption to trajectories of energetic activation during the day",
+      "source_id": "S61413993"
+    },
+    {
+      "work_id": "W7204791998",
+      "headline": "Career stress doesn't push students to plan — it pushes them to avoid",
+      "the_study": "Two multi-wave studies of master's students (N=126 and N=176) tracked career decision-making stress alongside two kinds of self-regulatory behavior: approach-oriented steps (researching options, making progress) and avoidance-oriented steps (distracting oneself, putting the decision off). In both studies, decisional stress predicted more avoidance but was unrelated to approach behavior. Core self-evaluation and peer career support did not buffer the stress–avoidance link, but each had direct effects: higher core self-evaluation meant less avoidance, and peer support meant more approach behavior. Approach behavior led to choice progress, which in turn reduced later stress.",
+      "why_it_matters": "It suggests that pressure alone does not motivate career decisions — it mostly fuels procrastination — while concrete progress is what actually dissolves the stress.",
+      "story_angle_primary": "For managers and mentors advising people on career moves, and for early-career professionals themselves: piling on urgency is unlikely to produce action, whereas structured peer conversations and small completed steps appear to break the loop. Findings come from master's students, so the mechanism is suggestive for working adults rather than demonstrated.",
+      "story_angle_secondary": "Anyone who has doom-scrolled instead of updating a résumé will recognize the pattern: career anxiety and career action are not the same engine, and the only reliable exit found here was visible progress, which then lowered the stress.",
+      "caveats": "Student samples (master's students) rather than working adults; self-report measures throughout; modest sample sizes; multi-wave but correlational, so causal direction is inferred rather than tested.",
+      "journal": "Journal of Career Development",
+      "published": "2026-08-30",
+      "doi": "10.1177/08948453261477660",
+      "paper_title": "Students’ Career Decision-Making Stress and Self-Regulatory Career Behaviors: Putting Off or Moving Forward?",
+      "source_id": "S82530051"
+    },
+    {
+      "work_id": "W7204791763",
+      "headline": "Parents and teachers build career confidence; friends spark career curiosity",
+      "the_study": "Researchers followed 1,952 Chinese adolescents (average age 15.5) across three annual waves of senior high school and used network analysis to map how the dimensions of career adaptability connect to each other and to perceived career-efficacy contributions from parents, teachers and peers. Curiosity and confidence were consistently the most central nodes in the network over time. Support from parents and teachers was most strongly tied to career confidence, while peer support was most closely tied to career curiosity.",
+      "why_it_matters": "It indicates that different people in a young person's life feed different parts of career readiness, so generic 'support' advice misses which lever each source actually pulls.",
+      "story_angle_primary": "For managers running internships, apprenticeships or early-career programs, the finding hints that authority figures and peers are not interchangeable mentors: supervisors may be better placed to build confidence, while peer cohorts drive exploration and curiosity. Test whether your program design uses both.",
+      "story_angle_secondary": "For parents and teachers wondering how to help a teenager figure out a career: the evidence suggests your role is less about supplying options than about building belief they can handle a choice — friends do more of the exploring.",
+      "caveats": "Single country (China) and a single school-age cohort; all measures self-reported by adolescents; network associations are correlational even across three waves; findings may not transfer to adult workplaces.",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-08-31",
+      "doi": "10.1177/10690727261485959",
+      "paper_title": "Adolescents’ Career Adaptability and Their Perceived Collective Contributions to Career Efficacy Over Time: A Network Analysis",
+      "source_id": "S68758695"
+    },
+    {
+      "work_id": "W7204821646",
+      "headline": "Stuck at the same grade for years? That's where quiet quitting starts",
+      "the_study": "A time-lagged survey of faculty members at public and private higher-education institutions, sampled through multistage clustering, tested whether a hierarchical career plateau — feeling permanently stuck in one's current position — predicts quiet quitting. Using PLS-SEM, the researchers found a positive link, mediated in parallel by a drop in felt obligation toward the employer and a loss of meaningfulness in the work.",
+      "why_it_matters": "It locates quiet quitting in a structural cause employers control — blocked promotion ladders — rather than in generational attitude, and points to two specific psychological casualties: reciprocity and meaning.",
+      "story_angle_primary": "If disengagement is spreading in a flat or slow-promoting organization, the practical test is whether plateaued staff still feel the work means something and still feel they owe the employer effort; lateral moves, scope expansion and visible recognition may matter more than another engagement survey.",
+      "story_angle_secondary": "For readers plateaued in their own jobs, the study names what happens next: quiet withdrawal usually begins when the sense of mutual obligation and meaning erodes, not when the job gets harder.",
+      "caveats": "Single occupation (academic faculty) in one country context; self-report survey with predictor and outcomes from the same source; time-lagged rather than experimental, so causation is inferred; mediation modeling of this type is correlational evidence.",
+      "journal": "Career Development International",
+      "published": "2026-08-31",
+      "doi": "10.1108/cdi-11-2025-0690",
+      "paper_title": "Behind the promotion ceiling: a parallel mediation model linking career plateau and quiet quitting",
+      "source_id": "S182336501"
+    },
+    {
+      "work_id": "W7207539887",
+      "headline": "Don't start your day replaying yesterday's mistakes",
+      "the_study": "Researchers ran a 10-day randomized experience-sampling field experiment with 102 full-time employees. Each morning, workers were randomly assigned to reflect on the previous day's successes, their errors, or neutral work events, and then reported their behavior through the day. Reflecting on successes raised exploration behavior (trying new approaches, seeking new information) by increasing attentiveness, while reflecting on errors reduced exploration via lower attentiveness and higher shame — an effect that was worse for employees driven to prove their competence to others.",
+      "why_it_matters": "The popular advice to \"learn from your mistakes\" through daily reflection may backfire: error-focused reflection appears to shut down the very experimentation that learning depends on.",
+      "story_angle_primary": "Managers running daily stand-ups, after-action reviews or reflective journaling should test whether a success-first framing produces more experimentation than an error-first one, and be aware that competitive, status-conscious employees may react worst to being asked to dwell on errors.",
+      "story_angle_secondary": "For anyone who ends or starts the day mentally reviewing what went wrong: this randomized experiment suggests that habit can produce shame and narrowed attention rather than insight, and that deliberately recalling what went right may leave you more curious the next day.",
+      "caveats": "Single study with 102 employees over 10 workdays; outcomes are self-reported daily behavior; short time horizon means long-term learning effects are unknown; sample and national context not fully specified in the abstract.",
+      "journal": "Applied Psychology",
+      "published": "2026-09-02",
+      "doi": "10.1111/apps.70137",
+      "paper_title": "How daily work reflection influences exploration behaviour: A randomised field experiment",
+      "source_id": "S47864991"
+    },
+    {
+      "work_id": "W7208741244",
+      "headline": "A leadership program measurably raised women's ambition to run for office",
+      "the_study": "Researchers evaluated a women-only political leadership development program — covering the political process, access to serving politicians and officials, and leadership skill-building — using matched pre- and post-intervention data from 73 participants. Participation increased women's political ambition, strengthened political self-efficacy and lowered perceived gender-, experience- and guidance-related barriers. Only increased political self-efficacy and reduced perceptions of gender barriers actually explained the rise in ambition, and the program broke down gender barriers most for women with nontraditional gender role attitudes.",
+      "why_it_matters": "It offers a tested template for pipeline programs in any male-dominated field: confidence in one's own capability and the belief that gender barriers are surmountable are the levers that move ambition, not information or networking alone.",
+      "story_angle_primary": "If your organization runs a women's leadership or sponsorship program, audit whether it actually builds domain-specific self-efficacy and directly addresses gender barriers, rather than simply offering generic skills training and networking — those were the two mechanisms that mattered here.",
+      "story_angle_secondary": "Ambition isn't a fixed trait. This study suggests that what keeps capable women out of male-dominated careers is partly a believable sense that the path is navigable — and a few months of structured exposure can shift it.",
+      "caveats": "Small sample (n=73 matched pre/post) and no control group, so change can't be cleanly attributed to the program; self-reported ambition rather than actual candidacy; self-selected participants who already aspired to office; single program in one country.",
+      "journal": "Journal of Vocational Behavior",
+      "published": "2026-09-04",
+      "doi": "10.1016/j.jvb.2026.104283",
+      "paper_title": "Enhancing political ambition in women: A field intervention targeting political self-efficacy and perceived barriers",
+      "source_id": "S25746158"
+    },
+    {
+      "work_id": "W7211937530",
+      "headline": "When your partner or child is job hunting, your own work suffers",
+      "the_study": "Two studies examined the overlooked spillover from a family member's job search onto the non-searcher. Study 1 was a two-wave dyadic field study of 178 undergraduate job seekers paired with their employed parents; Study 2 was a scenario-based experiment with 483 participants imagining a job-seeking spouse. Active job search by a family member was linked to greater family-to-work conflict for the non-searcher, with the pattern depending on how interdependent the search was and differing between child and spouse searchers; the effect appeared mainly among non-searchers with strong work identity.",
+      "why_it_matters": "Job searching is usually treated as an individual project, but it draws down a household's shared time and emotional resources — and the person not searching can end up distracted or depleted at their own job.",
+      "story_angle_primary": "Managers seeing unexplained dips in focus should consider household disruption, including a partner's or adult child's job hunt, as a legitimate (and temporary) source of work-family conflict, and employees supporting a searcher should set boundaries on how much of the search they absorb.",
+      "story_angle_secondary": "For families: helping a graduating child or unemployed spouse find work is real labor. Explicitly dividing up who does what — rather than drifting into shared ownership of someone else's search — may protect the helper's own job.",
+      "caveats": "Study 1's job seekers were undergraduates and their parents, limiting generalizability; Study 2 used hypothetical scenarios rather than real job searches; several hypotheses received only partial support and the three-way interaction was not supported, with the key finding emerging from exploratory follow-up analyses; self-report measures.",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-09-08",
+      "doi": "10.1002/job.70128",
+      "paper_title": "The Family Job Hunt: The Influence of Family Member Active Job Search Behavior on Family–Work Conflict",
+      "source_id": "S160573970"
+    },
+    {
+      "work_id": "W7212149146",
+      "headline": "Matching a coach to the person beats matching the method to the goal",
+      "the_study": "Two experimental vignette studies tested how coaching approach should be chosen: Study 1 asked 198 professional coaches to rate the fit between solution-focused coaching (SFC) and cognitive-behavioral coaching (CBC) and different goals; Study 2 asked 142 potential coachees. Coaches believed SFC fit task-level goals better, but for coachees the type of goal barely mattered — what predicted preference was cognitive style: action-oriented people favored solution-focused coaching, while reflective, evaluative people favored cognitive-behavioral coaching. Expected effectiveness of the two approaches was comparable overall.",
+      "why_it_matters": "Organizations buying coaching often specify a methodology for a goal; this suggests the coachee's thinking style is the more consistent basis for a good match, and that coaches' own assumptions about goal-method fit may not reflect what clients want.",
+      "story_angle_primary": "HR and L&D buyers should question vendor claims that a particular coaching method suits a particular type of development goal, and instead consider screening employees on cognitive style — or hiring coaches who can flex between approaches.",
+      "story_angle_secondary": "If you've had coaching that didn't land, the method may simply have mismatched how you think: doers tend to want forward-looking, solution-first sessions; reflectors tend to want to unpack the thinking behind the behavior.",
+      "caveats": "Hypothetical vignettes rating anticipated attractiveness and effectiveness, not actual coaching outcomes; modest samples (N=198 and N=142); no measurement of whether preferred approaches actually work better.",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-09-01",
+      "doi": "10.1111/joop.70155",
+      "paper_title": "Aligned coaching approaches: Uncovering the roles of goal level and coachees' cognitive needs and preferences",
+      "source_id": "S87328381"
+    },
+    {
+      "work_id": "W7212391861",
+      "headline": "When getting what you were promised backfires: the repatriate paradox",
+      "the_study": "Researchers surveyed 117 German employees on international assignments and again one year after their return home, measuring the gap between what they expected post-return and what they actually got. Fulfilled expectations about career advancement raised satisfaction with repatriation and indirectly lowered turnover intentions, especially for non-managers. But fulfilled expectations about transferring the knowledge they had gained abroad were linked to *lower* satisfaction and *higher* intention to quit, at every hierarchical level.",
+      "why_it_matters": "Companies spend heavily on international assignments and then lose returnees; this suggests the loss is not simply about broken promises, but about asking repatriates to hand over hard-won expertise without recognition or reward.",
+      "story_angle_primary": "If you manage returning expatriates, audit what you are actually asking them to do post-return: being used as a knowledge conduit may feel like an unpaid extraction rather than a career step. Pair any knowledge-transfer role with visible promotion, pay or status, and treat career-advancement promises to non-managerial returnees as the highest-risk ones to break.",
+      "story_angle_secondary": "For anyone taking an overseas posting: the finding hints that the valuable thing you bring home can quietly become a burden, and that negotiating what happens after you return matters as much as negotiating the assignment itself.",
+      "caveats": "Small sample (N=117) from a single country and nationality group; self-report on both expectations and outcomes; met expectations measured as difference scores, which are statistically noisy; turnover intention, not actual turnover; correlational despite the time lag.",
+      "journal": "Career Development International",
+      "published": "2026-09-12",
+      "doi": "10.1108/cdi-08-2025-0451",
+      "paper_title": "Not all fulfilled expectations are good: the role of career and knowledge transfer in repatriate outcomes",
+      "source_id": "S182336501"
+    },
+    {
+      "work_id": "W7212844454",
+      "headline": "Followers rated a female leader's vision as more competent than the same vision from a man",
+      "the_study": "Combining an experimental vignette study with a three-wave leader-follower field study, researchers tested whether visionary leadership — an assertive, agentic behavior — plays differently depending on leader and follower gender. Women who led with vision were perceived as more competent than men doing the same, consistent with expectancy violation rather than backlash; those competence perceptions predicted follower identification with the leader and, in turn, support for organizational change. The pattern was strongest among male followers.",
+      "why_it_matters": "It challenges the common assumption that women pay a penalty for assertive leadership, and points to vision-setting as one agentic behavior where female leaders may get an advantage rather than a backlash.",
+      "story_angle_primary": "Managers rolling out change should look at who is delivering the vision: this suggests female leaders articulating a compelling future may win more buy-in, particularly from skeptical male staff. Worth testing locally before treating it as a rule — the effect depends on the behavior being a clear, role-appropriate vision rather than directive or dominant assertiveness.",
+      "story_angle_secondary": "The study is a window into how stereotypes bend rather than only punish: when someone exceeds the low expectations people hold for their group, the reaction can be unusually positive — a dynamic familiar to anyone who has been underestimated at work.",
+      "caveats": "The vignette portion uses hypothetical leaders rather than real work decisions; abstract does not report sample sizes or the field study's country and occupation; competence and identification measures are follower self-report; mechanism inferred rather than directly manipulated in the field.",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-09-14",
+      "doi": "10.1002/job.70129",
+      "paper_title": "Her Vision Guiding Him Toward Change: The Interactive Effects of Visionary Leadership, Leader Gender, and Follower Gender",
+      "source_id": "S160573970"
+    },
+    {
+      "work_id": "W7212253583",
+      "headline": "Years out of the workforce raising children built skills employers overlook",
+      "the_study": "Researchers conducted in-depth interviews with nine South Korean women who returned to paid employment after extended periods in which childcare and household management were their main work. Open coding surfaced seven skill categories the women said they developed: communication, perspective-taking, emotion regulation, relational care, flexibility and adaptability, task planning and coordination, and reflective and contextual awareness.",
+      "why_it_matters": "Career gaps for caregiving are routinely read as skill decay; this gives returners and the counselors who advise them a concrete vocabulary for what was actually learned during the gap.",
+      "story_angle_primary": "Hiring managers screening out résumé gaps may be discarding candidates with well-developed coordination and emotion-regulation skills; recruiters could test structured interview questions that probe caregiving-period competencies rather than treating the gap as missing data.",
+      "story_angle_secondary": "For anyone preparing to re-enter the workforce after time at home, the research offers language for the interview question nobody can answer well: what did you do during those years?",
+      "caveats": "Very small qualitative sample (N=9), single country with distinctive gender and labor-market norms; skills are self-perceived, with no independent assessment or link to actual job performance; not generalizable in a statistical sense.",
+      "journal": "Journal of Career Development",
+      "published": "2026-09-11",
+      "doi": "10.1177/08948453261486762",
+      "paper_title": "Skill Development During Unpaid Work: A Qualitative Study of Re-Employed Women in South Korea",
+      "source_id": "S82530051"
+    },
+    {
+      "work_id": "W7204500576",
+      "headline": "The proactive career playbook works — but it comes with more anxiety, not less",
+      "the_study": "An online survey of 1,634 students aged 17–29 in emerging adulthood (66% women) tested a chain running from proactive personality and protean career orientation through career adaptability to proactive career behaviors and then to education satisfaction, well-being and perceived employability. The expected serial links held, but the well-being results split: effects on comfort and depression were non-significant, while associations appeared with both enthusiasm and anxiety.",
+      "why_it_matters": "The dominant career advice — be adaptable, manage your own career, act proactively — is associated with feeling more employable and more enthusiastic, but not with feeling calmer, which complicates the idea that career self-management is simply good for you.",
+      "story_angle_primary": "Managers running early-career development programs should not assume that pushing proactive career behavior improves well-being across the board; it may raise engagement and activation while leaving anxiety untouched or elevated, which is worth measuring separately in program evaluations.",
+      "story_angle_secondary": "For young people told to take charge of their careers: the data suggest the hustle genuinely helps you feel more employable, but it is not a cure for career anxiety — and that is a normal, documented pattern rather than personal failure.",
+      "caveats": "Cross-sectional, single-wave, self-report survey of students, not workers, so causal direction cannot be established and common-method bias is likely; outcomes are education-related rather than job-market outcomes; largely a structural-model paper, with the well-being split as the main novel point.",
+      "journal": "Journal of Career Development",
+      "published": "2026-09-10",
+      "doi": "10.1177/08948453261486054",
+      "paper_title": "Youth Sustainable Career: Integrating the Career Construction Model of Adaptation and the Sustainable Career Framework",
+      "source_id": "S82530051"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7169828568",
+      "headline": "It's not which evening activity you choose — it's the mix",
+      "verdict": "minor",
+      "notes": "Sample figures and the profile-replication finding match the (truncated) abstract; the claim that profiles were predicted by same-day work events is part of the stated design rather than a reported result, and the named recovery experiences are not in the abstract.",
+      "issues": [
+        {
+          "label": "Antecedent finding stated as result",
+          "severity": "Minor",
+          "as_written": "and were predicted by what had happened at work that day",
+          "abstract_says": "we assessed to what extent these profiles replicated in an independent sample and extended the investigation by including work-related antecedents and next-day work outcomes. Results indicated that daily recovery activities cluster together into identifiable profiles that largely replicated across samples. The identified profiles exhibited unique relationships with recovery experiences, well-being, and work outcomes.",
+          "problem": "The abstract lists work-related antecedents as part of the design but reports results only for recovery experiences, well-being and work outcomes. Presenting the antecedent link as an established finding goes slightly beyond what the (truncated) abstract states.",
+          "suggested_fix": "Soften to 'the study also examined whether what happened at work that day predicted which profile employees fell into' or note that the abstract does not report that result."
+        },
+        {
+          "label": "Specific recovery experiences unverifiable",
+          "severity": "Minor",
+          "as_written": "linked to different recovery experiences (such as detachment and relaxation)",
+          "abstract_says": "The identified profiles exhibited unique relationships with recovery experiences, well-being, and work outcomes.",
+          "problem": "Detachment and relaxation are plausible standard measures but are not named in the abstract. Unverifiable from abstract only.",
+          "suggested_fix": "Drop the parenthetical examples or mark them as typical recovery-experience dimensions rather than ones the abstract names."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7167868566",
+      "headline": "When the boss talks about their own good deeds, half the team is inspired and half is repelled",
+      "verdict": "minor",
+      "notes": "Samples (254 dyads; experiment N=233), the elevation→citizenship path and the other-focused moderator are all reported accurately; the headline's 'half/half' split is a rhetorical flourish the abstract does not support.",
+      "issues": [
+        {
+          "label": "Headline implies a 50/50 split",
+          "severity": "Minor",
+          "as_written": "half the team is inspired and half is repelled",
+          "abstract_says": "supervisor self-focused moral capitalization was positively related to employee moral elevation and, in turn, increased citizenship. However, for supervisors who engaged in less other-focused moral capitalization, supervisor self-focused moral capitalization instead triggered employee disgust and decreased citizenship behavior.",
+          "problem": "The abstract reports no proportions, and the split is not between employees within a team but conditional on whether the supervisor also credits others. The headline suggests half of any given team reacts badly.",
+          "suggested_fix": "Reframe to the actual boundary condition, e.g. 'inspiring — unless the boss never credits anyone else'."
+        },
+        {
+          "label": "Experiment design detail unverifiable",
+          "severity": "Minor",
+          "as_written": "the supporting experiment is relatively small (N=233 across conditions) and uses a controlled scenario",
+          "abstract_says": "an experiment involving 233 employees",
+          "problem": "The abstract does not say the experiment used a scenario/vignette design. Unverifiable from abstract only.",
+          "suggested_fix": "Say 'an experiment with 233 employees' without specifying the manipulation format, or verify from the full text."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7204869548",
+      "headline": "Mindfulness training may work by teaching people to build resources, not just protect them",
+      "verdict": "accurate",
+      "notes": "Sample (98 nonprofit employees, longitudinal qualitative), the mindful-resourcing argument, resourcing spirals and the funding acknowledgement all match the abstract; caveats correctly note the absence of a control group or quantitative outcomes.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "work_id": "W7208750164",
+      "headline": "The causes CEOs shout about loudest are the ones their firms are least likely to act on",
+      "verdict": "minor",
+      "notes": "Correctly identifies the three-essay dissertation, the narcissism contribution and the funder; the digest states the central pattern more flatly than the abstract's hedged 'may be'.",
+      "issues": [
+        {
+          "label": "Hedge dropped from headline claim",
+          "severity": "Minor",
+          "as_written": "the issues most likely to draw attention to a CEO are the least likely to be matched by firm follow-through",
+          "abstract_says": "the essays show that issues most likely to draw attention to CEOs may be least likely to generate firm follow-through yet still matter for public and political debate",
+          "problem": "The abstract hedges with 'may be'; the digest (and headline) assert the pattern as established.",
+          "suggested_fix": "Add the hedge: 'the issues most likely to draw attention may be the least likely to be matched by follow-through'."
+        },
+        {
+          "label": "'Driver' vs 'complementary explanation'",
+          "severity": "Minor",
+          "as_written": "it introduces CEO narcissism as a driver of attention-seeking public activism",
+          "abstract_says": "it introduces CEO narcissism as a complementary explanation given its prevalence among CEOs, link to attention seeking, and relevance to a visible act like CEO activism",
+          "problem": "The abstract positions narcissism as a complementary theoretical explanation, not an established causal driver.",
+          "suggested_fix": "Write 'proposes CEO narcissism as a complementary explanation alongside political ideology'."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7210270541",
+      "headline": "Why the best-connected person in the room is the hardest to trust",
+      "verdict": "minor",
+      "notes": "Design (field study plus two experiments) and the asymmetric effects of network self-promotion are reported closely; the benevolence result is slightly misphrased and 'closed the gap' is stronger than 'mitigate'.",
+      "issues": [
+        {
+          "label": "Benevolence-trust result restated",
+          "severity": "Minor",
+          "as_written": "and did nothing for benevolence-based trust",
+          "abstract_says": "does not condition the role of benevolence-based trust",
+          "problem": "The abstract says self-promotion does not moderate the role benevolence-based trust plays, which is not quite the same as self-promotion having no effect on it.",
+          "suggested_fix": "Write 'but did not change the role played by benevolence-based trust'."
+        },
+        {
+          "label": "'Closed the gap' overstates",
+          "severity": "Minor",
+          "as_written": "Brokers who engaged in \"network self-promotion\" … closed the gap",
+          "abstract_says": "how brokers use network self-promotion, strategically highlighting their network quality and matchmaking competence, to mitigate trust deficits",
+          "problem": "The abstract says self-promotion mitigates trust deficits; 'closed the gap' implies full compensation.",
+          "suggested_fix": "Use 'narrowed' or 'partly offset the trust deficit'."
+        },
+        {
+          "label": "Experiment participants assumed",
+          "severity": "Minor",
+          "as_written": "Two of the three studies are experiments, likely with online participants",
+          "abstract_says": "Across a field study and two experiments",
+          "problem": "The abstract gives no sample details for any of the studies. Unverifiable from abstract only.",
+          "suggested_fix": "State simply that the abstract reports no sample details for the field study or the experiments."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "work_id": "W4414713988",
+      "headline": "Leaders take more risks — and the pattern holds in chimpanzees too",
+      "verdict": "minor",
+      "notes": "Data sources and the four reported associations match the abstract; two framing lines turn correlational and explicitly speculative material into asserted causal mechanisms.",
+      "issues": [
+        {
+          "label": "Causal chain asserted for gender gap",
+          "severity": "Moderate",
+          "as_written": "a reminder that the gender gap in measured risk appetite feeds directly into who ends up in charge",
+          "abstract_says": "Risk preference also correlated positively with average income in humans and was generally higher in males than females in both species.",
+          "problem": "The abstract reports two separate correlations (risk preference with leadership; sex differences in risk preference). It does not test or claim that the sex difference in risk preference causes or mediates who attains leadership.",
+          "suggested_fix": "Rephrase as 'men scored higher on risk preference on average, and risk preference was associated with leadership — though the study does not test whether one explains the other'."
+        },
+        {
+          "label": "Speculation presented as a finding",
+          "severity": "Minor",
+          "as_written": "while also showing that human organizations weaken the link — presumably through formal selection, training and culture",
+          "abstract_says": "A stronger connection between leadership and risk-taking in chimpanzees may be attributable to cultural mechanisms for the transmission of leadership in human societies.",
+          "problem": "The abstract offers this as a possible interpretation ('may be attributable'); the digest presents it as something the study showed.",
+          "suggested_fix": "Write 'the authors suggest the weaker human link may reflect cultural mechanisms for transmitting leadership'."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "work_id": "W7172567426",
+      "headline": "Companies craft 'purpose' statements all wrong — the useful part is the discomfort",
+      "verdict": "minor",
+      "notes": "Ethnographic design, the role of negative and coexisting emotions, and the discomfort/premature-closure finding all track the abstract; the caveat's characterization of the number of companies is not verifiable.",
+      "issues": [
+        {
+          "label": "Number of companies unverifiable",
+          "severity": "Minor",
+          "as_written": "Qualitative ethnography across a small set of companies",
+          "abstract_says": "Through analysis of both successful and failed instances of facilitated purpose creation in companies across various industries",
+          "problem": "The abstract does not state how many companies were studied, so 'a small set' cannot be confirmed. Unverifiable from abstract only.",
+          "suggested_fix": "Say 'across an unspecified number of companies in various industries'."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "work_id": "W7214180006",
+      "headline": "In family firms, the younger sibling joins first — and leaves soonest",
+      "verdict": "minor",
+      "notes": "The three career-choice findings and the family-stratified hazard modelling match the abstract exactly; only the description of the data source goes beyond it.",
+      "issues": [
+        {
+          "label": "Data source described beyond abstract",
+          "severity": "Minor",
+          "as_written": "Using Swedish registry-type data and family-stratified hazard models",
+          "abstract_says": "Using a sample from Sweden, we employ family-stratified hazard models",
+          "problem": "The abstract says only that the sample is from Sweden; it does not identify registry data. Unverifiable from abstract only.",
+          "suggested_fix": "Write 'Using a Swedish sample and family-stratified hazard models'."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "work_id": "W7213226017",
+      "headline": "'Happiness hero' and 'chief storyteller': what weird job titles actually cost you",
+      "verdict": "minor",
+      "notes": "The theory, the two signals, four title types and two cost mechanisms are reported faithfully; the digest extends organization-level hiring costs into claims about individual employees' later careers that the abstract does not make.",
+      "issues": [
+        {
+          "label": "Costs shifted from organizations to employees",
+          "severity": "Minor",
+          "as_written": "this frames them as a signal with real downstream costs in applicant pools and in employees' ability to prove their experience later",
+          "abstract_says": "I identify two downstream signal cost mechanisms—(1) legibility costs at attraction and (2) verification costs at selection—that reveal the costs organizations bear when they deploy signals outside established institutional infrastructure.",
+          "problem": "The abstract frames both cost mechanisms as costs borne by the organization in its own hiring process, not as costs to the title-holder's future career mobility.",
+          "suggested_fix": "Note that the theorized costs fall on the hiring organization, and mark the job-seeker implication as an extrapolation."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "work_id": "W7202007719",
+      "headline": "Your energy peaks at noon — and what you do before lunch decides how hard you crash",
+      "verdict": "significant",
+      "notes": "Sample and the inverted-U trajectory are accurate, but the digest drops the abstract's key qualifier that the afternoon-effort effect vanished once absorption was included, and adds a direction to the absorption×effort interaction the abstract does not specify.",
+      "issues": [
+        {
+          "label": "Dropped qualifier on afternoon effort",
+          "severity": "Moderate",
+          "as_written": "high afternoon effort predicted a steeper evening decline",
+          "abstract_says": "During the resource retraction phase, afternoon effort predicted a steeper evening decline, although this association did not persist once absorption was included.",
+          "problem": "The abstract explicitly reports that this association did not hold once absorption was in the model. Omitting that makes a non-robust result look solid, and the 'Why it matters' and manager angle build on it.",
+          "suggested_fix": "Add the qualifier: 'high afternoon effort predicted a steeper evening decline, though this association disappeared once absorption was accounted for'."
+        },
+        {
+          "label": "Direction added to the absorption interaction",
+          "severity": "Minor",
+          "as_written": "deeply absorbed, low-effort work was followed by gentler evening declines",
+          "abstract_says": "absorption differentiated evening declines primarily when effort was low, whereas differences were smaller under high effort",
+          "problem": "The abstract says absorption differentiated evening trajectories under low effort but does not state the direction (gentler vs steeper).",
+          "suggested_fix": "Write 'absorption made the biggest difference to evening declines when effort was low' without specifying the direction, or verify from the full text."
+        },
+        {
+          "label": "Causal language in headline",
+          "severity": "Minor",
+          "as_written": "what you do before lunch decides how hard you crash",
+          "abstract_says": "Using experience sampling data from 106 employees over 10 workdays … we applied piecewise growth curve modeling to analyze within-person variations in energy trajectories.",
+          "problem": "These are within-person associations from observational experience sampling with self-reported effort, sleep and energy; 'decides' asserts causation. The digest's caveats note this, but the headline and 'Why it matters' still read causally.",
+          "suggested_fix": "Use 'is associated with how hard you crash' or 'tracks how hard you crash'."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "work_id": "W7204791998",
+      "headline": "Career stress doesn't push students to plan — it pushes them to avoid",
+      "verdict": "minor",
+      "notes": "Sample sizes, design and the pattern of results match the abstract; some causal verbs applied to multi-wave correlational data, and the moderator tests belong to Study 2 only.",
+      "issues": [
+        {
+          "label": "Causal language for correlational chain",
+          "severity": "Minor",
+          "as_written": "Approach behavior led to choice progress, which in turn reduced later stress.",
+          "abstract_says": "Avoidance- and approach-oriented career behaviors related negatively and positively to choice progress, respectively, which in turn was negatively related to subsequent decisional stress.",
+          "problem": "The abstract reports associations across waves, not causal effects; \"led to\" and \"reduced\" imply demonstrated causation.",
+          "suggested_fix": "Rewrite as \"Approach behavior was associated with choice progress, which in turn was linked to lower later stress.\""
+        },
+        {
+          "label": "Moderator tests attributed to both studies",
+          "severity": "Minor",
+          "as_written": "Core self-evaluation and peer career support did not buffer the stress–avoidance link",
+          "abstract_says": "Study 2 ( N = 176) replicated these findings. Furthermore, we explored the moderating role of core self-evaluation (CSE) and peer career support.",
+          "problem": "The moderation analyses were conducted only in Study 2, but the digest reads as if they span both studies.",
+          "suggested_fix": "Add \"In Study 2…\" before the moderator sentence."
+        },
+        {
+          "label": "\"Dissolves the stress\" overstates",
+          "severity": "Minor",
+          "as_written": "while concrete progress is what actually dissolves the stress",
+          "abstract_says": "choice progress, which in turn was negatively related to subsequent decisional stress",
+          "problem": "A negative association is presented as a demonstrated remedy.",
+          "suggested_fix": "Soften to \"progress is what tracks with lower stress later on.\""
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "work_id": "W7204791763",
+      "headline": "Parents and teachers build career confidence; friends spark career curiosity",
+      "verdict": "minor",
+      "notes": "Sample, waves, method and central nodes match; the source-to-dimension comparison is slightly recast, and headline verbs imply causation from correlational network data.",
+      "issues": [
+        {
+          "label": "Comparison recast",
+          "severity": "Minor",
+          "as_written": "Support from parents and teachers was most strongly tied to career confidence, while peer support was most closely tied to career curiosity.",
+          "abstract_says": "CCCE from parents and teachers exhibited stronger connections with career confidence than CCCE from peers, while peers' CCCE was closely related to career curiosity.",
+          "problem": "The abstract compares sources on confidence (parents/teachers vs. peers), not whether confidence is the strongest tie for parents and teachers across all adaptability dimensions.",
+          "suggested_fix": "Write \"Parents' and teachers' support was more strongly connected to career confidence than peers' support was, while peer support was closely tied to curiosity.\""
+        },
+        {
+          "label": "Causal verbs in headline",
+          "severity": "Minor",
+          "as_written": "Parents and teachers build career confidence; friends spark career curiosity",
+          "abstract_says": "network analysis … Results indicated that curiosity and confidence consistently served core functions … CCCE from parents and teachers exhibited stronger connections with career confidence",
+          "problem": "\"Build\" and \"spark\" imply causal influence from a correlational network study, even across three waves.",
+          "suggested_fix": "Reframe as \"Parents and teachers track with career confidence; friends with career curiosity.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "work_id": "W7204821646",
+      "headline": "Stuck at the same grade for years? That's where quiet quitting starts",
+      "verdict": "minor",
+      "notes": "Design, analysis and mediation structure match the abstract; the digest adds directional detail about the mediators and a country claim the abstract does not state.",
+      "issues": [
+        {
+          "label": "Mediator direction added",
+          "severity": "Minor",
+          "as_written": "mediated in parallel by a drop in felt obligation toward the employer and a loss of meaningfulness in the work",
+          "abstract_says": "it was found that felt obligation and meaningfulness acted as parallel mediators",
+          "problem": "The abstract names the mediators but does not specify that the mediating paths run through reduced felt obligation and reduced meaningfulness; the direction is plausible but not stated.",
+          "suggested_fix": "Say \"mediated in parallel by felt obligation and meaningfulness\" and note the implied direction as an inference."
+        },
+        {
+          "label": "Country context not in abstract",
+          "severity": "Minor",
+          "as_written": "Single occupation (academic faculty) in one country context",
+          "abstract_says": "data were collected from a sample of faculty members in public and private sector higher educational institutions through multistage cluster sampling",
+          "problem": "The abstract does not identify a country, so the single-country framing is unverifiable from the abstract alone.",
+          "suggested_fix": "Note that the abstract does not state the country or sample size."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "work_id": "W7207539887",
+      "headline": "Don't start your day replaying yesterday's mistakes",
+      "verdict": "minor",
+      "notes": "Design (randomized 10-day ESM field experiment, N=102), conditions and mechanisms all match; only the moderator's precise path is slightly blurred.",
+      "issues": [
+        {
+          "label": "Moderated path imprecise",
+          "severity": "Minor",
+          "as_written": "reflecting on errors reduced exploration via lower attentiveness and higher shame — an effect that was worse for employees driven to prove their competence to others",
+          "abstract_says": "performance‐prove goal orientation (PPGO) had a cross‐level moderating effect on the relationship between error experience reflection and attentiveness",
+          "problem": "The moderation was tested on the error-reflection-to-attentiveness link specifically, not on the overall effect on exploration behaviour.",
+          "suggested_fix": "Specify that performance-prove goal orientation strengthened the drop in attentiveness after error reflection."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "work_id": "W7208741244",
+      "headline": "A leadership program measurably raised women's ambition to run for office",
+      "verdict": "minor",
+      "notes": "Sample (n=73 matched pre/post), program content, mediators and the gender-role-attitude moderator are all reported accurately; the headline's \"measurably raised\" sits awkwardly against the digest's own no-control-group caveat.",
+      "issues": [
+        {
+          "label": "Headline firmer than design allows",
+          "severity": "Minor",
+          "as_written": "A leadership program measurably raised women's ambition to run for office",
+          "abstract_says": "The results of our multilevel analyses ( n = 73 of matched pre- and post-intervention data) revealed that participation in this program increased women's political ambition.",
+          "problem": "The abstract describes a pre/post intervention study with no comparison group; the digest's own caveat says change \"can't be cleanly attributed to the program,\" which the headline's \"measurably raised\" partly contradicts.",
+          "suggested_fix": "Use \"Women's ambition to run for office rose after a leadership program (no control group).\""
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "work_id": "W7211937530",
+      "headline": "When your partner or child is job hunting, your own work suffers",
+      "verdict": "minor",
+      "notes": "Both study designs and sample sizes are correct and the caveats properly disclose partial support and the failed three-way interaction; the headline and the opening finding sentence read as a general main effect the abstract does not claim.",
+      "issues": [
+        {
+          "label": "Headline states an unconditional effect",
+          "severity": "Minor",
+          "as_written": "When your partner or child is job hunting, your own work suffers",
+          "abstract_says": "Findings from both studies provide partial support for the moderation of job search interdependence in our model, as the pattern of findings shows an asymmetry by the type of job‐seeking family member (i.e., child versus spouse). In Study 2, the hypothesized three‐way interaction with work identity was not supported.",
+          "problem": "The abstract reports only partial, conditional support (depending on interdependence, family member type and — in exploratory analysis — work identity); the headline presents a universal spillover effect.",
+          "suggested_fix": "Hedge the headline, e.g., \"A family member's job hunt can spill into your own work — for some helpers.\""
+        },
+        {
+          "label": "Main-effect link asserted",
+          "severity": "Minor",
+          "as_written": "Active job search by a family member was linked to greater family-to-work conflict for the non-searcher",
+          "abstract_says": "we hypothesize that job search interdependence moderates the relationship between family member active job search behavior and non‐job‐seeker family–work conflict",
+          "problem": "The abstract frames this as a hypothesized, moderated relationship with only partial support, not an established overall association.",
+          "suggested_fix": "Lead with the conditional framing: \"Whether a family member's job search raised family–work conflict depended on how interdependent the search was.\""
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "work_id": "W7212149146",
+      "headline": "Matching a coach to the person beats matching the method to the goal",
+      "verdict": "accurate",
+      "notes": "Designs, sample sizes, the coach/coachee contrast, the cognitive-style pattern (locomotion vs. self-reflection/assessment) and the comparable expected effectiveness all match the abstract, and the caveats correctly note these are vignette preferences, not outcomes.",
+      "issues": []
+    },
+    {
+      "number": 18,
+      "work_id": "W7212391861",
+      "headline": "When getting what you were promised backfires: the repatriate paradox",
+      "verdict": "accurate",
+      "notes": "Sample (117 German repatriates), two-wave timing, the career-advancement and knowledge-transfer contrast, and the hierarchical-level boundary condition are all reported correctly, and the caveats cover the difference-score and correlational limitations.",
+      "issues": []
+    },
+    {
+      "number": 19,
+      "work_id": "W7212844454",
+      "headline": "Followers rated a female leader's vision as more competent than the same vision from a man",
+      "verdict": "significant",
+      "notes": "The published abstract states hypotheses and methods but does not report results; the digest presents every hypothesized path — including the male-follower moderation — as a confirmed finding.",
+      "issues": [
+        {
+          "label": "Hypotheses reported as findings",
+          "severity": "Moderate",
+          "as_written": "Women who led with vision were perceived as more competent than men doing the same, consistent with expectancy violation rather than backlash; those competence perceptions predicted follower identification with the leader and, in turn, support for organizational change. The pattern was strongest among male followers.",
+          "abstract_says": "we argue that … the effect of visionary leadership on perceptions of competence is more strongly positive than when male leaders do so. We argue that these competence perceptions are then positively related to follower identification … we propose that these effects are particularly pronounced among male followers. We test our hypotheses using an experimental vignette study and a three‐wave leader‐follower field study.",
+          "problem": "The abstract only states what the authors argue and propose, and that hypotheses were tested; it never reports whether they were supported. The digest converts the theoretical model into confirmed results.",
+          "suggested_fix": "State that the paper predicts these effects and tests them in two studies, and note that the abstract does not report the results — label the specifics \"unverifiable from abstract only.\""
+        },
+        {
+          "label": "Headline asserts an unreported result",
+          "severity": "Moderate",
+          "as_written": "Followers rated a female leader's vision as more competent than the same vision from a man",
+          "abstract_says": "Our findings advance understanding of how gender shapes the effects of visionary leadership on follower support for change.",
+          "problem": "The headline presents a specific effect size/direction that the abstract does not report.",
+          "suggested_fix": "Reframe the headline around the competing predictions tested (backlash vs. expectancy violation) pending the full text."
+        },
+        {
+          "label": "Caveats omit the results gap",
+          "severity": "Minor",
+          "as_written": "abstract does not report sample sizes or the field study's country and occupation",
+          "abstract_says": "We test our hypotheses using an experimental vignette study and a three‐wave leader‐follower field study.",
+          "problem": "The caveat flags missing sample details but not the more important fact that the abstract reports no findings at all.",
+          "suggested_fix": "Add that the abstract does not report results, so all reported effects are unverifiable from the abstract."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "work_id": "W7212253583",
+      "headline": "Years out of the workforce raising children built skills employers overlook",
+      "verdict": "accurate",
+      "notes": "Sample (nine re-employed South Korean women), interview method, open coding and all seven skill categories match the abstract, and the caveats correctly flag the self-perceived nature of the skills and the tiny sample.",
+      "issues": []
+    },
+    {
+      "number": 21,
+      "work_id": "W7204500576",
+      "headline": "The proactive career playbook works — but it comes with more anxiety, not less",
+      "verdict": "accurate",
+      "notes": "Sample, design and the well-being split are reported faithfully; framing is appropriately correlational and flags the student sample and cross-sectional limits.",
+      "issues": []
+    }
+  ],
+  "coverage": {
+    "checked": 21,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7169828568": {
+        "query": "not which evening activity choose mix",
+        "returned": 6,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7167868566": {
+        "query": "boss talks about their own good deeds half team inspired",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204869548": {
+        "query": "Mindfulness training work teaching people build resources not just protect",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7208750164": {
+        "query": "causes CEOs shout about loudest ones their firms least likely",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7210270541": {
+        "query": "best connected person room hardest trust",
+        "returned": 3,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W4414713988": {
+        "query": "Leaders take risks pattern holds chimpanzees too",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7172567426": {
+        "query": "Companies craft purpose statements all wrong useful part discomfort",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7214180006": {
+        "query": "family firms younger sibling joins first leaves soonest",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213226017": {
+        "query": "Happiness hero chief storyteller weird job titles actually cost",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7202007719": {
+        "query": "energy peaks noon before lunch decides hard crash",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204791998": {
+        "query": "Career stress doesn push students plan pushes them avoid",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204791763": {
+        "query": "Parents teachers build career confidence friends spark career curiosity",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204821646": {
+        "query": "Stuck same grade years where quiet quitting starts",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7207539887": {
+        "query": "Don start day replaying yesterday mistakes",
+        "returned": 2,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7208741244": {
+        "query": "leadership program measurably raised women ambition run office",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7211937530": {
+        "query": "partner child job hunting own work suffers",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7212149146": {
+        "query": "Matching coach person beats matching method goal",
+        "returned": 6,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7212391861": {
+        "query": "getting promised backfires repatriate paradox",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7212844454": {
+        "query": "Followers rated female leader vision competent than same vision man",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7212253583": {
+        "query": "Years out workforce raising children built skills employers overlook",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204500576": {
+        "query": "proactive career playbook works but comes anxiety not",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet — this is the first run._",
+    "feature_pitch": "**The pattern:** Four studies in this batch converge on the same uncomfortable finding — the symbolic language organizations and leaders use to signal meaning is increasingly decoupled from, and sometimes corrosive to, what they actually do. CEOs' loudest sociopolitical stances are the ones least matched by firm follow-through (W7208750164); supervisors who narrate their own good deeds without crediting others trigger employee disgust rather than elevation (W7167868566); purpose statements only stick when facilitators refuse to resolve executives' discomfort (W7172567426); and unconventional job titles impose real \"legibility\" and \"verification\" costs on the people who hold them (W7213226017). Taken together, they describe a credibility economy in which the more visible the gesture, the weaker the substance behind it.\n\n**Why pitch this now:** Companies are in the middle of a public retreat from values statements, DEI language and CEO activism, with many quietly rewriting or deleting commitments they made in the past five years — and employees, already fluent in detecting performance, now have research explaining exactly why the talk reads as hollow.\n\n**Angle:** A feature on the mechanics of corporate sincerity — what the evidence says separates meaning-making that lands from meaning-making that repels — framed for executives, comms leaders and HR teams deciding whether to say anything at all right now, with a secondary read for employees learning to audit their own employers' statements.\n\n**Potential headlines:**\n- The Difference Between a Company That Means It and One That's Performing\n- Your Values Workshop Failed Because Everyone Left Feeling Good\n- How to Read Your CEO's Next Big Statement\n\n**Potential outlets:**\n- **Harvard Business Review** — directly addresses the leader-communication decision (how to talk about purpose and social issues without losing credibility) that its executive readership is actively navigating.\n- **MIT Sloan Management Review** — strong fit for the research-driven argument that purpose processes need engineered discomfort rather than consensus facilitation.\n- **Fast Company** — covers the branding end of this story, from CEO activism to \"chief storyteller\" job titles, and would run the signaling-versus-substance framing.\n- **The Atlantic** — its work coverage handles the cultural question underneath the data: why workers now instinctively distrust corporate moral language, and what that distrust costs.",
+    "pitch_ideas": "- **It's not which evening activity you choose — it's the mix (Work ID W7169828568):** Debunk single-lever wind-down advice by showing that the whole shape of an evening, not any one habit, predicts next-day recovery, for a work-psychology explainer in a general-interest or lifestyle outlet.\n- **When the boss talks about their own good deeds, half the team is inspired and half is repelled (Work ID W7167868566):** Give leaders a concrete self-audit — your ratio of \"what I did\" to \"what my people did\" — as the line between inspiration and disgust, for a manager-audience column.\n- **Mindfulness training may work by teaching people to build resources, not just protect them (Work ID W7204869548):** Challenge the \"conserve your energy\" burnout orthodoxy by arguing that some of what feels like scarcity is a skill gap in mobilizing help, for a work-psychology explainer or wellness-at-work feature.\n- **The causes CEOs shout about loudest are the ones their firms are least likely to act on (Work ID W7208750164):** Hand employees and investors a decoding guide for executive statements, including the role of CEO personality, for a business news analysis or leadership column — flag that the abstract doesn't specify methods.\n- **Why the best-connected person in the room is the hardest to trust (Work ID W7210270541):** Explain the referral paradox and the specific kinds of trust that self-promotion can and cannot repair, for a networking/career-advice column or a hiring explainer aimed at recruiters.\n- **Leaders take more risks — and the pattern holds in chimpanzees too (Work ID W4414713988):** Ask whether promotion systems are quietly selecting for risk appetite rather than judgment, and what that means for the gender gap in who gets to lead, for a general-interest work-psychology piece or a leadership-pipeline column.\n- **Companies craft 'purpose' statements all wrong — the useful part is the discomfort (Work ID W7172567426):** Reframe the offsite: facilitators who prevent premature consensus produce purpose executives actually commit to, for a manager-audience or L&D-focused column.\n- **In family firms, the younger sibling joins first — and leaves soonest (Work ID W7214180006):** Show succession planners that the first child to show up is often the least likely to end up running the firm, for a small-business/family-enterprise section or a family-dynamics career feature.\n- **'Happiness hero' and 'chief storyteller': what weird job titles actually cost you (Work ID W7213226017):** Turn it into job-seeker guidance on negotiating a legible title now so your experience is decodable later, for a career-advice column or hiring explainer — note it's conceptual, not empirical.\n- **Your energy peaks at noon — and what you do before lunch decides how hard you crash (Work ID W7202007719):** Offer a schedule-your-hard-work-around-the-midday-peak piece with the twist that absorption only protects you when effort is low, for a productivity or work-wellbeing column in a general-interest outlet.\n- **Career stress doesn't push students to plan — it pushes them to avoid (Work ID W7204791998):** Argue that urgency produces procrastination while small completed steps dissolve the anxiety, for a career-advice column or a women's/lifestyle work-psychology explainer.\n- **Parents and teachers build career confidence; friends spark career curiosity (Work ID W7204791763):** Tell parents their job is building belief, not supplying options, since peers do the exploring, for a parenting-meets-careers piece in a general-interest or lifestyle outlet.\n- **Stuck at the same grade for years? That's where quiet quitting starts (Work ID W7204821646):** Relocate quiet quitting from generational attitude to blocked promotion ladders, with felt obligation and meaning as the two casualties, for a workplace news brief or HR explainer.\n- **Don't start your day replaying yesterday's mistakes (Work ID W7207539887):** Use the randomized design to question daily error-focused reflection rituals — stand-ups, after-action reviews, journaling — that may shut down experimentation, for a manager-audience column.\n- **A leadership program measurably raised women's ambition to run for office (Work ID W7208741244):** Identify the two active ingredients in women's leadership programs — domain self-efficacy and tackling gender barriers head-on — versus generic networking, for a women's outlet or a DEI/leadership-development explainer.\n- **When your partner or child is job hunting, your own work suffers (Work ID W7211937530):** Treat supporting someone else's job search as unrecognized household labor that spills into the helper's own performance, for a work-family column in a general-interest or women's outlet.\n- **Matching a coach to the person beats matching the method to the goal (Work ID W7212149146):** Tell HR and L&D buyers to stop specifying coaching methodologies by goal type and start screening on cognitive style, for an HR/procurement-focused explainer or manager column.\n- **When getting what you were promised backfires: the repatriate paradox (Work ID W7212391861):** Explain why being used as a knowledge conduit after an overseas posting reads as extraction and drives people out, for a global-mobility/HR explainer or an expat-careers column.\n- **Followers rated a female leader's vision as more competent than the same vision from a man (Work ID W7212844454):** Lead with the counterintuitive result — vision-setting as an agentic behavior where women gain rather than get penalized, especially with male followers — for a women's leadership feature or a change-management column.\n- **Years out of the workforce raising children built skills employers overlook (Work ID W7212253583):** Give returners a vocabulary for the interview question nobody answers well, and hiring managers a reason to probe rather than discard gaps, for a women's/lifestyle careers piece or a recruiting explainer — note the tiny qualitative sample.\n- **The proactive career playbook works — but it comes with more anxiety, not less (Work ID W7204500576):** Report that career self-management raises employability and enthusiasm without calming anyone down, normalizing the anxiety that comes with the hustle, for a young-professionals career column or general-interest work-psychology piece."
+  }
+}
