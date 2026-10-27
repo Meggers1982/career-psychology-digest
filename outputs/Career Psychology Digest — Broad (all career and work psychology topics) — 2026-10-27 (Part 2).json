@@ -1,0 +1,804 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-27",
+  "days_back": 60,
+  "window_from": "2026-08-28",
+  "window_to": "2026-10-27",
+  "focus": "Broad (all career and work psychology topics)",
+  "topic": "",
+  "query": "",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 200,
+    "not_research": 24,
+    "no_abstract": 17,
+    "off_topic": 8,
+    "already_covered": 76,
+    "over_journal_cap": 17,
+    "over_cap": 18,
+    "sent": 40
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7207621701",
+      "headline": "Thirty minutes of bright blue light at breakfast made workers sharper the next day",
+      "the_study": "Researchers ran a within-person field experiment in which 182 full-time employees wore light-emitting glasses for 30 minutes each morning over two work weeks. Participants were randomly assigned to a treatment-first or control-first sequence, with the glasses programmed to emit either full-intensity blue light (treatment) or just 1% intensity (control), so people could not easily tell which phase they were in. Morning blue light exposure improved that night's sleep, which in turn raised next-day alertness, reduced depletion, and improved work outcomes. Exploratory analyses found the biggest gains among younger employees and those who already had sleep problems.",
+      "why_it_matters": "It points to a cheap, low-friction wellness intervention — timed light exposure rather than another resilience workshop — that works on the body clock instead of asking employees to try harder.",
+      "story_angle_primary": "Managers piloting well-being spending could test light timing as a variable alongside flexible hours: a morning light routine (or simply a well-lit, window-side start to the day) may pay off most for night-owl and sleep-deprived staff. This is one field experiment over two weeks, so treat it as a promising pilot rather than settled policy.",
+      "story_angle_secondary": "For readers who drag through mornings and then lie awake at night, the study suggests the fix may belong at breakfast rather than bedtime — front-loading bright light rather than only cutting screens at night.",
+      "caveats": "Two-week time horizon; work outcomes were self-reported by the same participants; the sleep-alertness-performance chain is a mediation model within an experiment, not separately manipulated; moderation findings (age, prior sleep problems) were exploratory.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-03",
+      "doi": "10.1037/apl0001418",
+      "paper_title": "Rise and shine: Morning blue light exposure, sleep, and work.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7207655302",
+      "headline": "Standard personality tests may quietly screen out autistic job candidates",
+      "the_study": "Researchers compared personality test scores across a sample of 2,898 people split roughly equally between formally diagnosed autistic individuals, self-identified autistic individuals, and matched non-autistic (allistic) participants. The tests measured the same traits in the same way across groups — there was no measurement bias — but autistic respondents scored substantially lower on extraversion and conscientiousness, the two traits employers most often screen on. Findings largely replicated across regions of residence and in a supplemental sample, where extraversion and conscientiousness were also linked to employment status.",
+      "why_it_matters": "A psychometrically \"valid\" test can still produce adverse impact: if hiring cutoffs lean on extraversion and conscientiousness, autistic applicants are likely to be filtered out before anyone sees their work.",
+      "story_angle_primary": "Hiring managers and HR teams should audit which traits their assessments actually weight, how high the cutoffs sit, and whether those traits are genuinely job-relevant — the authors stop short of calling for abandoning the tests, but flag that use in selection needs rethinking for fairness.",
+      "story_angle_secondary": "For autistic jobseekers and those who suspect they are, the finding helps explain a familiar pattern: strong skills, repeated rejections at the questionnaire stage, long before an interview.",
+      "caveats": "Cross-sectional, platform-recruited sample including self-identified rather than clinically diagnosed participants; tests were taken in a research rather than a real high-stakes hiring context, where applicants may respond differently; the link to employment status is correlational.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-09-03",
+      "doi": "10.1037/apl0001413",
+      "paper_title": "Personality testing for autistic individuals: Potential issues for selection.",
+      "source_id": "S166002381"
+    },
+    {
+      "work_id": "W7211933722",
+      "headline": "Impact investors say they fund the neediest places — the data says they mostly fund nearby ones",
+      "the_study": "Using PitchBook data on 3,126 impact investment deals closed in 2022-2023, researchers analyzed 3,606 realized investor-venture ties against matched unrealized alternatives. Geographic distance significantly reduced the likelihood that a deal actually closed, because distance raises the costs of screening, contracting, monitoring, and supporting ventures. Severe sustainability challenges in a host country only modestly offset the distance penalty, while trade and investment risk made distant deals even harder to execute.",
+      "why_it_matters": "The capital that is explicitly earmarked for the world's hardest problems is still constrained by the ordinary mechanics of oversight — meaning acute need does not reliably attract money.",
+      "story_angle_primary": "For fund managers and corporate ESG teams, the lever is governance cost, not good intentions: local partners, on-the-ground intermediaries and lighter-touch monitoring arrangements are what make distant deals financeable.",
+      "story_angle_secondary": "A useful corrective for anyone who assumes \"impact\" labels redirect money where it is most needed — proximity and ease of oversight still shape where capital lands.",
+      "caveats": "Archival deal data from a single commercial source (PitchBook) covering only 2022-2023; choice-based sampling with matched counterfactual deals rather than a randomized design; distance effects are associational and the \"mission pull\" effect was modest and limited to a subset of dyads.",
+      "journal": "Journal of Business Venturing",
+      "published": "2026-09-08",
+      "doi": "10.1016/j.jbusvent.2026.106642",
+      "paper_title": "Between mission pull and governance burden: Geographic distance and deal realisation in impact investing",
+      "source_id": "S66201313"
+    },
+    {
+      "work_id": "W7213242733",
+      "headline": "How Conspiracy Peddlers Turn Confusion Into a Business Model",
+      "the_study": "Researchers at the *Academy of Management Journal* conducted an inductive qualitative study of the 2022 Lafferty et al. v. Jones et al. defamation case, in which Alex Jones was sued by relatives of Sandy Hook shooting victims, drawing on multimodal data including court records and broadcast material. They identify what they call 'conspiracy entrepreneurship': building a commercial venture by constructing a counternarrative to an official account of a tragedy and then deliberately preventing the audience from ever reaching a conclusion. The core mechanism is 'perpetuated sensegiving' — continually feeding new cues and questioning interpretations so that the audience's search for meaning, and their engagement, never ends.",
+      "why_it_matters": "It shows that unresolved ambiguity can itself be a monetizable asset, and that influence over how people interpret events can be exercised by actors with no formal authority at all.",
+      "story_angle_primary": "Leaders and communicators usually assume their job is to resolve ambiguity during a crisis; this analysis suggests rivals, activists or internal factions may have an incentive to keep questions open instead. Managers can watch for the tell: a voice that keeps introducing new cues and reopening settled questions rather than ever proposing a conclusion.",
+      "story_angle_secondary": "For readers, it offers a diagnostic for online misinformation — the giveaway is not the content of a claim but the refusal to let a story close, because closure would end the audience's attention and the revenue it generates.",
+      "caveats": "Single, extreme case study of one well-known US figure; inductive theory-building rather than hypothesis testing, so generalizability to other contexts is untested; no quantitative measurement of audience effects.",
+      "journal": "Academy of Management Journal",
+      "published": "2026-09-15",
+      "doi": "10.5465/amj.2025.0640",
+      "paper_title": "Ambiguity as Opportunity: A Theoretical Model of Conspiracy Entrepreneurship",
+      "source_id": "S117778295"
+    },
+    {
+      "work_id": "W7211865783",
+      "headline": "Transgender and Non-Binary Workers Hit Barriers at Every Stage of the Employee Lifecycle",
+      "the_study": "A hybrid systematic-critical review in *Human Relations* synthesized 96 empirical studies of gender-diverse (transgender and/or non-binary) workers, organizing the evidence around the talent lifecycle — recruitment, selection, onboarding, development, promotion, exit — and a career sustainability lens. The review finds discrimination documented at every stage, driven predominantly by prejudicial attitudes rather than formal policy, and compounded by workgroup, organizational and industry-level conditions. It also identifies what appears to help: robust anti-discrimination legislation, HR professionals who actually know the issues, visible leadership support, and a supportive organizational climate.",
+      "why_it_matters": "It gives HR leaders an evidence map of where in the employment process gender-diverse workers actually lose ground, at a moment when diversity programs are being cut or contested.",
+      "story_angle_primary": "Managers can audit their own lifecycle stage by stage rather than relying on a single statement of inclusion — the review suggests the weak points are spread across hiring, daily workgroup interaction and advancement, and that HR literacy and leader behavior matter more than policy language on paper.",
+      "story_angle_secondary": "For readers, it documents what working life looks like when your presence at work is itself politically contested, and which organizational conditions make a long career feasible rather than a series of exits.",
+      "caveats": "A literature review, not new primary data; the underlying 96 studies are methodologically uneven and the authors themselves flag persistent methodological and disciplinary orthodoxies; the helpful factors identified are associations drawn from mostly cross-sectional and qualitative work, not causal tests; evidence base skews toward a few countries.",
+      "journal": "Human Relations",
+      "published": "2026-09-06",
+      "doi": "10.1177/00187267261480591",
+      "paper_title": "Gender diversity, work, and employment: A critical review of the empirical literature",
+      "source_id": "S61446109"
+    },
+    {
+      "work_id": "W7208810968",
+      "headline": "Startup Experience Alone Doesn't Make Graduates More Employable",
+      "the_study": "Researchers combined a fuzzy Delphi exercise with a 24-member international expert panel and a fuzzy-set qualitative comparative analysis of a three-wave longitudinal panel of university students in Vietnam, Uzbekistan and Nigeria (N=310 analyzed of 347). They found four distinct combinations of resources that led to high employability development rather than one formula. Psychological capital — confidence, hope, optimism, resilience — was close to a necessary ingredient in every pathway, while student entrepreneurship experience mattered only when paired with supportive institutional and social resources.",
+      "why_it_matters": "Universities and employers often treat startup or incubator experience as a standalone employability booster; the evidence here suggests it only pays off when scaffolded by mentoring, networks and institutional support.",
+      "story_angle_primary": "Managers running graduate schemes or internal entrepreneurship programs can test whether the experience is actually bundled with coaching and network access — on this evidence, the experience without the scaffolding may add little.",
+      "story_angle_secondary": "For students and career changers, the finding that there are several equally valid routes, but that psychological resilience shows up in nearly all of them, reframes career preparation away from collecting credentials and toward sustaining confidence through setbacks.",
+      "caveats": "Student sample, not working adults; only three emerging economies and a relatively short follow-up window; fsQCA identifies sufficient configurations in the data rather than establishing causation; self-reported employability measures; modest analytic sample for the number of configurations examined.",
+      "journal": "Career Development International",
+      "published": "2026-10-13",
+      "doi": "10.1108/cdi-04-2026-0260",
+      "paper_title": "Entrepreneurship and employability: a configurational fuzzy Delphi–fsQCA study with longitudinal evidence in emerging economies",
+      "source_id": "S182336501"
+    },
+    {
+      "work_id": "W7212183752",
+      "headline": "Six kinds of first-generation student: who gets campus support, who gets family support, and whose career confidence suffers",
+      "the_study": "Researchers surveyed 361 first-generation college students in the US and used latent profile analysis to sort them by three things at once: sense of belonging on campus, on-campus mentoring support, and family support. Six distinct profiles emerged, from \"Thriving\" (high on all three, just 6.6% of the sample) to \"Campus-Anchored\" and \"Family-Anchored\" students who had one source of support but not the other, to a \"Low Support\" group (5.5%). The profiles differed significantly in career self-efficacy, career engagement, and meaningful participation in extracurricular activities.",
+      "why_it_matters": "It shows that support is not a single dial but a pattern: a student with a devoted family but no campus mentor looks very different, career-wise, from one with the reverse — which has direct implications for how employers and universities design early-career pipelines and internships for first-generation talent.",
+      "story_angle_primary": "For managers running internship and entry-level programs: the same logic may apply inside organizations. Early-career hires who have a supportive manager but no peer belonging — or vice versa — may need different interventions, and it is worth asking which source of support is missing rather than assuming one mentoring program fixes everyone.",
+      "story_angle_secondary": "For readers who were the first in their family to go to college or into a professional job: family encouragement and institutional belonging do different jobs, and having one does not substitute for the other. Naming which one you lack is the first step to going out and building it.",
+      "caveats": "Cross-sectional survey, so causation cannot be established; self-report only, with predictors and career outcomes from the same source; several profiles are very small (n=17 to n=34), which makes those group comparisons fragile; US college students only, not workers.",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-09-10",
+      "doi": "10.1177/10690727261488320",
+      "paper_title": "Latent Profiles of Belonging and Support Among First-Generation College Students: Associations With Career Development",
+      "source_id": "S68758695"
+    },
+    {
+      "work_id": "W7212238392",
+      "headline": "Teenagers on vocational tracks were more likely to describe their future work as a calling",
+      "the_study": "Researchers conducted in-depth interviews with 38 ethnically diverse, already-purposeful high school students (median age 17), 13 in career and technical education (CTE) and 25 in general education, and analyzed them using a framework covering four drivers of purpose: people, propensity, passion, and prosocial benefit. CTE students differed from their general-education peers in three ways: they more readily identified a specific future career as a calling aligned with their passions, they could name who would help them get there and whom their work would benefit, and they were already living out that purpose through hands-on activities that built relevant skills.",
+      "why_it_matters": "It suggests that doing the work — not just being advised about it — is what turns an abstract sense of purpose into a concrete career calling, a point that applies well beyond high school to apprenticeships, rotations, and internal mobility programs.",
+      "story_angle_primary": "For managers and L&D leaders: if you want employees to feel their job is meaningful, exposure beats exhortation. Consider whether your development offerings let people actually practice the work they aspire to, rather than only hearing about it in workshops and career conversations.",
+      "story_angle_secondary": "For parents and anyone rethinking a career: the long-standing status gap between academic and vocational tracks may obscure a real advantage of the applied route — students on it could picture, plan, and already partly inhabit their future working lives.",
+      "caveats": "Small qualitative study (N=38, with only 13 CTE students), deliberately sampled for students already identified as purposeful, so it cannot say whether the CTE track creates purpose or attracts students who already have it; no comparison of later career outcomes; single country.",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-09-11",
+      "doi": "10.1177/10690727261488050",
+      "paper_title": "Putting Purpose to Work: A Qualitative Study of Purpose and Calling in Career and Technical Education and General Education High School Students",
+      "source_id": "S68758695"
+    },
+    {
+      "work_id": "W7213545411",
+      "headline": "Leadership experience only builds a leader identity in people who remember the experience well",
+      "the_study": "Across a pilot study, a correlational survey, and an online experiment with UK students and working adults (N=373 total), researchers tested \"event binding capacity\" — the ability to knit the features of an experience together in memory so it can be retrieved coherently later. In Study 1, prior leadership experience predicted a stronger leader identity only among people with higher event binding capacity. In Study 2, participants reported stronger leader identity and leadership self-efficacy after highly self-relevant and relational events, and again memory capacity moderated how much those events registered.",
+      "why_it_matters": "It offers a cognitive explanation for why two people can have identical stretch assignments and only one comes away seeing themselves as a leader — and points at reflection and structured debriefs as the lever that closes the gap.",
+      "story_angle_primary": "For managers designing leadership development: the stretch assignment is only half the intervention. Building in structured reflection, written debriefs, or coaching conversations right after a significant leadership event is a cheap way to help the experience consolidate into identity — worth testing against your current programs, since this evidence comes from online studies rather than from a corporate pipeline.",
+      "story_angle_secondary": "For anyone trying to grow into a bigger role: experience alone does not automatically update your self-image. Keeping a brief record of moments where you led — what happened, who was involved, how it felt — may be what converts a résumé line into genuine confidence.",
+      "caveats": "Mix of students and working adults recruited online rather than a workplace sample; modest total N across three studies; the experiment used event manipulations rather than real workplace leadership episodes; self-reported leader identity and self-efficacy rather than observed leadership behavior or performance; single country (UK).",
+      "journal": "Journal of Business and Psychology",
+      "published": "2026-09-18",
+      "doi": "10.1007/s10869-026-10149-5",
+      "paper_title": "Predicting leadership self-concepts: The role of memory in processing self-relevant and relational events",
+      "source_id": "S61413993"
+    },
+    {
+      "work_id": "W7204556045",
+      "headline": "When work gets boring, the damage shows up the same week — unless you have control over your job",
+      "the_study": "Dutch researchers ran a three-wave survey six weeks apart with working adults (1,018 at wave 1, 750 at wave 2, 547 at wave 3) and used latent change score models to track how shifts in work-related boredom moved alongside shifts in mood and behavior. When boredom rose, depressed mood and frustration rose at the same time, and those feelings in turn accompanied more procrastination and more counterproductive behavior such as slacking or minor rule-breaking. The effects were concurrent, not lagged — boredom didn't predict problems six weeks later — and they were weaker for employees who had more control over how they did their work.",
+      "why_it_matters": "Boredom is usually treated as a harmless lull, but this suggests rising boredom travels with real deterioration in mood and conduct in the same period, and that job autonomy acts as a buffer.",
+      "story_angle_primary": "Managers often monitor overload and miss underload. The actionable read here is to treat a quiet stretch — a lull between projects, a routinized role — as a live risk, and to check whether people have discretion over sequencing, methods and pace, since job control was what blunted boredom's effects.",
+      "story_angle_secondary": "For anyone who has watched a dull week turn into doomscrolling and petty resentment: the research says that is a real, measurable pattern, and that the antidote is less about finding the job exciting than about having some say in how you do it.",
+      "caveats": "Self-report only, with predictors and outcomes from the same respondents (common-method bias); heavy attrition across waves (1,018 down to 547); associations are concurrent, so causal direction cannot be established; six-week intervals may be the wrong spacing to detect lagged effects; single-country sample.",
+      "journal": "Work & Stress",
+      "published": "2026-08-28",
+      "doi": "10.1080/02678373.2026.2718053",
+      "paper_title": "Changes in work-related boredom and their affective and behavioural consequences: the moderating role of job control",
+      "source_id": "S141527467"
+    },
+    {
+      "work_id": "W7159739744",
+      "headline": "Reject a good idea and people stop trusting you — including the ones just watching",
+      "the_study": "Two experiments tested what happens to a decision-maker's reputation when they fail to recognize a creative idea. Participants acting as idea generators and as third-party observers trusted the decision-maker less after a creative idea was rejected, and the reason was competence: the rejecter looked less capable. The effect held whether creativity was manipulated by the researchers, judged by independent raters, or simply perceived subjectively by participants; recognizing a creative idea raised trust, though that upside was less consistent.",
+      "why_it_matters": "Idea rejection is usually framed as a cost to the idea's author, but this shows it quietly taxes the manager's credibility with bystanders too.",
+      "story_angle_primary": "Managers who routinely screen proposals should assume every rejection is a public competence test, visible to people who were never in the room. Worth testing in your own team: do you explain the reasoning behind a 'no,' and would an observer read the decision as discerning or as tone-deaf?",
+      "story_angle_secondary": "It helps explain a familiar office feeling — losing faith in a boss not because they treated you badly, but because you watched them turn down something obviously good.",
+      "caveats": "Two controlled experiments with hypothetical idea-evaluation scenarios rather than real organizational decisions; sample composition and size not specified in the abstract; trust was measured immediately, so nothing is known about durability; subjective creativity perceptions mean the effect partly reflects observers' own taste.",
+      "journal": "European Journal of Work and Organizational Psychology",
+      "published": "2026-09-23",
+      "doi": "10.1080/1359432x.2026.2735268",
+      "paper_title": "Creative idea evaluation affects trust in decision-makers: the interpersonal consequences of creative idea recognition (failure)",
+      "source_id": "S187270080"
+    },
+    {
+      "work_id": "W7204712971",
+      "headline": "Company-sponsored expatriates react to career shocks more actively than those who moved abroad on their own",
+      "the_study": "A mixed-methods study of international careers combined a four-year longitudinal qualitative strand — 26 expatriates in Australia interviewed twice (52 interviews) — with a three-wave time-lagged survey of 157 expatriates. The researchers classified career shocks at individual, organizational and institutional levels and tested how they translated into proactive career behavior. Counterintuitively, the link between perceived career shocks and proactive behavior was stronger for assigned expatriates sent by their employers than for self-initiated movers, suggesting organizational backing is what makes agency possible after a disruption.",
+      "why_it_matters": "It challenges the assumption that self-directed, 'boundaryless' careerists are the most adaptive — structural support may be what lets people act on a shock rather than absorb it.",
+      "story_angle_primary": "If your firm relies on self-initiated hires abroad, this suggests they may be the least equipped to respond constructively when a visa rule, restructuring or relocation shock lands. Mobility support, sponsorship and career conversations are plausible levers worth piloting.",
+      "story_angle_secondary": "For anyone weighing a move overseas on their own initiative: independence buys freedom but may leave you with fewer resources to bounce back when something goes wrong.",
+      "caveats": "Survey strand is under 200 participants; qualitative sample of 26; all participants based in Australia, limiting generalization; self-reported proactive behavior; time-lagged design supports sequence but not firm causation.",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-08-30",
+      "doi": "10.1080/09585192.2026.2723321",
+      "paper_title": "Career shocks and the sustainability of global careers: a mixed-methods study of assigned and self-initiated expatriates",
+      "source_id": "S184846731"
+    },
+    {
+      "work_id": "W7213869505",
+      "headline": "Gen Z thinks a 'calling' means your job. Older generations think it means your life",
+      "the_study": "Researchers collected open-ended definitions of 'calling' from 492 working adults and college students across three cohorts — Baby Boomers (n=117), Generation X (n=80) and Generation Z (n=295) — and coded them qualitatively. All three groups converged on the same three themes: fit and well-being, a guiding force, and altruism. The difference was scope: Gen Z respondents defined calling narrowly in work terms, while older cohorts described it more broadly across life domains.",
+      "why_it_matters": "If younger employees locate their sense of calling specifically in paid work, employers hold more of their identity — and more of the risk when a job disappoints.",
+      "story_angle_primary": "Managers aiming meaning-at-work messaging at younger staff should note the asymmetry: Gen Z may be more responsive to purpose framing but also more exposed when the job fails to deliver it. Worth asking in development conversations where people actually locate their sense of purpose.",
+      "story_angle_secondary": "A useful prompt for anyone feeling adrift: older workers in this sample were more likely to see a calling as something that could be fulfilled outside a paycheck — through family, community or service — which widens the options when the job isn't it.",
+      "caveats": "Descriptive and qualitative, no outcomes measured; unbalanced cohorts with Gen Z heavily overrepresented and partly students rather than workers; cohort differences may reflect life stage rather than generation; cross-sectional snapshot; Millennials not directly sampled.",
+      "journal": "Journal of Career Development",
+      "published": "2026-09-21",
+      "doi": "10.1177/08948453261487437",
+      "paper_title": "Conceptions of Calling: A Four Generation Inquiry",
+      "source_id": "S82530051"
+    },
+    {
+      "work_id": "W7207619744",
+      "headline": "Bullying at work comes in bundles — and the worst mix drives drinking and quitting",
+      "the_study": "Researchers surveyed 3,333 employees of an Australian police organization twice over 18 months, asking about verbal, social, physical and power-abuse bullying behaviors, then used person-centered statistics to find natural groupings rather than averaging everything into one bullying score. Four profiles emerged, ranging from low to high exposure, including distinct patterns dominated by social bullying versus verbal-plus-physical bullying. Profile membership was predicted by role ambiguity, role conflict and perceived organizational support, and shifted for many people over the 18 months rather than staying fixed. Employees in the high-bullying profiles reported worse well-being and life satisfaction and higher work stress, turnover intentions, alcohol use and binge drinking.",
+      "why_it_matters": "It shows that bullying exposure is not one thing but several recognizable combinations, and that the organizational conditions feeding it — unclear and conflicting roles, weak felt support — are levers employers actually control.",
+      "story_angle_primary": "Managers auditing their climate surveys should stop reading a single bullying average and look at which combinations of behaviors cluster in their teams; the study also points to role clarity and visible organizational support as the structural fixes that precede profile membership, though the design is correlational and from one police force.",
+      "story_angle_secondary": "For readers, the striking finding is the spillover into private life: the groups exposed to the most bullying also reported the most binge drinking and the strongest urge to leave, a reminder that a hostile workplace follows people home.",
+      "caveats": "Single organization (one Australian police force), self-report measures throughout, and although the design is two-wave longitudinal it cannot prove that bullying causes the drinking or turnover intentions; profiles were only moderately stable, which complicates interpretation.",
+      "journal": "Work & Stress",
+      "published": "2026-09-03",
+      "doi": "10.1080/02678373.2026.2725661",
+      "paper_title": "A longitudinal person-centred investigation of bullying profiles in a police organisation",
+      "source_id": "S141527467"
+    },
+    {
+      "work_id": "W7207697928",
+      "headline": "Why some critical feedback lands and some flattens you: it depends on how surprising and disruptive it is",
+      "the_study": "Using Event Systems Theory, researchers ran a 10-week event-sampling study tracking actual instances of negative feedback employees received at work, coding each event's novelty, disruptiveness and criticality. They tested two competing pathways: feedback that reduced felt competence versus feedback that drained cognitive resources. Results largely supported the model — these event characteristics predicted work goal progress, work withdrawal and helping colleagues through felt competence and cognitive depletion.",
+      "why_it_matters": "It reframes the perennial question of how to give criticism: the content matters less than whether the feedback arrives as a surprise, interrupts ongoing work, and feels consequential.",
+      "story_angle_primary": "Managers could test delivering critical feedback in ways that lower novelty and disruption — flagging concerns early and continuously so nothing lands as a shock, and timing it so it does not derail work in progress — while protecting the recipient's sense of competence.",
+      "story_angle_secondary": "For anyone who has been blindsided in a review, the study offers a vocabulary for why some criticism energizes and some leaves you depleted for days — and why withdrawing and helping colleagues less is a predictable aftershock, not a character flaw.",
+      "caveats": "Self-report event sampling with predictors and outcomes from the same person; sample details and size are not specified in the abstract; 10-week horizon captures short-term reactions rather than long-run performance change.",
+      "journal": "Human Resource Management",
+      "published": "2026-09-03",
+      "doi": "10.1002/hrm.70094",
+      "paper_title": "Negative Feedback as Performance Conversations: An Event Systems Perspective",
+      "source_id": "S134094273"
+    },
+    {
+      "work_id": "W7204954329",
+      "headline": "Job insecurity doesn't just stress people out — it makes them hide and scroll",
+      "the_study": "A three-wave survey one month apart followed 321 full-time employees in China, testing how job insecurity translates into day-to-day behavior. Insecurity raised workplace anxiety, which in turn increased cyberloafing and decreased help-seeking — employees became less likely to ask colleagues for assistance exactly when they most needed it. Employees with a strong promotion focus were less likely to stop seeking help when anxious, while those with a strong prevention focus cyberloafed more.",
+      "why_it_matters": "It identifies a quiet productivity trap: anxious employees who fear for their jobs go silent and disengage rather than asking for the support that would help them perform.",
+      "story_angle_primary": "If restructuring rumors are circulating, managers should expect help-seeking to dry up and treat it as a warning sign, not laziness — transparency about evaluation criteria and timelines is the lever the authors point to, alongside normalizing asking for help.",
+      "story_angle_secondary": "For workers riding out an uncertain period, the finding names a self-defeating instinct: fear of looking expendable makes people stop asking questions, which makes them more expendable.",
+      "caveats": "All self-report from a single source, so common-method bias is likely despite the time lags; one country (China) and a one-month window; time-lagged correlational design cannot establish causation.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-09-01",
+      "doi": "10.1108/jmp-10-2025-1067",
+      "paper_title": "When uncertainty strikes: how job insecurity elicits workplace anxiety and distinct behavioral responses",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7204877748",
+      "headline": "How companies learn to hire from places they never looked: lessons from 25 years of baseball scouting",
+      "the_study": "Researchers used a longitudinal dataset of Major League Baseball franchises from 1977 to 2002 and event-history models to analyze when each team first adopted a nontraditional talent pipeline — signing international players from outside South and Central America. Adoption was driven by competitors' prior moves (mimetic pressure), customer-based demand conditions (coercive pressure), the institutional agency of top managers willing to act against prevailing norms, and visible performance feedback from firms already using the nontraditional source.",
+      "why_it_matters": "It gives a rare, cleanly measured account of why organizations expand where they source talent — mostly by copying rivals and responding to visible evidence, rather than by independent analysis.",
+      "story_angle_primary": "Leaders experimenting with nontraditional hiring — skills-based screening, bootcamp or returner pipelines, overseas sourcing — should recognize they are competing on timing: the study suggests early movers need an executive willing to override norms, while everyone else waits for public proof from peers.",
+      "story_angle_secondary": "For readers, it explains why whole industries suddenly discover a talent pool that was there all along, and why being from an \"unusual\" background is a matter of institutional fashion as much as ability.",
+      "caveats": "A single industry (professional baseball) in a historical window ending in 2002, with a specific sourcing decision as the proxy for nontraditional hiring; generalization to corporate HR is an inference, not a tested result.",
+      "journal": "Human Resource Management",
+      "published": "2026-09-01",
+      "doi": "10.1002/hrm.70098",
+      "paper_title": "Adoption of Nontraditional Labor Market Approaches: A Neo‐Institutional Theory Approach",
+      "source_id": "S134094273"
+    },
+    {
+      "work_id": "W7204870087",
+      "headline": "An inspiring vision only works on employees who already love the job",
+      "the_study": "Researchers surveyed 229 leader–follower dyads using multiple sources and a time-lagged design, measuring leaders' vision communication, followers' work passion, how plausible followers found the vision, and subsequent job performance. Vision communication improved performance only indirectly — by making the vision seem plausible — and that link was much stronger among followers high in harmonious work passion (enjoying the work on their own terms). Obsessive passion, the compulsive kind, did not produce the same amplification.",
+      "why_it_matters": "It suggests the bottleneck on inspirational leadership is credibility in the eyes of followers, and that the same speech lands very differently depending on an employee's relationship with the work.",
+      "story_angle_primary": "Before investing in another vision rollout, managers might check whether people actually find the vision believable — and recognize that grinding, compulsively driven employees are not the audience most likely to be moved by it.",
+      "story_angle_secondary": "It offers a frame for anyone who has sat through a town hall unmoved: whether leadership rhetoric inspires you may say more about how you relate to your own work than about the speech.",
+      "caveats": "Cross-sectional in substance despite the time lag, with modest N (229 dyads) from an unspecified single context; performance ratings come from leaders who also were rated on vision communication within the same dyad; no causal test.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-09-01",
+      "doi": "10.1108/jmp-01-2025-0095",
+      "paper_title": "Who sees visions as plausible? The joint effect of leader vision communication and employee work passion on job performance",
+      "source_id": "S53726244"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7207621701",
+      "headline": "Thirty minutes of bright blue light at breakfast made workers sharper the next day",
+      "verdict": "accurate",
+      "notes": "Design, N, manipulation, mediation chain and exploratory moderators all match the abstract; caveats appropriately flag the two-week horizon and self-report outcomes.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "work_id": "W7207655302",
+      "headline": "Standard personality tests may quietly screen out autistic job candidates",
+      "verdict": "minor",
+      "notes": "Sample and measurement-invariance framing are right, but the stated direction of the trait differences and the claim that these are the traits employers most often screen on go beyond the abstract.",
+      "issues": [
+        {
+          "label": "Direction of trait differences not stated in abstract",
+          "severity": "Minor",
+          "as_written": "autistic respondents scored substantially lower on extraversion and conscientiousness",
+          "abstract_says": "not due to measurement noninvariance, but because of substantial mean trait differences likely leading to adverse impact, particularly with the traits of extraversion and conscientiousness",
+          "problem": "The abstract reports substantial mean differences on those two traits but never specifies that autistic respondents scored lower. The direction is plausible but unverifiable from abstract only.",
+          "suggested_fix": "Write \"autistic respondents differed substantially on extraversion and conscientiousness (in a direction the authors say is likely to produce adverse impact)\" or cite the full text for the direction."
+        },
+        {
+          "label": "Added claim about employer screening practice",
+          "severity": "Minor",
+          "as_written": "the two traits employers most often screen on",
+          "abstract_says": "there is a need to evaluate how they are used in selection contexts to ensure fairness for autistic individuals",
+          "problem": "The abstract makes no claim about which traits employers screen on most often; this is the digest's own assertion presented as part of the study's finding.",
+          "suggested_fix": "Mark it as context (\"two traits commonly used in selection\") rather than a study finding."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7211933722",
+      "headline": "Impact investors say they fund the neediest places — the data says they mostly fund nearby ones",
+      "verdict": "minor",
+      "notes": "Data source, N and effects reported correctly; the transaction-cost mechanism is the authors' theoretical argument rather than a measured result, and the headline's \"investors say\" overstates the abstract's \"widely expected\".",
+      "issues": [
+        {
+          "label": "Theoretical mechanism presented as tested finding",
+          "severity": "Minor",
+          "as_written": "Geographic distance significantly reduced the likelihood that a deal actually closed, because distance raises the costs of screening, contracting, monitoring, and supporting ventures.",
+          "abstract_says": "we argue that impact investment decisions reflect the joint consideration of anticipated transaction value and governance costs. Distance raises the costs of screening, contracting, monitoring, and supporting ventures ... Distance reduces the likelihood of deal realisation.",
+          "problem": "Governance costs are the authors' theorized explanation, not a variable shown to mediate the distance effect in the analysis reported in the abstract.",
+          "suggested_fix": "Say the authors interpret the distance penalty as reflecting screening, contracting and monitoring costs."
+        },
+        {
+          "label": "Headline attributes a claim to investors",
+          "severity": "Minor",
+          "as_written": "Impact investors say they fund the neediest places",
+          "abstract_says": "Impact investing is widely expected to direct capital to locations where social and environmental challenges are most severe.",
+          "problem": "The abstract describes a general expectation of the field, not statements by investors themselves.",
+          "suggested_fix": "Rephrase to \"Impact investing is supposed to fund the neediest places — the data says it mostly funds nearby ones.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7213242733",
+      "headline": "How Conspiracy Peddlers Turn Confusion Into a Business Model",
+      "verdict": "minor",
+      "notes": "Case, method and the perpetuated-sensegiving mechanism are described accurately; only the phrase placing the researchers \"at\" the journal is off.",
+      "issues": [
+        {
+          "label": "Researchers described as being at the journal",
+          "severity": "Minor",
+          "as_written": "Researchers at the *Academy of Management Journal* conducted an inductive qualitative study",
+          "abstract_says": "Through an inductive qualitative approach, we develop a theoretical model of conspiracy entrepreneurship.",
+          "problem": "The journal is where the work was published, not the researchers' affiliation; the abstract gives no institutional information.",
+          "suggested_fix": "\"In a study published in the Academy of Management Journal, researchers conducted...\""
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7211865783",
+      "headline": "Transgender and Non-Binary Workers Hit Barriers at Every Stage of the Employee Lifecycle",
+      "verdict": "minor",
+      "notes": "Review type, 96 studies and the discrimination/enabling-factor findings match; the specific lifecycle stages listed are not named in the abstract.",
+      "issues": [
+        {
+          "label": "Lifecycle stages specified beyond the abstract",
+          "severity": "Minor",
+          "as_written": "organizing the evidence around the talent lifecycle — recruitment, selection, onboarding, development, promotion, exit",
+          "abstract_says": "a hybrid systematic-critical review approach that interrogates the empirical literature via a talent lifecycle and career sustainability perspective ... discrimination at every stage of the employee lifecycle",
+          "problem": "The abstract does not enumerate which stages the review covers; the six named stages are the digest's inference. Unverifiable from abstract only.",
+          "suggested_fix": "Refer to \"the talent lifecycle from hiring through exit\" without listing specific stages, or verify the stage list against the full text."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "work_id": "W7208810968",
+      "headline": "Startup Experience Alone Doesn't Make Graduates More Employable",
+      "verdict": "minor",
+      "notes": "Method, panel, sample sizes and the four-pathway result are right; \"necessary ingredient in every pathway\" slightly hardens the abstract's \"near-necessary\" language.",
+      "issues": [
+        {
+          "label": "Near-necessary condition described as present in every pathway",
+          "severity": "Minor",
+          "as_written": "Psychological capital — confidence, hope, optimism, resilience — was close to a necessary ingredient in every pathway",
+          "abstract_says": "Psychological Capital emerged as a near-necessary career resource (consistency = 0.93)",
+          "problem": "The abstract reports psychological capital as a near-necessary condition overall; it does not state that it appeared in all four configurations.",
+          "suggested_fix": "\"Psychological capital emerged as a near-necessary resource for high employability development.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "work_id": "W7212183752",
+      "headline": "Six kinds of first-generation student: who gets campus support, who gets family support, and whose career confidence suffers",
+      "verdict": "minor",
+      "notes": "N, six profiles and percentages match the abstract exactly; the country is not stated in the abstract.",
+      "issues": [
+        {
+          "label": "Country not specified in abstract",
+          "severity": "Minor",
+          "as_written": "Researchers surveyed 361 first-generation college students in the US",
+          "abstract_says": "Using latent profile analysis with a sample of 361 FGCSs",
+          "problem": "The abstract gives no country for the sample; the US attribution is unverifiable from abstract only and is also repeated in the caveats.",
+          "suggested_fix": "Drop \"in the US\" or confirm the sample's location from the full text."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "work_id": "W7212238392",
+      "headline": "Teenagers on vocational tracks were more likely to describe their future work as a calling",
+      "verdict": "accurate",
+      "notes": "Sample, median age, group sizes, the four P's framework and the three areas of difference all match; the caveats correctly note the purposeful-student sampling and the selection-versus-effect ambiguity.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "work_id": "W7213545411",
+      "headline": "Leadership experience only builds a leader identity in people who remember the experience well",
+      "verdict": "minor",
+      "notes": "Study structure and N are correct, but the \"Why it matters\" promotes untested reflection/debrief interventions and the Study 1 null for leadership self-efficacy is dropped.",
+      "issues": [
+        {
+          "label": "Untested intervention implied as the lever",
+          "severity": "Moderate",
+          "as_written": "points at reflection and structured debriefs as the lever that closes the gap",
+          "abstract_says": "We derive implications for event system theory and the practical applications of EBC for leadership self-concept formation.",
+          "problem": "Event binding capacity was measured as an individual difference and moderator; nothing in the abstract tests reflection, debriefs or any intervention that would raise or compensate for it, so presenting it as \"the lever\" overstates the evidence.",
+          "suggested_fix": "Frame reflection and debriefs as an untested speculation the authors' findings might motivate, not as something the study points to as effective."
+        },
+        {
+          "label": "Study 1 null result omitted",
+          "severity": "Minor",
+          "as_written": "In Study 1, prior leadership experience predicted a stronger leader identity only among people with higher event binding capacity.",
+          "abstract_says": "In study 1, findings revealed that EBC moderated the relationship between prior leadership experience on leader identity, but not on leadership self-efficacy.",
+          "problem": "The moderation did not hold for leadership self-efficacy, a boundary the digest leaves out.",
+          "suggested_fix": "Add that the same moderation did not appear for leadership self-efficacy in Study 1."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "work_id": "W7204556045",
+      "headline": "When work gets boring, the damage shows up the same week — unless you have control over your job",
+      "verdict": "minor",
+      "notes": "Wave sizes, latent change score method, concurrent-not-lagged pattern and job-control moderation all match; the researchers' nationality and the single-country claim are not in the abstract.",
+      "issues": [
+        {
+          "label": "Country of researchers/sample not in abstract",
+          "severity": "Minor",
+          "as_written": "Dutch researchers ran a three-wave survey six weeks apart with working adults",
+          "abstract_says": "Survey data were collected in a three-wave design with six weeks between waves (nt1 = 1018; nt2 = 750; nt3 = 547).",
+          "problem": "The abstract gives no country for the researchers or the sample, so both \"Dutch\" and the \"single-country sample\" caveat are unverifiable from abstract only.",
+          "suggested_fix": "Drop the nationality or confirm it from the full text."
+        },
+        {
+          "label": "Moderation scope slightly broadened",
+          "severity": "Minor",
+          "as_written": "they were weaker for employees who had more control over how they did their work",
+          "abstract_says": "changes in work-related boredom were positively associated with concurrent (but not lagged) changes in depressed mood and frustration, and that these relationships were weaker for higher levels of job control",
+          "problem": "Job control is reported as moderating the boredom-to-affect links; the digest's \"they\" reads as if it buffered the whole chain through to procrastination and counterproductive behavior.",
+          "suggested_fix": "Specify that job control weakened the link between rising boredom and depressed mood/frustration."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "work_id": "W7159739744",
+      "headline": "Reject a good idea and people stop trusting you — including the ones just watching",
+      "verdict": "minor",
+      "notes": "Core findings match the abstract; two caveat details (hypothetical scenarios, immediate trust measurement) cannot be verified from the abstract, and the parallel warmth mechanism is omitted.",
+      "issues": [
+        {
+          "label": "Unverifiable study-design details in Caveats",
+          "severity": "Minor",
+          "as_written": "Two controlled experiments with hypothetical idea-evaluation scenarios rather than real organizational decisions; ... trust was measured immediately, so nothing is known about durability",
+          "abstract_says": "We theorize and show in two experiments that idea generators and third-party observers trust a decision-maker less when the decision-maker fails to recognize a creative idea",
+          "problem": "The abstract does not describe the scenarios as hypothetical, nor state when trust was measured; these are plausible but unverified assumptions presented as fact.",
+          "suggested_fix": "Soften to \"the abstract does not describe the experimental scenarios or the timing of the trust measure\" or mark as unverifiable from abstract only."
+        },
+        {
+          "label": "Omitted parallel mediator",
+          "severity": "Minor",
+          "as_written": "the reason was competence: the rejecter looked less capable",
+          "abstract_says": "We also find perceived warmth as a parallel mediator, but only when using participants' subjective creativity perceptions.",
+          "problem": "Competence is presented as the sole mechanism; the abstract also reports perceived warmth as a parallel mediator under one operationalization.",
+          "suggested_fix": "Add that perceived warmth also mediated the effect when subjective creativity perceptions were used."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "work_id": "W7204712971",
+      "headline": "Company-sponsored expatriates react to career shocks more actively than those who moved abroad on their own",
+      "verdict": "minor",
+      "notes": "Samples and direction of the key finding are right; 'interviewed twice' and 'all participants based in Australia' go slightly beyond the abstract, and the mechanism claim is stated more firmly than the authors do.",
+      "issues": [
+        {
+          "label": "Interview count inference",
+          "severity": "Minor",
+          "as_written": "26 expatriates in Australia interviewed twice (52 interviews)",
+          "abstract_says": "tracking 26 expatriates in Australia over four years (n = 52 interviews)",
+          "problem": "The abstract gives only the total interview count over four years; it does not say each participant was interviewed exactly twice.",
+          "suggested_fix": "Write \"26 expatriates in Australia across 52 interviews over four years.\""
+        },
+        {
+          "label": "Location of survey sample",
+          "severity": "Minor",
+          "as_written": "all participants based in Australia, limiting generalization",
+          "abstract_says": "Study 1 used a longitudinal qualitative design, tracking 26 expatriates in Australia... Study 2, a time-lagged survey of 157 expatriates",
+          "problem": "Only the qualitative strand is identified as Australia-based; the abstract does not state where the 157 survey respondents were located.",
+          "suggested_fix": "Limit the caveat to the qualitative strand, noting the survey location is not reported in the abstract."
+        },
+        {
+          "label": "Stronger-than-stated mechanism claim",
+          "severity": "Minor",
+          "as_written": "suggesting organizational backing is what makes agency possible after a disruption",
+          "abstract_says": "suggesting that structural support may shape how agency is enacted in response to disruption",
+          "problem": "The authors hedge with \"may shape how agency is enacted\"; the digest upgrades this to support being what makes agency possible.",
+          "suggested_fix": "Mirror the hedge: \"suggesting structural support may shape how agency gets enacted after a disruption.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "work_id": "W7213869505",
+      "headline": "Gen Z thinks a 'calling' means your job. Older generations think it means your life",
+      "verdict": "accurate",
+      "notes": "Cohort ns, total N, themes and the narrow-versus-broad difference all match; caveats correctly note the descriptive design and absent Millennial sample.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "work_id": "W7207619744",
+      "headline": "Bullying at work comes in bundles — and the worst mix drives drinking and quitting",
+      "verdict": "minor",
+      "notes": "Sample, design and outcome pattern are accurate, but the digest blends two alternative profile solutions into one and upgrades 'associated with' to predictive/temporal language.",
+      "issues": [
+        {
+          "label": "Two profile solutions merged",
+          "severity": "Minor",
+          "as_written": "Four profiles emerged, ranging from low to high exposure, including distinct patterns dominated by social bullying versus verbal-plus-physical bullying.",
+          "abstract_says": "Our results revealed four profiles characterised by Low, Moderately Low, Moderately High, and High levels of bullying behaviour. Alternative results from a bifactor measurement model also revealed four profiles: High Global and Physical Bullying Behavior, High Global and Social Bullying Behavior, Normative, and High Global, Verbal, and Physical Bullying Behavior.",
+          "problem": "These are two separate four-profile solutions (a severity-graded one and an alternative bifactor one), not a single set containing both severity levels and behavior-specific patterns.",
+          "suggested_fix": "Note that the main solution graded severity from Low to High, while an alternative bifactor model produced behaviour-specific profiles."
+        },
+        {
+          "label": "Predictive/temporal framing of correlates",
+          "severity": "Moderate",
+          "as_written": "Profile membership was predicted by role ambiguity, role conflict and perceived organizational support ... the study also points to role clarity and visible organizational support as the structural fixes that precede profile membership",
+          "abstract_says": "Role ambiguity, role conflict, and perceived organisational support were all associated with profile membership.",
+          "problem": "The abstract reports association only; \"predicted by\" and especially \"precede profile membership\" imply temporal ordering and causal leverage the abstract does not claim.",
+          "suggested_fix": "Use \"were associated with profile membership\" and drop \"precede\"."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "work_id": "W7207697928",
+      "headline": "Why some critical feedback lands and some flattens you: it depends on how surprising and disruptive it is",
+      "verdict": "minor",
+      "notes": "Design, mediators and outcomes match; two framing points (mechanisms described as 'competing', and content mattering less than event features) go beyond the abstract.",
+      "issues": [
+        {
+          "label": "Mechanisms described as competing",
+          "severity": "Minor",
+          "as_written": "They tested two competing pathways: feedback that reduced felt competence versus feedback that drained cognitive resources.",
+          "abstract_says": "...relate to employee effectiveness... via two mechanisms—felt competence and cognitive depletion",
+          "problem": "The abstract presents felt competence and cognitive depletion as two complementary mediators in one model, not as rival explanations pitted against each other.",
+          "suggested_fix": "Describe them as two mediating mechanisms tested in the same model."
+        },
+        {
+          "label": "Unsupported content-versus-form comparison",
+          "severity": "Minor",
+          "as_written": "the content matters less than whether the feedback arrives as a surprise, interrupts ongoing work, and feels consequential",
+          "abstract_says": "specific, event-based characteristics of negative feedback play an important role in explaining employee reactions to such feedback",
+          "problem": "The study did not compare feedback content against event characteristics, so it cannot support a claim that content matters less.",
+          "suggested_fix": "Say event characteristics matter in addition to content, rather than more than it."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "work_id": "W7204954329",
+      "headline": "Job insecurity doesn't just stress people out — it makes them hide and scroll",
+      "verdict": "minor",
+      "notes": "Sample, mediation and both moderators are reported correctly; headline and body use causal verbs that sit awkwardly against the correctly stated correlational caveat.",
+      "issues": [
+        {
+          "label": "Causal verbs for a time-lagged correlational survey",
+          "severity": "Minor",
+          "as_written": "Insecurity raised workplace anxiety, which in turn increased cyberloafing and decreased help-seeking",
+          "abstract_says": "A three-wave, one-month time-lagged survey was conducted among 321 full-time employees in China... Workplace anxiety mediated the relationships between job insecurity and the two coping responses",
+          "problem": "The body text asserts causal effects that the self-report, time-lagged design cannot establish, partly contradicting the digest's own caveat.",
+          "suggested_fix": "Use associational wording: \"insecurity was associated with higher anxiety, which in turn related to more cyberloafing and less help-seeking.\""
+        },
+        {
+          "label": "Moderator simplified",
+          "severity": "Minor",
+          "as_written": "those with a strong prevention focus cyberloafed more",
+          "abstract_says": "prevention focus amplified the positive association between anxiety and cyberloafing",
+          "problem": "Prevention focus strengthened the anxiety–cyberloafing link rather than producing a main effect on cyberloafing.",
+          "suggested_fix": "Write \"prevention-focused employees showed a stronger link between anxiety and cyberloafing.\""
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "work_id": "W7204877748",
+      "headline": "How companies learn to hire from places they never looked: lessons from 25 years of baseball scouting",
+      "verdict": "minor",
+      "notes": "Dataset, window, method and the four adoption drivers are reported accurately; one relative-weight claim ('mostly by copying rivals') is not supported by the abstract.",
+      "issues": [
+        {
+          "label": "Unsupported relative weighting of drivers",
+          "severity": "Minor",
+          "as_written": "mostly by copying rivals and responding to visible evidence, rather than by independent analysis",
+          "abstract_says": "Results indicate mimetic and coercive institutional pressures, top manager institutional agency, and field-level performance feedback systematically influence adoption decisions.",
+          "problem": "The abstract reports that several pressures systematically influenced adoption but gives no ranking, so \"mostly\" overstates what is known about relative importance.",
+          "suggested_fix": "Say adoption was shaped by rivals' moves, demand conditions, managerial agency and visible performance feedback, without ranking them."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "work_id": "W7204870087",
+      "headline": "An inspiring vision only works on employees who already love the job",
+      "verdict": "minor",
+      "notes": "Dyad count, mediator, moderator and the harmonious-versus-obsessive contrast are right; 'improved performance', 'only indirectly' and 'much stronger' add certainty and magnitude the abstract does not provide, and one caveat misstates the multisource design.",
+      "issues": [
+        {
+          "label": "Causal and magnitude language",
+          "severity": "Minor",
+          "as_written": "Vision communication improved performance only indirectly — by making the vision seem plausible — and that link was much stronger among followers high in harmonious work passion",
+          "abstract_says": "follower harmonious work passion amplifies the impact of leader vision communication on perceived vision plausibility, which mediates the relationship between leader vision communication and follower job performance",
+          "problem": "The abstract reports mediation in a time-lagged survey, not a causal improvement, says nothing about the absence of a direct effect (\"only indirectly\"), and gives no effect size to support \"much stronger\".",
+          "suggested_fix": "Write \"vision communication was linked to performance via perceived plausibility, and that link was stronger among followers high in harmonious passion.\""
+        },
+        {
+          "label": "Caveat misdescribes the data sources",
+          "severity": "Minor",
+          "as_written": "performance ratings come from leaders who also were rated on vision communication within the same dyad",
+          "abstract_says": "A multisource, time-lagged survey of 229 leader–follower dyads tested these hypothesized relationships.",
+          "problem": "The abstract states the design was multisource but does not specify who rated what, so this specific common-source concern cannot be verified and may misstate the design.",
+          "suggested_fix": "Note that the design was multisource and time-lagged, and that the abstract does not specify which rater supplied each measure."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 18,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7207621701": {
+        "query": "Thirty minutes bright blue light breakfast made workers sharper next",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7207655302": {
+        "query": "Standard personality tests quietly screen out autistic job candidates",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7211933722": {
+        "query": "investors say they fund neediest places data says they mostly",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213242733": {
+        "query": "Conspiracy Peddlers Turn Confusion Into Business Model",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7211865783": {
+        "query": "Transgender Non Binary Workers Hit Barriers Every Stage Employee Lifecycle",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7208810968": {
+        "query": "Startup Experience Alone Doesn Make Graduates Employable",
+        "returned": 1,
+        "outlets": [
+          "KoreaTechDesk"
+        ],
+        "articles": [
+          {
+            "title": "Korea’s Enterprise AI Market Is Repricing Startup Experience",
+            "outlet": "KoreaTechDesk",
+            "link": "https://koreatechdesk.com/koreas-enterprise-ai-market-is-repricing-startup-experience"
+          }
+        ],
+        "state": "lightly_reported"
+      },
+      "W7212183752": {
+        "query": "Six kinds first generation student who gets campus support who",
+        "returned": 20,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7212238392": {
+        "query": "Teenagers vocational tracks likely describe their future work calling",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213545411": {
+        "query": "Leadership experience only builds leader identity people who remember experience",
+        "returned": 2,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204556045": {
+        "query": "work gets boring damage shows same week unless have control",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7159739744": {
+        "query": "Reject good idea people stop trusting including ones just watching",
+        "returned": 5,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204712971": {
+        "query": "Company sponsored expatriates react career shocks actively than those who",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7213869505": {
+        "query": "Gen thinks calling means job Older generations think means life",
+        "returned": 8,
+        "outlets": [
+          "YourTango"
+        ],
+        "articles": [
+          {
+            "title": "11 Things Gen Z Seems To Think Are Beneath Them That Are Just Part Of Normal Life",
+            "outlet": "YourTango",
+            "link": "https://www.yourtango.com/self/things-gen-z-thinks-beneath-them-part-normal-life"
+          }
+        ],
+        "state": "lightly_reported"
+      },
+      "W7207619744": {
+        "query": "Bullying work comes bundles worst mix drives drinking quitting",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7207697928": {
+        "query": "some critical feedback lands some flattens depends surprising disruptive",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204954329": {
+        "query": "Job insecurity doesn just stress people out makes them hide",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204877748": {
+        "query": "companies learn hire places they never looked lessons years baseball",
+        "returned": 1,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7204870087": {
+        "query": "inspiring vision only works employees who already love job",
+        "returned": 2,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "_No prior digest on this topic to compare against yet — this is the first run._",
+    "feature_pitch": "**The pattern:** Four studies in this batch show that talent and capital flow toward whoever is cheapest to evaluate, not toward whoever is most capable or most in need — and that the filters doing the work look neutral from the inside. Standard personality tests show no measurement bias yet systematically depress autistic candidates' scores on exactly the two traits employers screen on (W7207655302); gender-diverse workers lose ground at every stage of the talent lifecycle through prejudicial attitudes rather than formal policy (W7211865783); baseball franchises opened nontraditional talent pipelines mainly by copying rivals and waiting for public proof, not by independent analysis (W7204877748); and impact investors, whose explicit mandate is to fund the hardest problems, close deals near home because distance raises screening and monitoring costs (W7211933722).\n\n**Why pitch this now:** Employers are leaning harder on automated assessments and pre-interview screening while simultaneously cutting the diversity programs that used to catch what those filters miss, so the mechanism that decides who gets seen is becoming both more automated and less audited.\n\n**Angle:** A feature on \"evaluation cost as the hidden hiring criterion\" — tracing how organizations and investors consistently choose the candidate, the market or the pipeline that is easiest to assess, and why that produces exclusion with no bigot and no biased test anywhere in the chain. Works for a business and management audience that buys assessment tools, and for a general-interest readership that keeps getting rejected by questionnaire.\n\n**Potential headlines:**\n- The Cheapest Candidate to Evaluate Usually Wins\n- Your Personality Test Isn't Biased. It Still Rejects the Same People Every Time.\n- Nobody Rejected You — The Filter Did\n  \n**Potential outlets:**\n- **Harvard Business Review** — speaks directly to the executives and HR leaders who commission assessments and would act on the \"valid test, adverse impact\" distinction at the center of this piece.\n- **Business Insider** — has an appetite for scrutiny of hiring screens and assessment vendors, and the baseball-scouting material gives the story a concrete, reportable spine.\n- **The Atlantic** — the \"exclusion without a villain\" framing, and what it means for neurodivergent and gender-diverse workers, fits its appetite for structural explanations of merit.\n- **MIT Sloan Management Review** — the impact-investing strand lets the piece extend from hiring to capital allocation, which is squarely its cross-functional, governance-cost territory.",
+    "pitch_ideas": "- **Thirty minutes of bright blue light at breakfast made workers sharper the next day (Work ID W7207621701):** Frame morning light as the wellness budget line nobody has tried — a body-clock intervention instead of another resilience workshop, with biggest gains for night owls and poor sleepers, for a work-psychology explainer in a general-interest or lifestyle outlet.\n- **Standard personality tests may quietly screen out autistic job candidates (Work ID W7207655302):** A test can be psychometrically clean and still filter out a whole population — walk HR teams through auditing which traits they weight and where the cutoffs sit, for a hiring or HR explainer.\n- **Impact investors say they fund the neediest places — the data says they mostly fund nearby ones (Work ID W7211933722):** The constraint on impact capital is monitoring cost, not conviction; local intermediaries are the fix, for a business/finance or ESG-focused column.\n- **How Conspiracy Peddlers Turn Confusion Into a Business Model (Work ID W7213242733):** Unresolved ambiguity as a revenue model — give readers the tell (a voice that keeps reopening settled questions and never proposes a conclusion), for a general-interest media or misinformation explainer, with a crisis-communications sidebar for leaders.\n- **Transgender and Non-Binary Workers Hit Barriers at Every Stage of the Employee Lifecycle (Work ID W7211865783):** A stage-by-stage audit map for employers — hiring, onboarding, workgroup interaction, promotion, exit — showing HR literacy and visible leader behavior beat policy language, for an HR/DEI explainer or a general-interest piece on working life under political contest.\n- **Startup Experience Alone Doesn't Make Graduates More Employable (Work ID W7208810968):** Incubator experience only pays off when bundled with mentoring and networks, while psychological capital shows up in nearly every successful route — for a graduate-careers or early-career advice column.\n- **Six kinds of first-generation student: who gets campus support, who gets family support, and whose career confidence suffers (Work ID W7212183752):** Support is a pattern, not a dial — family backing and institutional belonging do different jobs and don't substitute, with a direct read-across to internship and entry-level program design, for a career-advice column or an early-careers HR piece.\n- **Teenagers on vocational tracks were more likely to describe their future work as a calling (Work ID W7212238392):** Doing the work beats hearing about it — a case for apprenticeships, rotations and hands-on development over career workshops, for a parenting/education angle in a general-interest outlet or an L&D column.\n- **Leadership experience only builds a leader identity in people who remember the experience well (Work ID W7213545411):** The stretch assignment is only half the intervention; structured debriefs are what convert experience into identity, for a manager-audience leadership development column (and a personal \"keep a leadership log\" item for career advice).\n- **When work gets boring, the damage shows up the same week — unless you have control over your job (Work ID W7204556045):** Managers monitor overload and miss underload — treat a quiet stretch as live risk and check whether people have discretion over pace and method, for a workplace news brief or manager column.\n- **Reject a good idea and people stop trusting you — including the ones just watching (Work ID W7159739744):** Every \"no\" is a public competence test visible to people who were never in the room, for a manager-audience column on decision-making and credibility.\n- **Company-sponsored expatriates react to career shocks more actively than those who moved abroad on their own (Work ID W7204712971):** The counterintuitive hit at the boundaryless-career ideal — self-initiated movers have the most freedom and the fewest resources when a visa rule or restructuring lands, for a global-mobility/HR piece or an expat careers feature.\n- **Gen Z thinks a 'calling' means your job. Older generations think it means your life (Work ID W7213869505):** If younger workers locate purpose solely in paid work, employers hold more of their identity and more of the downside risk, for a work-psychology explainer in a general-interest or women's/lifestyle outlet.\n- **Bullying at work comes in bundles — and the worst mix drives drinking and quitting (Work ID W7207619744):** Stop reading a single bullying average on the climate survey; role ambiguity, role conflict and weak felt support predict which cluster a team lands in, and the spillover shows up in binge drinking, for an HR explainer plus a general-interest piece on how a hostile job follows you home.\n- **Why some critical feedback lands and some flattens you: it depends on how surprising and disruptive it is (Work ID W7207697928):** Novelty and timing matter more than wording — flag concerns early and continuously so nothing arrives as a shock, for a manager-audience column on feedback and performance reviews.\n- **Job insecurity doesn't just stress people out — it makes them hide and scroll (Work ID W7204954329):** When restructuring rumors circulate, help-seeking dries up exactly when it is most needed — read silence as a warning sign, not laziness, for a workplace news brief or a layoffs-era career-advice column.\n- **How companies learn to hire from places they never looked: lessons from 25 years of baseball scouting (Work ID W7204877748):** Organizations open new talent pipelines by copying rivals and waiting for visible proof, so early movers need an executive willing to break norms, for a talent-strategy column or hiring explainer.\n- **An inspiring vision only works on employees who already love the job (Work ID W7204870087):** Check whether people find the vision believable before the next rollout — and note that your most compulsively driven employees are the least likely to be moved, for a leadership/internal-communications column."
+  }
+}

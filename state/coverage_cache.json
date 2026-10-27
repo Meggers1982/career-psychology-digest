@@ -10,6 +10,16 @@
         "state": "unreported"
       }
     },
+    "W7159739744": {
+      "checked_at": "2026-10-27T23:10:47.158318+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Reject good idea people stop trusting including ones just watching",
+        "returned": 5,
+        "state": "unreported"
+      }
+    },
     "W7167868566": {
       "checked_at": "2026-10-27T16:10:55.354492+00:00",
       "result": {
@@ -70,16 +80,6 @@
         "state": "unreported"
       }
     },
-    "W7204196725": {
-      "checked_at": "2026-10-13T17:50:26.684368+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Delegation only lands well boss shares credit absorbs blame",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7204500576": {
       "checked_at": "2026-10-27T16:12:22.094428+00:00",
       "result": {
@@ -90,12 +90,32 @@
         "state": "unreported"
       }
     },
+    "W7204556045": {
+      "checked_at": "2026-10-27T23:10:45.546451+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "work gets boring damage shows same week unless have control",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "W7204647820": {
       "checked_at": "2026-10-24T14:10:02.076161+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Gig workers extra mile algorithm seems fair but privacy monitoring",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7204712971": {
+      "checked_at": "2026-10-27T23:10:52.987907+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Company sponsored expatriates react career shocks actively than those who",
         "returned": 0,
         "state": "unreported"
       }
@@ -150,13 +170,33 @@
         "state": "unreported"
       }
     },
-    "W7206184378": {
-      "checked_at": "2026-10-13T17:50:32.481429+00:00",
+    "W7204870087": {
+      "checked_at": "2026-10-27T23:11:09.540380+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Overworked staff coping alone want structural fixes not wellness perks",
-        "returned": 0,
+        "query": "inspiring vision only works employees who already love job",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7204877748": {
+      "checked_at": "2026-10-27T23:11:08.456932+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "companies learn hire places they never looked lessons years baseball",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7204954329": {
+      "checked_at": "2026-10-27T23:11:06.355508+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Job insecurity doesn just stress people out makes them hide",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -167,6 +207,46 @@
         "outlets": [],
         "query": "Don start day replaying yesterday mistakes",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7207619744": {
+      "checked_at": "2026-10-27T23:10:58.585984+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Bullying work comes bundles worst mix drives drinking quitting",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7207621701": {
+      "checked_at": "2026-10-27T23:10:21.891218+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Thirty minutes bright blue light breakfast made workers sharper next",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7207655302": {
+      "checked_at": "2026-10-27T23:10:24.829841+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Standard personality tests quietly screen out autistic job candidates",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7207697928": {
+      "checked_at": "2026-10-27T23:11:04.877670+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "some critical feedback lands some flattens depends surprising disruptive",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -190,6 +270,24 @@
         "state": "unreported"
       }
     },
+    "W7208810968": {
+      "checked_at": "2026-10-27T23:10:34.095441+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://koreatechdesk.com/koreas-enterprise-ai-market-is-repricing-startup-experience",
+            "outlet": "KoreaTechDesk",
+            "title": "Korea\u2019s Enterprise AI Market Is Repricing Startup Experience"
+          }
+        ],
+        "outlets": [
+          "KoreaTechDesk"
+        ],
+        "query": "Startup Experience Alone Doesn Make Graduates Employable",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
     "W7210270541": {
       "checked_at": "2026-10-27T16:11:14.007509+00:00",
       "result": {
@@ -197,6 +295,26 @@
         "outlets": [],
         "query": "best connected person room hardest trust",
         "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "W7211865783": {
+      "checked_at": "2026-10-27T23:10:32.911281+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Transgender Non Binary Workers Hit Barriers Every Stage Employee Lifecycle",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7211933722": {
+      "checked_at": "2026-10-27T23:10:26.822587+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "investors say they fund neediest places data says they mostly",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -230,6 +348,26 @@
         "state": "unreported"
       }
     },
+    "W7212183752": {
+      "checked_at": "2026-10-27T23:10:36.267473+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Six kinds first generation student who gets campus support who",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "W7212238392": {
+      "checked_at": "2026-10-27T23:10:39.921805+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Teenagers vocational tracks likely describe their future work calling",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7212253583": {
       "checked_at": "2026-10-27T16:12:20.982570+00:00",
       "result": {
@@ -246,16 +384,6 @@
         "articles": [],
         "outlets": [],
         "query": "getting promised backfires repatriate paradox",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7212753349": {
-      "checked_at": "2026-10-13T17:50:08.741717+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Leadership isn personality string small wins engineer them",
         "returned": 0,
         "state": "unreported"
       }
@@ -280,6 +408,16 @@
         "state": "unreported"
       }
     },
+    "W7213242733": {
+      "checked_at": "2026-10-27T23:10:29.579735+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Conspiracy Peddlers Turn Confusion Into Business Model",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213334889": {
       "checked_at": "2026-10-24T14:09:51.320128+00:00",
       "result": {
@@ -300,6 +438,16 @@
         "state": "unreported"
       }
     },
+    "W7213545411": {
+      "checked_at": "2026-10-27T23:10:42.739851+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Leadership experience only builds leader identity people who remember experience",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
     "W7213658467": {
       "checked_at": "2026-10-14T15:29:48.710133+00:00",
       "result": {
@@ -310,22 +458,30 @@
         "state": "unreported"
       }
     },
+    "W7213869505": {
+      "checked_at": "2026-10-27T23:10:54.037131+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.yourtango.com/self/things-gen-z-thinks-beneath-them-part-normal-life",
+            "outlet": "YourTango",
+            "title": "11 Things Gen Z Seems To Think Are Beneath Them That Are Just Part Of Normal Life"
+          }
+        ],
+        "outlets": [
+          "YourTango"
+        ],
+        "query": "Gen thinks calling means job Older generations think means life",
+        "returned": 8,
+        "state": "lightly_reported"
+      }
+    },
     "W7214180006": {
       "checked_at": "2026-10-27T16:11:33.508974+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "family firms younger sibling joins first leaves soonest",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7214609077": {
-      "checked_at": "2026-10-13T17:50:29.228396+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "High performance breed misbehavior hospitals unless leaders serve rather than",
         "returned": 0,
         "state": "unreported"
       }
@@ -408,52 +564,12 @@
         "state": "unreported"
       }
     },
-    "W7220913877": {
-      "checked_at": "2026-10-13T17:50:20.212417+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "restaurants manager humility shows group trust then service quality",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7220922862": {
-      "checked_at": "2026-10-13T17:50:16.396722+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "angry boss who punish makes feel than human check out",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "W7220937301": {
-      "checked_at": "2026-10-13T17:50:14.259692+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "manager plays favorites overlooked team member still save team",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7221041588": {
       "checked_at": "2026-10-14T15:30:01.561721+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Bosses who talk openly about mental health get than happier",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "W7221561375": {
-      "checked_at": "2026-10-13T17:50:10.799164+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Servant leaders get better results they also deliver tough criticism",
         "returned": 1,
         "state": "unreported"
       }
