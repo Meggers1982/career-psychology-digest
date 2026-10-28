@@ -70,16 +70,6 @@
         "state": "unreported"
       }
     },
-    "W7203948385": {
-      "checked_at": "2026-10-14T15:30:07.047426+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Absent leadership drains police officers resilience only partly cushions fall",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7204500576": {
       "checked_at": "2026-10-27T16:12:22.094428+00:00",
       "result": {
@@ -448,16 +438,6 @@
         "state": "unreported"
       }
     },
-    "W7213658467": {
-      "checked_at": "2026-10-14T15:29:48.710133+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "stressed teachers sleep pathway linking workload depression anxiety",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7213869505": {
       "checked_at": "2026-10-27T23:10:54.037131+00:00",
       "result": {
@@ -486,26 +466,6 @@
         "state": "unreported"
       }
     },
-    "W7214949930": {
-      "checked_at": "2026-10-14T15:29:50.195252+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Being proactive person doesn mean manage energy well mood does",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "W7215114401": {
-      "checked_at": "2026-10-14T15:29:42.011617+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "boss under pressure stress gets passed down staff quietly push",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "W7218741843": {
       "checked_at": "2026-10-24T14:09:47.338098+00:00",
       "result": {
@@ -516,34 +476,6 @@
         "state": "unreported"
       }
     },
-    "W7220357899": {
-      "checked_at": "2026-10-14T15:29:40.105921+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.channelnewsasia.com/commentary/singapore-ai-jobs-improve-redesign-work-6330546",
-            "outlet": "CNA",
-            "title": "Commentary: Workers shouldn\u2019t have to figure out AI on their own"
-          }
-        ],
-        "outlets": [
-          "CNA"
-        ],
-        "query": "Workers who use redesign their own jobs report meaningful days",
-        "returned": 4,
-        "state": "lightly_reported"
-      }
-    },
-    "W7220405540": {
-      "checked_at": "2026-10-14T15:30:00.070719+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Making work playful cuts burnout but through caution not fun",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "W7220851400": {
       "checked_at": "2026-10-24T14:09:54.004086+00:00",
       "result": {
@@ -551,26 +483,6 @@
         "outlets": [],
         "query": "Actors directors screenwriters improvising three very different responses",
         "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7220865997": {
-      "checked_at": "2026-10-14T15:30:10.460066+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Quiet quitting about laziness than about felt emptiness work",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "W7221041588": {
-      "checked_at": "2026-10-14T15:30:01.561721+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Bosses who talk openly about mental health get than happier",
-        "returned": 1,
         "state": "unreported"
       }
     },
@@ -624,6 +536,16 @@
         "state": "unreported"
       }
     },
+    "W7223046493": {
+      "checked_at": "2026-10-28T16:50:29.650623+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Negative feedback sparks ideas but kills initiative same day",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7223069476": {
       "checked_at": "2026-10-26T17:00:13.833882+00:00",
       "result": {
@@ -650,6 +572,36 @@
         "articles": [],
         "outlets": [],
         "query": "Worried will take job anxiety quietly pushing manage career better",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7223396033": {
+      "checked_at": "2026-10-28T16:50:33.867408+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "bosses ask honest criticism politics turns into flattery",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7223786244": {
+      "checked_at": "2026-10-28T16:50:26.023055+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "leadership styles actually move needle burnout ones get worse crisis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7223936690": {
+      "checked_at": "2026-10-28T16:50:39.263004+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Impulsive bosses aren automatically bad bosses followers see them ethical",
         "returned": 0,
         "state": "unreported"
       }

@@ -1,0 +1,202 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-10-28",
+  "days_back": 60,
+  "window_from": "2026-08-29",
+  "window_to": "2026-10-28",
+  "focus": "Leadership & Management",
+  "topic": "leadership & management",
+  "query": "(leader OR leadership OR manager OR supervisor OR \"middle management\") AND (employee OR workplace OR organization OR subordinate OR team OR follower) AND (\"leadership style\" OR \"transformational leadership\" OR \"servant leadership\" OR \"abusive supervision\" OR \"psychological safety\" OR \"management practice\" OR feedback OR \"trust in leader\" OR \"leader behavior\")",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 21,
+    "not_research": 0,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 10,
+    "over_journal_cap": 3,
+    "over_cap": 0,
+    "sent": 8
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7223786244",
+      "headline": "The leadership styles that actually move the needle on burnout — and the ones that get worse in a crisis",
+      "the_study": "Researchers systematically reviewed 106 longitudinal studies and meta-analyzed 191 time-lagged effect sizes linking leadership style to employee stress, burnout and psychological distress, using Conservation of Resources theory as a frame. Twenty-four of the studies took place in disrupted workplace contexts (novel, critical or discontinuous events). Servant leadership showed the strongest negative association with burnout of any style, while destructive and abusive leadership were consistently and strongly associated with worse mental health across every outcome. Crucially, disruption changed the picture: it weakened the protective link between supportive leadership and stress, and amplified the link between autocratic leadership and psychological distress.",
+      "why_it_matters": "It suggests the leadership behaviors that keep people well in calm times are not automatically the ones that work in a crisis — and that command-and-control styles are especially corrosive precisely when organizations are tempted to reach for them.",
+      "story_angle_primary": "Managers running teams through restructuring, a merger or another shock should treat 'be supportive' as insufficient on its own: this evidence base, drawn from time-lagged field studies, suggests support loses some of its buffering power under disruption while autocratic responses actively worsen distress. Worth auditing what leadership behaviors your crisis playbook actually rewards.",
+      "story_angle_secondary": "For anyone who has watched a decent boss turn into a different person during a reorganization, this synthesis puts numbers on a familiar experience — and shows that a bad boss is one of the most consistent predictors of deteriorating mental health over time.",
+      "caveats": "Meta-analysis of heterogeneous longitudinal studies; most leadership measures are employee self-reports, so perception of leadership and perception of one's own distress often come from the same person. Only 24 of 106 studies involved disruptive contexts, so the moderation findings rest on a thinner evidence base. Evidence was described as mixed for servant leadership outside of burnout.",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-10-27",
+      "doi": "10.1111/joop.70164",
+      "paper_title": "The role of leadership on employee mental ill‐health through workplace disruption: A systematic review and meta‐analysis of longitudinal research",
+      "source_id": "S87328381"
+    },
+    {
+      "work_id": "W7223046493",
+      "headline": "Negative feedback sparks ideas but kills initiative — on the same day",
+      "the_study": "Researchers ran a daily diary study with employees at a consulting firm over 15 working days, tracking days when leaders gave negative feedback and what employees did next. Negative feedback had two opposing paths: it prompted reflection that fed inspiration and more idea generation, but the same reflection also triggered negative affect that reduced 'taking charge' behavior — proactively stepping up to improve things. Employees with a high learning goal orientation got more of the upside and less of the downside.",
+      "why_it_matters": "The same critical conversation can simultaneously make someone more creative and less willing to act, which helps explain why feedback programs produce inconsistent results.",
+      "story_angle_primary": "If you deliver criticism and then wonder why the person generates good suggestions but stops volunteering to fix things, this study offers a mechanism. Managers could test pairing negative feedback with an explicit learning framing — and watch whether initiative drops in the days afterward, not just whether ideas improve.",
+      "story_angle_secondary": "For employees: the demoralizing sting of criticism and the creative spark it produces are not contradictory reactions — they often happen together, and the people who weather it best are those who treat the feedback as information about how to get better rather than a verdict on their worth.",
+      "caveats": "Single consulting firm, short 15-day window, largely self-reported daily measures; the day-level design helps with timing but cannot fully rule out other explanations. Sample size not reported in the abstract.",
+      "journal": "Personnel Review",
+      "published": "2026-10-20",
+      "doi": "10.1108/pr-05-2025-0485",
+      "paper_title": "Is the sting of criticism the honey of praise? The double-edged sword effect of leader's daily negative feedback on employees",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7223396033",
+      "headline": "When bosses ask for honest criticism, politics turns it into flattery",
+      "the_study": "Using three-wave, multi-source data from 288 leader–subordinate dyads, researchers tested what happens when leaders actively solicit negative feedback from the people who report to them. Where employees perceived the organization as highly political, they tended to attribute the leader's request to image management rather than genuine development — and responded with more upward ingratiation rather than honest input. The effect ran through that attribution, not through the feedback-seeking itself.",
+      "why_it_matters": "The standard advice to 'ask your team what you're doing wrong' can backfire in political workplaces, producing flattery that leaves the leader more poorly informed than before.",
+      "story_angle_primary": "Before launching a listening tour or upward feedback push, managers should consider how the request will be read. The study suggests explicitly signaling developmental intent — and working on the political climate — matters more than the frequency of asking.",
+      "story_angle_secondary": "Most employees have faced the moment when a boss says 'be honest with me' and the safest answer is praise. This research describes the calculation behind that instinct and when it kicks in.",
+      "caveats": "Cross-lagged but still correlational; perceived organizational politics, attributions and ingratiation rely heavily on subordinate perception. Sample context (country, industry) not specified in the abstract; dyadic N of 288 is moderate.",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-10-23",
+      "doi": "10.1108/jmp-02-2026-0149",
+      "paper_title": "The downward negative feedback-seeking paradox: when and how it triggers upward ingratiation",
+      "source_id": "S53726244"
+    },
+    {
+      "work_id": "W7223936690",
+      "headline": "Impulsive bosses aren't automatically bad bosses — if followers see them as ethical",
+      "the_study": "A multi-wave field study of 164 leaders and 738 of their followers measured leaders' self-reported trait impulsivity alongside followers' perceptions of ethical leader behavior, hostility toward the leader, and pseudo-transformational (inspiring but self-serving) leadership. The indirect effect of impulsivity actually flipped direction depending on ethical context: where ethical leadership was perceived as low, impulsivity was weakly linked to more hostility and more pseudo-transformational ratings; where ethical leadership was high, impulsive leaders drew less hostility and more favorable evaluations.",
+      "why_it_matters": "It suggests followers do not judge a leader's temperament in isolation — the same spontaneous, quick-trigger behavior reads as recklessness or decisiveness depending on the leader's established ethical track record.",
+      "story_angle_primary": "Leaders who know they act fast and think later may get more latitude than they expect — but only if they have banked a visible record of ethical behavior. Worth considering in selection and development: screening out impulsivity may matter less than building the ethical context in which it is interpreted.",
+      "story_angle_secondary": "A reminder of how much of 'leadership' lives in the eye of the beholder: whether your boss's snap decision looks bold or dangerous depends largely on what you already believe about their integrity.",
+      "caveats": "The low-ethical-leadership indirect effect was only marginally significant, so the headline flip rests on asymmetric evidence. Ethical leadership, hostility and leadership perceptions all come from followers, raising common-source concerns; the design is multi-wave but not experimental, so causality is not established.",
+      "journal": "Personnel Review",
+      "published": "2026-10-27",
+      "doi": "10.1108/pr-03-2025-0205",
+      "paper_title": "How leader impulsivity and unethical behavior shapes follower hostility and pseudo-transformational leadership",
+      "source_id": "S139232146"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7223786244",
+      "headline": "The leadership styles that actually move the needle on burnout — and the ones that get worse in a crisis",
+      "verdict": "accurate",
+      "notes": "Study facts (106 longitudinal studies, 191 time-lagged effect sizes, 24 disrupted contexts, CoR framing) and all four headline findings match the abstract; caveats appropriately note the thin moderation base and the mixed servant-leadership evidence.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "work_id": "W7223046493",
+      "headline": "Negative feedback sparks ideas but kills initiative — on the same day",
+      "verdict": "minor",
+      "notes": "Design and mediation/moderation paths are reported accurately; headline language is more causal and absolute than a 15-day diary study supports.",
+      "issues": [
+        {
+          "label": "Causal/absolute headline for a diary study",
+          "severity": "Minor",
+          "as_written": "Negative feedback sparks ideas but kills initiative — on the same day",
+          "abstract_says": "negative feedback can positively influence idea generation through reflection on negative feedback and inspiration. Conversely, it can also negatively impact taking charge through reflection on negative feedback and negative affect",
+          "problem": "\"Kills initiative\" overstates what is an indirect, within-person association from a 15-day diary study at one firm, and the abstract's hedged \"can\" is dropped. The body text and caveats are appropriately hedged, so the headline is out of step with them.",
+          "suggested_fix": "Soften to something like \"Negative feedback sparks ideas but can dampen initiative — on the same day\"."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7223396033",
+      "headline": "When bosses ask for honest criticism, politics turns it into flattery",
+      "verdict": "minor",
+      "notes": "N, waves, data source and moderated-mediation findings match; a few claims (leaders left \"more poorly informed\", signalling intent mattering \"more than\" frequency) go slightly beyond what the abstract reports.",
+      "issues": [
+        {
+          "label": "Causal phrasing in headline",
+          "severity": "Minor",
+          "as_written": "When bosses ask for honest criticism, politics turns it into flattery",
+          "abstract_says": "when perceived organizational politics is high, subordinates are more likely to attribute leaders' feedback-seeking to image enhancement motives, which in turn are associated with greater upward ingratiation",
+          "problem": "The abstract reports associations from three-wave survey data; \"turns it into\" asserts causation. The caveat flags correlational design, but the headline still reads as causal.",
+          "suggested_fix": "Rephrase to \"...politics is linked to more flattery\" or \"...flattery often follows\"."
+        },
+        {
+          "label": "Outcome not measured",
+          "severity": "Minor",
+          "as_written": "producing flattery that leaves the leader more poorly informed than before",
+          "abstract_says": "attempts to solicit honest input may instead be met with ingratiatory responses",
+          "problem": "The study measured upward ingratiation, not the quality or quantity of information leaders received; the claim that leaders end up worse informed is an inference not tested in the abstract.",
+          "suggested_fix": "Say the request can yield ingratiation instead of candid input, without asserting a net information loss."
+        },
+        {
+          "label": "Untested comparative claim",
+          "severity": "Minor",
+          "as_written": "The study suggests explicitly signaling developmental intent — and working on the political climate — matters more than the frequency of asking.",
+          "abstract_says": "merely encouraging leaders to seek negative feedback is insufficient. Leaders should explicitly signal developmental intent to minimize image enhancement attributions, and organizations should reduce perceived organizational politics",
+          "problem": "The abstract says encouragement alone is insufficient and recommends signalling intent; it does not compare the effect of signalling against frequency of feedback-seeking.",
+          "suggested_fix": "Reword to \"the authors argue that encouraging leaders to ask is not enough on its own — developmental intent needs to be signalled explicitly\"."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7223936690",
+      "headline": "Impulsive bosses aren't automatically bad bosses — if followers see them as ethical",
+      "verdict": "minor",
+      "notes": "Sample (164 leaders / 738 followers), measurement sources and the direction-flipping indirect effect are reported correctly, and the marginal significance is flagged; one practice recommendation makes an untested comparison.",
+      "issues": [
+        {
+          "label": "Untested selection/development comparison",
+          "severity": "Minor",
+          "as_written": "screening out impulsivity may matter less than building the ethical context in which it is interpreted",
+          "abstract_says": "the findings indicate that the impact of impulsivity can be conditional and context-dependent... its effects are contingent on ethical leader behavior",
+          "problem": "The study shows moderation by ethical leader behaviour but makes no comparison between selecting on impulsivity and cultivating ethical context, so the relative-importance advice is the digest's extrapolation.",
+          "suggested_fix": "Frame as a question for practice (\"raises the question of whether ethical context deserves as much attention as trait screening\") rather than a conclusion."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 4,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7223786244": {
+        "query": "leadership styles actually move needle burnout ones get worse crisis",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7223046493": {
+        "query": "Negative feedback sparks ideas but kills initiative same day",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7223396033": {
+        "query": "bosses ask honest criticism politics turns into flattery",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7223936690": {
+        "query": "Impulsive bosses aren automatically bad bosses followers see them ethical",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "**Convergent findings**\n- Servant leadership keeps surfacing as the most reliably protective style, and now with the strongest evidence base yet: the new meta-analysis of 106 longitudinal studies, \"The leadership styles that actually move the needle on burnout\" (W7223786244), found servant leadership most negatively associated with burnout — echoing its buffering role in last run's \"High-performance HR can breed misbehavior in hospitals\" (W7214609077) and its chain to service climate in \"In restaurants, a manager's humility shows up as group trust\" (W7220913877).\n- Destructive leadership as a consistent mental-health hazard: W7223786244 finds abusive and destructive leadership strongly linked to worse outcomes across every measure over time, converging with the previous digest's \"An angry boss who can punish you makes you feel less than human\" (W7220922862), which traced one specific route — dehumanization and withdrawal — by which that damage occurs.\n\n**Advances**\n- The outcome \"taking charge\" now has evidence from both sides of the leader's behavior. Last run, \"Delegation only lands well when the boss shares credit — and absorbs blame\" (W7204196725) showed credit-sharing raised taking charge in experiments; this run, \"Negative feedback sparks ideas but kills initiative\" (W7223046493) shows daily negative feedback suppresses it. Together they start to map what raises and lowers employee initiative at day-level resolution.\n- W7223786244 moves the field from single-site field surveys (the dominant design in the previous digest) to time-lagged meta-analytic evidence, and adds a moderator — workplace disruption — that none of the prior studies tested.\n\n**Counterpoints**\n- Criticism is less unambiguously good than last run implied. \"Servant leaders get better results when they also deliver tough criticism\" (W7221561375) positioned developmental criticism as the missing performance ingredient; W7223046493 shows the same conversation can boost idea generation while depressing proactive follow-through on the very same day, with learning goal orientation deciding the balance. The two are reconcilable but the new study puts a cost on the previous study's prescription.\n- \"Be supportive\" gets qualified. The previous digest consistently treated supportive and servant behaviors as the fix (W7221561375, W7220913877, W7214609077, W7206184378); W7223786244 finds that disruption weakens the protective link between supportive leadership and stress while amplifying the harm of autocratic responses — context, not just style, is doing work.\n\n**New themes**\n- Follower attribution as the active ingredient. Neither \"When bosses ask for honest criticism, politics turns it into flattery\" (W7223396033) nor \"Impulsive bosses aren't automatically bad bosses\" (W7223936690) has a counterpart in the previous digest: both locate the effect in what employees believe about the leader's motives and track record rather than in the leader's behavior itself.\n- Leader traits re-enter the picture. After a run in which leadership was framed as behavior and daily state (W7212753349), W7223936690 brings back a dispositional measure — leader self-reported impulsivity — but only as something whose meaning is set by context.",
+    "feature_pitch": "**The pattern:** This batch says the same leader behavior produces opposite results depending on how it's read — negative feedback that simultaneously sparks ideas and kills initiative (W7223046493), a request for honest criticism that becomes flattery in political workplaces because employees read it as image management (W7223396033), impulsivity that reads as recklessness or decisiveness depending on the leader's ethical track record (W7223936690), and supportive leadership that loses its buffering power precisely when the organization is in crisis (W7223786244). Across all four, the moderator — climate, context, track record, the employee's own orientation — matters as much as the act.\n\n**Why pitch this now:** Companies are pouring money into feedback culture, engagement surveys, listening tours and \"radical candor\" training while restructuring and AI-driven reorganizations give employees every reason to doubt what those requests are really for — which is exactly the condition under which this research says the techniques invert.\n\n**Angle:** A reported feature on why leadership playbooks keep failing in practice: the behaviors are fine, but their meaning is set by a context most managers never audit, and employees are extremely good at reading intent. Written for managers running teams through disruption and for employees trying to decode their boss, with the practical turn being how to establish credibility before deploying the technique.\n\n**Potential headlines:**\n- The same management move helps or hurts depending on what your team thinks you meant by it\n- Why asking your team to be honest with you is the fastest way to get lied to\n- Your boss's crisis playbook is probably making things worse\n\n**Potential outlets:**\n- *Harvard Business Review* — the feedback-seeking backfire (W7223396033) directly contradicts advice HBR's own readership has absorbed, which makes it a natural corrective piece for a manager audience.\n- *WSJ Work & Careers* — fits its interest in what actually happens inside companies during restructurings, where the crisis-moderation finding in W7223786244 has immediate purchase.\n- *Business Insider* — strong fit for the decoding-your-boss framing, which plays to its workplace-culture readership and its appetite for research that explains familiar office behavior.\n- *Refinery29* (Work & Money) — the \"be honest with me\" moment and the sting-plus-spark of criticism translate well into a work-psychology piece for an audience navigating feedback and office politics early in their careers.",
+    "pitch_ideas": "- **The leadership styles that actually move the needle on burnout — and the ones that get worse in a crisis (Work ID W7223786244):** The crisis inversion — why the command-and-control reflex organizations reach for during restructuring is the style this evidence links most strongly to psychological distress, and why support alone stops buffering, for a manager-audience column or a work-psychology explainer in a general-interest outlet.\n- **Negative feedback sparks ideas but kills initiative — on the same day (Work ID W7223046493):** The hidden cost of a critical conversation: better suggestions, less volunteering — and the learning-orientation framing that may protect against the drop, for a manager-audience column or a career-advice column on taking criticism.\n- **When bosses ask for honest criticism, politics turns it into flattery (Work ID W7223396033):** Why upward feedback drives become flattery machines in political organizations, and what signals leaders would need to send first, for an HR explainer or a leadership column.\n- **Impulsive bosses aren't automatically bad bosses — if followers see them as ethical (Work ID W7223936690):** Decisive or reckless is decided by your ethical track record, not your temperament — with implications for how firms screen and develop leaders, noting the weaker evidence on the low-ethics side, for a hiring/leadership-development explainer or a workplace news brief."
+  }
+}
