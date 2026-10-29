@@ -1,0 +1,237 @@
+{
+  "id": "career-psychology-digest-workplace-stress-burnout-2026-10-29",
+  "filename": "Career Psychology Digest — Workplace Stress & Burnout — 2026-10-29.md",
+  "title": "Career Psychology Digest — Workplace Stress & Burnout — 2026-10-29",
+  "run_date": "2026-10-29",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-08-30",
+  "window_to": "2026-10-29",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "9",
+  "articles_found": 31,
+  "screening": {
+    "found": 31,
+    "not_research": 1,
+    "no_abstract": 3,
+    "off_topic": 0,
+    "already_covered": 18,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 9
+  },
+  "focus": "Workplace Stress & Burnout",
+  "topic": "workplace stress & burnout",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 4,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Autonomy protects older workers from burnout more than it protects the young",
+      "paper_title": "The effects of job autonomy on work engagement and burnout: a meta-analysis across ages and cultures",
+      "journal": "Work & Stress",
+      "published": "2026-09-09",
+      "work_id": "W7212031246",
+      "doi": "10.1080/02678373.2026.2718052",
+      "source_id": "S141527467",
+      "the_study": "A meta-analysis of 120 independent studies published between 2015 and 2024, covering 139,138 employees, examined how job autonomy relates to burnout and work engagement, and whether age or national culture changes the picture. Autonomy was negatively related to burnout and positively — but only slightly — related to work engagement. The protective link with burnout was significantly weaker in samples whose average age was under 35 than in later-career samples, while national individualism and power distance made no difference at all.",
+      "why_it_matters": "\"Give people more autonomy\" is one of the most common prescriptions for burnout, but this suggests the payoff depends on career stage — and that the engagement boost from autonomy is smaller than most management advice implies.",
+      "story_angle_primary": "Managers running well-being or flexibility programs should question a one-size-fits-all autonomy policy: early-career staff may need structure, coaching and clear expectations before freedom becomes protective, while experienced employees get the biggest burnout relief from discretion. Worth testing internally by segmenting engagement survey results by tenure and age rather than reporting a single company-wide number.",
+      "story_angle_secondary": "The findings complicate the idea that freedom at work is always a gift. For someone early in a career, being left alone to figure it out may feel less like autonomy and more like being adrift — and the data suggest it does less to stop them burning out.",
+      "caveats": "Meta-analysis of mostly cross-sectional primary studies, so causal direction is unclear; the autonomy–engagement correlation is described as small; age was measured as a sample-level mean, not individually, so the moderation is a between-study inference; culture moderators were null, which may reflect limited variation across the included samples.",
+      "score": 88,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 139138,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Study facts, N and moderator results match the abstract; one small omission (age also slightly moderated the engagement relationship) and an unverifiable caveat about primary-study design.",
+      "tags": [
+        "career development & mobility",
+        "leadership & management",
+        "motivation & engagement",
+        "workplace stress & burnout"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "Five ways people settle into a new job — and the one that goes badly",
+      "paper_title": "Socialization pathways: A longitudinal investigation of newcomers' onboarding profiles",
+      "journal": "Journal of Vocational Behavior",
+      "published": "2026-10-24",
+      "work_id": "W7223449472",
+      "doi": "10.1016/j.jvb.2026.104309",
+      "source_id": "S25746158",
+      "the_study": "Researchers tracked 932 new employees (average age 40, 58.5% female) over 18 months, using latent profile analysis to identify distinct onboarding pathways based on how much newcomers were socialized into their task, their workgroup and the wider organization. Five stable profiles emerged, from \"Perfectly Adapted\" to \"Ill-Adapted Task-Driven.\" Newcomers who engaged with more than one socialization domain fared best; those who focused only on mastering the task had the worst outcomes, including higher emotional exhaustion and turnover intentions, while an organization-focused pathway was, at least in the short term, as beneficial as one centered on team and task.",
+      "why_it_matters": "Most onboarding programs are built around getting people productive in the role fast — but the data suggest task-only onboarding is the single worst route, predicting exhaustion and exit rather than performance.",
+      "story_angle_primary": "Audit what your onboarding actually covers: if the first 90 days are all systems training and role mastery with no deliberate investment in team relationships and organizational understanding, you may be manufacturing early attrition. Profile membership was linked to commitment to supervisor and coworkers specifically, pointing to manager and buddy relationships as levers.",
+      "story_angle_secondary": "For anyone starting a new job, the instinct is to prove yourself by nailing the work. This 18-month study suggests that's the pathway most likely to leave you exhausted and looking for the exit — and that time spent learning the people and the place is not a distraction from performance.",
+      "caveats": "Observational longitudinal design, so profile membership is associated with, not proven to cause, outcomes; outcomes appear to be self-reported, including performance; profile analyses are sensitive to modeling choices; sample composition and country context are not detailed in the abstract.",
+      "score": 83,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": 932,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample, design, profile names and the \"task-only is worst\" conclusion match; the specific outcome directions attributed to the task-only profile and the selective mention of supervisor/coworker commitment go slightly beyond the abstract.",
+      "tags": [
+        "career development & mobility",
+        "hiring & selection",
+        "team dynamics & collaboration",
+        "workplace stress & burnout"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 3,
+      "title": "Answering email on the morning commute helps; doing it on the way home doesn't",
+      "paper_title": "Does work‐related information and communication technology use during daily commutes promote the speed of work engagement? A role transition perspective",
+      "journal": "Applied Psychology",
+      "published": "2026-10-01",
+      "work_id": "W7223307249",
+      "doi": "10.1111/apps.70150",
+      "source_id": "S47864991",
+      "the_study": "An experience-sampling study followed 149 employees across 10 consecutive workdays, measuring work-related phone and device use during both legs of the daily commute. Using work technology on the way in predicted greater psychological detachment from home, which in turn sped up how quickly employees became engaged in work that morning. Using it on the way home predicted more work-to-home conflict — and those with higher perceived task significance showed the strongest effects in both directions.",
+      "why_it_matters": "Commute technology use isn't uniformly good or bad: the same behavior appears to function as a helpful on-ramp in the morning and a boundary violation in the evening.",
+      "story_angle_primary": "Managers setting norms about after-hours messaging might distinguish by direction rather than banning commute work outright — an inbound commute spent orienting to the day looks different from an outbound one spent on email. Worth watching for employees who find their work especially meaningful, since they seem most exposed to both the upside and the spillover.",
+      "story_angle_secondary": "For commuters, this reframes a familiar habit: scanning work messages on the train in may genuinely help you shift out of home mode and start the day faster, while doing it on the way home drags work across the threshold with you.",
+      "caveats": "All measures are self-reported, including engagement speed; one key hypothesized path (work-to-home conflict predicting next-day engagement speed) was not significant; N=149 over a short 10-day window; daily within-person associations cannot fully rule out reverse causation or unmeasured daily events; country and occupational context not specified in the abstract.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "experience sampling",
+      "sample_size": 149,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Design, N, duration, mediation paths, the non-significant path and the task-significance moderation all match the abstract; caveats appropriately flag self-report and the null path.",
+      "tags": [
+        "motivation & engagement",
+        "wellbeing & work-life balance",
+        "workplace communication",
+        "workplace stress & burnout"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 4,
+      "title": "Faking the supportive-boss face costs managers; genuinely feeling it doesn't",
+      "paper_title": "Other side of the coin: intrapersonal effects of managerial interpersonal emotion regulation",
+      "journal": "Journal of Managerial Psychology",
+      "published": "2026-10-26",
+      "work_id": "W7223665250",
+      "doi": "10.1108/jmp-01-2026-0031",
+      "source_id": "S53726244",
+      "the_study": "Eighty-one managers across three business units of a financial services company completed five daily surveys in an experience-sampling diary study, reporting on how they managed employees' emotions each day. Surface acting — putting on an emotional display they didn't feel — was linked within-person to higher emotional dissonance and emotional exhaustion. Deep acting, where managers worked to actually feel the emotion they expressed, showed no significant relationship with either strain outcome.",
+      "why_it_matters": "Leadership advice increasingly asks managers to regulate their teams' emotions, but this is among the few studies to price that labor for the manager — and it suggests the cost lands specifically on performative, not authentic, emotional work.",
+      "story_angle_primary": "If your organization trains managers to be relentlessly upbeat and supportive, you may be prescribing surface acting and quietly draining your middle layer. The more defensible training target is helping managers genuinely reframe situations rather than rehearse expressions — and giving them permission not to perform optimism they don't have.",
+      "story_angle_secondary": "Anyone who has had a boss whose encouragement felt hollow may be interested to learn the boss likely paid for it too: the daily effort of projecting feelings you don't have tracked directly with exhaustion.",
+      "caveats": "Small sample of 81 managers in a single financial company, limiting generalizability; self-report diary measures of both predictors and outcomes raise common-method concerns; the deep acting result is a null finding, which with this sample size may reflect low statistical power rather than genuine absence of cost; country not specified in the abstract.",
+      "score": 83,
+      "band": "Lead",
+      "evidence_type": "experience sampling",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Sample (n = 81 managers, three business units of a financial company), five-survey diary design, surface-acting findings and the deep-acting null all match; caveats flag the single-company sample, common-method concerns and the power limits of the null.",
+      "tags": [
+        "leadership & management",
+        "team dynamics & collaboration",
+        "workplace stress & burnout"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7212031246",
+      "journal": "Work & Stress",
+      "date": "2026-09-09",
+      "doi": "10.1080/02678373.2026.2718052"
+    },
+    {
+      "work_id": "W7223449472",
+      "journal": "Journal of Vocational Behavior",
+      "date": "2026-10-24",
+      "doi": "10.1016/j.jvb.2026.104309"
+    },
+    {
+      "work_id": "W7223307249",
+      "journal": "Applied Psychology",
+      "date": "2026-10-01",
+      "doi": "10.1111/apps.70150"
+    },
+    {
+      "work_id": "W7223665250",
+      "journal": "Journal of Managerial Psychology",
+      "date": "2026-10-26",
+      "doi": "10.1108/jmp-01-2026-0031"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- *The manager's own regulation work is a job demand.* \"Faking the supportive-boss face costs managers; genuinely feeling it doesn't\" (W7223665250) sits squarely alongside the previous digest's \"When the boss is under pressure, the stress gets passed down\" (W7215114401) and \"Bosses who talk openly about mental health get more than happier staff\" (W7221041588). Last run showed managers absorbing demands and being asked to attend to employees' psychological well-being; this run prices that request — the daily cost lands on performative emotion management specifically, not on authentic reframing.\n- *Boundary and recovery mechanisms keep getting more granular.* \"Answering email on the morning commute helps; doing it on the way home doesn't\" (W7223307249) extends the previous digest's mechanism-hunting — sleep quality carrying the demand pathway for teachers (W7213658467) and daily mood gating energy management (W7214949930) — by locating the action in a specific, repeated daily transition rather than in a trait or a general recovery capacity.\n\n**Counterpoints**\n- *Autonomy is not the universal lever the crafting literature implies.* \"Autonomy protects older workers from burnout more than it protects the young\" (W7212031246) is the first real brake on the previous digest's most consistent story — that employee-directed redesign pays off (AI-driven job crafting, W7220357899; playful work design, W7220405540). A 120-study meta-analysis finds the burnout protection is significantly weaker in samples averaging under 35, and the engagement benefit small overall. Discretion is conditional on career stage, which none of last run's crafting studies tested.\n- *Culture moderators come up empty.* Last run leaned on single-country samples with implied cultural specificity (Pakistan, W7220405540; Kazakhstan, W7220865997; the Netherlands, W7221041588). The new meta-analysis found national individualism and power distance made no difference to the autonomy–burnout link at all, which argues for caution before treating last run's country-bound findings as culturally distinctive.\n\n**New themes**\n- *Burnout risk is set during onboarding.* \"Five ways people settle into a new job — and the one that goes badly\" (W7223449472) introduces the newcomer's first 18 months as an origin point for emotional exhaustion and turnover intentions, with task-only socialization as the worst pathway. The previous digest had nothing on organizational entry.\n- *Career stage as a moderator* appears for the first time, through W7212031246 and, indirectly, W7223449472 — a shift from asking what protects workers to asking which workers it protects.",
+  "feature_pitch_raw": "**The pattern:** Three of these four studies converge on scaffolding — structure, ritual and relationship — doing work that freedom alone does not. Autonomy's burnout protection is significantly weaker for workers under 35 (W7212031246); new hires who concentrate on mastering the task and nothing else end up the most exhausted and the most likely to leave (W7223449472); and the morning commute functions as an on-ramp that speeds engagement, while the same behavior on the way home leaks work into home life (W7223307249). The fourth closes the loop uncomfortably: the managers expected to supply that scaffolding are depleted precisely when they perform support they don't feel (W7223665250).\n\n**Why pitch this now:** Employers have spent five years dismantling exactly these structures — remote and asynchronous onboarding, \"autonomy\" and flexibility as the headline well-being benefit, the commute recast as pure waste — while thinning the middle-management layer that would otherwise fill the gap, and entry-level work is being hollowed out by AI at the same moment.\n\n**Angle:** A reported feature arguing that the post-2020 workplace optimized away the structures that actually protected people, and that the cost is falling hardest on the newest workers and the managers asked to compensate. Primary fit is a business and management readership; a general-interest version works as a piece on why so many people feel adrift in jobs that are, on paper, more flexible than ever.\n\n**Potential headlines:**\n- What the research says early-career workers need before they can use freedom\n- Autonomy is a benefit you have to be old enough to cash\n- Your new job is flexible, unstructured and quietly wearing you out\n\n**Potential outlets:**\n- *Harvard Business Review* — the onboarding-profile and autonomy-moderation findings translate directly into a challenge to how companies design the first 90 days and segment flexibility policy by tenure rather than offering one blanket program.\n- *Fast Company* — its Work Life desk has built a long run on flexibility-as-perk; this is the evidence-backed reversal, with the manager emotional-labor cost as the twist.\n- *The Atlantic* — fits its interest in the social architecture of work: the argument that the commute, the office relationship and the slow absorption into an organization were load-bearing, not overhead.\n- *Stylist* (Work/Life) — the general-interest version for readers in their twenties and thirties who were told autonomy was the prize and can't work out why the freedom feels like drift.",
+  "pitch_ideas_raw": "- **Autonomy protects older workers from burnout more than it protects the young (Work ID W7212031246):** Lead with the age moderation — 120 studies and 139,138 employees suggest freedom is a weaker shield for under-35 samples, and the engagement payoff is small for everyone; for a manager-audience column on flexibility policy, or an HR explainer on segmenting engagement data by tenure instead of reporting one company-wide score.\n- **Five ways people settle into a new job — and the one that goes badly (Work ID W7223449472):** The actionable reversal — the new hire who puts their head down and masters the role is on the pathway most associated with exhaustion and exit, while relationships with supervisor and coworkers track with the best outcomes; for a career-advice column on the first 90 days, or an HR/onboarding explainer.\n- **Answering email on the morning commute helps; doing it on the way home doesn't (Work ID W7223307249):** The direction-of-travel hook — the same habit works as an on-ramp inbound and a boundary breach outbound, with the most meaning-invested employees most exposed both ways; for a work-psychology explainer in a general-interest or women's/lifestyle outlet, or a short workplace news brief on rethinking blanket after-hours messaging bans.\n- **Faking the supportive-boss face costs managers; genuinely feeling it doesn't (Work ID W7223665250):** Price the emotional labor of middle management — surface acting tracked daily with dissonance and exhaustion, deep acting did not, which argues against training managers to perform relentless positivity; for a manager-audience leadership column or a management-training explainer, with the 81-manager single-firm sample and the underpowered null stated plainly.",
+  "fact_check": {
+    "studies_reviewed": 4,
+    "verdicts_by_work": {
+      "W7212031246": "⚠️ Minor issues",
+      "W7223449472": "⚠️ Minor issues",
+      "W7223307249": "✅ Accurate",
+      "W7223665250": "✅ Accurate"
+    },
+    "summary": {
+      "total_issues": "5 (5 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "2",
+      "entries_cleared": "2"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Workplace Stress & Burnout — 2026-10-29\n**Checked:** 2026-10-29 | **Studies reviewed:** 4\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Autonomy protects older workers from burnout more than it protects the young\n**Work ID:** W7212031246 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Age moderation of engagement omitted** — Severity: Minor\n\n- **As written:** \"The protective link with burnout was significantly weaker in samples whose average age was under 35 than in later-career samples, while national individualism and power distance made no difference at all.\"\n- **Abstract says:** \"Moderation analyses indicated that both relationships were slightly stronger among older employees. Supplementary analyses further showed that this moderation effect was not continuous. The relationship between job autonomy and burnout was significantly weaker for early-career employees (samples with a mean age under 35) than for later-career employees.\"\n- **Problem:** The digest reports only the burnout moderation, which may leave readers thinking age did not moderate the autonomy–engagement link at all; the abstract says both relationships were slightly stronger among older employees (though only burnout showed the significant early- vs later-career split).\n- **Suggested fix:** \"Add a clause: \"Both relationships were slightly stronger among older employees, but only the autonomy–burnout link showed a significant early- vs later-career difference.\"\"\n\n**Issue B. Cross-sectional claim not in abstract** — Severity: Minor\n\n- **As written:** \"Meta-analysis of mostly cross-sectional primary studies, so causal direction is unclear\"\n- **Abstract says:** \"The abstract does not describe the design of the included primary studies.\"\n- **Problem:** The characterization of the underlying studies as \"mostly cross-sectional\" cannot be verified from the abstract alone, even though the causal caution itself is appropriate.\n- **Suggested fix:** \"Reword to \"Meta-analysis of correlational data, so causal direction is unclear\" unless the primary-study designs are confirmed in the full text.\"\n\n### Study 2: Five ways people settle into a new job — and the one that goes badly\n**Work ID:** W7223449472 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Outcome specifics attributed to the worst profile** — Severity: Minor\n\n- **As written:** \"those who focused only on mastering the task had the worst outcomes, including higher emotional exhaustion and turnover intentions\"\n- **Abstract says:** \"The worst profile was driven solely by task socialization. ... Profile membership was associated with different patterns of adaptation in terms of work-related outcomes (i.e., performance, turnover intentions, job engagement, emotional exhaustion)\"\n- **Problem:** The abstract names exhaustion and turnover intentions only as outcomes studied; it does not state the direction of these outcomes for the Ill-Adapted Task-Driven profile, and the \"worst profile\" label is applied to global socialization experiences.\n- **Suggested fix:** \"Say the task-only profile was the least adaptive overall and that profile membership was linked to differing patterns on performance, turnover intentions, engagement and exhaustion, without assigning specific directions.\"\n\n**Issue B. 'Rather than performance' inference** — Severity: Minor\n\n- **As written:** \"task-only onboarding is the single worst route, predicting exhaustion and exit rather than performance\"\n- **Abstract says:** \"Profile membership was associated with different patterns of adaptation in terms of work-related outcomes (i.e., performance, turnover intentions, job engagement, emotional exhaustion)\"\n- **Problem:** The abstract reports associations only; it does not say the task-only path failed to deliver performance, and \"predicting\" leans causal for an observational latent-profile design.\n- **Suggested fix:** \"Reframe as \"task-only onboarding was the least adaptive pathway and was associated with less favourable adaptation outcomes.\"\"\n\n**Issue C. Selective reporting of commitment predictors** — Severity: Minor\n\n- **As written:** \"Profile membership was linked to commitment to supervisor and coworkers specifically, pointing to manager and buddy relationships as levers.\"\n- **Abstract says:** \"Newcomers' workplace affective commitment, specifically organization, task, supervisor and coworker commitments, were positively associated with membership into more desirable socialization profiles, albeit distinctively.\"\n- **Problem:** Four commitment foci were examined (organization, task, supervisor, coworker) and all were positively associated with more desirable profiles; singling out supervisor and coworker as \"specifically\" misrepresents the finding, and the abstract treats commitment as a predictor of profile membership rather than a correlate of it.\n- **Suggested fix:** \"State that commitment to the organization, task, supervisor and coworkers were all positively associated with membership in more desirable profiles.\"\n\n### Study 3: Answering email on the morning commute helps; doing it on the way home doesn't\n**Work ID:** W7223307249 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 4: Faking the supportive-boss face costs managers; genuinely feeling it doesn't\n**Work ID:** W7223665250 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Autonomy protects older workers from burnout more than it protects the young | ⚠️ Minor issues | Study facts, N and moderator results match the abstract; one small omission (age also slightly moderated the engagement relationship) and an unverifiable caveat about primary-study design. |\n| 2 | Five ways people settle into a new job — and the one that goes badly | ⚠️ Minor issues | Sample, design, profile names and the \"task-only is worst\" conclusion match; the specific outcome directions attributed to the task-only profile and the selective mention of supervisor/coworker commitment go slightly beyond the abstract. |\n| 3 | Answering email on the morning commute helps; doing it on the way home doesn't | ✅ Accurate | Design, N, duration, mediation paths, the non-significant path and the task-significance moderation all match the abstract; caveats appropriately flag self-report and the null path. |\n| 4 | Faking the supportive-boss face costs managers; genuinely feeling it doesn't | ✅ Accurate | Sample (n = 81 managers, three business units of a financial company), five-survey diary design, surface-acting findings and the deep-acting null all match; caveats flag the single-company sample, common-method concerns and the power limits of the null. |\n\n**Total issues:** 5 (5 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 2\n**Entries cleared:** 2\n"
+  },
+  "coverage": {
+    "checked": 4,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}

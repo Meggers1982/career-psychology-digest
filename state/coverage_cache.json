@@ -318,6 +318,16 @@
         "state": "unreported"
       }
     },
+    "W7212031246": {
+      "checked_at": "2026-10-29T17:06:08.618034+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Autonomy protects older workers burnout than protects young",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7212149146": {
       "checked_at": "2026-10-27T16:12:06.476640+00:00",
       "result": {
@@ -576,12 +586,42 @@
         "state": "unreported"
       }
     },
+    "W7223307249": {
+      "checked_at": "2026-10-29T17:06:12.374043+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Answering email morning commute helps doing way home doesn",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
     "W7223396033": {
       "checked_at": "2026-10-28T16:50:33.867408+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "bosses ask honest criticism politics turns into flattery",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7223449472": {
+      "checked_at": "2026-10-29T17:06:10.602989+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Five ways people settle into job one goes badly",
+        "returned": 15,
+        "state": "unreported"
+      }
+    },
+    "W7223665250": {
+      "checked_at": "2026-10-29T17:06:22.838249+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Faking supportive boss face costs managers genuinely feeling doesn",
         "returned": 0,
         "state": "unreported"
       }
