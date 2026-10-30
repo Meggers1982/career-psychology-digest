@@ -466,6 +466,26 @@
         "state": "lightly_reported"
       }
     },
+    "W7213985838": {
+      "checked_at": "2026-10-30T16:53:07.311323+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Expats who adapt well better abroad bigger culture gap pays",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7214167465": {
+      "checked_at": "2026-10-30T16:52:44.836060+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "morning portfolio check deciding bold work",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7214180006": {
       "checked_at": "2026-10-27T16:11:33.508974+00:00",
       "result": {
@@ -496,6 +516,26 @@
         "state": "unreported"
       }
     },
+    "W7221245981": {
+      "checked_at": "2026-10-30T16:52:53.478471+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Rewriting job help colleagues only pays off performance review one",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7221331977": {
+      "checked_at": "2026-10-30T16:52:51.937796+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "employees explain who got promoted predicts engaged they women younger",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7221798128": {
       "checked_at": "2026-10-26T17:00:10.552010+00:00",
       "result": {
@@ -506,6 +546,16 @@
         "state": "unreported"
       }
     },
+    "W7221798889": {
+      "checked_at": "2026-10-30T16:52:32.024296+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "dark side job crafting reshaping leave fighting identity",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7222280836": {
       "checked_at": "2026-10-24T14:10:06.694172+00:00",
       "result": {
@@ -513,6 +563,26 @@
         "outlets": [],
         "query": "Fifty years Canadian census data immigrants still earn concentrated wrong",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7222470451": {
+      "checked_at": "2026-10-30T16:52:54.646204+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Career skills predict feeling successful later but only act them",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7222847257": {
+      "checked_at": "2026-10-30T16:52:28.714618+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Jobs moderately complex not simple hard make people most likely",
+        "returned": 20,
         "state": "unreported"
       }
     },
@@ -546,6 +616,16 @@
         "state": "unreported"
       }
     },
+    "W7223031859": {
+      "checked_at": "2026-10-30T16:52:27.465673+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "CEOs quit top bottom middling performers who hang",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7223046493": {
       "checked_at": "2026-10-28T16:50:29.650623+00:00",
       "result": {
@@ -576,12 +656,42 @@
         "state": "unreported"
       }
     },
+    "W7223147797": {
+      "checked_at": "2026-10-30T16:52:35.287009+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "immigrants cultural potluck best career networking event town",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "W7223279808": {
       "checked_at": "2026-10-24T14:09:44.129160+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Worried will take job anxiety quietly pushing manage career better",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7223284391": {
+      "checked_at": "2026-10-30T16:53:00.787335+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "people who want job inside their own company never make",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "W7223306094": {
+      "checked_at": "2026-10-30T16:52:40.281933+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Pressure only turns into proactive work employees have inner resources",
         "returned": 0,
         "state": "unreported"
       }

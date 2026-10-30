@@ -1,8 +1,9 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 24,
+  "run_count": 25,
   "topics": [
     "ai & the future of work",
+    "career development & mobility",
     "compensation",
     "diversity, equity & inclusion at work",
     "entrepreneurship",
@@ -17,6 +18,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-career-development-mobility-2026-10-30",
+      "title": "Career Psychology Digest — Career Development & Mobility — 2026-10-30",
+      "topic": "career development & mobility",
+      "run_date": "2026-10-30",
+      "study_count": 11,
+      "total_issues": "9 (6 Minor, 3 Moderate, 0 Major)",
+      "lead_count": 6,
+      "top_score": 90
+    },
     {
       "id": "career-psychology-digest-workplace-stress-burnout-2026-10-29",
       "title": "Career Psychology Digest — Workplace Stress & Burnout — 2026-10-29",
