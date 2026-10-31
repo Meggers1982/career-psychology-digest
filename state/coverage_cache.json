@@ -616,6 +616,16 @@
         "state": "unreported"
       }
     },
+    "W7222969019": {
+      "checked_at": "2026-10-31T15:53:07.137083+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "evidence hiring tests predict job performance shakier than textbooks say",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7223031859": {
       "checked_at": "2026-10-30T16:52:27.465673+00:00",
       "result": {
@@ -643,6 +653,16 @@
         "outlets": [],
         "query": "fathers finance take long paternity leave ripple past their own",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "W7223109819": {
+      "checked_at": "2026-10-31T15:53:03.290342+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "machine screens job applicants Chile Germany India react very differently",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -752,6 +772,16 @@
         "articles": [],
         "outlets": [],
         "query": "Impulsive bosses aren automatically bad bosses followers see them ethical",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7224595503": {
+      "checked_at": "2026-10-31T15:53:10.202140+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Brazil Black workers report work meets fewer their basic needs",
         "returned": 0,
         "state": "unreported"
       }

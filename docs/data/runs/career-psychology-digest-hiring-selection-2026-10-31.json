@@ -1,0 +1,187 @@
+{
+  "id": "career-psychology-digest-hiring-selection-2026-10-31",
+  "filename": "Career Psychology Digest — Hiring & Selection — 2026-10-31.md",
+  "title": "Career Psychology Digest — Hiring & Selection — 2026-10-31",
+  "run_date": "2026-10-31",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-01",
+  "window_to": "2026-10-31",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "5",
+  "articles_found": 24,
+  "screening": {
+    "found": 24,
+    "not_research": 1,
+    "no_abstract": 2,
+    "off_topic": 0,
+    "already_covered": 16,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 5
+  },
+  "focus": "Hiring & Selection",
+  "topic": "hiring & selection",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 3,
+  "studies": [
+    {
+      "number": 1,
+      "title": "When a machine screens you: job applicants in Chile, Germany and India react very differently",
+      "paper_title": "Applicants’ perceptions of AI in personnel selection across Chile, Germany, and India",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-10-21",
+      "work_id": "W7223109819",
+      "doi": "10.1080/09585192.2026.2750359",
+      "source_id": "S184846731",
+      "the_study": "Researchers ran a between-subjects vignette experiment with 252 participants in Chile, Germany and India, asking them to imagine applying to a company where their application would be evaluated either by AI or by a human. Compared with human evaluation, AI evaluation made applicants feel they had less opportunity to show what they could do, but made the employer look more innovative — and both perceptions fed through to how attractive the organization seemed overall. Perceived consistency of the AI did not mediate anything, and country mattered: Chilean and Indian applicants rated AI as less consistent than German applicants did, while Germans saw it as more innovative than Indians did.",
+      "why_it_matters": "Multinational employers tend to roll out one global AI screening stack, but the same tool can read as cutting-edge in one labor market and as an unfair black box in another, affecting who bothers to apply.",
+      "story_angle_primary": "If you are introducing AI screening, this suggests two levers worth testing in your own funnel: explicitly building in a stage where candidates feel they can show their case (the 'opportunity to perform' deficit), and localizing how the tool is explained rather than exporting one global message. Treat it as a hypothesis to A/B test on real applicant drop-off, not an established result.",
+      "story_angle_secondary": "For job seekers, it is a reminder that an AI-screened application feels different from a human one — many people sense they cannot make their case to an algorithm — and that this gut reaction is shaped partly by how much institutional trust exists in the country you are applying in.",
+      "caveats": "Hypothetical vignettes, not real job applications; total N=252 split across three countries means modest cells per condition; perceptions and outcomes measured from the same respondents at the same time.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "experimental vignette",
+      "sample_size": 252,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, N and mediation results match the abstract. Two small issues: the abstract's null country difference for 'opportunity to perform' is dropped, and the 'institutional trust' explanation goes beyond what the abstract states.",
+      "tags": [
+        "ai & the future of work",
+        "hiring & selection"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "The evidence that hiring tests predict job performance is shakier than the textbooks say",
+      "paper_title": "Building on Shaky Foundations: A Critical Review of Criterion Validity Evidence in Personnel Selection",
+      "journal": "International Journal of Selection and Assessment",
+      "published": "2026-10-19",
+      "work_id": "W7222969019",
+      "doi": "10.1111/ijsa.70086",
+      "source_id": "S148368070",
+      "the_study": "Two selection researchers systematically reviewed the most recent meta-analytic literature on the criterion validity of the predictors employers use to hire — the studies behind the familiar claims that cognitive tests, structured interviews and personality measures predict job performance. Their core objection: most underlying data come from concurrent studies of current employees, who face no real stakes and are not representative of actual applicant pools, and the resulting corrections for range restriction rest on assumptions rather than credible information. They conclude that the existing body of work cannot support firm conclusions about how well these predictors work in real, operational selection settings, and argue the field needs better primary studies rather than more meta-analyses.",
+      "why_it_matters": "Validity coefficients from meta-analyses are routinely used to justify assessment purchases and to defend hiring decisions legally; if the operational validity is genuinely unknown, buyers are paying for a number that was never measured under real hiring conditions.",
+      "story_angle_primary": "Next time a vendor or an internal HR deck cites a validity figure for an assessment, ask where the number came from: applicants competing for a real job, or incumbents taking a test with nothing at stake? The authors' point gives managers a concrete due-diligence question and an argument for collecting their own predictive validity data on actual hires.",
+      "story_angle_secondary": "For anyone who has sweated through a hiring test, the quiet admission here is that the science justifying those tests was largely built on employees taking them with no job on the line — a very different psychological situation from the one candidates face.",
+      "caveats": "A critical review, not new empirical data; it argues the evidence is uncertain rather than demonstrating that the predictors do not work, and other researchers in the field dispute the severity of these corrections.",
+      "score": 83,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "The review's core argument and conclusion are represented faithfully. Author count and the claim that other researchers dispute the critique are not in the abstract; the review's positive observations are omitted.",
+      "tags": [
+        "hiring & selection",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 3,
+      "title": "In Brazil, Black workers report that work meets fewer of their basic needs",
+      "paper_title": "The Work Needs Satisfaction Scale in Brazil: Psychometric Evidence and Differences by Gender and Race/Color",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-10-29",
+      "work_id": "W7224595503",
+      "doi": "10.1177/10690727261504430",
+      "source_id": "S68758695",
+      "the_study": "Across three independent waves of data collection, researchers surveyed 1,521 Brazilian adults (67.2% women, average age 35) to validate a Brazilian version of the Work Needs Satisfaction Scale, which measures how far a job satisfies needs for survival, social contribution, competence, relatedness and autonomy. The five-factor structure held up and measured equivalently across gender and race/color groups, meaning the comparisons are meaningful rather than artifacts of the instrument. Black participants reported significantly lower satisfaction than White participants on survival, social contribution, competence and autonomy; there was no significant gender-by-race interaction.",
+      "why_it_matters": "The gaps are not just about pay: Black respondents reported less room to exercise autonomy, use their skills and contribute meaningfully — dimensions of job quality that employers control directly through job design and promotion decisions.",
+      "story_angle_primary": "Managers running engagement surveys rarely break results out by race; this shows the gap can sit in specific, fixable areas like autonomy and skill use rather than in a single overall satisfaction score. Worth checking whether your own survey can support that breakdown.",
+      "story_angle_secondary": "A reminder that labor market inequality shows up in the everyday texture of a job — how much say you have, whether your work feels like it counts — and not only in the paycheck.",
+      "caveats": "Cross-sectional self-report, so no causal claims; convenience sample from one country and skewed toward women; the group difference is a descriptive comparison that does not control for occupation, education or income; primarily a scale-validation study.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "large-sample survey",
+      "sample_size": 1521,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample, demographics, factor structure and the pattern of race/color differences all match the abstract. Only nuance: the invariance evidence rested on practical fit-index criteria, and the sample is Brazilian adults rather than a verified employed workforce.",
+      "tags": [
+        "career development & mobility",
+        "hiring & selection",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7223109819",
+      "journal": "The International Journal of Human Resource Management",
+      "date": "2026-10-21",
+      "doi": "10.1080/09585192.2026.2750359"
+    },
+    {
+      "work_id": "W7222969019",
+      "journal": "International Journal of Selection and Assessment",
+      "date": "2026-10-19",
+      "doi": "10.1111/ijsa.70086"
+    },
+    {
+      "work_id": "W7224595503",
+      "journal": "Journal of Career Assessment",
+      "date": "2026-10-29",
+      "doi": "10.1177/10690727261504430"
+    }
+  ],
+  "trends_raw": "**Counterpoints**\n- The sharpest tension in two runs: \"The evidence that hiring tests predict job performance is shakier than the textbooks say\" (W7222969019) directly undercuts the confidence of last month's \"Video job tests work as well as written ones — and are easier on candidates' brains\" (W7214648548). The SJT meta-analysis pooled 244,257 people to argue formats are interchangeable without validity loss; the new critical review argues the meta-analytic base behind such validity claims rests on concurrent studies of unmotivated incumbents and assumption-driven range-restriction corrections. Worth noting the partial rebuttal already sitting in the older study: the SJT authors found validity *higher* among real applicants than in research-only samples, which is the exact comparison W7222969019 says the field mostly lacks.\n\n**Advances**\n- Candidate reactions to assessment technology move from format to evaluator. W7214648548 showed that *how* a test is delivered (video, webcam, open response) changes cognitive load but not validity; \"When a machine screens you: job applicants in Chile, Germany and India react very differently\" (W7223109819) shifts the question to *who or what* is judging, finding that machine evaluation costs applicants a sense of opportunity to perform while buying the employer an innovation halo — and that the trade-off lands differently by country.\n\n**Convergent findings**\n- Inequality keeps showing up in the texture of the job rather than in formal policy or pay. \"In Brazil, Black workers report that work meets fewer of their basic needs\" (W7224595503) finds the gaps concentrated in autonomy, competence and social contribution, converging with the previous digest's \"Workers with invisible disabilities get doubted; workers with visible ones get assumed about\" (W7211881958) and \"'Always on display': migrant women of color describe what inclusion policies miss\" (W7207613776), both of which located the failure in daily experience rather than in the written provisions.\n\n**New themes**\n- Measurement itself becomes the story. The previous digest's studies argued about findings; two of three new ones argue about instruments — whether validity coefficients were ever estimated under real hiring conditions (W7222969019), and whether a needs-satisfaction scale measures equivalently across race and gender before any group comparison is made (W7224595503). Nothing in the September run interrogated the measurement layer this directly.\n- Non-Western and cross-national evidence broadens: Chile, Germany and India (W7223109819) plus Brazil (W7224595503), against the previous run's Ireland, Pakistan and a Western-dominated disability literature.",
+  "feature_pitch_raw": "**The pattern:** All three studies, in different ways, say the numbers employers rely on in hiring and job-quality management may not mean what they are taken to mean. W7222969019 argues the criterion-validity figures used to sell and legally defend assessments were largely generated on current employees with nothing at stake; W7223109819 shows the same AI screening setup reads as innovative in Germany and as less consistent in Chile and India, so one global tool produces non-equivalent candidate experiences; and W7224595503 demonstrates what it takes to do this properly — establishing that a job-quality scale measures equivalently across race and gender groups before the race gaps it reveals can be believed.\n\n**Why pitch this now:** AI hiring vendors are being asked, under New York's Local Law 144, the Colorado AI Act and the EU AI Act, to produce validity and bias evidence on demand — at exactly the moment selection researchers are publishing that the field's headline validity evidence was never collected under operational hiring conditions.\n\n**Angle:** A reported feature on the evidence audit coming for hiring technology — where assessment validity numbers actually come from, what questions a buyer or a regulator should ask, and why a tool validated in one country cannot be assumed to behave the same way in another. Aimed at senior HR and operations leaders, with a general-interest version for anyone who has taken a hiring test and wondered what it proved.\n\n**Potential headlines:**\n- What hiring tests actually prove, according to the people who study them\n- The validity scores behind your hiring stack were measured on people who already had the job\n- Before your next assessment, ask where the number came from\n\n**Potential outlets:**\n- **MIT Sloan Management Review** — built for the \"interrogate the evidence behind the tool you just bought\" piece, and comfortable publishing a measurement critique at length.\n- **Rest of World** — the cross-country finding that AI screening reads differently in Chile and India than in Germany is precisely its beat: one global technology, divergent local meaning.\n- **The Atlantic (work coverage)** — the general-interest turn, that the science justifying pre-employment testing largely rests on low-stakes incumbents, is a strong standalone essay for its readers.\n- **HR Dive** — serves the buyers directly and already tracks AI hiring compliance, so the vendor due-diligence checklist angle has an immediate practitioner audience.",
+  "pitch_ideas_raw": "- **When a machine screens you: job applicants in Chile, Germany and India react very differently (Work ID W7223109819):** A global AI screening rollout can read as innovative in one market and as an unfair black box in another, with the biggest cost being candidates' sense that they never got to make their case — for a hiring/HR explainer or an international business-management column, plus a job-seeker piece on why algorithmic applications feel different.\n- **The evidence that hiring tests predict job performance is shakier than the textbooks say (Work ID W7222969019):** Give managers one due-diligence question for any assessment vendor — were these validity numbers generated on real applicants competing for a job, or on incumbents with nothing at stake? — for a manager-audience column or an HR procurement explainer, with a general-interest version on what hiring tests really demonstrate.\n- **In Brazil, Black workers report that work meets fewer of their basic needs (Work ID W7224595503):** Racial gaps in job quality sit in specific, employer-controlled dimensions — autonomy, skill use, sense of contribution — not in a single satisfaction score, which is an argument for breaking engagement survey results out by race, for a DEI-measurement column or a work-psychology piece in a general-interest or women's/lifestyle outlet.",
+  "fact_check": {
+    "studies_reviewed": 3,
+    "verdicts_by_work": {
+      "W7223109819": "⚠️ Minor issues",
+      "W7222969019": "⚠️ Minor issues",
+      "W7224595503": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "7 (7 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "3",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Hiring & Selection — 2026-10-31\n**Checked:** 2026-10-31 | **Studies reviewed:** 3\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: When a machine screens you: job applicants in Chile, Germany and India react very differently\n**Work ID:** W7223109819 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Dropped null country result** — Severity: Minor\n\n- **As written:** \"Perceived consistency of the AI did not mediate anything, and country mattered: Chilean and Indian applicants rated AI as less consistent than German applicants did, while Germans saw it as more innovative than Indians did.\"\n- **Abstract says:** \"Moreover, German applicants perceived AI as more innovative than Indian applicants, while no significant country-level differences emerged for opportunity to perform.\"\n- **Problem:** The headline and body emphasize that applicants in the three countries \"react very differently,\" but the abstract reports no significant country-level differences on the key opportunity-to-perform perception. Omitting that null result makes cross-country variation look broader than it was.\n- **Suggested fix:** \"Add a clause such as \"though the sense of reduced opportunity to perform was similar across all three countries.\"\"\n\n**Issue B. Unsupported mechanism (institutional trust)** — Severity: Minor\n\n- **As written:** \"and that this gut reaction is shaped partly by how much institutional trust exists in the country you are applying in\"\n- **Abstract says:** \"Drawing on signaling theory and North's institutional perspective ... proposing that country-level differences in formal and informal factors shape applicants' perceptions\"\n- **Problem:** The abstract refers generically to country-level formal and informal institutional factors; it does not measure or name \"institutional trust\" as the mechanism, and the only cross-country differences found were for consistency and innovativeness, not the \"gut reaction\" of feeling unable to make one's case.\n- **Suggested fix:** \"Reword to \"shaped partly by the formal and informal institutional context of the country you are applying in,\" and tie it to the consistency/innovativeness differences the study actually found.\"\n\n### Study 2: The evidence that hiring tests predict job performance is shakier than the textbooks say\n**Work ID:** W7222969019 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Author count not in abstract** — Severity: Minor\n\n- **As written:** \"Two selection researchers systematically reviewed the most recent meta-analytic literature\"\n- **Abstract says:** \"We reviewed the most recent meta‐analytic literature on the criterion validity of predictors of job performance used in personnel selection.\"\n- **Problem:** The abstract does not state how many authors wrote the piece, nor does it describe the review as \"systematic\" in the formal methodological sense. Unverifiable from abstract only.\n- **Suggested fix:** \"Drop the author count and \"systematically,\" e.g. \"Selection researchers reviewed the most recent meta-analytic literature...\"\"\n\n**Issue B. Unsourced counterpoint in Caveats** — Severity: Minor\n\n- **As written:** \"and other researchers in the field dispute the severity of these corrections\"\n- **Abstract says:** \"The abstract contains no mention of disagreement from other researchers; it notes only that the authors observed \"increasing attention in meta-analyses to heterogeneity of results, publication bias and open science.\"\"\n- **Problem:** The existence and nature of a scholarly dispute cannot be verified from this abstract. Unverifiable from abstract only.\n- **Suggested fix:** \"Either attribute the counterpoint to a named source or remove it; consider substituting the abstract's own positive note about improving meta-analytic practice.\"\n\n**Issue C. Quantifier slightly stronger than abstract** — Severity: Minor\n\n- **As written:** \"most underlying data come from concurrent studies of current employees\"\n- **Abstract says:** \"The overreliance on concurrent incumbent studies leads to meta‐analytic estimates based on data collected in conditions with non‐representative stakes\"\n- **Problem:** \"Overreliance\" is a judgment about proportion and emphasis; the abstract does not quantify it as \"most.\"\n- **Suggested fix:** \"Use \"the field relies too heavily on concurrent studies of current employees.\"\"\n\n### Study 3: In Brazil, Black workers report that work meets fewer of their basic needs\n**Work ID:** W7224595503 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Invariance stated more firmly than abstract** — Severity: Minor\n\n- **As written:** \"The five-factor structure held up and measured equivalently across gender and race/color groups, meaning the comparisons are meaningful rather than artifacts of the instrument.\"\n- **Abstract says:** \"Invariance analyses indicated metric and scalar equivalence across gender and race/color based on practical fit-index criteria.\"\n- **Problem:** The abstract qualifies the invariance conclusion as resting on practical fit-index criteria (i.e., change-in-fit thresholds rather than strict chi-square tests); the digest presents equivalence as unqualified.\n- **Suggested fix:** \"Add \"by practical fit-index standards\" to the sentence about measurement equivalence.\"\n\n**Issue B. \"Workers\" vs. adults** — Severity: Minor\n\n- **As written:** \"In Brazil, Black workers report that work meets fewer of their basic needs\"\n- **Abstract says:** \"Participants were 1521 Brazilian adults (67.2% women; mean age = 35.09 years), recruited across three independent waves of data collection.\"\n- **Problem:** The abstract describes the sample as Brazilian adults recruited in three waves, not as a verified sample of employed workers or a representative labor-market sample.\n- **Suggested fix:** \"Say \"Black Brazilian adults surveyed\" rather than \"Black workers,\" or note in the body that participants were a convenience sample of adults.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | When a machine screens you: job applicants in Chile, Germany and India react very differently | ⚠️ Minor issues | Design, N and mediation results match the abstract. Two small issues: the abstract's null country difference for 'opportunity to perform' is dropped, and the 'institutional trust' explanation goes beyond what the abstract states. |\n| 2 | The evidence that hiring tests predict job performance is shakier than the textbooks say | ⚠️ Minor issues | The review's core argument and conclusion are represented faithfully. Author count and the claim that other researchers dispute the critique are not in the abstract; the review's positive observations are omitted. |\n| 3 | In Brazil, Black workers report that work meets fewer of their basic needs | ⚠️ Minor issues | Sample, demographics, factor structure and the pattern of race/color differences all match the abstract. Only nuance: the invariance evidence rested on practical fit-index criteria, and the sample is Brazilian adults rather than a verified employed workforce. |\n\n**Total issues:** 7 (7 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 3\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 3,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}

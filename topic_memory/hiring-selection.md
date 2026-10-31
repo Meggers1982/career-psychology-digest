@@ -1,22 +1,22 @@
 # Topic Memory: Hiring & Selection
-_Last updated: 2026-10-01_
+_Last updated: 2026-10-31_
 
 ## Established findings
-- Formal policy consistently underperforms relational and lived reality in accommodation, neurodiversity and inclusion: ADHD employees citing informal relationships and flexible managers over formal accommodations (W7208704204, 2026-09); "nowhereness" where neither work nor home is safe (W7213532045, 2026-09); visibility-driven disbelief vs. over-assumption in disability (W7211881958, 2026-09).
-- Standardized selection testing is more robust than current panic assumes: SJT validity holds across formats, N=244,257 (W7214648548, 2026-09); no ChatGPT-driven score inflation in archival applicant data (W7202071941, 2026-08).
-- Candidates read employer offers and signals as character references rather than economics: startup equity (W7204553807), humor in job ads lowering expected procedural justice (W7203608858), tuition-upfront vs. reimbursement (W7211872890), CSR type vs. salary (W7204088664).
-- Legally sensitive, non-job information keeps entering selection — observed in practice via social-media religion cues (W7202344708, 2026-08) and now proposed deliberately via well-being screening (W7212036280, 2026-09).
+- Formal policy underperforms lived experience in inclusion and accommodation: ADHD informal supports (W7208704204); visibility-driven disbelief vs. over-assumption in disability (W7211881958); migrant women of color under constant scrutiny (W7207613776); Brazilian Black workers reporting lower autonomy, competence and contribution satisfaction (W7224595503, 2026-10).
+- Candidates read employer signals as character references, not economics: startup equity (W7204553807), humor in job ads (W7203608858), tuition upfront vs. reimbursement (W7211872890), CSR vs. salary (W7204088664); AI vs. human screening carries the same signaling logic (W7223109819, 2026-10).
+- Visible compliance is uninformative: self-suppressive facades under abusive supervision (W7203635941); "moral camouflage" in green HR (W7172526535).
+- Legally sensitive, non-job information keeps entering selection: social-media religion cues (W7202344708); proposed well-being screening (W7212036280).
 
 ## Emerging threads
-- Hiring technology underperforms its sales pitch when tested: filters cut high-quality applicants and raise wages (W7203733318); AI rejections redirect blame unless a human signs off (W7204209860); AI-interview age-language gaps shift with prompt wording (W7214200214); VR assessment appeal is age-skewed (W7202387608).
-- Well-being as an explicit selection criterion is now a live methodological and legal argument in the field; proposed alternatives (person–environment fit, effect on colleagues, situational construal, health behaviors) are untested (W7212036280).
-- Person–environment misfit as a slow-burn exit driver, with private family/friend networks — not professional ones — financing the move to self-employment (W7204183347, 2026-08); complements involuntary-exit work-centrality patterns (W7207518842, 2026-09).
-- Individual-coping and resilience framings can entrench the barriers they address (W7204477379; W4412125794); unequal access to private safety nets is the flip side (W7204183347).
-- Visible compliance is uninformative: self-suppressive facades under abusive supervision (W7203635941); "moral camouflage" in green HR (W7172526535).
-- Diversity/fairness/performance trade-off looks structural in recruiting math (W7213166433); fairness judgments of flexibility extend to non-parents and prospective parents (W7213900915).
+- The measurement layer is now contested in its own right: criterion-validity evidence built on low-stakes incumbents and assumption-driven range-restriction corrections (W7222969019, 2026-10), against the large SJT meta-analysis reporting higher validity in real applicant settings (W7214648548, 2026-09) — an unresolved live dispute.
+- Measurement invariance as a precondition for group-gap claims (W7224595503); most employer engagement data would not pass this bar.
+- Hiring technology underperforms its sales pitch when tested: filters cut quality applicants (W7203733318); AI rejections redirect blame absent a human signer (W7204209860); AI-interview age-language gaps shift with prompting (W7214200214); VR appeal age-skewed (W7202387608).
+- Same tool, different country, different meaning: cross-national variation in AI screening perceptions (W7223109819); growing non-Western evidence base (Brazil, Chile, India, Pakistan).
+- Person-environment misfit as slow-burn exit driver, financed by private family networks (W7204183347); resilience framings entrenching barriers (W7204477379).
 
 ## Feature ideas already pitched
-- 2026-09-29: "Hiring tech tested against reality" — filters, AI rejections, AI-interview age bias, ChatGPT non-effect, VR age gap; compliance/audit framing (LL144, Colorado AI Act, EU AI Act). MIT SMR, Business Insider, The Atlantic, Fast Company.
+- 2026-09-29: "Hiring tech tested against reality" — filters, AI rejections, AI-interview age bias, ChatGPT non-effect, VR age gap; compliance framing. MIT SMR, Business Insider, The Atlantic, Fast Company.
 - 2026-10-01: "Performed compliance / the measurement blind spot" — facades, moral camouflage, accommodation over-proving. HBR, Fast Company, The Guardian, Refinery29.
-- 2026-10-01: "Fit as the next contested hiring variable" — screening for well-being vs. misfit-driven exit into freelancing and who can afford to leave. WSJ Work & Careers, HBR, Wired, Stylist.
-- Reserved, not yet pitched: "candidates read perks and job ads as character references"; "the assessment panic that wasn't" (SJT validity + ChatGPT non-effect).
+- 2026-10-01: "Fit as the next contested hiring variable" — well-being screening vs. misfit-driven exit. WSJ Work & Careers, HBR, Wired, Stylist.
+- 2026-10-31: "The evidence audit coming for hiring tech" — where validity numbers come from, cross-country non-equivalence, invariance done right. MIT SMR, Rest of World, The Atlantic, HR Dive.
+- Reserved, not yet pitched: "candidates read perks and job ads as character references."
