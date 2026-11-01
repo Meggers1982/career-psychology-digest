@@ -1,0 +1,100 @@
+{
+  "id": "career-psychology-digest-remote-hybrid-work-2026-11-01",
+  "filename": "Career Psychology Digest — Remote & Hybrid Work — 2026-11-01.md",
+  "title": "Career Psychology Digest — Remote & Hybrid Work — 2026-11-01",
+  "run_date": "2026-11-01",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-02",
+  "window_to": "2026-11-01",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "5",
+  "articles_found": 8,
+  "screening": {
+    "found": 8,
+    "not_research": 0,
+    "no_abstract": 1,
+    "off_topic": 0,
+    "already_covered": 2,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 5
+  },
+  "focus": "Remote & Hybrid Work",
+  "topic": "remote & hybrid work",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 1,
+  "studies": [
+    {
+      "number": 1,
+      "title": "In scattered virtual teams, being a directive boss is what unlocks shared leadership",
+      "paper_title": "From Directive to Shared Leadership: The Context of Virtual Teams",
+      "journal": "Small Group Research",
+      "published": "2026-10-28",
+      "work_id": "W7224124147",
+      "doi": "10.1177/10464964261496293",
+      "source_id": "S133913429",
+      "the_study": "Researchers ran a 10-week field study of 392 members across 70 teams at two Fortune 500 companies, testing how formal leaders' directive behavior relates to shared leadership in virtual teams. Directive leadership — setting structure, clarifying roles and establishing support systems — was associated with more shared leadership, working indirectly through team empowerment. The effect was strongest in the least connected teams: those spread across many locations and relying on lean, text-based communication rather than rich media.",
+      "why_it_matters": "It contradicts the common assumption that distributed teams need hands-off, empowering managers; in practice, structure appears to be the scaffolding that lets distributed team members start leading each other.",
+      "story_angle_primary": "Managers of hybrid and remote teams can test whether their teams' leadership vacuum stems from too little direction rather than too much: clear roles, explicit norms and decision rules may be what frees members to take initiative. Pay special attention to teams that are geographically scattered and communicating mostly by chat and email, where the structural payoff looked largest.",
+      "story_angle_secondary": "For anyone working remotely who feels invisible or unsure who decides what, the finding reframes a boss who sets explicit structure as an enabler rather than a micromanager — and suggests that ambiguity, not supervision, is what suppresses initiative at a distance.",
+      "caveats": "Two large US companies only, limiting generalizability; the design is a 10-week field study rather than an experiment, so causal direction between directive leadership, empowerment and shared leadership is not established; key measures are likely team-member self-reports, raising common-method concerns.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "experiments",
+      "sample_size": 500,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, N, team count, company context and the two moderators are all reported correctly. Small issues: the headline asserts causation for a non-experimental field study, the \"US\" descriptor isn't in the abstract, and \"clarifying roles\" embellishes the abstract's \"structural support systems.\" Caveats already handle the causality and common-method concerns in the body.",
+      "tags": [
+        "leadership & management",
+        "remote & hybrid work",
+        "team dynamics & collaboration",
+        "workplace communication"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7224124147",
+      "journal": "Small Group Research",
+      "date": "2026-10-28",
+      "doi": "10.1177/10464964261496293"
+    }
+  ],
+  "trends_raw": "**Counterpoints**\n- The single new study, **\"In scattered virtual teams, being a directive boss is what unlocks shared leadership\" (W7224124147)**, cuts directly against the dominant thread of the previous digest. Last run's batch pointed toward peer-generated support as the load-bearing structure of distributed work — **\"Seven years inside a company that went remote: psychological safety got stronger, not weaker\" (W7203941475)**, where safety was built bottom-up by colleagues rather than leaders, and **\"Return-to-office works better when teammates, not bosses, provide the support\" (W7204438985)**, where teammate compassion outlasted supervisor dependability. The new field study says the formal leader is not incidental after all: directive behavior, routed through team empowerment, is what makes lateral leadership emerge in the first place, and it mattered *most* in the most dispersed, text-mediated teams.\n- It also complicates the implicit staffing message of **\"In global virtual teams, agreeableness was the one trait high performers all shared\" (W7169580639)**. That study implied distributed work rewards cooperative, low-assertiveness temperaments; W7224124147 suggests assertive structure-setting at the formal-leader level is precisely what creates room for cooperative contribution below it. Cooperation and direction may be complements rather than substitutes.\n\n**Advances**\n- On methodology, W7224124147 partly answers the concern flagged in the last run that the evidence base was leaning qualitative and single-site: 392 members across 70 teams at two Fortune 500 companies, tracked over 10 weeks, is a larger and more quantitative design than the single-firm ethnography (W7203941475) or the 80-worker coworking study (W7202178589). Self-report and non-experimental limits remain, however.\n\n**New themes**\n- Communication richness as a moderator is new to this topic: the structural payoff was largest in teams relying on lean, text-based channels. Nothing in the previous digest tested how the *medium* of distributed work changes what leadership has to supply (W7224124147).",
+  "feature_pitch_raw": "_No cross-study feature angle identified in this batch._",
+  "pitch_ideas_raw": "- **In scattered virtual teams, being a directive boss is what unlocks shared leadership (Work ID W7224124147):** The counterintuitive manager story — remote teams that feel leaderless may be suffering from too little direction, not too much, and the fix is boring structure (clear roles, decision rules, explicit norms) rather than more empowerment talk, with the biggest payoff in teams scattered across locations and running on chat and email; for a manager-audience column or a leadership explainer in the business press, with a general-interest variant for remote workers who feel invisible and can't tell who decides what.",
+  "fact_check": {
+    "studies_reviewed": 1,
+    "verdicts_by_work": {
+      "W7224124147": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "4 (4 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Remote & Hybrid Work — 2026-11-01\n**Checked:** 2026-11-01 | **Studies reviewed:** 1\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: In scattered virtual teams, being a directive boss is what unlocks shared leadership\n**Work ID:** W7224124147 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Causal headline for a field study** — Severity: Minor\n\n- **As written:** \"In scattered virtual teams, being a directive boss is what unlocks shared leadership\"\n- **Abstract says:** \"A 10-week field study of 392 team members from 70 teams across two Fortune 500 companies supports the proposed model: directive leadership enhances shared leadership indirectly through team empowerment.\"\n- **Problem:** The headline states a definite causal mechanism (\"is what unlocks\") from a non-experimental field study; the digest's own body and caveats correctly hedge to \"was associated with\" and note causal direction is not established, so the headline overshoots the rest of the entry.\n- **Suggested fix:** \"Soften to something like \"In scattered virtual teams, directive bosses are linked to more shared leadership.\"\"\n\n**Issue B. Country of sample not stated** — Severity: Minor\n\n- **As written:** \"Two large US companies only, limiting generalizability\"\n- **Abstract says:** \"two Fortune 500 companies\"\n- **Problem:** The abstract identifies the companies only as Fortune 500 and says nothing about where the teams or members were located; in virtual teams with high location diversity, participants may well be outside the US. Unverifiable from abstract only.\n- **Suggested fix:** \"Change to \"Two Fortune 500 companies only, limiting generalizability.\"\"\n\n**Issue C. Expanded definition of directive leadership** — Severity: Minor\n\n- **As written:** \"Directive leadership — setting structure, clarifying roles and establishing support systems —\"\n- **Abstract says:** \"formal leaders in virtual teams can foster shared leadership by using directive behaviors that establish structural support systems\"\n- **Problem:** \"Clarifying roles\" and \"setting structure\" are the digest's own gloss; the abstract only mentions directive behaviors that establish structural support systems. The same embellishment carries into the manager story angle (\"clear roles, explicit norms and decision rules\").\n- **Suggested fix:** \"Describe directive leadership as \"behaviors that establish structural support systems\" and note that the specific behaviors measured are not detailed in the abstract.\"\n\n**Issue D. Perceived vs. objective media richness** — Severity: Minor\n\n- **As written:** \"those spread across many locations and relying on lean, text-based communication rather than rich media\"\n- **Abstract says:** \"This indirect effect is amplified when location diversity is high and perceived media richness is low.\"\n- **Problem:** The moderator is perceived media richness, a team-member perception, not an objective measure of channel use; \"relying on chat and email\" is an interpretation the abstract does not make.\n- **Suggested fix:** \"Say the effect was strongest when location diversity was high and members perceived their communication media as low in richness.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | In scattered virtual teams, being a directive boss is what unlocks shared leadership | ⚠️ Minor issues | Design, N, team count, company context and the two moderators are all reported correctly. Small issues: the headline asserts causation for a non-experimental field study, the \"US\" descriptor isn't in the abstract, and \"clarifying roles\" embellishes the abstract's \"structural support systems.\" Caveats already handle the causality and common-method concerns in the body. |\n\n**Total issues:** 4 (4 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 1,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
