@@ -1,19 +1,21 @@
 # Topic Memory: Motivation & Engagement
-_Last updated: 2026-10-03_
+_Last updated: 2026-11-02_
 
 ## Established findings
-- (First run — nothing yet confirmed across multiple runs.)
+- Leader behavior rebounds on the leader via simultaneous energizing and depleting paths: vigilance (W7213501285, 2026-09), authoritarian leadership pride vs. guilt (W7220455658, 2026-10), stress-bragging read by inferred motive (W7202354404, 2026-08).
+- In-role competence does not protect standing; social/relational signals do: masculinity contest culture (W7224327719, 2026-10), political skill via citizenship not task performance (W7172502435, 2026-08), self-monitoring moves supervisor ratings not output (W7202110265, 2026-08).
+- Engagement is a within-person fluctuating state, not a fixed trait: daily assertiveness (W7214632122, 2026-09), monthly authentic emotional expression with null reverse path (W7220736490, 2026-10).
+- Work attitudes and states register physiologically: CRP inflammation (W7202070440, 2026-08), heart rate/HRV and performance (W7220837475, 2026-10) — direction and measurement context matter.
+- Evidence-quality caution persists: dominance of single-country self-report panels (China, Turkey, Poland, Korea), vignette/economic-game experiments, and newly built unvalidated scales.
 
 ## Emerging threads
-- Selection and appraisal validity under revision: GMA validity re-estimated at ~.20 with no link to cognitive job complexity (W7203815879, 2026-08); top-down score selection skews male and lowers expected performance (W7207756322, 2026-09); self-monitoring predicts supervisor ratings not objective output (W7202110265, 2026-08); early commitment predicts promotion beyond performance scores (W7212286790, 2026-09).
-- HR investment is conditional, not additive: training spend meaningless vs. reach/slack (W7214434160); training retains only when not compliance-driven (W7202297645); perceived support needs transformational managers to convert (W7202072432); same practices buy more loyalty in nonprofits (W7212127227).
-- Engagement as a fluctuating daily state tied to narrow personality states rather than a stable trait (W7214632122).
-- Leader behavior rebounding on the leader: vigilance both energizes and depletes (W7213501285); stress-bragging helps or repels by inferred motive (W7202354404); perceived leader overqualification boosts follower citizenship (W7214754642).
-- Work attitudes as a physiological health variable — job satisfaction tracked with lower CRP inflammation within person (W7202070440).
-- Contrarian findings on "good" variables: high task motivation causing social avoidance (W7203894267); algorithmic management reducing negative work-to-family spillover (W7204867954).
-- Economic precarity shifts commitment drivers toward distributive/pay fairness, more for frontline than supervisors (W7201985959).
-- Career success as multi-faceted and gendered in measurement; recognition weakest correlate of protean attitudes in US women (W7208791578).
-- Evidence-quality caution: heavy reliance on single-country self-report surveys (China, Korea, Netherlands, Japan-in-China) and vignette experiments across this batch.
+- Unwritten rules as the operative evaluation criteria — AI use penalized under silence and forgiven under explicit policy (W7214926983, 2026-09); unwritten display rules (W7220736490); informal embeddedness over output (W7224327719).
+- Generative AI enters the motivation/trust literature for the first time (W7214926983); watch for replication outside economic games and academic supervisors.
+- Evaluation standards differ by employment status: commitment/attitudes predict advancement for employees (W7212286790), but only deliverables move managers' acceptance of freelancers (W7213352600); pairs with algorithmic management research (W7204867954).
+- Meaning at work relocated from individual cultivation to organizational conditions, with grit/growth mindset as buffers only (W7223396210, 2026-10) — tempers mindset-intervention enthusiasm (W7215081402).
+- Selection/appraisal validity under downward revision: GMA at ~.20 (W7203815879), variability-driven selection skew (W7207756322) — no new entries this run; drop if absent again.
+- HR investment is conditional on conversion mechanisms: manager translation (W7202072432), reach/slack over spend (W7214434160), motive behind training (W7202297645).
 
 ## Feature ideas already pitched
-- 2026-10-03: "The collapse of workplace measurement" — hiring tests and performance ratings measure something other than performance (W7203815879, W7207756322, W7202110265, W7212286790); pitched to MIT SMR, The Atlantic, Business Insider, Wired.
+- 2026-10-03: "The collapse of workplace measurement" — hiring tests and performance ratings measure something other than performance (W7203815879, W7207756322, W7202110265, W7212286790); MIT SMR, The Atlantic, Business Insider, Wired.
+- 2026-11-02: "Workplaces run on unwritten rules" — ambiguity defaults judgment to trust and social standing; AI policy silence, masculinity contest culture, freelancer criteria, display rules (W7214926983, W7224327719, W7213352600, W7220736490); HBR, Fast Company, The Atlantic, Business Insider.

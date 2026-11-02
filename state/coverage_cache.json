@@ -428,6 +428,16 @@
         "state": "unreported"
       }
     },
+    "W7213352600": {
+      "checked_at": "2026-11-02T20:33:30.699174+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Managers judge freelancers output not loyalty knowledge sharing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213541995": {
       "checked_at": "2026-10-24T14:10:17.017463+00:00",
       "result": {
@@ -496,6 +506,16 @@
         "state": "unreported"
       }
     },
+    "W7214926983": {
+      "checked_at": "2026-11-02T20:33:13.530108+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "boss trusts use unless company has told",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "W7218741843": {
       "checked_at": "2026-10-24T14:09:47.338098+00:00",
       "result": {
@@ -504,6 +524,57 @@
         "query": "Workers managed algorithms start treating customers than human",
         "returned": 5,
         "state": "unreported"
+      }
+    },
+    "W7220455658": {
+      "checked_at": "2026-11-02T20:33:15.404116+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Bossing people around feels good bad same time boss",
+        "returned": 12,
+        "state": "unreported"
+      }
+    },
+    "W7220736490": {
+      "checked_at": "2026-11-02T20:33:23.571430+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Showing actually feel work predicts higher engagement month later",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7220837475": {
+      "checked_at": "2026-11-02T20:33:22.043153+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.health.com/resting-heart-rate-7094334",
+            "outlet": "Health.com",
+            "title": "What Your Resting Heart Rate Reveals About Your Health"
+          },
+          {
+            "link": "https://mensfitness.co.uk/health/resting-heart-rate-normal-range-when-to-worry/",
+            "outlet": "Men's Fitness",
+            "title": "Resting heart rate: what\u2019s normal \u2013 and when should you worry?"
+          },
+          {
+            "link": "https://www.parents.com/pregnancy/my-body/fitness/should-you-monitor-your-heart-rate-during-pregnancy/",
+            "outlet": "Parents",
+            "title": "What\u2019s a Safe Heart Rate for Exercising During Pregnancy?"
+          }
+        ],
+        "outlets": [
+          "Health.com",
+          "Men's Fitness",
+          "Parents",
+          "Tatler Asia"
+        ],
+        "query": "resting heart rate says about well working",
+        "returned": 20,
+        "state": "widely_reported"
       }
     },
     "W7220851400": {
@@ -736,6 +807,16 @@
         "state": "unreported"
       }
     },
+    "W7223396210": {
+      "checked_at": "2026-11-02T20:33:17.449615+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Toxic workplaces don just make work unpleasant they make feel",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "W7223449472": {
       "checked_at": "2026-10-29T17:06:10.602989+00:00",
       "result": {
@@ -782,6 +863,16 @@
         "articles": [],
         "outlets": [],
         "query": "scattered virtual teams being directive boss unlocks shared leadership",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7224327719": {
+      "checked_at": "2026-11-02T20:33:20.648381+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "masculinity contest workplace being good job won save being connected",
         "returned": 0,
         "state": "unreported"
       }

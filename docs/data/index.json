@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 27,
+  "run_count": 28,
   "topics": [
     "ai & the future of work",
     "career development & mobility",
@@ -18,6 +18,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-motivation-engagement-2026-11-02",
+      "title": "Career Psychology Digest — Motivation & Engagement — 2026-11-02",
+      "topic": "motivation & engagement",
+      "run_date": "2026-11-02",
+      "study_count": 7,
+      "total_issues": "7 (5 Minor, 2 Moderate, 0 Major)",
+      "lead_count": 3,
+      "top_score": 87
+    },
     {
       "id": "career-psychology-digest-remote-hybrid-work-2026-11-01",
       "title": "Career Psychology Digest — Remote & Hybrid Work — 2026-11-01",
