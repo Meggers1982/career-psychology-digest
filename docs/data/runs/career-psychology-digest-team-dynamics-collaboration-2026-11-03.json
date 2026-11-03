@@ -1,0 +1,362 @@
+{
+  "id": "career-psychology-digest-team-dynamics-collaboration-2026-11-03",
+  "filename": "Career Psychology Digest — Team Dynamics & Collaboration — 2026-11-03.md",
+  "title": "Career Psychology Digest — Team Dynamics & Collaboration — 2026-11-03",
+  "run_date": "2026-11-03",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-04",
+  "window_to": "2026-11-03",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "10",
+  "articles_found": 20,
+  "screening": {
+    "found": 20,
+    "not_research": 0,
+    "no_abstract": 2,
+    "off_topic": 1,
+    "already_covered": 7,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 10
+  },
+  "focus": "Team Dynamics & Collaboration",
+  "topic": "team dynamics & collaboration",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 7,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Moving to a new job with an old teammate helps you — and hurts your new team",
+      "paper_title": "Colleagues that work together move together: How co-moving among newcomers affects individual and team performance.",
+      "journal": "Organization Science",
+      "published": "2026-10-09",
+      "work_id": "W7221144841",
+      "doi": "10.1287/orsc.2024.18867",
+      "source_id": "S206124708",
+      "the_study": "Researchers built a multilevel, multi-period model of \"co-moving\" — when two or more colleagues from the same prior team join a new team together — and tested it with archival performance data from the National Basketball Association, supplemented by qualitative interviews with people working in professional basketball. Co-movers outperformed newcomers who arrived alone, and the advantage was larger the longer they had played together before; robustness checks showed the individual edge persisted over time. But teams that took on co-movers performed worse than teams that took on solo movers, with partial evidence that the penalty faded as time passed.",
+      "why_it_matters": "Hiring an intact pair or pod from a competitor looks efficient — the new people ramp up fast — but the existing team may pay a collective price while the imported clique keeps operating as its own unit.",
+      "story_angle_primary": "If you are lift-out hiring or redeploying a group internally, plan deliberately for integration: separate the co-movers' work assignments early, pair each with incumbent partners, and measure team-level output, not just how quickly the new hires produce. Note that the evidence comes from pro basketball, where performance is unusually well measured; treat it as a warning signal to check in your own unit rather than a settled law.",
+      "story_angle_secondary": "For individuals, the finding is a career tip with a conscience attached: changing employers alongside a trusted colleague genuinely makes you look better faster — but your new teammates may quietly experience you as a closed shop.",
+      "caveats": "Archival data from a single, highly atypical setting (professional sports); performance measures and team dynamics in the NBA may not generalize to knowledge work; non-experimental, so selection effects (which players move together, and to which teams) can't be fully ruled out.",
+      "score": 85,
+      "band": "Lead",
+      "evidence_type": "archival data",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Faithful to the abstract overall; one small mix-up in which analysis produced which result.",
+      "tags": [
+        "hiring & selection",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "Teams are stickier than we think — and conflict is the stickiest thing of all",
+      "paper_title": "A meta-analysis of the dynamism of emergent states and team processes.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-10-05",
+      "work_id": "W7220392932",
+      "doi": "10.1037/apl0001407",
+      "source_id": "S166002381",
+      "the_study": "A meta-analysis synthesized more than 3,000 correlations from longitudinal team studies, covering an average of over 11,000 teams, and used cross-lagged meta-analytic structural equation models to ask how team states and processes actually change over time. Team affect shifted most readily, while conflict showed the most inertia — once it set in, it persisted. Team affect and cognition coevolved with team processes, whereas motivation and conflict were consistently downstream of earlier processes, and team performance fed back into later states and processes, which in turn predicted later performance.",
+      "why_it_matters": "It gives managers an evidence-based sense of what in a team is still malleable and what tends to harden, and shows that performance itself is an input — early wins and losses shape the team's psychology, not just the other way around.",
+      "story_angle_primary": "Intervene on conflict early, because it is the hardest thing to shake loose later; and engineer early wins deliberately, since the meta-analysis finds performance feeds back into subsequent cohesion, confidence and coordination. Also useful: mood-based interventions may give quick but short-lived readings, so don't judge a team by a single pulse survey.",
+      "story_angle_secondary": "A reassuring and sobering picture of group life: the bad feeling in a team you joined last year is probably still there, while the good mood after Friday's launch probably is not.",
+      "caveats": "Meta-analysis of correlational longitudinal studies, so causality is inferred from cross-lagged modeling rather than experiments; results depend on the time lags that original researchers happened to choose, which the authors show moderate the findings; heterogeneous measures across hundreds of samples.",
+      "score": 95,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 11000,
+      "journal_tier": "A*",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Findings and numbers match the abstract; one prescriptive story angle runs slightly ahead of correlational cross-lagged evidence.",
+      "tags": [
+        "leadership & management",
+        "motivation & engagement",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 3,
+      "title": "A structured kickoff for new research teams led to more grants and more papers",
+      "paper_title": "Scaffolding for Nascent Knowledge: Diverse Teams Tackling Grand Challenges",
+      "journal": "The Journal of Applied Behavioral Science",
+      "published": "2026-10-19",
+      "work_id": "W7222970844",
+      "doi": "10.1177/00218863261487207",
+      "source_id": "S168717511",
+      "the_study": "Researchers designed a theory-driven \"scaffolding\" intervention to help newly formed, knowledge-diverse teams integrate expertise, and tested it in a field-based quasi-experiment with 26 newly formed biomedical research collaborations involving 127 scientists. Teams that received the scaffolding showed greater knowledge integration than comparison teams, and that integration was linked to downstream performance: more grants secured, more publications, and higher journal impact. The effect ran through collaborators' ability to coordinate with one another in combining their different specialties.",
+      "why_it_matters": "It is rare field evidence that a front-loaded, facilitated process for new cross-disciplinary teams pays off in hard output months and years later, rather than just in satisfaction scores.",
+      "story_angle_primary": "If you are launching a cross-functional project, consider investing structured facilitation time at the very start on how specialists will translate and combine their knowledge — the payoff in this study came from coordination capability, not from generic team-building.",
+      "story_angle_secondary": "Why putting a bunch of smart people from different fields in a room so often disappoints — and what a well-designed first few meetings can do about it.",
+      "caveats": "Quasi-experimental, not randomized, so self-selection into the intervention is possible; small sample (26 teams, 127 scientists); a single setting (early-stage biomedical research collaborations), where publication and grant counts may not translate to other industries' performance measures.",
+      "score": 83,
+      "band": "Lead",
+      "evidence_type": "field experiment",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design and sample reported correctly; the headline converts an association into a direct causal outcome.",
+      "tags": [
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 4,
+      "title": "In diverse teams, it matters who you brainstorm with — not just how much",
+      "paper_title": "With whom you elaborate matters: how learning orientation impacts cross-culture and same-culture information elaboration in culturally diverse teams",
+      "journal": "Journal of Business and Psychology",
+      "published": "2026-10-12",
+      "work_id": "W7221436866",
+      "doi": "10.1007/s10869-026-10161-9",
+      "source_id": "S61413993",
+      "the_study": "In a multi-source, multi-wave study of 104 culturally diverse work teams comprising 587 members, researchers split \"information elaboration\" — the exchange and integration of task-relevant information — into exchanges between culturally dissimilar members and exchanges between culturally similar ones. Cross-cultural elaboration was more strongly associated with team performance than same-culture elaboration. Team learning orientation predicted both, but its indirect link to performance ran more strongly through the cross-cultural kind.",
+      "why_it_matters": "Diversity only pays off if information actually crosses the cultural fault lines inside the team; lots of lively discussion that stays within similar subgroups doesn't deliver the same benefit.",
+      "story_angle_primary": "Audit who is actually talking to whom on your diverse teams — rotate pairings, assign tasks that force dissimilar members to integrate their input, and cultivate a learning orientation rather than assuming that a diverse roster produces diverse thinking on its own.",
+      "story_angle_secondary": "The quiet reality of multinational offices: people naturally gravitate to colleagues who share their background, and the value of a mixed team leaks away in that drift.",
+      "caveats": "Correlational design despite the multi-wave, multi-source data — no causal test; 104 teams is modest for team-level inference; cultural dissimilarity was treated as the salient fault line, and the finding may not transfer to other forms of diversity.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": 104,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Sample, design and findings all match; correlational framing and caveats are appropriate.",
+      "tags": [
+        "diversity, equity & inclusion at work",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 5,
+      "title": "Robot teammates made teams more effective — but only after a few weeks",
+      "paper_title": "Human-robot teams: an Input-Mediator-Output-Input perspective on a new work paradigm",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-10-22",
+      "work_id": "W7223169561",
+      "doi": "10.1080/09585192.2026.2751529",
+      "source_id": "S184846731",
+      "the_study": "Combining an online experiment with an eight-week longitudinal field study, researchers examined how robotic assistants are accepted and perform inside work teams, synthesizing the results in an input-mediator-output-input model. Acceptance depended on the robot's human-likeness (android robots were preferred over humanoid ones) and on the match between expected and experienced competence, and team members preferred robots that offered a lot of help but acted reactively rather than proactively. Human-robot teams outperformed human-only teams in effectiveness, particularly in the later phases of the project.",
+      "why_it_matters": "It suggests the payoff from adding automated or robotic assistants to a team is back-loaded — early measurement could lead firms to abandon a technology just before it starts to pay off — and that overselling a robot's capabilities undermines acceptance.",
+      "story_angle_primary": "If you are piloting robotic or AI assistants on a team, set expectations conservatively (mismatch between promised and actual competence hurt acceptance), configure the tool to respond on request rather than intervene unprompted, and give the pilot more than a few weeks before judging it.",
+      "story_angle_secondary": "What people actually want from a machine coworker: lots of help, no initiative, and no unpleasant surprises about what it can really do.",
+      "caveats": "Part of the evidence is an online experiment, which shows what can happen rather than what will; the field study covers eight weeks and a limited set of teams and tasks; design and sample sizes are not reported in the abstract; findings about android versus humanoid appearance are specific to the robots tested.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Faithful summary of an abstract thin on method detail; headline's \"only after\" is stronger than the abstract's \"particularly.\"",
+      "tags": [
+        "ai & the future of work",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 6,
+      "title": "When colleagues get rude, high performers conclude they're being envied — and start playing politics",
+      "paper_title": "Are you envious of me? employees’ envy attribution and behavioural responses to coworkers’ incivility",
+      "journal": "European Journal of Work and Organizational Psychology",
+      "published": "2026-10-13",
+      "work_id": "W7221801860",
+      "doi": "10.1080/1359432x.2026.2748000",
+      "source_id": "S187270080",
+      "the_study": "Two studies tested why employees come to believe they are the object of coworkers' envy. Study 1 was a two-wave survey of full-time employees; Study 2 was a three-wave survey of employees matched with their supervisors. In both, experiencing incivility from coworkers predicted a stronger sense of being envied, and in Study 2 that link was strongest among employees with high proactivity standing — those seen as notably proactive. Feeling envied, in turn, was associated with more political behavior and less helping of colleagues.",
+      "why_it_matters": "Low-grade rudeness doesn't just sting: it can push the organization's most proactive people into self-protective, political behavior and out of the informal helping that keeps teams running.",
+      "story_angle_primary": "Managers should treat a pattern of petty incivility around a standout performer as an early warning of coming withdrawal and politicking, and should be careful that public recognition of star contributors doesn't fuel the slights that start the cycle.",
+      "story_angle_secondary": "The private logic of office tension: when people are curt with you, it's tempting to read it as jealousy of your success — and that interpretation changes how you treat everyone else.",
+      "caveats": "Survey-based and correlational — multi-wave designs show temporal ordering but not causation; perceptions of being envied and of incivility are self-reported from the same person, raising common-method concerns despite supervisor ratings in Study 2; sample sizes and country not reported in the abstract.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Study structure and results are reported correctly, but the headline swaps proactivity standing for performance.",
+      "tags": [
+        "leadership & management",
+        "team dynamics & collaboration",
+        "workplace stress & burnout"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 7,
+      "title": "Wearables that claim to measure team chemistry may be measuring noise",
+      "paper_title": "Evaluating Team Functioning in Virtual Environments through Multiple Physiological Synchrony Measures",
+      "journal": "Small Group Research",
+      "published": "2026-09-18",
+      "work_id": "W7213563235",
+      "doi": "10.1177/10464964261481164",
+      "source_id": "S133913429",
+      "the_study": "Researchers had 15 five-person teams complete a collaborative task in virtual reality while recording cardiovascular and electrodermal (sweat-response) activity from every member. They then calculated \"physiological synchrony\" — the degree to which teammates' bodies move in step — using three different families of methods (variance-, correlation- and recurrence-based). The metrics did not agree: different approaches showed heterogeneous and sometimes opposite associations with established indicators of how well the team was functioning.",
+      "why_it_matters": "Vendors and researchers increasingly pitch biometric sensors as objective dashboards for team health in remote and virtual work, but this study shows the verdict flips depending on which sensor and which formula you pick.",
+      "story_angle_primary": "If a wellness or analytics vendor offers to score your team's cohesion from heart-rate or skin-conductance data, ask exactly which synchrony metric is behind the number and what it was validated against — this early evidence suggests two defensible methods can point in opposite directions on the same team.",
+      "story_angle_secondary": "A glimpse of where workplace measurement is heading: the quiet effort to turn \"good chemistry\" into a number your body reports on, and how far that science still is from working.",
+      "caveats": "Exploratory lab study in virtual reality, not real work; very small sample (15 teams, 75 people) and a single task; no confirmatory hypotheses, and the authors themselves frame it as a methodological foundation rather than a finding about team effectiveness.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Sample (15 five-person teams), methods and the heterogeneous/opposing-associations finding all match; exploratory, methodological framing is preserved in the caveats.",
+      "tags": [
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7221144841",
+      "journal": "Organization Science",
+      "date": "2026-10-09",
+      "doi": "10.1287/orsc.2024.18867"
+    },
+    {
+      "work_id": "W7220392932",
+      "journal": "Journal of Applied Psychology",
+      "date": "2026-10-05",
+      "doi": "10.1037/apl0001407"
+    },
+    {
+      "work_id": "W7222970844",
+      "journal": "The Journal of Applied Behavioral Science",
+      "date": "2026-10-19",
+      "doi": "10.1177/00218863261487207"
+    },
+    {
+      "work_id": "W7221436866",
+      "journal": "Journal of Business and Psychology",
+      "date": "2026-10-12",
+      "doi": "10.1007/s10869-026-10161-9"
+    },
+    {
+      "work_id": "W7223169561",
+      "journal": "The International Journal of Human Resource Management",
+      "date": "2026-10-22",
+      "doi": "10.1080/09585192.2026.2751529"
+    },
+    {
+      "work_id": "W7221801860",
+      "journal": "European Journal of Work and Organizational Psychology",
+      "date": "2026-10-13",
+      "doi": "10.1080/1359432x.2026.2748000"
+    },
+    {
+      "work_id": "W7213563235",
+      "journal": "Small Group Research",
+      "date": "2026-09-18",
+      "doi": "10.1177/10464964261481164"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- The information-elaboration thesis holds up twice in a row. Last run's randomized field experiment found diversity training only lifted creativity when it taught teams to surface and combine differing knowledge (\"Diversity training only boosted creativity when it taught teams to actually mine each other's knowledge,\" W7218884614); this run's multi-wave study specifies *whose* exchanges count — elaboration between culturally dissimilar members predicted performance more strongly than same-culture exchange (\"In diverse teams, it matters who you brainstorm with,\" W7221436866). Together they move the story from \"diversity needs process\" to \"diversity needs process that crosses the fault line.\"\n- The peer layer keeps punishing standouts. Last run's \"When the boss thanks a colleague in public, witnesses may cut corners to get noticed\" (W7202283587) and \"When a colleague redesigns their own job, coworkers either copy them or sabotage them\" (W7205707681) are extended by \"When colleagues get rude, high performers conclude they're being envied — and start playing politics\" (W7221801860), which traces the same dynamic from the target's side: incivility feeds a sense of being envied, which feeds politicking and withdrawal of help.\n- Newcomer entry remains a contested social event. \"Staying quiet in your first weeks can make you a target\" (W7215049715) and \"Gossip is how new hires actually learn the rules\" (W7207711849) showed how incumbents read and brief arrivals; \"Moving to a new job with an old teammate helps you — and hurts your new team\" (W7221144841) shows arrivals who bring their own social unit sidestep that process entirely — and the incumbent team absorbs the cost.\n\n**Advances**\n- Process-intervention evidence gets harder outcomes. W7218884614 measured creativity change in 57 teams with tentative mechanisms; \"A structured kickoff for new research teams led to more grants and more papers\" (W7222970844) carries a front-loaded facilitation design through to grants, publications and journal impact, with coordination capability as the pathway.\n- Temporal dynamics graduate from single studies to synthesis. Last run's \"Plan for small changes, improvise through big ones\" (W7214778895) treated time-and-change contingently within teams; \"Teams are stickier than we think — and conflict is the stickiest thing of all\" (W7220392932) supplies the meta-analytic backbone — affect is volatile, conflict is inert, and performance feeds back into states and processes.\n\n**Counterpoints**\n- Adding people to a team: last run's \"After a team flops, flat teams rebound by recruiting a star\" (W7203807114) found a well-chosen addition improves subsequent performance; this run's W7221144841 finds additions who arrive as a pre-bonded pair depress team-level output even as they personally outperform solo arrivals. The reconciliation is probably *how* the newcomer is bound to the group, but the two headline messages pull in opposite directions and should not be pitched as one.\n- Measurement optimism takes a hit. Topic memory has repeatedly flagged self-report as this literature's weak point; \"Wearables that claim to measure team chemistry may be measuring noise\" (W7213563235) shows the leading \"objective\" alternative — physiological synchrony — gives conflicting answers depending on which metric family is used.\n\n**New themes**\n- Machines as teammates rather than tools: \"Robot teammates made teams more effective — but only after a few weeks\" (W7223169561) has no analogue in the previous digest.\n- Biometric team analytics as a measurement industry (W7213563235), also new.",
+  "feature_pitch_raw": "**The pattern:** Several studies in this batch converge on timing as the hidden variable in team performance — and on the fact that organizations consistently read the clock wrong. Robot teammates only outperformed human-only teams in the later phases of an eight-week study (W7223169561); a structured kickoff for new research teams paid off in grants and publications months and years downstream (W7222970844); co-movers helped themselves immediately while the team-level penalty took time to fade (W7221144841); and the meta-analysis found team affect is volatile while conflict hardens and performance itself feeds back into later states (W7220392932) — meaning a short measurement window catches mood, not substance. The wearables study (W7213563235) completes the picture: the sensors being sold as real-time team dashboards don't yet agree with one another.\n\n**Why pitch this now:** Firms are running AI and automation pilots on 60- and 90-day evaluation cycles and killing the ones that don't show immediate lift, while engagement and \"team health\" tooling is marketed on continuous, real-time scoring — exactly the measurement regime this evidence says will mislead.\n\n**Angle:** A feature on the mismatch between how fast companies judge teams and technologies and how slowly team capability actually forms, aimed at managers and executives who approve pilots and read dashboards — with a consumer-facing second register on what it means to be evaluated by a tool that samples your mood rather than your team's substance.\n\n**Potential headlines:**\n- Teams Take Longer to Work Than Companies Give Them\n- The Pilot You Canceled Was About to Start Paying Off\n- Your Team's Bad Mood Will Pass. Its Conflict Won't.\n\n**Potential outlets:**\n- *MIT Sloan Management Review* — its readership is exactly the group setting pilot windows and buying team-analytics tools, and the piece turns on measurement design rather than anecdote.\n- *Fast Company* — strong fit for the human-robot teaming material and the argument that back-loaded returns are being mistaken for failed automation.\n- *Wired* (work and technology coverage) — the physiological-synchrony findings give it a skeptical-tech spine: the quantified team is being sold ahead of the science.\n- *Inc.* — small and mid-size firms have the least runway and the most pressure to judge a new team or tool fast; the practical \"how long before you decide\" framing lands there.",
+  "pitch_ideas_raw": "- **Moving to a new job with an old teammate helps you — and hurts your new team (Work ID W7221144841):** The hidden cost of lift-out hiring — why importing an intact pod speeds individual ramp-up but depresses team output, and the integration tactics that break up the imported clique, for a hiring or HR explainer.\n- **Teams are stickier than we think — and conflict is the stickiest thing of all (Work ID W7220392932):** Conflict is the one team state that won't fade on its own, and early wins reshape team psychology — a manager's guide to what's still fixable and what isn't, for a manager-audience column.\n- **A structured kickoff for new research teams led to more grants and more papers (Work ID W7222970844):** Generic team-building did nothing here; structured work on how specialists translate and combine knowledge produced measurable output years later — a case for redesigning the project kickoff, for a management or operations column.\n- **In diverse teams, it matters who you brainstorm with — not just how much (Work ID W7221436866):** Diverse rosters don't deliver unless information crosses cultural lines — how to audit who is actually talking to whom, for a work-psychology explainer in a general-interest or women's/lifestyle outlet, or a DEI-practice piece for HR readers.\n- **Robot teammates made teams more effective — but only after a few weeks (Work ID W7223169561):** What people want from a machine colleague — maximum help, zero initiative, honest capability claims — and why overselling the tool is what kills adoption, for a technology-at-work feature.\n- **When colleagues get rude, high performers conclude they're being envied — and start playing politics (Work ID W7221801860):** Petty incivility around a standout is an early warning that your most proactive employee is about to go political and stop helping, for a manager-audience column; a lighter version on the private logic of \"they're just jealous\" fits a lifestyle or general-interest work column.\n- **Wearables that claim to measure team chemistry may be measuring noise (Work ID W7213563235):** The questions to ask a vendor selling biometric team-cohesion scores, given that two defensible methods can point in opposite directions on the same team, for a workplace-tech news brief or HR-buyer explainer.",
+  "fact_check": {
+    "studies_reviewed": 7,
+    "verdicts_by_work": {
+      "W7221144841": "⚠️ Minor issues",
+      "W7220392932": "⚠️ Minor issues",
+      "W7222970844": "⚠️ Minor issues",
+      "W7221436866": "✅ Accurate",
+      "W7223169561": "⚠️ Minor issues",
+      "W7221801860": "⚠️ Minor issues",
+      "W7213563235": "✅ Accurate"
+    },
+    "summary": {
+      "total_issues": "8 (6 Minor, 2 Moderate, 0 Major)",
+      "entries_requiring_revision": "5",
+      "entries_cleared": "2"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Team Dynamics & Collaboration — 2026-11-03\n**Checked:** 2026-11-03 | **Studies reviewed:** 7\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Moving to a new job with an old teammate helps you — and hurts your new team\n**Work ID:** W7221144841 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Analysis attribution swapped** — Severity: Minor\n\n- **As written:** \"the advantage was larger the longer they had played together before; robustness checks showed the individual edge persisted over time\"\n- **Abstract says:** \"in our robustness checks we find that greater shared tenure on the prior team further enhances this advantage. ... Additional analyses show that co-movers' individual performance advantage persists over time in the new team.\"\n- **Problem:** The digest assigns the persistence result to the robustness checks; in the abstract the robustness checks produced the shared-tenure result, while persistence came from additional analyses.\n- **Suggested fix:** \"Rephrase as: \"robustness checks showed the advantage was larger the longer they had played together, and additional analyses showed the individual edge persisted over time.\"\"\n\n### Study 2: Teams are stickier than we think — and conflict is the stickiest thing of all\n**Work ID:** W7220392932 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Prescriptive leap from cross-lagged correlations** — Severity: Minor\n\n- **As written:** \"engineer early wins deliberately, since the meta-analysis finds performance feeds back into subsequent cohesion, confidence and coordination\"\n- **Abstract says:** \"team performance exhibits consistent feedback loops, predicting subsequent emergent states and processes, which, in turn, predict later performance\"\n- **Problem:** The meta-analysis synthesizes longitudinal correlations, not interventions; \"engineer early wins\" treats a predictive feedback loop as a tested managerial lever. The specific states named (cohesion, confidence, coordination) are also the digest's gloss on \"emergent states and processes.\"\n- **Suggested fix:** \"Soften to \"early performance predicts later team states and processes in this synthesis, so early wins may be worth prioritising — though no intervention was tested.\"\"\n\n### Study 3: A structured kickoff for new research teams led to more grants and more papers\n**Work ID:** W7222970844 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Headline overstates causal chain** — Severity: Moderate\n\n- **As written:** \"A structured kickoff for new research teams led to more grants and more papers\"\n- **Abstract says:** \"Teams that received the scaffolding intervention showed greater knowledge integration than those in the comparison group, and this increase in integration was associated with stronger downstream performance, including more grants secured, more publications produced, and higher journal impact.\"\n- **Problem:** The abstract reports a quasi-experimental effect of the intervention on knowledge integration, and only an association between integration and grants/publications. \"Led to more grants and more papers\" asserts a causal effect on outputs that the abstract does not claim.\n- **Suggested fix:** \"Try \"A structured kickoff boosted knowledge integration in new research teams — and integration tracked with more grants and papers.\"\"\n\n**Issue B. Unverified timing claim** — Severity: Minor\n\n- **As written:** \"pays off in hard output months and years later\"\n- **Abstract says:** \"this increase in integration was associated with stronger downstream performance, including more grants secured, more publications produced, and higher journal impact\"\n- **Problem:** The abstract gives no follow-up window, so \"months and years later\" is unverifiable from the abstract alone.\n- **Suggested fix:** \"Drop the time frame or say \"in downstream grant and publication outcomes.\"\"\n\n### Study 4: In diverse teams, it matters who you brainstorm with — not just how much\n**Work ID:** W7221436866 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 5: Robot teammates made teams more effective — but only after a few weeks\n**Work ID:** W7223169561 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. \"Only after\" vs. \"particularly in later phases\"** — Severity: Minor\n\n- **As written:** \"Robot teammates made teams more effective — but only after a few weeks\"\n- **Abstract says:** \"Over time, human-robot teams show higher effectiveness than human-only teams, particularly in later project phases.\"\n- **Problem:** The abstract says the advantage was more pronounced later, not that it was absent earlier; \"only after a few weeks\" asserts a null early effect the abstract does not report.\n- **Suggested fix:** \"Change to \"— and the edge was biggest in the later project phases.\"\"\n\n**Issue B. Interpretation of competence mismatch** — Severity: Minor\n\n- **As written:** \"overselling a robot's capabilities undermines acceptance\"\n- **Abstract says:** \"robot acceptance is shaped ... by the alignment between expected and experienced robot competence\"\n- **Problem:** The abstract reports that alignment matters; it does not specify that the damaging direction is over-promising specifically.\n- **Suggested fix:** \"Say \"mismatch between expected and experienced competence undermined acceptance.\"\"\n\n### Study 6: When colleagues get rude, high performers conclude they're being envied — and start playing politics\n**Work ID:** W7221801860 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Proactivity standing recast as performance** — Severity: Moderate\n\n- **As written:** \"high performers conclude they're being envied\"\n- **Abstract says:** \"this relationship is strengthened by employee proactivity standing ... particularly when employee proactivity standing was high\"\n- **Problem:** The moderator is how proactive an employee is seen to be, not job performance; the headline (and the \"standout performer\" framing in the angles) would lead readers to apply the finding to high performers generally.\n- **Suggested fix:** \"Use \"notably proactive employees\" in the headline and angles instead of \"high performers\"/\"standout performer.\"\"\n\n**Issue B. Mild causal verb for multi-wave survey** — Severity: Minor\n\n- **As written:** \"experiencing incivility from coworkers predicted a stronger sense of being envied\"\n- **Abstract says:** \"experienced incivility was positively associated with the perception of being envied\"\n- **Problem:** The abstract uses associational language throughout; \"predicted\" nudges toward causation, though the digest's caveats do note the correlational design.\n- **Suggested fix:** \"Use \"was associated with\" in the body text.\"\n\n### Study 7: Wearables that claim to measure team chemistry may be measuring noise\n**Work ID:** W7213563235 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Moving to a new job with an old teammate helps you — and hurts your new team | ⚠️ Minor issues | Faithful to the abstract overall; one small mix-up in which analysis produced which result. |\n| 2 | Teams are stickier than we think — and conflict is the stickiest thing of all | ⚠️ Minor issues | Findings and numbers match the abstract; one prescriptive story angle runs slightly ahead of correlational cross-lagged evidence. |\n| 3 | A structured kickoff for new research teams led to more grants and more papers | ⚠️ Minor issues | Design and sample reported correctly; the headline converts an association into a direct causal outcome. |\n| 4 | In diverse teams, it matters who you brainstorm with — not just how much | ✅ Accurate | Sample, design and findings all match; correlational framing and caveats are appropriate. |\n| 5 | Robot teammates made teams more effective — but only after a few weeks | ⚠️ Minor issues | Faithful summary of an abstract thin on method detail; headline's \"only after\" is stronger than the abstract's \"particularly.\" |\n| 6 | When colleagues get rude, high performers conclude they're being envied — and start playing politics | ⚠️ Minor issues | Study structure and results are reported correctly, but the headline swaps proactivity standing for performance. |\n| 7 | Wearables that claim to measure team chemistry may be measuring noise | ✅ Accurate | Sample (15 five-person teams), methods and the heterogeneous/opposing-associations finding all match; exploratory, methodological framing is preserved in the caveats. |\n\n**Total issues:** 8 (6 Minor, 2 Moderate, 0 Major)\n**Entries requiring revision:** 5\n**Entries cleared:** 2\n"
+  },
+  "coverage": {
+    "checked": 7,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}

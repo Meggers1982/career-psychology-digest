@@ -458,6 +458,16 @@
         "state": "unreported"
       }
     },
+    "W7213563235": {
+      "checked_at": "2026-11-03T18:03:18.554518+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Wearables claim measure team chemistry measuring noise",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7213869505": {
       "checked_at": "2026-10-27T23:10:54.037131+00:00",
       "result": {
@@ -526,6 +536,16 @@
         "state": "unreported"
       }
     },
+    "W7220392932": {
+      "checked_at": "2026-11-03T18:03:07.474496+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Teams stickier than think conflict stickiest thing all",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7220455658": {
       "checked_at": "2026-11-02T20:33:15.404116+00:00",
       "result": {
@@ -587,6 +607,16 @@
         "state": "unreported"
       }
     },
+    "W7221144841": {
+      "checked_at": "2026-11-03T18:03:02.498965+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Moving job old teammate helps hurts team",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "W7221245981": {
       "checked_at": "2026-10-30T16:52:53.478471+00:00",
       "result": {
@@ -607,6 +637,16 @@
         "state": "unreported"
       }
     },
+    "W7221436866": {
+      "checked_at": "2026-11-03T18:03:11.870305+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "diverse teams matters who brainstorm not just much",
+        "returned": 5,
+        "state": "unreported"
+      }
+    },
     "W7221798128": {
       "checked_at": "2026-10-26T17:00:10.552010+00:00",
       "result": {
@@ -623,6 +663,16 @@
         "articles": [],
         "outlets": [],
         "query": "dark side job crafting reshaping leave fighting identity",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7221801860": {
+      "checked_at": "2026-11-03T18:03:15.809645+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "colleagues get rude high performers conclude they being envied start",
         "returned": 0,
         "state": "unreported"
       }
@@ -697,6 +747,16 @@
         "state": "unreported"
       }
     },
+    "W7222970844": {
+      "checked_at": "2026-11-03T18:03:10.595359+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "structured kickoff teams led grants papers",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7223031859": {
       "checked_at": "2026-10-30T16:52:27.465673+00:00",
       "result": {
@@ -754,6 +814,16 @@
         "outlets": [],
         "query": "immigrants cultural potluck best career networking event town",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "W7223169561": {
+      "checked_at": "2026-11-03T18:03:13.303122+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Robot teammates made teams effective but only after few weeks",
+        "returned": 14,
         "state": "unreported"
       }
     },
