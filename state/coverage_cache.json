@@ -358,6 +358,16 @@
         "state": "unreported"
       }
     },
+    "W7212220471": {
+      "checked_at": "2026-11-04T18:16:57.814496+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Beyond keep kill three ways companies actually handling DEI backlash",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "W7212238392": {
       "checked_at": "2026-10-27T23:10:39.921805+00:00",
       "result": {
@@ -434,6 +444,16 @@
         "articles": [],
         "outlets": [],
         "query": "Managers judge freelancers output not loyalty knowledge sharing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7213356687": {
+      "checked_at": "2026-11-04T18:17:02.371754+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "third shift Latina workers carry load most workplace policies don",
         "returned": 0,
         "state": "unreported"
       }
@@ -673,6 +693,16 @@
         "articles": [],
         "outlets": [],
         "query": "colleagues get rude high performers conclude they being envied start",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7222236166": {
+      "checked_at": "2026-11-04T18:16:22.215413+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Inclusive leaders meet quiet resistance pushback has predictable shape",
         "returned": 0,
         "state": "unreported"
       }
@@ -953,6 +983,36 @@
         "articles": [],
         "outlets": [],
         "query": "Brazil Black workers report work meets fewer their basic needs",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7225083047": {
+      "checked_at": "2026-11-04T18:16:53.997137+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Everyone cites business case neurodiversity evidence thin",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7225089427": {
+      "checked_at": "2026-11-04T18:16:40.923082+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Latin America family backing visible policy track women STEM ambition",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7225167352": {
+      "checked_at": "2026-11-04T18:16:30.214275+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "hidden cost job hunting while neurodivergent masking scripting energy budgeting",
         "returned": 0,
         "state": "unreported"
       }
