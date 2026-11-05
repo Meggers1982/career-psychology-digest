@@ -627,6 +627,16 @@
         "state": "unreported"
       }
     },
+    "W7221038267": {
+      "checked_at": "2026-11-05T18:16:18.145741+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "CEO Politics Shape Whether Company Builds Buys",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
     "W7221144841": {
       "checked_at": "2026-11-03T18:03:02.498965+00:00",
       "result": {
@@ -983,6 +993,16 @@
         "articles": [],
         "outlets": [],
         "query": "Brazil Black workers report work meets fewer their basic needs",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "W7224801151": {
+      "checked_at": "2026-11-05T18:16:22.800552+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Liberal CEOs Good Story Looks Wrong Moderates Who Least",
         "returned": 0,
         "state": "unreported"
       }

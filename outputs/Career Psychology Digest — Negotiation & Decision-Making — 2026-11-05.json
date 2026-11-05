@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-11-05",
+  "days_back": 60,
+  "window_from": "2026-09-06",
+  "window_to": "2026-11-05",
+  "focus": "Negotiation & Decision-Making",
+  "topic": "negotiation & decision-making",
+  "query": "(negotiation OR negotiator OR \"managerial decision\" OR \"organizational decision\" OR \"decision making\" OR \"group decision\" OR \"judgment bias\") AND (workplace OR manager OR employee OR organization OR business OR \"salary\" OR executive OR firm)",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 11,
+    "not_research": 0,
+    "no_abstract": 1,
+    "off_topic": 1,
+    "already_covered": 5,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 4
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7221038267",
+      "headline": "A CEO's Politics May Shape Whether a Company Builds or Buys",
+      "the_study": "Researchers analyzed a panel of 1,198 U.S. publicly traded firms from 2001 to 2020, using firm fixed effects and CEO successions to isolate the effect of a change in leadership. Firms led by more conservative-leaning CEOs showed systematically higher levels of vertical integration — doing more in-house rather than contracting out. The pattern weakened when assets were highly specialized and when industries were concentrated, and was not amplified by demand volatility.",
+      "why_it_matters": "Classic transaction cost logic says make-or-buy decisions follow efficiency; this suggests a sizeable chunk of the variation reflects who is in the corner office and what they personally value.",
+      "story_angle_primary": "If you're on a leadership team debating outsourcing, insourcing, or an acquisition, the study is an argument for forcing the efficiency case to be made explicitly — and for asking whether a preference for control is coming from the data or from the chief executive's worldview. Watch for strategy shifts that follow a CEO succession with no change in market conditions.",
+      "story_angle_secondary": "For anyone whose job has been outsourced — or suddenly brought back in-house — this offers a less reassuring explanation than \"the numbers changed\": the boundary of the company you work for may move partly because a new leader's values differ from the last one's.",
+      "caveats": "Observational panel data on U.S. public firms only; CEO ideology is inferred from external indicators (typically political donations), not measured directly, and fixed-effects designs reduce but do not eliminate the risk that something else changing alongside CEO succession drives the result.",
+      "journal": "Journal of Management",
+      "published": "2026-10-07",
+      "doi": "10.1177/01492063261487117",
+      "paper_title": "Transaction Hazards Through Ideological Filters: How CEO Political Ideology Influences Vertical Integration Decisions",
+      "source_id": "S122767448"
+    },
+    {
+      "work_id": "W7224801151",
+      "headline": "The \"Liberal CEOs Do More Good\" Story Looks Wrong — It's the Moderates Who Do Least",
+      "the_study": "Applying moral foundations theory to a sample of more than 1,600 S&P 1500 chief executives, researchers tested whether the widely assumed linear link between liberal-leaning CEOs and pro-social corporate practices actually holds. It did not: the relationships were U-shaped, with CEOs at both ideological poles endorsing evenhanded outcomes and pro-social practices, while ideologically middling CEOs did the least. The argument is that liberals and conservatives draw on different moral foundations — individual-centric versus group-centric concerns — that can arrive at similar pro-social behavior by different routes.",
+      "why_it_matters": "It undercuts a common shorthand in boardrooms and business commentary that a conservative CEO means a retreat from social and stakeholder commitments, and suggests the motivating language for such initiatives should be tailored to which moral concerns a leader holds, not assumed.",
+      "story_angle_primary": "If you're pitching a sustainability, fairness or community initiative upward, the finding suggests reframing it in the moral language your leader actually uses — loyalty, duty and group welfare can motivate as effectively as equality and harm-avoidance. Test whether your organization's internal case for social initiatives is written for only half the ideological spectrum.",
+      "story_angle_secondary": "A useful corrective to the habit of predicting someone's behavior from their politics: two people with opposite voting records can land on the same decision for entirely different reasons, and the person with no strong convictions may be the one who does least.",
+      "caveats": "Archival study of large U.S. public companies, so the findings may not generalize elsewhere; CEO ideology is inferred from secondary indicators rather than measured attitudes, and moral foundations are theorized rather than directly assessed; correlational design cannot establish that ideology causes the corporate outcomes.",
+      "journal": "Journal of Management",
+      "published": "2026-10-29",
+      "doi": "10.1177/01492063261489261",
+      "paper_title": "A Moral Foundations Perspective on CEO Political Ideology",
+      "source_id": "S122767448"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7221038267",
+      "headline": "A CEO's Politics May Shape Whether a Company Builds or Buys",
+      "verdict": "minor",
+      "notes": "Design, sample, direction and all three moderators are reported correctly. \"Why it matters\" invents a magnitude (\"sizeable chunk of the variation\") the abstract never quantifies, and the donations-based ideology measure described in Caveats is not stated in the abstract.",
+      "issues": [
+        {
+          "label": "Unsupported effect magnitude",
+          "severity": "Moderate",
+          "as_written": "this suggests a sizeable chunk of the variation reflects who is in the corner office and what they personally value",
+          "abstract_says": "persistent heterogeneity in vertical integration suggests that such efficiency-based explanations are incomplete... Our findings suggest that firm boundaries reflect not only transaction conditions but also systematic differences in executive decision-making.",
+          "problem": "The abstract reports no effect size or share of variance explained. \"A sizeable chunk of the variation\" converts a directional association into a quantified claim about explanatory power.",
+          "suggested_fix": "Rephrase as: \"this suggests some of the variation reflects who is in the corner office — the abstract does not report how much.\""
+        },
+        {
+          "label": "Causal phrasing for an associational result",
+          "severity": "Minor",
+          "as_written": "using firm fixed effects and CEO successions to isolate the effect of a change in leadership",
+          "abstract_says": "We examine whether CEO political ideology is associated with systematic variation in firm boundary decisions... Using a panel of 1,198 U.S. public firms from 2001 to 2020 and a firm fixed-effects design exploiting CEO successions, we find that firms led by more conservative CEOs exhibit higher levels of vertical integration.",
+          "problem": "The abstract frames the result as an association and the design as \"exploiting\" successions, not as isolating a causal effect. The Caveats section does walk this back, but the body text states it more strongly than the abstract.",
+          "suggested_fix": "Use the abstract's own wording — \"a firm fixed-effects design that exploits CEO successions\" — rather than \"isolate the effect.\""
+        },
+        {
+          "label": "Ideology measure not described in abstract",
+          "severity": "Minor",
+          "as_written": "CEO ideology is inferred from external indicators (typically political donations), not measured directly",
+          "abstract_says": "The abstract does not state how CEO political ideology was operationalized.",
+          "problem": "Unverifiable from abstract only. The donations-based measure is a plausible standard approach but is not confirmed by the text supplied.",
+          "suggested_fix": "Soften to \"CEO ideology is inferred from archival indicators rather than measured attitudes\" or confirm the measure from the full text."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7224801151",
+      "headline": "The \"Liberal CEOs Do More Good\" Story Looks Wrong — It's the Moderates Who Do Least",
+      "verdict": "minor",
+      "notes": "Sample size, journal, the U-shaped versus linear result and the moral foundations framing all match the abstract. The manager-facing angle extrapolates to message-framing effectiveness, which this study did not test, and \"archival\" is an inference.",
+      "issues": [
+        {
+          "label": "Advice beyond what was tested",
+          "severity": "Minor",
+          "as_written": "loyalty, duty and group welfare can motivate as effectively as equality and harm-avoidance",
+          "abstract_says": "liberal- and conservative-leaning CEOs differ in their focus on individual- versus group-centric concerns but, contrary to the existing consensus, should both endorse evenhanded outcomes and pro-social corporate practices.",
+          "problem": "The study examined the association between CEO ideology and corporate pro-social practices; it did not test whether differently framed appeals persuade leaders, so a comparative claim about motivational effectiveness is not supported.",
+          "suggested_fix": "Reframe as a hypothesis: \"the pattern is consistent with the idea that group-centric moral language may resonate with conservative-leaning leaders — though the study did not test persuasive framing.\""
+        },
+        {
+          "label": "Study design label not in abstract",
+          "severity": "Minor",
+          "as_written": "Archival study of large U.S. public companies",
+          "abstract_says": "We find evidence for corresponding U-shaped rather than linear effects of CEOs' political ideology in a sample of over 1,600 S&P 1500 CEOs.",
+          "problem": "Unverifiable from abstract only — the abstract names the sample but not the data source or design. The inference is reasonable but should be hedged.",
+          "suggested_fix": "Say \"a large-sample study of S&P 1500 CEOs\" unless the archival design is confirmed in the full text."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "checked": 2,
+    "cached": 0,
+    "skipped": 0,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {
+      "W7221038267": {
+        "query": "CEO Politics Shape Whether Company Builds Buys",
+        "returned": 3,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      },
+      "W7224801151": {
+        "query": "Liberal CEOs Good Story Looks Wrong Moderates Who Least",
+        "returned": 0,
+        "outlets": [],
+        "articles": [],
+        "state": "unreported"
+      }
+    }
+  },
+  "sections": {
+    "trends": "**Convergent findings**\n- Both digests keep landing on the same underlying claim: decisions that look like pure financial engineering are substantially set by who holds the seat. The previous run's \"When new women join the board, firms are more likely to build abroad than buy abroad\" (W7203630460) tied board composition to greenfield-versus-acquisition entry; this run's \"A CEO's Politics May Shape Whether a Company Builds or Buys\" (W7221038267) ties CEO ideology to vertical integration — another make-or-buy boundary decision. Two different leadership attributes, two different countries, same structural outcome class.\n\n**Advances**\n- The level of analysis has moved from demographics to values. The prior digest explained boardroom influence through composition and allies in the room (W7203630460); the new studies attribute strategy variance to leaders' personal ideological and moral commitments (W7221038267; \"The 'Liberal CEOs Do More Good' Story Looks Wrong,\" W7224801151). That is a sharper, more uncomfortable claim: not just who is present, but what they believe.\n- Both new studies also tighten the methods bar relative to the prior board study, using large U.S. panels, firm fixed effects and CEO successions (W7221038267) rather than straightforward archival correlation (W7203630460) — though both still infer psychology from outcomes rather than measuring it.\n\n**Counterpoints**\n- W7224801151 is a direct strike against linear-assumption reasoning, the same habit the prior digest's framing study exposed in a different domain: \"Why 'we grew sales' beats 'we cut costs'\" (W7214937827) showed evaluators apply a simple heuristic (growth = competence) to identical economics; the new study shows commentators apply a simple heuristic (liberal = pro-social) that the U-shaped data contradicts. In both cases the shortcut, not the evidence, is doing the work.\n\n**New themes**\n- Political ideology as a measured input into corporate strategy is new to this topic and now accounts for the entire batch. The previous run had no political dimension at all; its diversity-and-decision thread (W7203630460) and its emotion-and-preference thread (W7213965712) have no follow-up in this window.",
+    "feature_pitch": "**The pattern:** Both studies in this batch treat the chief executive's personal politics as a measurable input into decisions companies describe as efficiency calculations — ideology predicting how much work a firm keeps in-house versus contracts out (\"A CEO's Politics May Shape Whether a Company Builds or Buys,\" W7221038267), and ideology predicting pro-social and evenhanded practices in a U-shaped rather than linear way, with moderates doing least (\"The 'Liberal CEOs Do More Good' Story Looks Wrong,\" W7224801151). Together they say two things at once: the corner office's worldview moves real strategy, and the way most people read that worldview — left means socially engaged, right means retreat — is wrong.\n\n**Why pitch this now:** Corporate political identity is being read publicly and constantly right now, through DEI and ESG rollbacks, reshoring and outsourcing announcements, and boycott cycles keyed to what a CEO is assumed to believe — and this evidence says those inferences are both more consequential and less accurate than the commentary assumes.\n\n**Angle:** A reported feature on what a CEO's politics actually predicts about a company — strong effects on structural decisions like make-or-buy, but a counterintuitive, non-linear relationship to social commitments — written for professionals and managers who work inside these firms and for readers who make consumer and investment judgments based on executive politics.\n\n**Potential headlines:**\n- What a CEO's Politics Really Predicts About a Company\n- The Least Socially Engaged Executives Aren't the Partisans — They're the Fence-Sitters\n- Your Job Description May Depend on How Your CEO Votes\n\n**Potential outlets:**\n- **Fortune** — its CEO-focused coverage and leadership newsletter audience are exactly the readers who use ideological shorthand about peers and boards, and who would be most provoked by the U-shaped finding.\n- **Bloomberg Businessweek** — strong fit for the make-or-buy half, which connects directly to its ongoing reporting on reshoring, insourcing and supply-chain control as strategic choices rather than cost math.\n- **The Atlantic** — the cultural argument that opposite political convictions can converge on the same behavior while the uncommitted middle does least is a general-interest idea, not a management one.\n- **Harvard Business Review** — the practical takeaway for managers pitching sustainability or community initiatives upward (match the moral language your leader actually uses) is squarely in its evidence-to-practice lane.",
+    "pitch_ideas": "- **A CEO's Politics May Shape Whether a Company Builds or Buys (Work ID W7221038267):** Frame it for employees whose roles sit on the outsourcing bubble — a new CEO with no change in market conditions can move the company boundary your job sits inside, so track successions, not just earnings calls; for a workplace news brief or a career-advice column, with a manager-side version on forcing the efficiency case to be stated explicitly.\n- **The \"Liberal CEOs Do More Good\" Story Looks Wrong — It's the Moderates Who Do Least (Work ID W7224801151):** Lead with the fence-sitter result and turn it into a tactical guide for anyone pitching a fairness, sustainability or community program upward — translate it into loyalty-and-duty language, not only harm-and-equality language; for a manager-audience column or a leadership explainer in a general-interest outlet."
+  }
+}
