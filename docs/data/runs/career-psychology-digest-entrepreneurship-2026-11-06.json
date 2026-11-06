@@ -1,0 +1,142 @@
+{
+  "id": "career-psychology-digest-entrepreneurship-2026-11-06",
+  "filename": "Career Psychology Digest — Entrepreneurship — 2026-11-06.md",
+  "title": "Career Psychology Digest — Entrepreneurship — 2026-11-06",
+  "run_date": "2026-11-06",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-07",
+  "window_to": "2026-11-06",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "3",
+  "articles_found": 10,
+  "screening": {
+    "found": 10,
+    "not_research": 1,
+    "no_abstract": 3,
+    "off_topic": 0,
+    "already_covered": 3,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 3
+  },
+  "focus": "Entrepreneurship",
+  "topic": "entrepreneurship",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 2,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Small business owners badly misjudge what their peers think about climate — and it's holding back action",
+      "paper_title": "Belief Traps Hinder Small Business Climate Action",
+      "journal": "Entrepreneurship Theory and Practice",
+      "published": "2026-10-20",
+      "work_id": "W7223102244",
+      "doi": "10.1177/10422587261485958",
+      "source_id": "S187626162",
+      "the_study": "In a registered report spanning seven countries, researchers surveyed 4,432 owners and leaders of small and medium-sized businesses, asking both what they themselves believed about climate change and sustainability and what they thought their peers believed. A persistent gap emerged: leaders systematically misread the beliefs of other business owners around them. The size of an individual's misperception gap predicted their firm's behavior — those with larger gaps had fewer sustainability policies in place.",
+      "why_it_matters": "It suggests a cheap lever for climate action in the SME sector: correcting false beliefs about what other business owners think may move behavior without new regulation or subsidies.",
+      "story_angle_primary": "Managers should question whether \"nobody in our industry is doing this\" is actually true before using it to justify inaction — and business associations could test simply reporting back what members really believe, as a low-cost nudge.",
+      "story_angle_secondary": "A familiar social trap shows up in the boardroom as much as the schoolyard: people hold back on something they privately support because they wrongly assume everyone else is against it.",
+      "caveats": "Self-reported beliefs and self-reported sustainability policies from the same respondents; the link between misperception gap and policies is correlational, not causal — the abstract reports no experimental test that correcting beliefs changes behavior. Country-level variation is not detailed in the abstract.",
+      "score": 87,
+      "band": "Strong",
+      "evidence_type": "experiments",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Design, N (4,432), seven countries, registered report and the direction of the gap–policy association all match the abstract; the correlational nature and self-report overlap are flagged in Caveats.",
+      "tags": [
+        "entrepreneurship",
+        "leadership & management"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "There is no single recipe for passion at work — and entrepreneurs' version runs on different ingredients than employees'",
+      "paper_title": "Rethinking the Anatomy of Passion: A Biopsychosocial Configurational Perspective on Antecedents of Work and Entrepreneurial Passion",
+      "journal": "Journal of Organizational Behavior",
+      "published": "2026-11-05",
+      "work_id": "W7225316879",
+      "doi": "10.1002/job.70133",
+      "source_id": "S160573970",
+      "the_study": "Researchers reconceived work and entrepreneurial passion as a configuration of biological, psychological and social conditions rather than a list of separate predictors, and tested the idea using fuzzy set qualitative comparative analysis on two time-lagged samples — one of employees, one of entrepreneurs. They identified multiple distinct combinations of conditions that each led to passion, and these pathways differed both between harmonious and obsessive passion and between the two domains. In other words, what fuels an entrepreneur's passion for a venture is largely not what fuels an employee's passion for a job.",
+      "why_it_matters": "If passion arises from several equally valid combinations of conditions rather than one universal driver, generic engagement programs that push the same levers for everyone are likely to miss most people.",
+      "story_angle_primary": "Managers assuming that the conditions that energize founders will also energize employees — autonomy framing, ownership language, mission talk — should check that assumption; the study suggests different groups reach passion by different routes, including routes that produce unhealthy, obsessive passion.",
+      "story_angle_secondary": "For anyone weighing leaving a job to start something, this is a reminder that loving your work and loving your venture are not the same emotion arriving from the same place — and that passion has a compulsive version worth watching for.",
+      "caveats": "Sample sizes and countries are not reported in the abstract; fsQCA identifies configurations consistent with outcomes rather than causal effects, and time-lagged self-report designs still leave open reverse causation and common-method concerns. The finding is pattern-level and offers little in the way of specific, directly actionable levers.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "A",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Core claims (BPS configurational framing, fsQCA, two time-lagged samples of employees and entrepreneurs, domain-contingent and harmonious/obsessive differences) match. Body text uses light causal wording that its own caveat disavows, and the \"Why it matters\" line extrapolates to engagement programs the abstract never mentions.",
+      "tags": [
+        "entrepreneurship",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7223102244",
+      "journal": "Entrepreneurship Theory and Practice",
+      "date": "2026-10-20",
+      "doi": "10.1177/10422587261485958"
+    },
+    {
+      "work_id": "W7225316879",
+      "journal": "Journal of Organizational Behavior",
+      "date": "2026-11-05",
+      "doi": "10.1002/job.70133"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- Both digests keep landing on the same mechanism: what founders and owners *believe other people think* becomes concrete firm behavior. \"Small business owners badly misjudge what their peers think about climate\" (W7223102244) shows misread peer beliefs predicting fewer sustainability policies, which rhymes with last run's \"North Korean defectors who started businesses built three very different kinds of companies\" (W7214760936), where founders' readings of how locals evaluated them shaped mission, hiring and branding, and with \"Why women founders post about their worst days\" (W7215047180), where anticipated audience judgment drove carefully engineered disclosure. Social evaluation — accurate or not — is doing strategic work in all three.\n\n**Advances**\n- The methodological shift flagged last run has arrived. The previous batch was almost entirely qualitative field work and historical case analysis (W7203797024, W7214760936, W7215047180, W7204156044); this batch is a seven-country registered report with 4,432 respondents (W7223102244) and a configurational fsQCA across two time-lagged samples (W7225316879). The questions have moved from thick description of extreme contexts to population-scale measurement and pattern detection.\n- Last run's SME-and-region policy story, \"The startup policy that grows the economy while hollowing out the towns next door\" (W7204156044), argued that aggregate levers miss heterogeneity across places. W7223102244 extends that logic inside the firm: a cheap belief-correction nudge may do work that regulation and subsidy don't, precisely because the binding constraint is perceptual rather than material.\n\n**New themes**\n- Climate and sustainability enter the entrepreneurship digest for the first time (W7223102244), and as a behavioral-psychology problem rather than a policy or technology one.\n- Passion — and specifically the entrepreneur/employee divergence, plus obsessive versus harmonious forms (W7225316879) — is new. Last run's emotional terrain was endurance and cost under adversity (W7203797024); this one asks what energizes people in ordinary conditions, and finds no single answer.",
+  "feature_pitch_raw": "**The pattern:** Both studies in this batch show business leaders acting on a confidently held but wrong model of other people's inner lives. SME owners across seven countries systematically misread what their peers believe about climate, and the bigger the misread, the fewer sustainability policies their firm has (W7223102244); meanwhile, passion turns out to arrive through several distinct configurations that differ between entrepreneurs and employees, meaning the single driver most engagement programs assume simply isn't there (W7225316879). The shared implication is that the costly error isn't a lack of motivation or conviction — it's bad mind-reading, and the fix is measurement rather than exhortation.\n\n**Why pitch this now:** Firms are being pushed to justify both sustainability spending and employee-engagement budgets under cost pressure, and both decisions are routinely made on a gut read of \"what people around here actually want\" — a read this research says is unreliable at scale.\n\n**Angle:** A reported piece on the mind-reading problem in business — how leaders consistently misjudge peers and staff, what that misjudgment costs in climate inaction and wasted engagement programs, and the cheap diagnostic alternative of just asking and reporting back; written for managers and owners, with enough social psychology to work for a general business reader.\n\n**Potential headlines:**\n- Business Owners Are Bad at Guessing What Other Business Owners Believe\n- Everyone in Your Industry Is Waiting for Someone Else to Go First\n- You Are Budgeting Against a Crowd That Doesn't Exist\n\n**Potential outlets:**\n- *Harvard Business Review* — pluralistic ignorance with a concrete managerial remedy (survey your members, publish the result) is exactly its evidence-plus-tool format.\n- *Business Insider* — strong small-business and sustainability-spending readership, and the \"you're wrong about your peers\" finding is a clean, shareable news-feature hook.\n- *Bloomberg Green* — covers corporate climate decision-making and would run the argument that a perceptual gap, not cost, is gating SME action.\n- *Vox* — its behavioral-science-meets-climate coverage is built for a story about a social trap operating in boardrooms.",
+  "pitch_ideas_raw": "- **Small business owners badly misjudge what their peers think about climate — and it's holding back action (Work ID W7223102244):** 4,432 owners across seven countries think their peers are less sold on sustainability than they are, and the size of that error tracks with how little their firm does — pitch as a sustainability-and-small-business explainer, or a trade-association-facing piece on running a cheap \"here's what members actually said\" survey, for a business news or climate-business section.\n- **There is no single recipe for passion at work — and entrepreneurs' version runs on different ingredients than employees' (Work ID W7225316879):** Founders and employees reach passion by different routes, so importing founder-style autonomy and mission language into employee engagement is likely to misfire — and one of those routes leads to obsessive, compulsive passion rather than the healthy kind; pitch as a manager-audience column on why generic engagement programs underperform, or as a work-psychology explainer on the difference between loving your job and being unable to put it down for a general-interest or women's/lifestyle outlet.",
+  "fact_check": {
+    "studies_reviewed": 2,
+    "verdicts_by_work": {
+      "W7223102244": "✅ Accurate",
+      "W7225316879": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "3 (3 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "1"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Entrepreneurship — 2026-11-06\n**Checked:** 2026-11-06 | **Studies reviewed:** 2\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Small business owners badly misjudge what their peers think about climate — and it's holding back action\n**Work ID:** W7223102244 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 2: There is no single recipe for passion at work — and entrepreneurs' version runs on different ingredients than employees'\n**Work ID:** W7225316879 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Causal wording for configurational analysis** — Severity: Minor\n\n- **As written:** \"They identified multiple distinct combinations of conditions that each led to passion\"\n- **Abstract says:** \"we identify multiple distinct configurations that not only differentiate harmonious from obsessive passion but also distinguish passion across the work and entrepreneurial domains\"\n- **Problem:** fsQCA identifies configurations associated with an outcome; \"led to\" implies causation, which the digest's own caveat explicitly rules out, so body and caveat contradict each other.\n- **Suggested fix:** \"Change to \"multiple distinct combinations of conditions each associated with passion\".\"\n\n**Issue B. Causal wording about obsessive passion pathways** — Severity: Minor\n\n- **As written:** \"including routes that produce unhealthy, obsessive passion\"\n- **Abstract says:** \"we comparatively analyze configurations associated with harmonious and obsessive passion\"\n- **Problem:** \"Produce\" asserts a causal effect the design cannot establish.\n- **Suggested fix:** \"Use \"including configurations associated with obsessive passion\".\"\n\n**Issue C. Practice implication not supported by the abstract** — Severity: Minor\n\n- **As written:** \"generic engagement programs that push the same levers for everyone are likely to miss most people\"\n- **Abstract says:** \"Our study advances passion research by shifting attention from isolated net effects toward a holistic view of passion as a system of interdependent BPS predictors.\"\n- **Problem:** The abstract reports no intervention or engagement-program test; the prediction about program effectiveness goes beyond the evidence.\n- **Suggested fix:** \"Frame as a hypothesis, e.g. \"this raises the question of whether one-size-fits-all engagement programs are well matched to how passion actually forms.\"\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Small business owners badly misjudge what their peers think about climate — and it's holding back action | ✅ Accurate | Design, N (4,432), seven countries, registered report and the direction of the gap–policy association all match the abstract; the correlational nature and self-report overlap are flagged in Caveats. |\n| 2 | There is no single recipe for passion at work — and entrepreneurs' version runs on different ingredients than employees' | ⚠️ Minor issues | Core claims (BPS configurational framing, fsQCA, two time-lagged samples of employees and entrepreneurs, domain-contingent and harmonious/obsessive differences) match. Body text uses light causal wording that its own caveat disavows, and the \"Why it matters\" line extrapolates to engagement programs the abstract never mentions. |\n\n**Total issues:** 3 (3 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 1\n"
+  },
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 2,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
