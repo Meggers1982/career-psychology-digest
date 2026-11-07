@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 32,
+  "run_count": 33,
   "topics": [
     "ai & the future of work",
     "career development & mobility",
@@ -18,6 +18,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-workplace-communication-2026-11-07",
+      "title": "Career Psychology Digest — Workplace Communication — 2026-11-07",
+      "topic": "workplace communication",
+      "run_date": "2026-11-07",
+      "study_count": 0,
+      "total_issues": "",
+      "lead_count": 0,
+      "top_score": 0
+    },
     {
       "id": "career-psychology-digest-entrepreneurship-2026-11-06",
       "title": "Career Psychology Digest — Entrepreneurship — 2026-11-06",
