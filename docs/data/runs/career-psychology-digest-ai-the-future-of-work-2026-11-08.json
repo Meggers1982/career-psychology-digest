@@ -1,0 +1,145 @@
+{
+  "id": "career-psychology-digest-ai-the-future-of-work-2026-11-08",
+  "filename": "Career Psychology Digest — AI & the Future of Work — 2026-11-08.md",
+  "title": "Career Psychology Digest — AI & the Future of Work — 2026-11-08",
+  "run_date": "2026-11-08",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-09",
+  "window_to": "2026-11-08",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "9",
+  "articles_found": 21,
+  "screening": {
+    "found": 21,
+    "not_research": 1,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 11,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 9
+  },
+  "focus": "AI & the Future of Work",
+  "topic": "ai & the future of work",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 2,
+  "studies": [
+    {
+      "number": 1,
+      "title": "AI at work energizes the go-getters and quietly checks out everyone else",
+      "paper_title": "Silent signals: does AI adoption encourage or curb quiet quitting in remote work?",
+      "journal": "Personnel Review",
+      "published": "2026-11-03",
+      "work_id": "W7225175362",
+      "doi": "10.1108/pr-12-2025-1403",
+      "source_id": "S139232146",
+      "the_study": "Researchers ran a three-wave survey of 693 remote employees to test how their organization's adoption of AI related to \"quiet quitting\" — doing the minimum required. AI adoption worked through two opposing channels: it raised psychological empowerment (and reduced quiet quitting) for employees high in proactive personality, but lowered empowerment and increased quiet quitting for less proactive employees. Separately, AI adoption raised technostress for everyone, and technostress predicted more quiet quitting regardless of how proactive the person was.",
+      "why_it_matters": "It suggests the productivity case for workplace AI may be unevenly distributed: the same rollout can energize self-starters while pushing more passive employees toward disengagement, and the stress cost lands on everyone.",
+      "story_angle_primary": "Managers rolling out AI tools should stop treating adoption as a single intervention with a single effect. Watch for a widening engagement gap between confident early adopters and quieter staff, and consider whether technostress mitigation — clear guardrails, training time, realistic expectations about tool reliability — is budgeted alongside the license fees. These are survey associations, so treat them as a diagnostic checklist rather than a guaranteed outcome.",
+      "story_angle_secondary": "\"Quiet quitting\" is often framed as a generational attitude problem, but this work reframes it as resource management: when new technology leaves you feeling less capable and more frazzled, scaling back effort is a rational way to protect yourself. It also hints that how you personally respond to a company AI push may say more about your disposition than the tool.",
+      "caveats": "Self-report survey across three waves — the design helps with timing but cannot establish causation, and predictors and outcomes come from the same source (common-method bias). Remote workers only; country and industry mix not specified in the abstract. Proactive personality is measured, not manipulated.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": 693,
+      "journal_tier": "unrated",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Design, N, sample and the full moderated dual-pathway pattern all match the abstract, including the technostress path that proactivity does not offset. Causal verbs in the body mirror the abstract's own wording and are explicitly qualified in Caveats.",
+      "tags": [
+        "ai & the future of work",
+        "motivation & engagement",
+        "remote & hybrid work"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "When the algorithm is your boss and your reputation is your paycheck",
+      "paper_title": "Algorithmic HRM and freelancer capabilities in Sri Lanka: constraints and the role of social support",
+      "journal": "Personnel Review",
+      "published": "2026-10-29",
+      "work_id": "W7224565098",
+      "doi": "10.1108/pr-02-2026-0356",
+      "source_id": "S139232146",
+      "the_study": "A qualitative study based on 41 in-depth interviews with platform-based freelancers in Sri Lanka examined how algorithmic management shapes what these knowledge workers are actually able to do with their careers. Researchers identified a cumulative, reputation-based trap: algorithmic work allocation squeezed income security and control over time, automated dispute and enforcement processes stripped away procedural fairness and recognition, and AI-driven shifts in the market devalued skills freelancers had built. Informal social support — peer networks, family, fellow freelancers — helped people cope and develop capabilities but did nothing to change the platform mechanisms governing visibility, pay or voice.",
+      "why_it_matters": "It shows that for a growing class of knowledge freelancers, generative AI is not an abstract future threat but an active force devaluing their existing skills while an opaque ranking system limits their ability to recover.",
+      "story_angle_primary": "Any organization sourcing knowledge work through freelance platforms is in effect outsourcing people management to an algorithm it does not control. Managers who rely on platform ratings to pick contractors should understand what those scores actually measure — and consider whether direct, longer-term relationships produce better work than a rating system that penalizes anyone who disputes a job.",
+      "story_angle_secondary": "For anyone contemplating independent platform work as an escape from a bad employer, this is a grounded look at the trade: more nominal autonomy, far less security, and a reputation score that can be damaged in ways you cannot appeal. It also shows how much informal community support quietly props up gig careers — and how far that support falls short of structural protection.",
+      "caveats": "Qualitative interviews with 41 freelancers in a single country with weak institutional protections; findings are interpretive and not generalizable to platform work elsewhere. No quantitative measurement of income or capability effects, and participants' accounts are self-reported.",
+      "score": 51,
+      "band": "Background",
+      "evidence_type": "cross-sectional self-report",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design (41 qualitative interviews, Sri Lanka), the four themes and the social-support conclusion are all faithfully rendered. Three small elaborations go beyond the abstract: the named sources of social support, the specification of 'generative' AI, and the claim that the rating system penalises disputing a job.",
+      "tags": [
+        "ai & the future of work",
+        "career development & mobility",
+        "hiring & selection",
+        "leadership & management"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7225175362",
+      "journal": "Personnel Review",
+      "date": "2026-11-03",
+      "doi": "10.1108/pr-12-2025-1403"
+    },
+    {
+      "work_id": "W7224565098",
+      "journal": "Personnel Review",
+      "date": "2026-10-29",
+      "doi": "10.1108/pr-02-2026-0356"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- The new \"algorithm as boss\" study, *When the algorithm is your boss and your reputation is your paycheck* (W7224565098), lines up closely with two items from the previous digest: *When the app decides who you are* (W7213334889) and *Workers managed by algorithms start treating customers as less than human* (W7218741843). All three find that reputation scoring and automated allocation do more than schedule work — they govern identity, voice and standing, and they do so in ways workers cannot appeal.\n- Social support keeps failing to fix the problem. The Sri Lanka freelancer study (W7224565098) finds informal peer and family support aided coping but changed none of the platform mechanisms controlling visibility or pay; the earlier *Gig workers go the extra mile when the algorithm seems fair* (W7204647820) found peer support actually dampened the motivational benefit of believing the system was fair. Two very different methods, same uncomfortable conclusion: community is not a substitute for structural protection.\n- *AI at work energizes the go-getters and quietly checks out everyone else* (W7225175362) reinforces the dispositional story running through the previous batch. Where W7223279808 found AI-driven impostor thoughts converted into proactive career behavior only for people with a vivid future work self, the new study finds AI adoption raises empowerment only for people high in proactive personality — and depresses it for everyone else.\n\n**Advances**\n- W7225175362 pushes the unresolved tension from last run — *Worried AI will take your job?* (W7223279808) versus *Workers who see AI coming are less likely to do the career work that would protect them* (W7213541995) — toward a partial resolution: AI exposure may be neither mobilizing nor paralyzing in general, but reliably both, depending on who the employee already is. It also adds an outcome the previous batch lacked (quiet quitting) and a cost that cuts across personality entirely (technostress).\n- W7224565098 moves algorithmic-management research out of food delivery and ride-hailing (W7213334889, W7218741843, W7204647820 were all delivery or driving) into platform-based *knowledge* work, and adds a mechanism absent from the earlier studies: generative AI actively devaluing the skills freelancers had already built, not just governing how they are rated.\n\n**New themes**\n- Quiet quitting is newly framed as a technology-resource outcome rather than a generational attitude (W7225175362) — nothing in the previous digest treated withdrawal as a measured consequence of AI rollout.\n- Skill devaluation as a present-tense market event, not a forecast (W7224565098). The previous batch handled AI threat as *awareness* or *anticipation* (W7223279808, W7213541995, W7220851400); this is the first study in the series describing income effects workers say are already happening.",
+  "feature_pitch_raw": "**The pattern:** Both new studies show the cost of adapting to AI being pushed onto individuals — and the evidence that individual coping works only for the already-advantaged. *AI at work energizes the go-getters and quietly checks out everyone else* (W7225175362) finds a single AI rollout raising empowerment for proactive employees while depressing it for less proactive ones, with technostress rising for all of them; *When the algorithm is your boss and your reputation is your paycheck* (W7224565098) finds freelancers whose skills AI has devalued relying on peer and family networks that help them cope but change nothing about pay, ranking or voice. Together they describe a self-reliance model of AI adaptation that quietly sorts workforces into winners and the disengaged.\n\n**Why pitch this now:** Employers are budgeting for AI licenses and \"upskilling\" campaigns on the assumption that motivated individuals will absorb the transition, at exactly the moment freelance and contract markets are showing the first measurable skill devaluation — which makes the personal-resilience framing look less like strategy and more like cost-shifting.\n\n**Angle:** A reported feature on the privatization of AI adaptation — who is actually expected to carry the cost of a technology rollout, why the people best placed to benefit are the ones who needed help least, and what employers and platforms could do that peer networks and personality cannot. Written for managers and HR leaders, but equally for the mid-career professional being told to \"lean in\" to tools that are making them feel less capable.\n\n**Potential headlines:**\n- The Same AI Rollout Energizes Some Workers and Checks Out the Rest\n- Your Company Thinks Hustle Will Absorb the AI Transition. The Research Says It Only Works for People Already Winning\n- Nobody Is Coming to Reskill You\n\n**Potential outlets:**\n- *Fast Company* — runs evidence-led pieces on AI rollouts that land badly inside organizations; the uneven-adoption finding is a direct challenge to the standard \"change management\" playbook.\n- *Rest of World* — the Sri Lanka freelancer study is exactly its beat: platform labor outside the US, with generative AI reshaping real incomes rather than hypothetical ones.\n- *Business Insider* — strong, continuing coverage of AI mandates at work and the gap between what leadership announces and what staff experience; the technostress-for-everyone finding is a concrete hook.\n- *The Guardian* (work and money coverage) — fits its interest in who absorbs the cost of economic transitions, and would run the freelancer and employee strands as one argument about responsibility being offloaded onto individuals.",
+  "pitch_ideas_raw": "- **AI at work energizes the go-getters and quietly checks out everyone else (Work ID W7225175362):** A single AI rollout can widen the engagement gap inside a team — raising empowerment for proactive employees, lowering it for the rest, and raising technostress for everyone — so adoption should be budgeted with guardrails and training time, not just licenses, for a manager-audience column or an HR/change-management explainer.\n- **AI at work energizes the go-getters and quietly checks out everyone else (Work ID W7225175362) — second angle:** Quiet quitting reframed as rational self-protection when new technology leaves you feeling less capable, rather than as a generational attitude problem, for a work-psychology explainer in a general-interest or women's/lifestyle outlet.\n- **When the algorithm is your boss and your reputation is your paycheck (Work ID W7224565098):** Companies sourcing knowledge work through freelance platforms are outsourcing people management to an algorithm they don't control and can't interrogate — including a ratings system that penalizes contractors who dispute a job — for a hiring/procurement explainer or a manager-audience column.\n- **When the algorithm is your boss and your reputation is your paycheck (Work ID W7224565098) — second angle:** A grounded reality check for anyone eyeing platform freelancing as an exit from a bad employer: more nominal autonomy, far less security, generative AI eating the skills you sold, and a reputation score with no appeal, for a careers feature or an independent-work explainer in a general-interest outlet.",
+  "fact_check": {
+    "studies_reviewed": 2,
+    "verdicts_by_work": {
+      "W7225175362": "✅ Accurate",
+      "W7224565098": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "4 (4 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "1"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — AI & the Future of Work — 2026-11-08\n**Checked:** 2026-11-08 | **Studies reviewed:** 2\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: AI at work energizes the go-getters and quietly checks out everyone else\n**Work ID:** W7225175362 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 2: When the algorithm is your boss and your reputation is your paycheck\n**Work ID:** W7224565098 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Unnamed sources of social support** — Severity: Minor\n\n- **As written:** \"Informal social support — peer networks, family, fellow freelancers — helped people cope and develop capabilities\"\n- **Abstract says:** \"informal social support functions as an extra-platform capability infrastructure ... informal social support contributes directly to capability development\"\n- **Problem:** The abstract does not specify who provides the informal support; the list of peers, family and fellow freelancers is added detail that cannot be checked here.\n- **Suggested fix:** \"Write simply 'Informal social support helped people cope and develop capabilities' or mark the examples as unverifiable from the abstract.\"\n\n**Issue B. 'Generative AI' specification** — Severity: Minor\n\n- **As written:** \"for a growing class of knowledge freelancers, generative AI is not an abstract future threat but an active force devaluing their existing skills\"\n- **Abstract says:** \"artificial intelligence (AI)-driven market changes constrain capabilities through skill devaluation\"\n- **Problem:** The abstract refers to AI-driven market changes generally, not specifically to generative AI.\n- **Suggested fix:** \"Change 'generative AI' to 'AI-driven market change'.\"\n\n**Issue C. Claim that disputing a job lowers ratings** — Severity: Minor\n\n- **As written:** \"a rating system that penalizes anyone who disputes a job\"\n- **Abstract says:** \"digital enforcement and dispute processes undermine procedural fairness and recognition\"\n- **Problem:** The abstract says dispute processes undermine fairness and recognition, but does not state that raising a dispute lowers a freelancer's rating. Unverifiable from abstract only.\n- **Suggested fix:** \"Rephrase to 'a rating system built on dispute processes that freelancers describe as procedurally unfair' or similar.\"\n\n**Issue D. Unappealable reputation damage** — Severity: Minor\n\n- **As written:** \"a reputation score that can be damaged in ways you cannot appeal\"\n- **Abstract says:** \"digital enforcement and dispute processes undermine procedural fairness and recognition\"\n- **Problem:** The absence of any appeal route is an inference; the abstract only reports that procedural fairness is undermined. Unverifiable from abstract only.\n- **Suggested fix:** \"Soften to 'a reputation score governed by processes freelancers experience as procedurally unfair'.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | AI at work energizes the go-getters and quietly checks out everyone else | ✅ Accurate | Design, N, sample and the full moderated dual-pathway pattern all match the abstract, including the technostress path that proactivity does not offset. Causal verbs in the body mirror the abstract's own wording and are explicitly qualified in Caveats. |\n| 2 | When the algorithm is your boss and your reputation is your paycheck | ⚠️ Minor issues | Design (41 qualitative interviews, Sri Lanka), the four themes and the social-support conclusion are all faithfully rendered. Three small elaborations go beyond the abstract: the named sources of social support, the specification of 'generative' AI, and the claim that the rating system penalises disputing a job. |\n\n**Total issues:** 4 (4 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 1\n"
+  },
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 2,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
