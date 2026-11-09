@@ -1,17 +1,19 @@
 # Topic Memory: Compensation
-_Last updated: 2026-10-25_
+_Last updated: 2026-11-09_
 
 ## Established findings
-- Executive incentive pay tied to long-horizon, non-financial or multi-year goals is a weak or unreliable predictor of real progress on those goals; short-horizon instruments (cash) track short-horizon activity (ESG-linked CEO pay and emissions, W7215124307, 2026-10-01; cash vs. equity and digital transformation, W7222968425, 2026-10-19).
+- Compensation targets degrade into whatever is measurable: ESG-linked CEO pay did not track real emissions progress (W7215124307, 2026-10-01); audit-based supply chain wage commitments collapse into legal-minimum compliance via "auditability-based goal replacement" (W7223655616, 2026-10-26); transformation measured by annual-report text may capture rhetoric (W7222968425, 2026-10-19). Strongest recurring finding in this topic.
+- Short-horizon pay instruments buy short-horizon activity; cash tracks immediate spending, equity tracks multi-year change (W7222968425, W7215124307).
+- Pay-specific underemployment (underpay, poverty wages) damages satisfaction and retention more than field or hours mismatch; high performance can coexist with high turnover intention (W7211910578, 2026-09-07).
 
 ## Emerging threads
-- Instrument-and-horizon matching: equity exposure associated with multi-year transformation, cash with immediate technology spending (W7222968425). Watch for replication outside Chinese listed firms.
-- Internal pay dispersion as an inverted-U rather than a monotonic effect -- moderate executive pay gaps track with more coordination-heavy progress, very large gaps with less (W7222968425). Tournament theory newly active in this topic; no prior-run counterpart.
-- Pay-specific underemployment (underpay, poverty wages) more damaging to satisfaction and retention than field or hours mismatch (W7211910578, 2026-09-07); high performance can coexist with high turnover intention.
-- External third-party validation emerging as the credible alternative to internally set, bonus-linked targets (W7215124307).
-- Visible performance metrics contaminated by offstage context -- leader feedback distorted by contrast with a second, abusive leader in matrixed structures (W7213445976, 2026-09-17).
-- Thin publication volume on this topic in recent windows (2 screened in Oct 2026 run) -- expect single-study digests; conserve feature pitches for fuller batches.
+- Internal pay dispersion as an inverted-U, not a monotonic effect (W7222968425). Tournament theory newly active here; awaiting replication outside Chinese listed firms.
+- The wage floor as a structural artifact of compliance regimes rather than of motivation design (W7223655616) -- first study here on the bottom of the pay distribution and on workers the firm does not employ.
+- External third-party validation as the proposed fix for internally set, bonus-linked targets (W7215124307) -- but W7223655616 complicates this: third-party auditors are themselves part of the goal-replacement loop. Watch whether a future study resolves this tension.
+- Visible performance metrics contaminated by offstage context (W7213445976, 2026-09-17).
+- Thin publication volume persists (2 screened in each of the last three runs) -- expect single-study digests; conserve feature pitches for fuller batches.
 
 ## Feature ideas already pitched
-- 2026-10-10: "The measurement problem in pay and performance" -- metrics organizations bonus and promote on (360 scores, productivity, ESG-linked bonuses) are contaminated or inverted; external verification as the fix. Suggested HBR, MIT SMR, Fast Company, The Atlantic.
-- 2026-10-25: no feature pitched (single-study batch). Candidate for a future run if a second study lands: "pay design as a time-horizon problem" -- matching cash/equity/dispersion to the payoff horizon of the strategy being funded.
+- 2026-10-10: "The measurement problem in pay and performance" -- bonused metrics are contaminated or inverted; external verification as the fix. Suggested HBR, MIT SMR, Fast Company, The Atlantic. NOTE: W7223655616 is strong new evidence for this angle but also undercuts the "external verification" resolution; a follow-up feature could be pitched as "who audits the auditors" if a second supporting study lands.
+- 2026-10-25: no feature pitched (single-study batch). Live candidate: "pay design as a time-horizon problem" -- matching cash/equity/dispersion to the payoff horizon of the strategy funded.
+- 2026-11-09: no feature pitched (single-study batch).

@@ -1,0 +1,100 @@
+{
+  "id": "career-psychology-digest-compensation-2026-11-09",
+  "filename": "Career Psychology Digest — Compensation — 2026-11-09.md",
+  "title": "Career Psychology Digest — Compensation — 2026-11-09",
+  "run_date": "2026-11-09",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-10",
+  "window_to": "2026-11-09",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "2",
+  "articles_found": 7,
+  "screening": {
+    "found": 7,
+    "not_research": 0,
+    "no_abstract": 1,
+    "off_topic": 0,
+    "already_covered": 4,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 2
+  },
+  "focus": "Compensation",
+  "topic": "compensation",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 1,
+  "studies": [
+    {
+      "number": 1,
+      "title": "How \"the minimum wage becomes the maximum wage\": inside the audit games of global fashion supply chains",
+      "paper_title": "“The Minimum Wage Is the Maximum Wage”: How Goal Replacement Perpetuates Means–Ends Decoupling",
+      "journal": "Journal of Management",
+      "published": "2026-10-26",
+      "work_id": "W7223655616",
+      "doi": "10.1177/01492063261487366",
+      "source_id": "S122767448",
+      "the_study": "Researchers conducted 75 interviews with people at 68 organizations — apparel brands, their suppliers, and third-party auditors and NGOs — all nominally working on worker well-being in global fashion supply chains. They traced how firms publicly profess commitment to broad goals such as living wages while internally narrowing what they actually pursue to whatever an auditor can tick off, a mechanism the authors call \"auditability-based goal replacement.\" Legal minimum wage compliance becomes the operative target and, in practice, the ceiling; shortfalls against the bigger goal are quietly left unspoken or repackaged as evidence that more monitoring is needed, closing a self-reinforcing loop.",
+      "why_it_matters": "It shows how transparency and audit regimes designed to raise pay and conditions can end up freezing them at the legal floor, because what gets measured becomes the whole of what gets managed. Anyone designing ESG, DEI or wage-equity targets should expect the measurable proxy to quietly replace the goal.",
+      "story_angle_primary": "Audit your own metrics for goal replacement: where has your organization substituted a reportable threshold (minimum wage compliance, training hours completed, survey response rates) for the outcome it was meant to proxy? The paper suggests asking suppliers and internal teams what they have stopped talking about — self-silencing about the gap is the tell that the substitution has taken hold.",
+      "story_angle_secondary": "When a brand advertises that its factories are \"compliant\" or \"audited,\" this research explains why that claim can be entirely truthful and still mean workers are paid the legal minimum and no more — a useful lens for reading corporate sustainability reports and ethical-labeling claims.",
+      "caveats": "Qualitative interview study, not a causal test; findings are specific to the global fashion/apparel supply chain and to organizations that agreed to be interviewed, so self-presentation and selection effects are possible. Interviewees include brands and auditors with reputational stakes in how they describe their own practices, and the study offers no measure of how widespread the mechanism is.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "qualitative",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Core design, sample and mechanism match the abstract. Two small embellishments go slightly beyond what the abstract states: the identification of third parties as \"auditors and NGOs\" and the claim that shortfalls are \"repackaged as evidence that more monitoring is needed.\"",
+      "tags": [
+        "compensation",
+        "hiring & selection",
+        "motivation & engagement",
+        "wellbeing & work-life balance"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7223655616",
+      "journal": "Journal of Management",
+      "date": "2026-10-26",
+      "doi": "10.1177/01492063261487366"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- Both digests land on the same underlying failure mode: the measurable proxy displaces the goal it was meant to stand in for. \"Pay gaps inside the executive suite boost digital transformation — until they don't\" (W7222968425) measured transformation through a text index of annual reports and flagged in its own caveats that this may capture corporate rhetoric as much as real change; \"How 'the minimum wage becomes the maximum wage'\" (W7223655616) documents that substitution directly and names it — firms profess living-wage commitments and operationalize whatever an auditor can tick off. The new study supplies the mechanism that the previous one could only worry about.\n- Both locate the action in pay structure and pay-setting rules rather than in job content or worker motivation. W7222968425 found equity exposure and internal dispersion doing the explanatory work rather than total compensation; W7223655616 finds the wage floor set by compliance architecture rather than by any theory of effort or retention.\n\n**Advances**\n- The new study extends the topic from how pay is designed to how pay is *verified*. Where W7222968425 treated compensation as a lever boards pull, W7223655616 shows a self-reinforcing loop — shortfalls against the real goal get repackaged as a case for more monitoring — which is a more structural account of why pay targets stall than anything in the previous digest.\n\n**New themes**\n- The other end of the distribution. The previous digest's pay-dispersion debate took place entirely inside the executive suite (W7222968425); W7223655616 is the first study in this topic to examine how the bottom of the pay distribution is set, and it finds that floor fixed by an audit threshold rather than by negotiation or motivation design.\n- Workers outside the employment relationship. W7223655616 is also the first entry here on pay for people a brand does not employ — supplier workforces reached only through contracts and audits — and the first qualitative, interview-based study in this topic.",
+  "feature_pitch_raw": "_No cross-study feature angle identified in this batch._",
+  "pitch_ideas_raw": "- **How \"the minimum wage becomes the maximum wage\": inside the audit games of global fashion supply chains (Work ID W7223655616):** The sharp, transferable turn is that a pay floor written into law becomes a ceiling once compliance is the thing being audited — pitch it two ways: as a consumer-facing explainer on why \"audited\" and \"compliant\" factory labels can be literally true and still mean nobody is paid a cent above the legal minimum (general-interest or lifestyle outlet with a fashion/ethical-consumption readership), and as a manager-audience piece on \"auditability-based goal replacement\" inside any organization that has swapped a reportable threshold — training hours logged, survey response rates, pay-equity audit completion — for the outcome it was supposed to proxy, with the authors' tell that self-silencing about the gap is the warning sign; note early that this is a 75-interview qualitative study of one industry with no measure of prevalence, suited to an ESG/HR explainer or a sustainability-reporting column rather than a hard news brief.",
+  "fact_check": {
+    "studies_reviewed": 1,
+    "verdicts_by_work": {
+      "W7223655616": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "2 (2 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "1",
+      "entries_cleared": "0"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Compensation — 2026-11-09\n**Checked:** 2026-11-09 | **Studies reviewed:** 1\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: How \"the minimum wage becomes the maximum wage\": inside the audit games of global fashion supply chains\n**Work ID:** W7223655616 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Third-party organizations characterized more specifically than abstract** — Severity: Minor\n\n- **As written:** \"75 interviews with people at 68 organizations — apparel brands, their suppliers, and third-party auditors and NGOs — all nominally working on worker well-being in global fashion supply chains\"\n- **Abstract says:** \"Our data came from 75 interviews with 68 brands, suppliers, and third-party organizations pursuing worker well-being in global fashion supply chains.\"\n- **Problem:** The abstract says only \"third-party organizations\"; it does not specify that these were auditors and NGOs. The composition may be broader (e.g., certifiers, industry bodies, consultants). Unverifiable from abstract only.\n- **Suggested fix:** \"Write \"third-party organizations\" or add \"such as\" hedging if the full text supports it.\"\n\n**Issue B. Unstated detail about how shortfalls are instrumentalized** — Severity: Minor\n\n- **As written:** \"shortfalls against the bigger goal are quietly left unspoken or repackaged as evidence that more monitoring is needed, closing a self-reinforcing loop\"\n- **Abstract says:** \"Self-silencing about this substitution and the instrumentalizing of shortfalls close the configuration into a self-reinforcing loop.\"\n- **Problem:** The abstract refers only to \"instrumentalizing of shortfalls\" without specifying that shortfalls are recast as justification for more monitoring. Unverifiable from abstract only.\n- **Suggested fix:** \"Say shortfalls are \"put to instrumental use\" rather than naming a specific use, unless the full text confirms the monitoring framing.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | How \"the minimum wage becomes the maximum wage\": inside the audit games of global fashion supply chains | ⚠️ Minor issues | Core design, sample and mechanism match the abstract. Two small embellishments go slightly beyond what the abstract states: the identification of third parties as \"auditors and NGOs\" and the claim that shortfalls are \"repackaged as evidence that more monitoring is needed.\" |\n\n**Total issues:** 2 (2 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 1\n**Entries cleared:** 0\n"
+  },
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 1,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
