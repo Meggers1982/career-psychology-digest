@@ -1,20 +1,21 @@
 # Topic Memory: Wellbeing & Work-Life Balance
-_Last updated: 2026-10-26_
+_Last updated: 2026-11-10_
 
 ## Established findings
-- Work strain is routinely exported into the home rather than into visible performance metrics: leader perfectionism (W7167993239), customer cyber incivility (W7204489065), daily exclusion (W7220972684), after-hours ICT use driven by workplace FOMO (W7223126999, 2026-10).
-- Partner/household support is a recurring decisive moderator of whether work conditions help or harm: out-earning dynamics (W7203464894), decent work and fertility intentions in Korea (W7222892783).
-- Structural conditions beat individual remedies: digital competence only protects with process clarity and top-team norms (W7214892649); paternity leave only changes anything with senior and line-manager backing (W7223069476); perceived relevance can substitute for participatory design (W7204244254).
+- Structural conditions beat individual remedies: digital competence needs process clarity and top-team norms (W7214892649); paternity leave needs senior and line-manager backing (W7223069476); neurodiversity accommodations work as bundles, not ad hoc adjustments (W7104623315, 2026-11); job-redesign intervention over resilience training (W7215114978, 2026-10).
+- Work strain is exported into the home rather than into visible performance metrics: leader perfectionism (W7167993239), customer cyber incivility (W7204489065), after-hours ICT use from workplace FOMO (W7223126999), psychological capital depletion spilling work-to-life (W7224911121, 2026-10).
+- Autonomy, competence/self-efficacy and relational-learning support function as floors on wellbeing, not averages: NCA on SDT needs (W7222931749), hybrid latent profiles where castaways lack all three (W7225247976, 2026-11).
+- Partner/household support is a decisive moderator of whether work conditions help or harm (W7203464894, W7222892783) — no new evidence this run.
 
 ## Emerging threads
-- Threshold and nonlinear thinking is displacing average-effect claims: necessary condition analysis on SDT needs (W7222931749), inverted-U leniency and psychological safety (W7221798128), coincidence analysis in health interventions (W7204244254).
-- Leadership effects are increasingly nonmonotonic or conditional: perfectionism harms (W7167993239), excessive leniency harms (W7221798128), follower identification buffers rather than amplifies workaholism (W7204799973) — all awaiting replication.
-- Work-life "choice" is being dismantled: integration as survival in high-responsiveness cultures (W7211998375); de-agentic boundary management in crises (W7213366869).
-- New entrant: family formation (fertility intentions) and men's caregiving as work-psychology outcomes (W7222892783, W7223069476) — watch for non-Korean/non-French replication.
-- Status and pay repeatedly fail as compensatory levers for poor job design (W7222931749) — a testable counterweight to retention-by-compensation thinking.
-- Gender-matched support relationships improve warmth but not work outcomes (W7204030144); team potency linked to more even effort distribution (W7203699710) — both unreplicated here.
+- Leadership harm is nonmonotonic and includes omission: excessive leniency erodes safety (W7221798128), laissez-faire damages as much as aversive leadership (W7224911121). Watch for replication outside Australia and for 360/feedback tools that detect absence.
+- Threshold, configurational and profile methods displacing average-effect regression: NCA (W7222931749), coincidence analysis (W7204244254), latent profile analysis (W7225247976), topic modeling in review synthesis (W7225322848).
+- Schedule architecture as its own wellbeing variable: compressed work weeks show reliable attitudinal gains but mixed health/productivity evidence, with daily hour length as the pivot (W7225322848).
+- Self-report inflation being named explicitly — benefits shrink when objective measures replace perceptions (W7225322848); relevant to most of this stream's evidence base.
+- Neurodiversity/inclusion-by-design is a new entrant (W7104623315); family formation and men's caregiving (W7222892783, W7223069476) went quiet this run — watch whether it returns.
 
 ## Feature ideas already pitched
-- 2026-10-11: "The invisible balance sheet" — work costs (perfectionist leadership, chat-based customer abuse, daily exclusion, out-earning, always-on norms) settled at home and invisible to employer metrics; structural not individual fixes. Pitched to HBR, The Atlantic, Fast Company, Stylist.
-- 2026-10-26: "The benefit that only works if men take it" — family-friendly policy and pronatalist incentives run entirely through spousal support and men's leave uptake (W7222892783, W7223069476, supported by W7222931749). Pitched to Fortune, MIT SMR, The Cut, Fatherly.
-- Not yet pitched, held for a future run: a "thresholds, not averages" feature on necessary conditions and inverted-U effects in wellbeing research (W7222931749, W7221798128, W7204244254).
+- 2026-10-11: "The invisible balance sheet" — work costs settling at home and invisible to employer metrics. Pitched to HBR, The Atlantic, Fast Company, Stylist.
+- 2026-10-26: "The benefit that only works if men take it" — family policy and pronatalist incentives run through spousal support and men's leave uptake (W7222892783, W7223069476, W7222931749). Pitched to Fortune, MIT SMR, The Cut, Fatherly.
+- 2026-11-10: "Wellbeing research stopped studying workers and started studying jobs" — individual-coping era ending; job design, manager presence, bundled policy and schedule parameters (W7215114978, W7104623315, W7225247976, W7224911121, W7225322848). Pitched to WSJ Work & Careers, Inc., Wired, Refinery29.
+- Held for a future run: "thresholds, not averages" methods feature (W7222931749, W7221798128, W7204244254, W7225247976); and a self-report-versus-objective-measures credibility piece anchored on W7225322848.

@@ -1,0 +1,204 @@
+{
+  "schema": 1,
+  "model": "claude-opus-5",
+  "run_date": "2026-11-10",
+  "days_back": 60,
+  "window_from": "2026-09-11",
+  "window_to": "2026-11-10",
+  "focus": "Wellbeing & Work-Life Balance",
+  "topic": "wellbeing & work-life balance",
+  "query": "(\"work-life balance\" OR \"work-family conflict\" OR \"work-life conflict\" OR \"work-life\" OR \"employee wellbeing\" OR \"employee well-being\" OR \"four-day week\" OR \"family-supportive\" OR \"boundary management\" OR \"always-on\" OR \"recovery from work\" OR \"occupational health\") ",
+  "journals_searched": 42,
+  "journals_not_indexed": [],
+  "screening": {
+    "found": 21,
+    "not_research": 2,
+    "no_abstract": 0,
+    "off_topic": 0,
+    "already_covered": 13,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 6
+  },
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "studies": [
+    {
+      "work_id": "W7224911121",
+      "headline": "The absentee boss does as much damage as the abusive one",
+      "the_study": "Researchers ran a three-wave survey of 315 Australian employees, measuring two distinct kinds of destructive leadership — aversive (hostile, punitive) and laissez-faire (disengaged, absent) — alongside employees' psychological capital (their hope, optimism, resilience and self-efficacy) and their well-being at work and in life. Both leadership styles eroded psychological capital to a comparable degree. Once psychological capital was in the model, neither style had any remaining direct effect on well-being: the depletion of personal resources fully explained the damage, and it spilled over from work into life outside it.",
+      "why_it_matters": "Organizations usually police overt bad behavior from managers and ignore the ones who simply fail to show up for their people; this suggests chronic neglect carries a similar well-being cost, transmitted through the erosion of employees' psychological reserves.",
+      "story_angle_primary": "Most leadership risk registers and 360 reviews catch shouting, not silence. Managers and HR could ask whether their feedback systems have any way of detecting the leader who never gives direction, never resolves conflict and never follows up — and whether building psychological capital (coaching, resilience and efficacy-building support) is treated as a protective investment rather than a perk.",
+      "story_angle_secondary": "If you have a boss who is simply absent rather than abusive, you may be downplaying the toll. The study points to a plausible route by which a disengaged manager drains the optimism and resilience you use everywhere else in your life, not just at the office.",
+      "caveats": "Self-report across all measures, which leaves room for common-method bias even with three waves; a single country (Australia) and a mixed-occupation convenience sample of 315; the three-wave design strengthens but does not prove causal ordering.",
+      "journal": "Personnel Review",
+      "published": "2026-10-30",
+      "doi": "10.1108/pr-12-2025-1466",
+      "paper_title": "Resource collapse at work: why neglect can be as toxic as hostility for employee resources",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7225247976",
+      "headline": "Three kinds of hybrid worker sit in the same office — and only one of them is thriving",
+      "the_study": "Researchers surveyed technical and administrative staff at a public university working in hybrid arrangements and used latent profile analysis across six indicators — workload, techno-complexity, autonomy, self-efficacy, organizational learning culture and continuous learning behavior — to find naturally occurring groups. Three profiles emerged: \"digital routinarians,\" \"digital castaways\" and \"resource-rich thrivers.\" The thrivers reported the highest psychological well-being, job satisfaction and job performance; the castaways — high technology complexity with low autonomy, efficacy and learning support — had the worst outcomes on every measure.",
+      "why_it_matters": "It suggests the common question \"is hybrid work good or bad?\" is the wrong one: the same policy produces markedly different experiences depending on how much autonomy, skill confidence and learning support an individual has.",
+      "story_angle_primary": "Rather than tuning days-in-office for everyone, managers could look for the \"castaway\" pattern on their own teams — people wrestling with complex tools who lack autonomy and have no learning support — and target help there. Note this is one cross-sectional snapshot in a university setting, so treat the profiles as a diagnostic prompt rather than validated categories.",
+      "story_angle_secondary": "If hybrid work is going badly for you while colleagues rave about it, the difference may be less about your personality than about how much control you have over your schedule and how much support you get with the technology.",
+      "caveats": "Cross-sectional survey, so no causal claims; single occupation (technical-administrative staff) in a single public academic sector; outcomes including performance are self-reported from the same source as the predictors; sample size not reported in the abstract.",
+      "journal": "Personnel Review",
+      "published": "2026-11-04",
+      "doi": "10.1108/pr-03-2026-0585",
+      "paper_title": "Same boat, different journeys: a latent profile analysis of hybrid work experiences among technical-administrative staff in public academia",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7225322848",
+      "headline": "The four-day week's quieter cousin: what the evidence actually says about compressed schedules",
+      "the_study": "A systematic review used topic modeling to synthesize 140 research papers on compressed work weeks — the same hours packed into fewer, longer days. Adoption is driven by commuting time and distance, attitudes toward time use, supervisory and organizational support, and expected work-life balance gains. Compressed schedules are generally linked to higher job satisfaction, lower turnover intention and better work-life balance, but those benefits shrink when daily hours stretch long, and evidence on health, fatigue, sleep, productivity and performance is genuinely mixed — especially when objective measures replace self-reports.",
+      "why_it_matters": "Compressed weeks are among the cheapest flexibility levers an employer can pull, but the review indicates the attitudinal gains are more reliable than the health and productivity gains, which depend heavily on how long the days get.",
+      "story_angle_primary": "If you're piloting a compressed schedule, the review implies the design detail that matters most is daily hour length, and that satisfaction surveys will likely look better than fatigue or output data. Build in objective measures — error rates, sick days, sleep — before declaring success.",
+      "story_angle_secondary": "For workers weighing a four-day, ten-hour arrangement: the commute you save is real and so is the extra day off, but the evidence on whether your body and sleep cope with the longer days is far from settled.",
+      "caveats": "A systematic review of existing literature rather than new data, and the underlying evidence base is described as mixed and thin at the organizational level (absenteeism, turnover, financial outcomes); no effect sizes or meta-analytic estimates reported.",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-11-05",
+      "doi": "10.1080/09585192.2026.2754229",
+      "paper_title": "Compressed work week – predictors and outcomes: a systematic review using text mining",
+      "source_id": "S184846731"
+    },
+    {
+      "work_id": "W7104623315",
+      "headline": "Neurodiversity accommodations work better in bundles than one at a time",
+      "the_study": "A PRISMA systematic review of 24 studies published from 2015 to 2025 catalogued 128 distinct workplace interventions aimed at neurodivergent employees, sorting them into four HR domains: work design, relational and leadership climate, accommodation and support infrastructure, and cultural or intersectional reform. Every intervention was linked to at least one outcome cluster, and 73% were linked to multiple clusters (mean 2.28) — burnout and stress reduction, psychological safety, inclusion, performance and retention tended to co-occur. The authors argue the gains come from coherent policy bundles, not from discretionary, case-by-case adjustments.",
+      "why_it_matters": "It reframes neurodivergent inclusion from an individual accommodation request handled by one manager into a question of whether the organization's work design, management behavior and culture point in the same direction.",
+      "story_angle_primary": "Managers granting ad hoc adjustments — noise-canceling headphones here, a flexible start time there — may be doing the least effective version of this. The review suggests auditing whether accommodations are backed by job design, manager training and visible cultural legitimacy, or left to individual goodwill.",
+      "story_angle_secondary": "For neurodivergent employees deciding whether to disclose, the review hints at a useful signal to look for in an employer: not whether a single adjustment is granted, but whether the organization has structured, institutionalized support rather than one sympathetic manager.",
+      "caveats": "A systematic review with narrative synthesis, not a meta-analysis, so no effect sizes; the underlying evidence base is predominantly cross-sectional and geographically concentrated, which the authors acknowledge prevents causal inference; only 24 studies.",
+      "journal": "Personnel Review",
+      "published": "2026-11-05",
+      "doi": "10.1108/pr-03-2026-0443",
+      "paper_title": "Neurodivergencies in the workplace: a PRISMA systematic review of policy effectiveness and employee well-being",
+      "source_id": "S139232146"
+    },
+    {
+      "work_id": "W7215114978",
+      "headline": "Instead of offering resilience training, this call center asked managers to fix the job",
+      "the_study": "Researchers worked inside a UK contact center using the Six Steps in Quality Intervention Development framework, combining a socioecological model and Schein's organizational culture model. Seven managers took part in four structured workshops to identify workplace stressors and co-produce a theory of change and action plan; two focus groups with 13 staff (seven managerial, six non-managerial) then assessed what happened. Participants reported perceived improvements in workplace culture, well-being and stress, along with stronger managerial support and better alignment of organizational practice with employee well-being.",
+      "why_it_matters": "Most corporate stress programs target individual coping; this is a documented attempt to change the organizational determinants of stress instead, with staff reporting that the culture shifted.",
+      "story_angle_primary": "If your wellness budget goes on mindfulness apps while the workload and scripting stay untouched, this case offers a template for the alternative: have managers co-produce the diagnosis and action plan. Treat it as a promising process, not proof — the evidence here is perceptions from a small group in one company.",
+      "story_angle_secondary": "Workers in high-pressure, heavily monitored jobs often say the problem is the job, not their attitude. This study shows what it looks like when an employer takes that claim at face value.",
+      "caveats": "Single organization, single industry (UK contact center), very small samples (7 managers, 13 focus group participants); outcomes are self-reported perceptions from people who helped design the intervention, with no control group, no objective stress or well-being measures, and no comparison condition.",
+      "journal": "International Journal of Stress Management",
+      "published": "2026-10-01",
+      "doi": "10.1037/str0000411",
+      "paper_title": "A multilevel approach to workplace well-being: Integrating organizational and ecological factors within the Six Steps in Quality Intervention Development (6SQuID) framework.",
+      "source_id": "S61509166"
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "work_id": "W7224911121",
+      "headline": "The absentee boss does as much damage as the abusive one",
+      "verdict": "minor",
+      "notes": "Design, N, country and the full-mediation finding all match the abstract. One unverifiable sample descriptor (\"mixed-occupation convenience sample\"); causal framing is appropriately hedged in Caveats.",
+      "issues": [
+        {
+          "label": "Sample description not in abstract",
+          "severity": "Minor",
+          "as_written": "a single country (Australia) and a mixed-occupation convenience sample of 315",
+          "abstract_says": "We conducted a three-wave survey of 315 Australian employees.",
+          "problem": "The abstract states only that the sample was 315 Australian employees; it does not describe the sample as mixed-occupation or as a convenience sample. Unverifiable from abstract only.",
+          "suggested_fix": "Trim to \"a single country (Australia) and a sample of 315 employees\" unless the full text confirms the recruitment method."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "work_id": "W7225247976",
+      "headline": "Three kinds of hybrid worker sit in the same office — and only one of them is thriving",
+      "verdict": "minor",
+      "notes": "Profiles, indicators and outcome pattern match. The specific content attributed to the \"castaway\" profile and the single-university setting are not stated in the abstract.",
+      "issues": [
+        {
+          "label": "Profile content not stated in abstract",
+          "severity": "Moderate",
+          "as_written": "the castaways — high technology complexity with low autonomy, efficacy and learning support — had the worst outcomes on every measure",
+          "abstract_says": "The analysis revealed three distinct profiles: digital routinarians, digital castaways and resource-rich thrivers. Significant between-profile differences emerged across all outcomes. ... digital castaways exhibited the most vulnerable psychological and professional outcomes.",
+          "problem": "The abstract names the profiles but never describes the indicator levels that define \"digital castaways.\" The digest supplies a specific demand–resource composition that cannot be checked, and the manager-facing angle tells readers to look for exactly that pattern. \"Worst outcomes on every measure\" also goes slightly beyond \"most vulnerable psychological and professional outcomes.\"",
+          "suggested_fix": "Attribute the profile description to the full text or soften to \"the castaways had the most vulnerable outcomes,\" and note the indicator profile is not specified in the abstract."
+        },
+        {
+          "label": "Single-university setting",
+          "severity": "Minor",
+          "as_written": "Researchers surveyed technical and administrative staff at a public university",
+          "abstract_says": "This study investigated the heterogeneity of hybrid work experiences in the public academic sector ... A cross-sectional design involved academic technical-administrative staff engaged in hybrid work.",
+          "problem": "The abstract says \"public academic sector,\" not a single named or single public university; the number of institutions is not stated.",
+          "suggested_fix": "Write \"technical and administrative staff in the public academic sector\"."
+        },
+        {
+          "label": "Self-report claim for performance",
+          "severity": "Minor",
+          "as_written": "outcomes including performance are self-reported from the same source as the predictors",
+          "abstract_says": "Distal outcomes included psychological well-being, job satisfaction and multidimensional job performance.",
+          "problem": "The abstract does not specify whether job performance was self-rated or supervisor-rated. Plausible but unverifiable from abstract only.",
+          "suggested_fix": "Hedge to \"outcomes appear to be self-reported; the abstract does not specify the performance rating source.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "work_id": "W7225322848",
+      "headline": "The four-day week's quieter cousin: what the evidence actually says about compressed schedules",
+      "verdict": "minor",
+      "notes": "Paper count, method, predictors and outcome pattern all match. One small over-read on the subjective/objective contrast.",
+      "issues": [
+        {
+          "label": "Direction of subjective vs. objective evidence",
+          "severity": "Minor",
+          "as_written": "evidence on health, fatigue, sleep, productivity and performance is genuinely mixed — especially when objective measures replace self-reports",
+          "abstract_says": "Evidence regarding health, fatigue, sleep, productivity, and performance remains mixed, particularly depending on daily working hours and whether subjective or objective indicators are utilised.",
+          "problem": "The abstract says results vary by whether subjective or objective indicators are used, but does not state that objective measures produce weaker or worse results. The digest (and the manager angle, \"satisfaction surveys will likely look better than fatigue or output data\") implies a direction the abstract does not report.",
+          "suggested_fix": "Reword to \"and results differ depending on daily hours and on whether subjective or objective indicators are used.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "work_id": "W7104623315",
+      "headline": "Neurodiversity accommodations work better in bundles than one at a time",
+      "verdict": "minor",
+      "notes": "Counts (24 studies, 128 interventions, 73.4%, mean 2.28), the four HRM domains and the co-occurrence finding are accurate; Caveats correctly note no effect sizes and no causal inference. Headline is slightly stronger than descriptive outcome mapping supports.",
+      "issues": [
+        {
+          "label": "Headline implies comparative effectiveness",
+          "severity": "Minor",
+          "as_written": "Neurodiversity accommodations work better in bundles than one at a time",
+          "abstract_says": "All 128 interventions were associated with at least one outcome cluster and 73.4% with multiple clusters (mean = 2.28), indicating systematic cross-cluster alignment. Outcomes rarely appeared in isolation ... The predominantly cross-sectional and geographically concentrated evidence base limits causal inference.",
+          "problem": "The review maps co-occurrence of interventions and outcome clusters; it does not test bundles against single accommodations. \"Work better\" asserts a comparative causal effect the design cannot establish, even though the body and Caveats are properly hedged.",
+          "suggested_fix": "Reframe as \"Neurodiversity support clusters together — the evidence points to bundles, not one-off adjustments\"."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "work_id": "W7215114978",
+      "headline": "Instead of offering resilience training, this call center asked managers to fix the job",
+      "verdict": "accurate",
+      "notes": "Framework, workshop and focus group counts, participant breakdown and the perceived-change findings all match the abstract; limitations are clearly and proportionately caveated.",
+      "issues": []
+    }
+  ],
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 5,
+    "skipped_reason": "",
+    "partial_reason": "",
+    "by_work": {}
+  },
+  "sections": {
+    "trends": "**Convergent findings**\n- The quiet leadership failure keeps testing as badly as the loud one. \"The absentee boss does as much damage as the abusive one\" (W7224911121) finds laissez-faire leadership erodes psychological capital as much as aversive leadership does; the previous digest's \"Lenient bosses build psychological safety — until they are too lenient\" (W7221798128) showed the permissive extreme undermining safety rather than building it. Both push against the assumption that harm comes only from managers who act.\n- Work costs landing in life outside work, again. W7224911121 reports the psychological capital drain spilling from work into general life well-being, matching the previous digest's spillover logic in \"Workplace FOMO drives after-hours phone checking — and it costs you recovery\" (W7223126999).\n\n**Advances**\n- From necessary conditions to observed profiles. The previous digest's \"Autonomy, competence, belonging: not just nice to have, but preconditions for well-being at work\" (W7222931749) argued autonomy and competence are floors, not averages. \"Three kinds of hybrid worker sit in the same office — and only one of them is thriving\" (W7225247976) effectively shows what the floors look like in practice: the \"digital castaways,\" short on autonomy, self-efficacy and learning support, have the worst outcomes on every measure, while thrivers have all three.\n- Structural backing over discretionary goodwill, extended to new domains. The previous digest's paternity-leave study (W7223069476) found a benefit only changes anything with senior and line-manager backing; \"Neurodiversity accommodations work better in bundles than one at a time\" (W7104623315) makes the same argument about adjustments, and \"Instead of offering resilience training, this call center asked managers to fix the job\" (W7215114978) documents an attempt to build that structure deliberately.\n\n**Counterpoints**\n- Self-report flattery gets named. \"The four-day week's quieter cousin\" (W7225322848) finds compressed-week benefits hold up on satisfaction and work-life balance but go mixed when objective measures replace self-reports — a caution that applies directly to the previous digest's self-report-heavy diary and necessary-condition work (W7223126999, W7222931749), and to W7215114978 in this batch.\n\n**New themes**\n- Schedule architecture as a wellbeing variable in its own right (W7225322848) is new to this stream; the previous digest handled flexibility only through family policy and boundary management.\n- Neurodiversity and inclusion-by-design (W7104623315) is a first entry here.\n- The household disappears. The previous batch ran heavily on spousal support and men's caregiving (W7222892783, W7223069476); this batch has no family-level studies at all and relocates the action entirely inside job and policy design.",
+    "feature_pitch": "**The pattern:** Four of these five studies converge on the same relocation of responsibility — wellbeing is being treated as a property of how the job and the policy are built, not of how well the individual copes. The call center that asked managers to co-produce fixes instead of buying resilience training (W7215114978), the neurodiversity review arguing bundles beat case-by-case adjustments (W7104623315), the hybrid profiles showing that autonomy, self-efficacy and learning support separate thrivers from \"digital castaways\" under one identical policy (W7225247976), and the finding that an absent manager drains psychological capital as much as a hostile one (W7224911121) all point the same way; the compressed-week review (W7225322848) adds the design caveat that the gains hinge on one parameter — how long the days get.\n\n**Why pitch this now:** Employers are simultaneously cutting wellbeing budgets, revisiting hybrid and four-day-week arrangements, and standing up neurodiversity hiring programs — and this evidence says the per-employee perks and training are the cheap part, while the job design and manager behavior that actually move outcomes are what is going unaudited.\n\n**Angle:** A feature on the end of the individual-coping era in workplace wellbeing — what employers are starting to measure instead (autonomy, learning support, manager presence, daily hour length, whether accommodations are institutionalized), and why identical flexibility policies produce opposite experiences on the same team. Works as an evidence-to-practice piece for executives and HR, and as a \"why flexible work isn't working for you specifically\" piece for general and women's/lifestyle readers.\n\n**Potential headlines:**\n- Workplace Wellbeing Research Has Stopped Studying Workers and Started Studying Jobs\n- The Mindfulness App Was Never Going to Fix It — and the Research Now Says So\n- Why the Same Hybrid Policy Leaves One Colleague Thriving and You Exhausted\n\n**Potential outlets:**\n- *WSJ Work & Careers* — running the live argument over hybrid and compressed-schedule design, and this gives it the variable that decides who benefits rather than another days-in-office count.\n- *Inc.* — speaks to owners deciding where a small wellbeing budget goes; the call-center case is a concrete, low-cost alternative to buying an app.\n- *Wired* — the \"digital castaway\" finding and the monitored contact-center setting fit its coverage of how workplace technology complexity lands unequally on workers.\n- *Refinery29* (Work & Money) — the reader-level version, aimed at people quietly concluding hybrid work has failed them personally when the evidence points at autonomy and support instead.",
+    "pitch_ideas": "- **The absentee boss does as much damage as the abusive one (Work ID W7224911121):** Performance systems catch shouting but have no detector for the manager who never gives direction or follows up — pitch the \"silence audit\" to HR and leadership readers, for a manager-audience column or an HR explainer; the general-interest version is permission to stop minimizing a checked-out boss.\n- **Three kinds of hybrid worker sit in the same office — and only one of them is thriving (Work ID W7225247976):** One policy, three experiences — a diagnostic for spotting the low-autonomy, low-support \"castaway\" pattern on a team rather than re-tuning office days, for a workplace news brief or a work-psychology explainer in a general-interest outlet, flagged as cross-sectional and university-based.\n- **The four-day week's quieter cousin: what the evidence actually says about compressed schedules (Work ID W7225322848):** 140 papers say satisfaction and turnover improve while health, fatigue and productivity evidence stays mixed — and the length of the day is the variable that decides it, for a business explainer or a careers piece aimed at anyone considering a four-day, ten-hour deal.\n- **Neurodiversity accommodations work better in bundles than one at a time (Work ID W7104623315):** The signal to look for is institutionalized support rather than one sympathetic manager — useful both as an employer audit and as disclosure advice for neurodivergent workers, for an HR/DEI explainer or a work-and-health piece in a general-interest or women's/lifestyle outlet.\n- **Instead of offering resilience training, this call center asked managers to fix the job (Work ID W7215114978):** A documented template for spending the wellbeing budget on the stressors instead of the coping, with the honest caveat that the evidence is perceptions from a small group in one company, for a manager-audience column or a workplace news brief on wellbeing-program redesign."
+  }
+}
