@@ -1,21 +1,20 @@
 # Topic Memory: Leadership & Management
-_Last updated: 2026-10-28_
+_Last updated: 2026-11-12_
 
 ## Established findings
-- Servant leadership is the most consistently protective style across designs and sectors — strongest negative link to burnout in a 106-study longitudinal meta-analysis (W7223786244, 2026-10-27), plus buffering/mediating roles in W7214609077 and W7220913877 (2026-09/10).
-- Destructive, abusive and anger-expressing leadership reliably predicts worse employee mental health and withdrawal over time; coercive power amplifies the damage: W7223786244 (2026-10-27), W7220922862 (2026-10-08).
-- Leadership effects are located in specific distributive acts — credit, blame, attention, candor — rather than in traits or styles: W7204196725, W7221561375, W7220937301 (2026-08/10).
+- Servant leadership is the most consistently protective style; destructive/abusive leadership reliably predicts worse employee mental health over time: W7223786244 (2026-10-27), W7220922862, W7214609077, W7220913877.
+- Leadership effects sit in specific distributive acts — credit, blame, attention, candor — more than in traits or styles: W7204196725, W7221561375, W7220937301.
+- Context and follower attribution moderate nearly every leadership technique: political climate (W7223396033), ethical track record (W7223936690), disruption (W7223786244), learning goal orientation (W7223046493).
+- Methodological fragility is now documented, not just caveated: common-source follower ratings dominate the field, and a causal audit of 47 psychological safety papers found 90% implausible causal inference, none completing the leader→safety→outcome chain (W7224176243, 2026-10-29).
 
 ## Emerging threads
-- Context and follower attribution as the active ingredient: the same behavior inverts depending on political climate (W7223396033), the leader's ethical track record (W7223936690), workplace disruption (W7223786244) or the employee's learning goal orientation (W7223046493).
-- Crisis moderation specifically — supportive leadership's buffering weakens and autocratic leadership's harm amplifies under disruption (W7223786244); rests on only 24 of 106 studies, worth watching for replication.
-- Developmental criticism cuts both ways: it boosts performance alongside servant behavior (W7221561375) but suppresses day-level taking charge while raising idea generation (W7223046493).
-- "Taking charge"/proactivity emerging as a shared outcome variable across leadership studies: raised by credit-sharing (W7204196725), lowered by negative feedback (W7223046493), protective for overlooked team members (W7220937301).
-- Leadership as a fluctuating daily state measured by experience sampling and within-leader experiments (W7212753349); daily-diary designs now spreading to feedback research (W7223046493).
-- Employee preference for procedural fairness and supportive management over wellness perks: W7206184378 (qualitative, Indian IT).
-- Geographic spread beyond Western samples (Taiwan, Thailand, India); several newer studies do not specify country at all — watch for sample transparency.
-- Methodological caution: dominance of two-wave/multi-wave self-report and common-source designs; one scenario effect (credit sharing) already failed to replicate in field data (W7204196725); W7223936690's headline flip rests on a marginal effect.
+- Feedback research is converging on emotional residue rather than content: day-level initiative drops (W7223046493) and anticipated self-disappointment (W7225268086).
+- Individual difference moderators of feedback reception — learning orientation (W7223046493), gender (W7225268086); warm/communal framing appears to redistribute distress rather than reduce it.
+- Causal auditing / evidence-quality work as a genre aimed at practitioners (diagnostic flowchart in W7224176243) — watch for similar audits of other popular constructs.
+- Crisis moderation of supportive vs. autocratic leadership (W7223786244) rests on only 24 of 106 studies; awaiting replication.
+- Sample transparency problem: several recent studies do not report country or N in abstracts.
 
 ## Feature ideas already pitched
-- 2026-10-13: "The manager's weekly ledger" — leadership as distributive acts (credit, blame, attention, candor) rather than style; W7204196725, W7221561375, W7220937301, W7220922862, W7212753349, W7214609077, W7206184378. Pitched to HBR, MIT SMR, The Atlantic, Fast Company.
-- 2026-10-28: "The same move helps or hurts depending on how it's read" — follower attribution and context as moderators of leadership technique; W7223786244, W7223046493, W7223396033, W7223936690. Pitched to HBR, WSJ Work & Careers, Business Insider, Refinery29.
+- 2026-10-13: "The manager's weekly ledger" — leadership as distributive acts; W7204196725, W7221561375, W7220937301, W7220922862, W7212753349, W7214609077, W7206184378. To HBR, MIT SMR, The Atlantic, Fast Company.
+- 2026-10-28: "The same move helps or hurts depending on how it's read" — attribution and context as moderators; W7223786244, W7223046493, W7223396033, W7223936690. To HBR, WSJ Work & Careers, Business Insider, Refinery29.
+- 2026-11-12: "What your company bought when it bought a culture program" — soft-skill management tools sold on untested or zero-sum evidence; W7224176243, W7225268086. To MIT SMR, The Atlantic, Fast Company, The Cut.

@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.json",
-  "run_count": 37,
+  "run_count": 38,
   "topics": [
     "ai & the future of work",
     "career development & mobility",
@@ -18,6 +18,16 @@
     "workplace stress & burnout"
   ],
   "runs": [
+    {
+      "id": "career-psychology-digest-leadership-management-2026-11-12",
+      "title": "Career Psychology Digest — Leadership & Management — 2026-11-12",
+      "topic": "leadership & management",
+      "run_date": "2026-11-12",
+      "study_count": 2,
+      "total_issues": "4 (4 Minor, 0 Moderate, 0 Major)",
+      "lead_count": 0,
+      "top_score": 67
+    },
     {
       "id": "career-psychology-digest-broad-all-career-and-work-psychology-topics-2026-11-11",
       "title": "Career Psychology Digest — Broad (all career and work psychology topics) — 2026-11-11",
