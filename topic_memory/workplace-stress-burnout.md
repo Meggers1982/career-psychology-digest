@@ -1,23 +1,22 @@
 # Topic Memory: Workplace Stress & Burnout
-_Last updated: 2026-10-29_
+_Last updated: 2026-11-13_
 
 ## Established findings
-- Individual coping resources do not offset structural demands: demands and resources additive at scale (W7166081872, 2026-09); burnout fell via demand reduction, not added support (W7205707686, 2026-09); psychological capital protected life satisfaction but not burnout (W7211962843, 2026-09); resilience only partly mediated harm from passive leadership (W7203948385, 2026-08); sleep carried the demand pathway, self-efficacy only the resource side (W7213658467, 2026-09).
-- Managerial strain is a downstream job demand for teams, and managing others' emotions costs the manager: squeezed managers → virtual presenteeism (W7204491528, 2026-08); leader-team proactivity mismatch → overload (W7172021448, 2026-07); overloaded managers go transactional and teams silently re-craft around them (W7215114401, 2026-10); daily surface acting → dissonance and exhaustion, deep acting null (W7223665250, 2026-10).
-- Employee-initiated job crafting is the most consistently positive lever: participatory redesign (W7205707686), self-nudging protocols (W7213538292), AI-driven crafting (W7220357899, 2026-10).
+- Individual coping resources do not offset structural demands: additive demands/resources at scale (W7166081872, 2026-09); burnout fell via demand reduction, not added support (W7205707686, 2026-09); psychological capital protected life satisfaction but not burnout (W7211962843, 2026-09); sleep carried the demand pathway (W7213658467, 2026-09); perceived employability sat peripheral to the insecurity–rumination core (W7224080358, 2026-10).
+- Managers are both a conduit and a source of strain: squeezed managers → virtual presenteeism (W7204491528); overloaded managers go transactional (W7215114401, 2026-10); daily surface acting → dissonance and exhaustion, deep acting null (W7223665250, 2026-10); supervisor incivility damages via control and self-esteem, coworker incivility via belonging (W7225859305, 2026-11).
+- Employee-initiated job crafting remains the most consistently positive lever: participatory redesign (W7205707686), self-nudging (W7213538292), AI-driven crafting (W7220357899, 2026-10).
+- Boundary and recovery effects are granular and transition-specific, not trait-level: commute tech use is an on-ramp inbound, a breach outbound (W7223307249, 2026-10); work-oriented social platforms blur identity, accessibility and control simultaneously (W7224150475, 2026-11).
 
 ## Emerging threads
-- Autonomy is conditional on career stage: meta-analytic burnout protection significantly weaker in under-35 samples, autonomy–engagement link only small, national culture moderators null (W7212031246, 2026-09). First real brake on the crafting/autonomy optimism — watch for replication and for individual-level (not sample-mean) age tests.
-- Organizational entry as a burnout origin: task-only socialization is the worst of five newcomer profiles, predicting exhaustion and turnover intentions over 18 months (W7223449472, 2026-10). Pairs with the career-stage thread; watch for remote/hybrid onboarding comparisons.
-- Micro-transitions and boundaries: commute tech use is an on-ramp inbound, a boundary breach outbound, strongest for high task significance (W7223307249, 2026-10); parallels leisure-related self-efficacy (W7213645268) and sleep (W7213658467).
-- Generative AI and well-being: benefits tied to worker latitude over what gets automated; weakest effect on relatedness (W7220357899, 2026-10). Still awaiting causal/mandated-rollout designs.
-- Gamification/play is source-dependent: employer-imposed competition harmful (W7171963754); platform gamification helps only under perceived algorithmic fairness (W7172490991); employee-initiated playful work design lowers burnout via prevention focus (W7220405540, 2026-10) — mechanism needs replication.
-- Withdrawal as coping, not character: quiet quitting predicted by weak group culture and sense of emptiness as independent drivers (W7220865997, 2026-10).
-- Leadership effects are specific and individual-level: mental health-specific leadership beats generic support but shows null team-level effects (W7221041588, 2026-10).
-- Trait proactivity is contingent, not an asset per se: requires daily positive affect to convert into energy management (W7214949930, 2026-09); harmful when mismatched to team (W7172021448).
-- Dropped: disparity-as-exposure framing (W7213554539) — no supporting evidence across two runs.
+- Job content, not just job volume, drives after-hours rumination: task repetitiveness as strongest bridging node, with affective (not problem-solving) rumination in the dense core (W7224080358, 2026-10). Watch for replication outside China and outside young-worker samples, and for AI-driven task monotony.
+- Autonomy is conditional on career stage: meta-analytic burnout protection weaker in under-35 samples, culture moderators null (W7212031246, 2026-09). Pairs with organizational entry as a burnout origin — task-only socialization worst of five newcomer profiles (W7223449472, 2026-10).
+- Source- and channel-specificity as a methodological turn: disaggregating who delivers a stressor and which need it frustrates (W7225859305); network analysis used to pick intervention targets rather than test single paths (W7224080358).
+- Professional networking platforms as an unregulated well-being frontier — informal availability norms outrunning formal right-to-disconnect policy (W7224150475, 2026-11). Watch for quantitative follow-ups and non-managerial samples.
+- Leadership effects are specific and individual-level: mental health-specific leadership beats generic support, null at team level (W7221041588, 2026-10).
+- Withdrawal as coping, not character: quiet quitting predicted by weak group culture and emptiness (W7220865997, 2026-10).
 
 ## Feature ideas already pitched
-- 2026-09-28: "The buffer myth collapses" — resilience/support cannot offset heavy demands; redesign is the real lever (W7166081872, W7205707686, W7211962843, W7204491528). Targets: HBR, MIT SMR, The Atlantic, Fast Company.
-- 2026-10-14: "The unofficial job redesign" — employees self-managing via AI crafting, private gamification, managing around stressed bosses, withdrawal as the far end (W7220357899, W7220405540, W7215114401, W7214949930, W7220865997). Targets: Wired, Business Insider, Fortune, Refinery29.
-- 2026-10-29: "The structure we optimized away" — scaffolding (career-stage-appropriate structure, multi-domain onboarding, commute rituals) protects where freedom doesn't, while managers asked to supply it burn out performing it (W7212031246, W7223449472, W7223307249, W7223665250). Targets: HBR, Fast Company, The Atlantic, Stylist.
+- 2026-09-28: "The buffer myth collapses" — resilience/support cannot offset heavy demands (W7166081872, W7205707686, W7211962843, W7204491528). Targets: HBR, MIT SMR, The Atlantic, Fast Company.
+- 2026-10-14: "The unofficial job redesign" — employees self-managing via AI crafting, private gamification, managing around stressed bosses (W7220357899, W7220405540, W7215114401, W7214949930, W7220865997). Targets: Wired, Business Insider, Fortune, Refinery29.
+- 2026-10-29: "The structure we optimized away" — scaffolding protects where freedom doesn't; managers burn out supplying it (W7212031246, W7223449472, W7223307249, W7223665250). Targets: HBR, Fast Company, The Atlantic, Stylist.
+- 2026-11-13: "The off switch isn't where policy thinks it is" — disconnection governed by supervisor behavior, informal platform norms and task repetitiveness, not email rules (W7225859305, W7224150475, W7224080358). Targets: MIT SMR, Business Insider, Wired, The Guardian.
