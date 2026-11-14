@@ -1,0 +1,320 @@
+{
+  "id": "career-psychology-digest-career-development-mobility-2026-11-14",
+  "filename": "Career Psychology Digest — Career Development & Mobility — 2026-11-14.md",
+  "title": "Career Psychology Digest — Career Development & Mobility — 2026-11-14",
+  "run_date": "2026-11-14",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-15",
+  "window_to": "2026-11-14",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "10",
+  "articles_found": 45,
+  "screening": {
+    "found": 45,
+    "not_research": 4,
+    "no_abstract": 5,
+    "off_topic": 1,
+    "already_covered": 22,
+    "over_journal_cap": 3,
+    "over_cap": 0,
+    "sent": 10
+  },
+  "focus": "Career Development & Mobility",
+  "topic": "career development & mobility",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 6,
+  "studies": [
+    {
+      "number": 1,
+      "title": "A sense of calling isn't found once — it's rebuilt every few months",
+      "paper_title": "The dynamic relationship between inclusive leadership, job crafting towards strengths and employees’ career calling: the moderating role of core self-evaluation",
+      "journal": "Career Development International",
+      "published": "2026-10-10",
+      "work_id": "W7221320159",
+      "doi": "10.1108/cdi-01-2026-0059",
+      "source_id": "S182336501",
+      "the_study": "Researchers surveyed 309 Chinese employees three times at three-month intervals and used cross-lagged panel models (plus random-intercept models that separate stable personality differences from real within-person change) to track how career calling develops. Job crafting toward one's strengths and career calling fed each other early on, and perceived inclusive leadership and calling were reciprocally linked across both intervals. Employees with high core self-evaluation got more calling out of strengths-based job crafting, but less additional benefit from an inclusive boss.",
+      "why_it_matters": "Calling is usually treated as something you either have or don't; this suggests it is partly manufactured by day-to-day behavior — reshaping your job around your strengths — and by the leader you report to.",
+      "story_angle_primary": "Managers could test whether giving people license to redesign slices of their role around what they're best at does more for engagement than another values workshop — and note the signal that confident, self-assured employees may need autonomy more than inclusive encouragement, while less confident staff may need the reverse.",
+      "story_angle_secondary": "For anyone waiting to 'find' meaningful work: this hints meaning may be a byproduct of what you do with the job you already have, and of who you work for, rather than a destination you locate by searching.",
+      "caveats": "Self-report only across all three waves (common-method bias), single country, N=309 with attrition risk, nine-month horizon; the within-person (RI-CLPM) results were weaker than the headline cross-lagged results, suggesting much of the effect reflects stable differences between people rather than change.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": 309,
+      "journal_tier": "core",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design, N and main reciprocal findings match. Two moderation details are generalized beyond the intervals the abstract specifies, and a story angle builds an autonomy-vs-encouragement prescription on a single interaction effect.",
+      "tags": [
+        "career development & mobility",
+        "leadership & management"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "Teenagers with a clearer sense of their future are less likely to spiral into phone addiction — and vice versa",
+      "paper_title": "Reciprocal dynamics of career adaptability and smartphone addiction among Chinese adolescents: The mediating role of academic cynicism",
+      "journal": "Applied Psychology",
+      "published": "2026-10-01",
+      "work_id": "W7223817463",
+      "doi": "10.1111/apps.70152",
+      "source_id": "S47864991",
+      "the_study": "A three-wave study of Chinese adolescents surveyed at six-month intervals (N=1,923 at wave 1, dropping to 1,177 by wave 3) tested whether career adaptability — concern, control, curiosity and confidence about one's future working life — and problematic smartphone use predict each other over time. Latent-variable cross-lagged models found a genuine two-way street: stronger career adaptability predicted less later smartphone addiction, and heavier smartphone addiction predicted weaker later adaptability. Academic cynicism — losing the sense that learning means anything — mediated both directions.",
+      "why_it_matters": "It reframes compulsive phone use as partly a motivational vacuum problem: when the future feels purposeless, the screen fills the gap, and the gap then widens.",
+      "story_angle_primary": "Managers of young hires and anyone running early-career or apprenticeship programs could watch for the same loop in adults — disengagement from the work's purpose feeding distraction, and distraction feeding further disengagement — and treat purpose-building as a plausible lever rather than policing devices.",
+      "story_angle_secondary": "For parents and anyone trying to cut their own screen time: the study suggests that giving the future a shape — a concrete sense of where your career is heading — may do more than willpower or app blockers, because cynicism about whether any of it matters is the hinge.",
+      "caveats": "Adolescents, not workers; single country; all self-report (common-method bias); substantial attrition from 1,923 to 1,177; cross-lagged panel models show temporal precedence, not causation.",
+      "score": 87,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": 1923,
+      "journal_tier": "core",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Sample sizes, wave spacing, reciprocal direction and the academic cynicism mediator all match the abstract; caveats correctly note adolescents, self-report, attrition and non-causality.",
+      "tags": [
+        "career development & mobility",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 3,
+      "title": "Career exploration paid off for male students — and did nothing for the women",
+      "paper_title": "Gender as a Contextual Moderator of Career Adaptation in Pakistani University Students: Three-Wave Associations Among Career Adaptability, Career Construction Behaviors, and Career Commitment",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-11-13",
+      "work_id": "W7226022739",
+      "doi": "10.1177/10690727261507721",
+      "source_id": "S68758695",
+      "the_study": "Researchers followed 469 Pakistani undergraduates across three waves, testing how career adaptability at Time 1 translated into career commitment at Time 3 via four career construction behaviors at Time 2: crystallizing, exploring, deciding and preparing. All four behaviors carried significant indirect effects, but gender moderated three of the four pathways, all stronger for men. Most strikingly, exploring predicted commitment for men and not for women, and open-ended responses pointed to structural hurdles and family pressures constraining women's options.",
+      "why_it_matters": "The standard career advice — go out and explore — may convert into commitment only for people who are actually free to act on what they discover.",
+      "story_angle_primary": "Anyone designing career development, mentoring or internal mobility programs should check whether the same advice produces the same results across groups: exploration activities that help one group may simply surface options a second group cannot take, which can breed frustration rather than commitment.",
+      "story_angle_secondary": "A reminder that career 'adaptability' is not purely psychological. The ability to turn curiosity into a decision depends on whether family, money and social expectations let you act on what you find.",
+      "caveats": "University students, not employees; self-report; single country, and gender is explicitly used as a crude proxy for unmeasured contextual constraints rather than measured directly; correlational despite the three-wave design.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "N, country, design and the exploring-by-gender result are correct, but the description of which paths gender moderated is imprecise, the open-ended data are over-attributed, and the headline uses causal 'paid off' language for correlational three-wave data.",
+      "tags": [
+        "career development & mobility",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 4,
+      "title": "Teams that hype each other up redesign their work together — if it's safe to speak up",
+      "paper_title": "Team boosting behaviors and collaborative job crafting: a multilevel examination of empowering leadership, organizational support, and psychological safety",
+      "journal": "Personnel Review",
+      "published": "2026-10-22",
+      "work_id": "W7223171732",
+      "doi": "10.1108/pr-01-2026-0114",
+      "source_id": "S139232146",
+      "the_study": "A multilevel study of 320 employees nested in 60 project teams at a large consulting firm examined how empowering leadership and perceived organizational support relate to collaborative job crafting — teams collectively reshaping their own work — through \"team boosting behaviors,\" the energizing, mutually encouraging interactions within a team. Both leadership and organizational support were linked to boosting behavior, which in turn was linked to collaborative crafting at individual and team levels. Psychological safety strengthened the link, especially at the team level.",
+      "why_it_matters": "It locates job crafting as a team sport rather than an individual hack, and identifies psychological safety as the condition that lets collective redesign actually happen.",
+      "story_angle_primary": "Team leaders could try pairing visible autonomy with routines for collective reflection — but the authors themselves note that measuring everything at once limits these to conditional associations, so treat it as a hypothesis to test with a before-and-after pilot, not a proven recipe.",
+      "story_angle_secondary": "Why some teams quietly reinvent how work gets done while others wait for instructions: the difference may be less about talent than about whether people feel safe enough to suggest a change out loud.",
+      "caveats": "Cross-sectional with simultaneous measurement of predictors and outcomes (no causal inference; the paper acknowledges this); single consulting firm in one country; self-report survey data throughout; team-level N=60.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional self-report",
+      "sample_size": 320,
+      "journal_tier": "unrated",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample, multilevel design, mediation and the psychological safety moderation are reported accurately, and the digest appropriately echoes the authors' 'conditional associations' caveat. One caveat detail (country) is not in the abstract.",
+      "tags": [
+        "career development & mobility",
+        "leadership & management",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 5,
+      "title": "The students who felt most in control of their futures were the likeliest to take a gap year",
+      "paper_title": "Longitudinal Interrelations of Career Adaptability Dimensions among Students in General Upper Secondary School",
+      "journal": "Journal of Career Assessment",
+      "published": "2026-11-09",
+      "work_id": "W7225739101",
+      "doi": "10.1177/10690727261507075",
+      "source_id": "S68758695",
+      "the_study": "Finnish researchers tracked 457 general upper secondary students (214 boys, 243 girls) across six schools at three points over their three-year program, using cross-lagged panel analysis on the four dimensions of career adaptability — concern, control, curiosity and confidence. The dimensions were moderately stable and strongly correlated at any given moment, but few predicted each other over time: concern predicted later curiosity, and control predicted later confidence. In the final year, higher career control went with a greater likelihood of deliberately planning a gap year.",
+      "why_it_matters": "Deliberately stepping off the conveyor belt reads here as a sign of career agency, not drift — a useful corrective for recruiters and parents who treat gaps as red flags.",
+      "story_angle_primary": "Hiring managers and campus recruiters might reconsider how they read a planned gap on a young candidate's record; in this sample it tracked with a sense of control over one's own direction rather than aimlessness.",
+      "story_angle_secondary": "For students and their families: worrying about the future (concern) appears to come before curiosity about it, and a sense of control appears to come before confidence — the sequence suggests anxiety about what's next is an entry point, not a malfunction.",
+      "caveats": "Adolescents in one country, one school track, six schools; self-report; modest N for a three-wave cross-lagged design; most predicted cross-lagged effects were not significant; gap-year result is a single-timepoint association with intention, not actual behavior.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "longitudinal",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Sample composition, schools, waves, the two significant cross-lagged paths and the control–gap-year association all match. The headline states taking a gap year where the study measured intentional planning, which the caveat itself corrects.",
+      "tags": [
+        "career development & mobility",
+        "hiring & selection"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 6,
+      "title": "Being open to opportunities isn't enough when opportunities are scarce",
+      "paper_title": "Career Orientations, Career Management, and Adaptability Under Career Constraints",
+      "journal": "Journal of Career Development",
+      "published": "2026-10-27",
+      "work_id": "W7223829068",
+      "doi": "10.1177/08948453261502984",
+      "source_id": "S82530051",
+      "the_study": "Researchers surveyed 310 athletes in South Korea's elite and semi-professional sport system — a career environment with rigid structures, short shelf lives and few lateral moves — and used structural equation modeling to link career mindsets to career behaviors. A protean career orientation (self-directed, driven by personal values) was associated with both career planning and active career learning; a boundaryless orientation (openness to moving across organizations and roles) was associated only with planning. Both planning and learning, in turn, were linked to higher career adaptability.",
+      "why_it_matters": "In constrained labor markets, simply being willing to move may do little; what tracks with adaptability is a values-anchored, self-directed approach that pushes people to actually learn new things, not just scan for openings.",
+      "story_angle_primary": "For managers of staff in narrow career ladders — specialized technical roles, regulated professions, organizations with few promotion slots — this suggests testing whether development conversations focus too much on \"what's your next move\" and not enough on \"what do you want your work to stand for, and what are you learning this year.\" The correlational design means this is a hypothesis to probe in your own talent reviews, not a proven lever.",
+      "story_angle_secondary": "Elite athletes are an extreme version of a problem many workers face: a career with a clear ceiling and an uncertain exit. The pattern here hints that people who build a career around their own values keep investing in learning, while those who merely stay alert for better offers may plan but not grow.",
+      "caveats": "Cross-sectional, self-report survey from a single source, so causation can't be established and common-method bias is likely; the sample is one occupational group in one country (Korean elite and semi-professional athletes), and generalizing to conventional employees is speculative; the results are essentially a set of significant paths in a structural model.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional self-report",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "N, sample, method and all reported paths match the abstract; the digest clearly labels the design as cross-sectional and self-report and avoids generalizing athletes to employees.",
+      "tags": [
+        "career development & mobility",
+        "leadership & management",
+        "wellbeing & work-life balance"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7221320159",
+      "journal": "Career Development International",
+      "date": "2026-10-10",
+      "doi": "10.1108/cdi-01-2026-0059"
+    },
+    {
+      "work_id": "W7223817463",
+      "journal": "Applied Psychology",
+      "date": "2026-10-01",
+      "doi": "10.1111/apps.70152"
+    },
+    {
+      "work_id": "W7226022739",
+      "journal": "Journal of Career Assessment",
+      "date": "2026-11-13",
+      "doi": "10.1177/10690727261507721"
+    },
+    {
+      "work_id": "W7223171732",
+      "journal": "Personnel Review",
+      "date": "2026-10-22",
+      "doi": "10.1108/pr-01-2026-0114"
+    },
+    {
+      "work_id": "W7225739101",
+      "journal": "Journal of Career Assessment",
+      "date": "2026-11-09",
+      "doi": "10.1177/10690727261507075"
+    },
+    {
+      "work_id": "W7223829068",
+      "journal": "Journal of Career Development",
+      "date": "2026-10-27",
+      "doi": "10.1177/08948453261502984"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- Job crafting remains the central mechanism in this literature, and both digests find its payoff is conditional on context rather than automatic. The new **A sense of calling isn't found once (W7221320159)** shows strengths-based crafting and calling reinforcing each other but only alongside inclusive leadership, and **Teams that hype each other up redesign their work together (W7223171732)** makes psychological safety the gate. That matches the previous digest's **Pressure only turns into proactive work (W7223306094)** and **The dark side of job crafting (W7221798889)**, both of which found crafting works for the already-resourced or the already-legible role.\n- The \"insight is not enough, action is the channel\" result recurs: **Being open to opportunities isn't enough when opportunities are scarce (W7223829068)** finds mindsets matter only insofar as they produce planning and learning behavior, echoing **Career skills predict feeling successful later — but only if you act on them (W7222470451)**.\n\n**Advances**\n- Career adaptability moves from predictor to object of study. The previous digest used adaptability as an input to expatriate outcomes (**Expats who adapt well do better abroad, W7213985838**); the new batch unpacks it longitudinally and internally — its four dimensions barely predict each other over time (**The students who felt most in control, W7225739101**), it is reciprocally entangled with off-task behavior (**Teenagers with a clearer sense of their future, W7223817463**), and it sits downstream of planning and learning rather than upstream (**W7223829068**).\n- Crafting scales up from the individual to the team. Previous work treated crafting as a solo act with supervisor-visible consequences (**Rewriting your job to help colleagues, W7221245981**); **W7223171732** measures collective, team-level redesign and the leadership and safety conditions that enable it.\n\n**Counterpoints**\n- The previous digest's agency-centric message — enact your competencies and subjective success follows (**W7222470451**) — is directly qualified by **Career exploration paid off for male students — and did nothing for the women (W7226022739)**, where the same exploratory behavior converted to commitment for men only, with family and structural constraints named as the likely reason. **W7223829068** adds the labor-market version: boundaryless openness produced planning but not learning where lateral moves barely exist.\n- The previous digest's **Why people who want a new job inside their own company never make the move (W7223284391)** located career inaction largely in individual decision traps; **W7226022739** pushes the explanation back toward opportunity structure.\n\n**New themes**\n- Pre-employment samples arrive in force (**W7223817463**, **W7226022739**, **W7225739101**), where the previous batch was entirely workers, executives and expatriates.\n- Digital distraction enters the career literature as a two-way process with future orientation (**W7223817463**) — nothing comparable in the previous digest.\n- Deliberate non-linearity as a signal of agency: planned gap years tracking with career control (**W7225739101**), a counterweight to the previous digest's framing of stalled or sticky careers.",
+  "feature_pitch_raw": "**The pattern:** Three of the six studies look at people who have not started working yet, and together they suggest that the \"sense of a future\" formed in school does work far beyond career planning. **Teenagers with a clearer sense of their future are less likely to spiral into phone addiction (W7223817463)** finds career adaptability and problematic smartphone use feeding each other through academic cynicism; **The students who felt most in control of their futures were the likeliest to take a gap year (W7225739101)** finds that a sense of control precedes confidence and tracks with deliberately stepping off the conveyor belt; and **Career exploration paid off for male students — and did nothing for the women (W7226022739)** finds that turning exploration into commitment depends on being free to act on what you find. The thread: future-orientation is both an engine of everyday behavior and unevenly convertible into actual choices.\n\n**Why pitch this now:** Screen-time policy is being written in schools and legislatures on the assumption that the problem is the device, while employers simultaneously complain about early-career disengagement and quietly normalize gap years and non-linear résumés — this research reframes all three as the same motivational question.\n\n**Angle:** A reported feature arguing that the best available lever on adolescent distraction and early-career drift is a concrete, actionable picture of the future — and that the picture is worth less to young people whose families or labor markets won't let them act on it. Framed for general-interest and parenting/lifestyle readers, with a secondary read for early-career hiring managers on what a gap or a wandering start actually signals.\n\n**Potential headlines:**\n- The Link Between Phone Addiction and Not Knowing What You Want to Be\n- The Teenagers Planning a Year Off Turn Out to Be the Ones Most in Control\n- Before You Confiscate the Phone, Ask What Your Kid Thinks Happens Next\n\n**Potential outlets:**\n- *Vox* — explanatory coverage of the adolescent screens debate; this gives that debate a motivational mechanism rather than another device-harm correlation.\n- *Business Insider* (Careers) — runs steadily on Gen Z entering work and on how recruiters read unconventional résumés, which the gap-year finding speaks to directly.\n- *Time* — covers education and youth mental health policy, where the cynicism-as-hinge result is a live argument about what schools should actually be fixing.\n- *Parents* — the practical parenting read: future-shaping conversations as a screen-time strategy, plus the uncomfortable finding that encouraging exploration isn't equally useful for every kid.",
+  "pitch_ideas_raw": "- **A sense of calling isn't found once — it's rebuilt every few months (Work ID W7221320159):** Meaning at work as something manufactured by reshaping your job around your strengths rather than found by searching — plus the twist that self-assured employees want autonomy while less confident ones need the encouraging boss, for a work-psychology explainer in a general-interest or women's/lifestyle outlet.\n- **Teenagers with a clearer sense of their future are less likely to spiral into phone addiction (Work ID W7223817463):** The doom-loop between a purposeless future and compulsive scrolling, with cynicism about whether learning matters as the hinge, for a general-interest or parenting/lifestyle explainer.\n- **Career exploration paid off for male students — and did nothing for the women (Work ID W7226022739):** \"Go explore your options\" converts into commitment only for people free to act on what they find — a direct challenge to how mentoring and internal mobility programs are evaluated, for a hiring/HR explainer or a careers feature in a women's outlet.\n- **Teams that hype each other up redesign their work together — if it's safe to speak up (Work ID W7223171732):** Job crafting as a team sport, and why some teams quietly reinvent how work gets done while others wait for instructions, for a manager-audience column on team design (flagged as correlational).\n- **The students who felt most in control of their futures were the likeliest to take a gap year (Work ID W7225739101):** How recruiters and parents misread a planned gap — here it tracked with agency, not drift — plus the sequence finding that worry precedes curiosity and control precedes confidence, for a careers/campus-recruiting piece or a general-interest explainer.\n- **Being open to opportunities isn't enough when opportunities are scarce (Work ID W7223829068):** For workers in narrow ladders — specialized technical roles, regulated professions, elite sport — values-anchored self-direction tracks with learning, while mere openness to moving tracks only with planning, for a manager-audience column on development conversations or a career-advice column.",
+  "fact_check": {
+    "studies_reviewed": 6,
+    "verdicts_by_work": {
+      "W7221320159": "⚠️ Minor issues",
+      "W7223817463": "✅ Accurate",
+      "W7226022739": "⚠️ Minor issues",
+      "W7223171732": "⚠️ Minor issues",
+      "W7225739101": "⚠️ Minor issues",
+      "W7223829068": "✅ Accurate"
+    },
+    "summary": {
+      "total_issues": "7 (7 Minor, 0 Moderate, 0 Major)",
+      "entries_requiring_revision": "4",
+      "entries_cleared": "2"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Career Development & Mobility — 2026-11-14\n**Checked:** 2026-11-14 | **Studies reviewed:** 6\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: A sense of calling isn't found once — it's rebuilt every few months\n**Work ID:** W7221320159 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Moderation interval dropped** — Severity: Minor\n\n- **As written:** \"Employees with high core self-evaluation got more calling out of strengths-based job crafting, but less additional benefit from an inclusive boss.\"\n- **Abstract says:** \"the association between JCS and subsequent career calling became more positive at higher levels of CSE across both time intervals, whereas CSE weakened the positive association between perceived inclusive leadership and subsequent career calling from T2 to T3\"\n- **Problem:** The CSE × inclusive leadership effect was observed only in the T2–T3 interval, not across the whole study; the digest presents it as a general pattern alongside the JCS effect, which did hold across both intervals.\n- **Suggested fix:** \"Add the qualifier, e.g. '...but, in the second interval only, less additional benefit from an inclusive boss.'\"\n\n**Issue B. Prescription outruns the interaction** — Severity: Minor\n\n- **As written:** \"note the signal that confident, self-assured employees may need autonomy more than inclusive encouragement, while less confident staff may need the reverse\"\n- **Abstract says:** \"CSE weakened the positive association between perceived inclusive leadership and subsequent career calling from T2 to T3\"\n- **Problem:** A single weakening interaction in one time interval of a self-report longitudinal survey is turned into a differentiated management rule about who 'needs' what; the abstract reports associations, not needs.\n- **Suggested fix:** \"Frame as an untested implication: 'one interaction in the data hints that high-CSE employees may draw less additional calling from inclusive leadership — worth probing, not acting on.'\"\n\n### Study 2: Teenagers with a clearer sense of their future are less likely to spiral into phone addiction — and vice versa\n**Work ID:** W7223817463 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 3: Career exploration paid off for male students — and did nothing for the women\n**Work ID:** W7226022739 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Which pathways gender moderated** — Severity: Minor\n\n- **As written:** \"All four behaviors carried significant indirect effects, but gender moderated three of the four pathways, all stronger for men.\"\n- **Abstract says:** \"Gender moderated the associations between adaptability and crystallizing, deciding, and preparing, which were stronger for men. Exploring was linked to commitment for men but not for women. The indirect association through exploring differed significantly by gender.\"\n- **Problem:** The three moderated effects were the adaptability-to-behavior links, not the indirect pathways; the indirect association that differed significantly by gender was the one through exploring — effectively the reverse of the digest's grouping.\n- **Suggested fix:** \"Say gender moderated the adaptability-to-crystallizing, -deciding and -preparing links (stronger for men), while the indirect path through exploring was the one that differed significantly by gender.\"\n\n**Issue B. Open-ended responses over-attributed** — Severity: Minor\n\n- **As written:** \"open-ended responses pointed to structural hurdles and family pressures constraining women's options\"\n- **Abstract says:** \"Open-ended responses on students' hurdles and pressures in pursuing their preferred careers provided context for the findings.\"\n- **Problem:** The abstract says the open-ended data provided context for all students' hurdles and pressures; it does not state they identified structural hurdles and family pressures specific to women.\n- **Suggested fix:** \"Soften to 'open-ended responses about students' hurdles and pressures in pursuing preferred careers provided context for the gender pattern.'\"\n\n**Issue C. Causal headline for correlational data** — Severity: Minor\n\n- **As written:** \"Career exploration paid off for male students — and did nothing for the women\"\n- **Abstract says:** \"Exploring was linked to commitment for men but not for women.\"\n- **Problem:** 'Paid off' and 'did nothing' imply causal effects; the study reports associations across three waves, which the digest's own caveat acknowledges is correlational.\n- **Suggested fix:** \"Reword to 'Career exploration tracked with commitment for male students — but not for the women.'\"\n\n### Study 4: Teams that hype each other up redesign their work together — if it's safe to speak up\n**Work ID:** W7223171732 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Country claim not in abstract** — Severity: Minor\n\n- **As written:** \"single consulting firm in one country\"\n- **Abstract says:** \"survey data collected from 320 employees nested within 60 project teams in a large consulting firm\"\n- **Problem:** The abstract does not state the country of the consulting firm. Unverifiable from abstract only.\n- **Suggested fix:** \"Drop 'in one country' or confirm the setting from the full text.\"\n\n### Study 5: The students who felt most in control of their futures were the likeliest to take a gap year\n**Work ID:** W7225739101 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Intention stated as behavior in headline** — Severity: Minor\n\n- **As written:** \"The students who felt most in control of their futures were the likeliest to take a gap year\"\n- **Abstract says:** \"In the final year of the academic program, higher career control was associated with a greater likelihood of planning an intentional gap year.\"\n- **Problem:** The outcome was intended gap-year planning reported at one timepoint, not an actual gap year taken; the headline contradicts the digest's own caveat.\n- **Suggested fix:** \"Change to '...were the likeliest to be planning a gap year.'\"\n\n### Study 6: Being open to opportunities isn't enough when opportunities are scarce\n**Work ID:** W7223829068 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | A sense of calling isn't found once — it's rebuilt every few months | ⚠️ Minor issues | Design, N and main reciprocal findings match. Two moderation details are generalized beyond the intervals the abstract specifies, and a story angle builds an autonomy-vs-encouragement prescription on a single interaction effect. |\n| 2 | Teenagers with a clearer sense of their future are less likely to spiral into phone addiction — and vice versa | ✅ Accurate | Sample sizes, wave spacing, reciprocal direction and the academic cynicism mediator all match the abstract; caveats correctly note adolescents, self-report, attrition and non-causality. |\n| 3 | Career exploration paid off for male students — and did nothing for the women | ⚠️ Minor issues | N, country, design and the exploring-by-gender result are correct, but the description of which paths gender moderated is imprecise, the open-ended data are over-attributed, and the headline uses causal 'paid off' language for correlational three-wave data. |\n| 4 | Teams that hype each other up redesign their work together — if it's safe to speak up | ⚠️ Minor issues | Sample, multilevel design, mediation and the psychological safety moderation are reported accurately, and the digest appropriately echoes the authors' 'conditional associations' caveat. One caveat detail (country) is not in the abstract. |\n| 5 | The students who felt most in control of their futures were the likeliest to take a gap year | ⚠️ Minor issues | Sample composition, schools, waves, the two significant cross-lagged paths and the control–gap-year association all match. The headline states taking a gap year where the study measured intentional planning, which the caveat itself corrects. |\n| 6 | Being open to opportunities isn't enough when opportunities are scarce | ✅ Accurate | N, sample, method and all reported paths match the abstract; the digest clearly labels the design as cross-sectional and self-report and avoids generalizing athletes to employees. |\n\n**Total issues:** 7 (7 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 4\n**Entries cleared:** 2\n"
+  },
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 6,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
