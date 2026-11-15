@@ -1,0 +1,275 @@
+{
+  "id": "career-psychology-digest-hiring-selection-2026-11-15",
+  "filename": "Career Psychology Digest — Hiring & Selection — 2026-11-15.md",
+  "title": "Career Psychology Digest — Hiring & Selection — 2026-11-15",
+  "run_date": "2026-11-15",
+  "coverage_window": "Last 60 days",
+  "window_from": "2026-09-16",
+  "window_to": "2026-11-15",
+  "journals_searched": "42",
+  "journals_not_indexed": [],
+  "articles_screened": "8",
+  "articles_found": 24,
+  "screening": {
+    "found": 24,
+    "not_research": 0,
+    "no_abstract": 3,
+    "off_topic": 0,
+    "already_covered": 13,
+    "over_journal_cap": 0,
+    "over_cap": 0,
+    "sent": 8
+  },
+  "focus": "Hiring & Selection",
+  "topic": "hiring & selection",
+  "is_broad": false,
+  "primary_audience": "working professionals and managers",
+  "secondary_audience": "general readers",
+  "study_count": 5,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Software that scores what applicants write — without a black box",
+      "paper_title": "Natural language processing word dictionaries for personnel selection: Achieving explainable, generalizable, and incremental prediction with low impact when passively scoring narrative application information.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-11-05",
+      "work_id": "W7225331132",
+      "doi": "10.1037/apl0001438",
+      "source_id": "S166002381",
+      "the_study": "Researchers assembled a large multi-study program (total N=67,652) testing transparent natural language processing \"word dictionaries\" — simple, published word lists tied to specific constructs — applied to narrative application material such as open-ended responses and essays, across school and employment settings, experimental and operational contexts, and concurrent and predictive designs. Dictionary scores predicted selection ratings and decisions at uncorrected averages in the low .20s and job performance criteria nearer .10, and added incremental prediction beyond cognitive ability and personality tests. They also captured hard-to-measure constructs like motivation without asking candidates to rate themselves, and showed small gender and racioethnic subgroup differences.",
+      "why_it_matters": "It offers employers a cheap, auditable alternative to opaque AI hiring algorithms: scoring text candidates have already submitted, with validity evidence and small demographic gaps that can be explained to a regulator or a rejected applicant.",
+      "story_angle_primary": "If your organization is being pitched AI resume or video scoring, ask whether the vendor can show you the actual words driving the score. This research suggests explainable dictionary methods already recover a meaningful slice of the signal — and the practical test for a hiring team is whether such scores add anything beyond the assessments they already run.",
+      "story_angle_secondary": "What you write in an open-ended application question is increasingly being analyzed, not just read — and the vocabulary you choose can carry signals about motivation and personality you never consciously disclosed.",
+      "caveats": "Effect sizes for actual job performance are modest (around .10 uncorrected); evidence is aggregated across heterogeneous studies including school settings and experimental contexts, so operational hiring generalizability varies; dictionary methods tuned on one applicant pool may not transfer to another.",
+      "score": 87,
+      "band": "Strong",
+      "evidence_type": "experiments",
+      "sample_size": 67652,
+      "journal_tier": "A*",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Numbers and framing track the abstract closely; a couple of method details (study count, types of narrative material) can't be confirmed from the truncated abstract.",
+      "tags": [
+        "ai & the future of work",
+        "hiring & selection",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 2,
+      "title": "The quietly powerful hiring test most employers underuse",
+      "paper_title": "What do we know about job knowledge tests? A 30-year update of validity evidence.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-11-02",
+      "work_id": "W7225104062",
+      "doi": "10.1037/apl0001427",
+      "source_id": "S166002381",
+      "the_study": "A meta-analysis updating 30 years of evidence on job knowledge tests found operational validity for job performance of .34 for job-specific tests versus only .19 for generic, nonjob-specific ones. Validity was higher when tests were given to actual applicants (.32) or current employees (.29) than to people seeking professional certification (.20). Mediation analyses showed job knowledge fully accounted for the link between cognitive ability and performance, partly accounted for the effect of job experience, and did not explain conscientiousness effects at all.",
+      "why_it_matters": "It suggests a well-built, job-specific knowledge test can rival or beat general aptitude testing — and clarifies that general mental ability may predict performance largely because smart people acquire job knowledge faster.",
+      "story_angle_primary": "If you use an off-the-shelf \"general knowledge\" screen, this is evidence to replace it with one built around the specific work. Also worth noting for internal promotion: knowledge tests performed well with current employees, not just outside applicants.",
+      "story_angle_secondary": "The finding reframes what experience is worth. Experience predicts performance partly because it builds knowledge — meaning what you learned on the job matters more than the years on your resume, and candidates who can demonstrate knowledge may offset a shorter track record.",
+      "caveats": "Meta-analytic operational validities are corrected estimates, not observed correlations; the evidence is correlational — knowledge tests predict performance rather than proving causation; study quality and criterion measures vary widely across the primary research; some criteria included job knowledge itself, which inflates validity (.41 versus .22).",
+      "score": 87,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "All reported validities and mediation results match; the comparison to general aptitude testing and the \"acquire knowledge faster\" gloss go slightly beyond the abstract.",
+      "tags": [
+        "hiring & selection",
+        "motivation & engagement"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 3,
+      "title": "A long-recommended fix for racial gaps in hiring probably doesn't work",
+      "paper_title": "On criterion weighting to reduce adverse impact.",
+      "journal": "Journal of Applied Psychology",
+      "published": "2026-11-05",
+      "work_id": "W7225329342",
+      "doi": "10.1037/apl0001426",
+      "source_id": "S166002381",
+      "the_study": "Using an updated meta-analytic correlation matrix among common predictors and performance criteria, researchers revisited \"criterion weighting\" — the classic advice that placing more weight on contextual performance (helping, teamwork, citizenship behavior) rather than task performance would reduce adverse impact in hiring. Contrary to decades of reviews, they found it is typically unlikely to improve diversity and likely to damage criterion validity. Pareto-optimal predictor weighting generally outperformed it, and when validity was held constant, shifting criterion weight toward contextual performance tended to worsen rather than reduce adverse impact. The authors propose a joint optimization approach that tunes predictor and criterion weights together.",
+      "why_it_matters": "Organizations trying to narrow hiring gaps may be following textbook advice that backfires — redefining \"good performance\" toward teamwork and citizenship is not a reliable diversity lever.",
+      "story_angle_primary": "If your selection system was redesigned around \"culture add\" or teamwork criteria partly for diversity reasons, this analysis is a prompt to audit whether it actually moved hiring rates — and to look instead at how predictors are weighted.",
+      "story_angle_secondary": "Debates about fairness in hiring usually focus on what tests employers use. This work shows the definition of \"success on the job\" that employers quietly choose is just as consequential — and intuitions about which definition is fairer can be wrong.",
+      "caveats": "This is a modeling and simulation exercise built on meta-analytic corrected correlations, not new hiring data from actual firms; results depend on the assumed correlation matrix and the predictor set; US-centric framing of adverse impact and racial subgroups.",
+      "score": 93,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": "A*",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "✅ Accurate",
+      "verdict_notes": "Findings, direction of effect and the modeling caveat all match the abstract.",
+      "tags": [
+        "diversity, equity & inclusion at work",
+        "hiring & selection",
+        "team dynamics & collaboration"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 4,
+      "title": "Making personality tests more \"work-related\" widened the gap for autistic candidates",
+      "paper_title": "Autism and personality testing: Improving reactions and mitigating adverse impact risk in hiring contexts",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "published": "2026-11-14",
+      "work_id": "W7231573809",
+      "doi": "10.1111/joop.70171",
+      "source_id": "S87328381",
+      "the_study": "Researchers had autistic and non-autistic respondents complete both general and work-contextualized personality tests (items reframed to refer to behavior at work) under applicant-like conditions, comparing reactions, mean scores and measurement invariance. Autistic respondents rated personality tests less favorably — seeing them as more invasive and less predictive — though differences were small, and contextualization improved reactions for both groups. But scores rose from general to contextualized versions only for non-autistic respondents, widening score gaps, especially on socially oriented traits, and the contextualized test showed evidence of measurement bias.",
+      "why_it_matters": "A design tweak widely promoted to make personality assessment feel fairer and more job-relevant may quietly disadvantage neurodivergent applicants on exactly the traits that drive hiring decisions.",
+      "story_angle_primary": "Before adopting work-framed personality items, check subgroup score patterns rather than assuming job-relevant wording is automatically fairer. Better applicant reactions and more equitable outcomes are not the same thing.",
+      "story_angle_secondary": "For autistic job seekers, the shift from \"I am talkative\" to \"At work, I am talkative\" is not neutral — it invites comparison against a workplace social script that may not reflect capability.",
+      "caveats": "Respondents completed tests under applicant-like conditions rather than in a real hiring process, so stakes were simulated; sample size and composition of the autistic subgroup are not reported in the abstract; self-identified autism status; single-study design.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "large-sample survey",
+      "sample_size": null,
+      "journal_tier": "core",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Findings reported accurately; one caveat asserts a methodological detail not stated in the abstract.",
+      "tags": [
+        "hiring & selection"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    },
+    {
+      "number": 5,
+      "title": "Transgender applicants were rated less hireable — until the resume said more about them",
+      "paper_title": "Explaining and mitigating hiring discrimination against transgender women: evidence from India",
+      "journal": "The International Journal of Human Resource Management",
+      "published": "2026-11-04",
+      "work_id": "W7225306551",
+      "doi": "10.1080/09585192.2026.2759042",
+      "source_id": "S184846731",
+      "the_study": "In a between-participants in-basket experiment with Indian professionals, cisgender participants evaluated either a transgender woman or a cisgender woman applying for a nursing role. With no individuating information, the transgender applicant received significantly lower hireability ratings. When the file included counterstereotypical details signaling high warmth and high competence, the gap disappeared entirely — supporting the argument that bias travels through stereotype-based justifications rather than open prejudice.",
+      "why_it_matters": "It identifies a concrete mechanism behind hiring discrimination in a country where trans rights are legally recognized but professional exclusion persists, and shows that bias is strongest when evaluators have thin information to go on.",
+      "story_angle_primary": "Thin applicant files are where stereotypes do the most work. Structured processes that force evaluators to gather specific evidence of warmth and competence for every candidate — rather than relying on a quick impression — may compress the gaps this experiment found.",
+      "story_angle_secondary": "The study suggests ambiguity is a job seeker's enemy: when an evaluator has little concrete information, assumptions fill the gap. That dynamic affects anyone whose background invites guesswork from a hiring manager.",
+      "caveats": "Hypothetical in-basket scenario, not real hiring decisions; single occupation (nursing) and single country (India); sample size not stated in the abstract; participants may have moderated responses because social desirability pressures are strong in explicit evaluation tasks.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "experiments",
+      "sample_size": null,
+      "journal_tier": "unrated",
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "⚠️ Minor issues",
+      "verdict_notes": "Design and results match; the description of participants as cisgender goes slightly past what the abstract states.",
+      "tags": [
+        "diversity, equity & inclusion at work",
+        "hiring & selection"
+      ],
+      "covered_by": [],
+      "covered_articles": []
+    }
+  ],
+  "citation_table": [
+    {
+      "work_id": "W7225331132",
+      "journal": "Journal of Applied Psychology",
+      "date": "2026-11-05",
+      "doi": "10.1037/apl0001438"
+    },
+    {
+      "work_id": "W7225104062",
+      "journal": "Journal of Applied Psychology",
+      "date": "2026-11-02",
+      "doi": "10.1037/apl0001427"
+    },
+    {
+      "work_id": "W7225329342",
+      "journal": "Journal of Applied Psychology",
+      "date": "2026-11-05",
+      "doi": "10.1037/apl0001426"
+    },
+    {
+      "work_id": "W7231573809",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "date": "2026-11-14",
+      "doi": "10.1111/joop.70171"
+    },
+    {
+      "work_id": "W7225306551",
+      "journal": "The International Journal of Human Resource Management",
+      "date": "2026-11-04",
+      "doi": "10.1080/09585192.2026.2759042"
+    }
+  ],
+  "trends_raw": "**Counterpoints**\n- Last run's \"The evidence that hiring tests predict job performance is shakier than the textbooks say\" (W7222969019) argued that the field's validity figures rest on concurrent studies of incumbents and assumption-driven range-restriction corrections. This run delivers two studies that sit squarely in that line of fire: \"The quietly powerful hiring test most employers underuse\" (W7225104062) reports corrected operational validities (.34 job-specific vs. .19 generic), and \"A long-recommended fix for racial gaps in hiring probably doesn't work\" (W7225329342) is a modeling exercise built entirely on a meta-analytic corrected correlation matrix. Notably, W7225104062 contains its own partial answer to the critique — validity was *higher* among actual applicants (.32) and incumbents (.29) than among certification seekers (.20), which is exactly the applicant-versus-no-stakes comparison W7222969019 says the literature rarely isolates.\n\n**Advances**\n- The AI-screening story moves from how candidates feel to what employers could build instead. \"When a machine screens you\" (W7223109819) found that machine evaluation costs applicants their sense of opportunity to perform while buying the employer an innovation halo; \"Software that scores what applicants write — without a black box\" (W7225331132) answers the black-box half directly, showing that published word dictionaries recover a meaningful slice of the signal with scores an employer can actually show to a regulator or a rejected applicant.\n\n**Convergent findings**\n- Disadvantage keeps surfacing in design details rather than in stated policy. \"In Brazil, Black workers report that work meets fewer of their basic needs\" (W7224595503) located inequality in autonomy, competence and contribution rather than in headline satisfaction; this run finds the same logic earlier in the funnel — \"Making personality tests more 'work-related' widened the gap for autistic candidates\" (W7231573809) traces a gap to item wording, and \"Transgender applicants were rated less hireable — until the resume said more about them\" (W7225306551) traces it to how thin the applicant file is, not to open prejudice.\n- The non-Western evidence base keeps widening: India again (W7225306551), following Chile, Germany and India (W7223109819) and Brazil (W7224595503).\n\n**New themes**\n- Adverse-impact modeling enters the digest for the first time: W7225329342 overturns decades of advice that weighting contextual performance narrows racial gaps, proposing joint predictor-criterion optimization instead. Nothing in the previous run interrogated the criterion side of the equation.\n- Neurodivergence as a selection-psychometrics problem (W7231573809) is new — previous runs treated neurodivergence as an accommodation and inclusion issue (ADHD informal supports, invisible disability), not as a measurement-invariance failure in a test employers buy.",
+  "feature_pitch_raw": "**The pattern:** Three of this batch's studies show that the interventions sold as fairness improvements don't deliver, while the thing that actually closed a gap was plain information. Criterion weighting toward teamwork and citizenship \"probably doesn't work\" and often worsens adverse impact (W7225329342); making personality items work-contextualized improved candidate reactions for everyone but raised scores only for non-autistic respondents and introduced measurement bias (W7231573809); meanwhile, adding counterstereotypical detail to a trans applicant's file erased the hireability gap entirely (W7225306551), and transparent word dictionaries offer auditable scoring where opaque AI does not (W7225331132).\n\n**Why pitch this now:** Employers face bias-audit duties under New York's Local Law 144, the Colorado AI Act and the EU AI Act at the same moment that US political pressure has pushed many of them to quietly retire explicit diversity targets — leaving fairness-by-system-design as the main remaining lever, and this evidence says much of that design folklore is wrong.\n\n**Angle:** A reported feature on the gap between fairness intentions and fairness mechanics in selection systems — which redesigns were adopted because they *felt* more equitable, what the evidence says they did, and why richer applicant information and auditable scoring outperform rewriting the test or redefining good performance. Built for HR and hiring leaders, with a general-interest cut for autistic, trans and other candidates who know firsthand that a \"fairer\" process can go the other way.\n\n**Potential headlines:**\n- Four new studies on what actually narrows hiring gaps — and what only looks like it does\n- The fairness fixes that widened the gaps they were built to close\n- When your application is thin, somebody's assumptions fill in the rest\n\n**Potential outlets:**\n- **Harvard Business Review** — its audience owns the selection-design decisions being overturned here (criterion weighting, contextualized items), and it publishes \"the practice you adopted is backfiring\" arguments with the modeling evidence attached.\n- **Fast Company** — strong on inclusive product and assessment design, and the autistic-candidate measurement-bias finding is a concrete design failure story rather than an abstract DEI one.\n- **Wired** — the explainable-dictionary alternative to black-box AI scoring is an algorithmic accountability story its hiring-tech coverage is already set up for.\n- **The 19th** — covers gender, work and discrimination policy, and would run the trans hireability experiment and the neurodivergence gap as evidence about how bias operates through process rather than stated animus.",
+  "pitch_ideas_raw": "- **Software that scores what applicants write — without a black box (Work ID W7225331132):** Give hiring teams one procurement question — can the vendor show you the actual words driving the score? — alongside the finding that transparent, published word lists already capture much of the signal, for an HR/hiring technology explainer or a manager-audience procurement column, with a job-seeker version on what your open-ended answers quietly reveal.\n- **The quietly powerful hiring test most employers underuse (Work ID W7225104062):** Job-specific knowledge tests nearly double the validity of generic ones and work on internal candidates too — plus the reframe that general intelligence predicts performance largely because smart people learn the job faster, for a manager-audience column or a career-advice piece on demonstrating knowledge when your resume is short on years.\n- **A long-recommended fix for racial gaps in hiring probably doesn't work (Work ID W7225329342):** Thirty years of textbook advice — weight teamwork and citizenship to reduce adverse impact — appears to damage validity without improving diversity, which is a prompt to audit whether your \"culture add\" criteria ever moved hiring rates, for a DEI-measurement or selection-design column, with a general-interest version on how employers' private definition of \"good performance\" shapes who gets in.\n- **Making personality tests more \"work-related\" widened the gap for autistic candidates (Work ID W7231573809):** Better applicant reactions and fairer outcomes are not the same thing — work-framed items pleased everyone but raised scores only for non-autistic respondents, especially on social traits, for a hiring/HR explainer or a work-psychology piece in a general-interest or women's/lifestyle outlet covering neurodivergence at work.\n- **Transgender applicants were rated less hireable — until the resume said more about them (Work ID W7225306551):** Bias did its damage in the information vacuum and vanished once the file carried concrete evidence of warmth and competence, an argument for structured, evidence-gathering screening, for a workplace news brief or a general-interest career piece on why ambiguity costs candidates whose backgrounds invite guesswork.",
+  "fact_check": {
+    "studies_reviewed": 5,
+    "verdicts_by_work": {
+      "W7225331132": "⚠️ Minor issues",
+      "W7225104062": "⚠️ Minor issues",
+      "W7225329342": "✅ Accurate",
+      "W7231573809": "⚠️ Minor issues",
+      "W7225306551": "⚠️ Minor issues"
+    },
+    "summary": {
+      "total_issues": "6 (5 Minor, 1 Moderate, 0 Major)",
+      "entries_requiring_revision": "4",
+      "entries_cleared": "1"
+    },
+    "raw": "# Fact-Check Report: Career Psychology Digest — Hiring & Selection — 2026-11-15\n**Checked:** 2026-11-15 | **Studies reviewed:** 5\n**Primary audience:** working professionals and managers | **Secondary audience:** general readers\n\n---\n\n### Study 1: Software that scores what applicants write — without a black box\n**Work ID:** W7225331132 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Material type not in abstract** — Severity: Minor\n\n- **As written:** \"applied to narrative application material such as open-ended responses and essays\"\n- **Abstract says:** \"The abstract (truncated) refers only to \"passively scoring narrative application information\" and \"information already gathered\"; it does not specify open-ended responses or essays.\"\n- **Problem:** The specific examples of narrative material are not verifiable from the abstract as provided.\n- **Suggested fix:** \"Say \"narrative application information\" or note that the specific material types come from the full paper.\"\n\n**Issue B. Number of studies unverifiable** — Severity: Minor\n\n- **As written:** \"Researchers assembled a large multi-study program (total N=67,652)\"\n- **Abstract says:** \"The abstract gives only \"= 67,652), including employment and school settings, experimental and operational contexts, concurrent and predictive designs, and a range of occupations.\"\"\n- **Problem:** The abstract confirms the total N and the mix of settings but does not state that this was a multi-study program or how many studies were involved.\n- **Suggested fix:** \"Describe it as evidence aggregated across dictionaries, settings and designs totalling N=67,652, without asserting a specific multi-study structure.\"\n\n### Study 2: The quietly powerful hiring test most employers underuse\n**Work ID:** W7225104062 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Comparison to aptitude testing not in abstract** — Severity: Moderate\n\n- **As written:** \"It suggests a well-built, job-specific knowledge test can rival or beat general aptitude testing\"\n- **Abstract says:** \"The abstract reports operational validities for JKTs (.34 job-specific vs .19 nonjob-specific) and that job knowledge fully mediated the cognitive ability–performance relationship; it does not report a validity figure for cognitive ability tests or compare the two.\"\n- **Problem:** Readers may act on a head-to-head comparison the abstract never makes; the mediation finding is about mechanism, not relative validity.\n- **Suggested fix:** \"Reframe as \"job-specific knowledge tests showed substantially higher validity than generic ones, and job knowledge statistically accounted for cognitive ability's link to performance.\"\"\n\n**Issue B. Causal gloss on mediation** — Severity: Minor\n\n- **As written:** \"general mental ability may predict performance largely because smart people acquire job knowledge faster\"\n- **Abstract says:** \"\"Job knowledge statistically fully mediated the relationship between cognitive ability and job performance.\"\"\n- **Problem:** Statistical mediation in correlational meta-analytic data does not establish that higher-ability people acquire knowledge faster; the hedge \"may\" softens but does not remove the causal story.\n- **Suggested fix:** \"Say the mediation result is consistent with knowledge being the pathway, while noting the data are correlational.\"\n\n### Study 3: A long-recommended fix for racial gaps in hiring probably doesn't work\n**Work ID:** W7225329342 | **Verdict:** ✅ Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 4: Making personality tests more \"work-related\" widened the gap for autistic candidates\n**Work ID:** W7231573809 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Autism status source unverifiable** — Severity: Minor\n\n- **As written:** \"self-identified autism status\"\n- **Abstract says:** \"The abstract refers only to \"autistic (ASD) and non-autistic individuals\" without stating how autism status was established.\"\n- **Problem:** The caveat presents a method detail that cannot be confirmed from the abstract; if status was clinically confirmed, the caveat misstates the design.\n- **Suggested fix:** \"Drop the detail or write \"how autism status was established is not stated in the abstract.\"\"\n\n### Study 5: Transgender applicants were rated less hireable — until the resume said more about them\n**Work ID:** W7225306551 | **Verdict:** ⚠️ Minor issues\n\n**Issue A. Participant gender identity not stated** — Severity: Minor\n\n- **As written:** \"cisgender participants evaluated either a transgender woman or a cisgender woman applying for a nursing role\"\n- **Abstract says:** \"\"Using a between-participants in-basket experimental design with Indian professionals, we examined evaluations of a transgender woman and a cisgender woman applicant for a nursing role.\" The theoretical framing refers to \"cisgender hiring managers,\" but the sample is described only as Indian professionals.\"\n- **Problem:** The abstract does not confirm that participants were screened as cisgender; that is part of the theoretical argument rather than a stated sample characteristic.\n- **Suggested fix:** \"Write \"Indian professionals evaluated either a transgender woman or a cisgender woman applicant.\"\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Software that scores what applicants write — without a black box | ⚠️ Minor issues | Numbers and framing track the abstract closely; a couple of method details (study count, types of narrative material) can't be confirmed from the truncated abstract. |\n| 2 | The quietly powerful hiring test most employers underuse | ⚠️ Minor issues | All reported validities and mediation results match; the comparison to general aptitude testing and the \"acquire knowledge faster\" gloss go slightly beyond the abstract. |\n| 3 | A long-recommended fix for racial gaps in hiring probably doesn't work | ✅ Accurate | Findings, direction of effect and the modeling caveat all match the abstract. |\n| 4 | Making personality tests more \"work-related\" widened the gap for autistic candidates | ⚠️ Minor issues | Findings reported accurately; one caveat asserts a methodological detail not stated in the abstract. |\n| 5 | Transgender applicants were rated less hireable — until the resume said more about them | ⚠️ Minor issues | Design and results match; the description of participants as cisgender goes slightly past what the abstract states. |\n\n**Total issues:** 6 (5 Minor, 1 Moderate, 0 Major)\n**Entries requiring revision:** 4\n**Entries cleared:** 1\n"
+  },
+  "coverage": {
+    "checked": 0,
+    "cached": 0,
+    "skipped": 5,
+    "skipped_reason": "",
+    "partial_reason": ""
+  }
+}
